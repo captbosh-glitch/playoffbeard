@@ -17,7 +17,7 @@ import shutil
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
-from pb import config, teams as T
+from pb import config, icons, teams as T
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, 'docs')
@@ -54,7 +54,7 @@ BEARD = ('<svg class="mark" viewBox="0 0 32 32" aria-hidden="true">'
 def page(title, desc, body, depth, current='home', updated=''):
     nav = [('home', 'Home', f'{depth}' or './')] + [(lg['key'], lg['label'], f'{depth}{lg["key"]}/') for lg in config.LEAGUES]
     cur = ' aria-current="page"'
-    links = ''.join(f'<a href="{href}"{cur if key == current else ""}>{esc(lbl)}</a>' for key, lbl, href in nav)
+    links = ''.join(f'<a href="{href}"{cur if key == current else ""}>{icons.sport_icon(key)}{esc(lbl)}</a>' for key, lbl, href in nav)
     return f'''<!doctype html>
 <html lang="en">
 <head>
@@ -161,10 +161,10 @@ def build(now=None):
             continue
         items, lead = lead_first(items)
         cards = ''.join(card(a, teams_by, '', big=(lead and i == 0)) for i, a in enumerate(items))
-        secs += (f'<section class="sec"><div class="sec-head"><h2>{esc(lg["label"])}</h2>'
+        secs += (f'<section class="sec"><div class="sec-head"><h2>{icons.sport_icon(lg["key"])}{esc(lg["label"])}</h2>'
                  f'<a href="{lg["key"]}/">All {esc(lg["label"])} news &rarr;</a></div><div class="grid">{cards}</div></section>')
     hero = (f'<section class="hero"><h1>Playoff <span>Beard</span></h1><p>{esc(config.TAGLINE)}</p>'
-            f'<div class="hero-links">' + ''.join(f'<a href="{lg["key"]}/">{esc(lg["label"])}</a>' for lg in config.LEAGUES) + '</div></section>')
+            f'<div class="hero-links">' + ''.join(f'<a href="{lg["key"]}/">{icons.sport_icon(lg["key"])}{esc(lg["label"])}</a>' for lg in config.LEAGUES) + '</div></section>')
     write('', page(f'{config.SITE_NAME} — Hockey first, every league’s headlines', config.TAGLINE, hero + secs, '', 'home', updated))
 
     # leagues and teams
@@ -176,7 +176,7 @@ def build(now=None):
                 counts[s] = counts.get(s, 0) + 1
         shown, lead = lead_first(items[:config.LEAGUE_PAGE_LIMIT])
         cards = ''.join(card(a, teams_by, '../', big=(lead and i == 0)) for i, a in enumerate(shown))
-        body = (f'<section class="lg-head"><h1>{esc(lg["label"])} <span>News</span></h1>'
+        body = (f'<section class="lg-head"><h1>{icons.sport_icon(key)}{esc(lg["label"])} <span>News</span></h1>'
                 f'<p>{len(items)} headlines in the last {config.KEEP_DAYS} days from {esc(", ".join(config.FEEDS[key]))}.</p></section>'
                 f'<details class="teams-box" open><summary>Teams</summary>{team_grid(key, teams[key], "../", counts)}</details>'
                 f'<section class="sec"><div class="grid">{cards or "<p class=muted>No headlines yet.</p>"}</div></section>')

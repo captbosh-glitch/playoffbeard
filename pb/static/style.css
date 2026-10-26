@@ -3,16 +3,23 @@
 :root {
   --bg: #f5f7f9; --panel: #ffffff; --panel-2: #eef2f5; --border: #d9e0e6; --text: #101820; --muted: #5b6874; --faint: #8a96a1;
   --navy: #0f2a44; --accent: #c8102e; --accent-ink: #ffffff; --chip: #eef2f5; --shadow: rgba(15, 42, 68, 0.08);
+  /* league icons (pb/icons.py, from RTYB): light mode outlines */
+  --ball-puck-top: #2A2E36; --ball-puck-side: #16181D; --ball-puck-grip: #3D434E; --ball-puck-rim: #16181D;
+  --ball-shine: rgba(255, 255, 255, 0.16); --ball-leather: #8A4B22; --ball-leather-edge: #4E2610; --ball-leather-rim: transparent;
+  --ball-lace: #F4EFE6; --ball-orange: #E8772E; --ball-orange-edge: #7A3510; --ball-seam: #2B1406;
+  --ball-white: #F5F3EC; --ball-white-edge: #8A919C; --ball-stitch: #D7263D;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #0b1218; --panel: #121b23; --panel-2: #18232d; --border: #24323e; --text: #e8eef3; --muted: #9aa8b4; --faint: #6f7d89;
     --navy: #e8f1f8; --accent: #ff4d5e; --accent-ink: #0b1218; --chip: #18232d; --shadow: rgba(0, 0, 0, 0.35);
+    --ball-puck-rim: #8B93A3; --ball-leather-rim: #8B93A3; --ball-white-edge: #9AA0A8;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0b1218; --panel: #121b23; --panel-2: #18232d; --border: #24323e; --text: #e8eef3; --muted: #9aa8b4; --faint: #6f7d89;
   --navy: #e8f1f8; --accent: #ff4d5e; --accent-ink: #0b1218; --chip: #18232d; --shadow: rgba(0, 0, 0, 0.35);
+  --ball-puck-rim: #8B93A3; --ball-leather-rim: #8B93A3; --ball-white-edge: #9AA0A8;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { background: var(--bg); color: var(--text); font: 15px/1.5 'Inter', system-ui, sans-serif; }
@@ -100,3 +107,21 @@ a { color: inherit; }
   .top-in { gap: 8px; }
   .nav a { padding: 0 9px; }
 }
+
+/* league icons */
+.sport-icon { display: inline-block; width: 1.25em; height: 1.25em; flex-shrink: 0; vertical-align: -0.25em; margin-right: 0.35em; }
+.nav a .sport-icon { width: 1.15em; height: 1.15em; }
+.sec-head h2, .lg-head h1, .nav a, .hero-links a { display: inline-flex; align-items: center; }
+.sport-icon .bi-puck-side { fill: var(--ball-puck-side); }
+.sport-icon .bi-puck-top { fill: var(--ball-puck-top); stroke: var(--ball-puck-rim); stroke-width: 1; }
+.sport-icon .bi-puck-grip { stroke: var(--ball-puck-grip); }
+.sport-icon .bi-puck-shine { fill: var(--ball-shine); }
+.sport-icon .bi-rim { stroke: var(--ball-puck-rim); }
+.sport-icon .bi-leather { fill: var(--ball-leather); stroke: var(--ball-leather-edge); }
+.sport-icon .bi-leather-rim { stroke: var(--ball-leather-rim); }
+.sport-icon .bi-stripe, .sport-icon .bi-lace { stroke: var(--ball-lace); }
+.sport-icon .bi-basketball { fill: var(--ball-orange); stroke: var(--ball-orange-edge); }
+.sport-icon .bi-seam { stroke: var(--ball-seam); }
+.sport-icon .bi-baseball { fill: var(--ball-white); stroke: var(--ball-white-edge); }
+.sport-icon .bi-stitch { stroke: var(--ball-stitch); }
+.hero-links a:first-child .sport-icon { --ball-puck-rim: #8B93A3; }   /* the puck on the filled NHL button */
