@@ -1,0 +1,92 @@
+{
+"ari": {
+"dark": false
+},
+"ath": {
+"dark": true
+},
+"atl": {
+"dark": true
+},
+"bal": {
+"dark": false
+},
+"bos": {
+"dark": true
+},
+"chc": {
+"dark": false
+},
+"chw": {
+"dark": true
+},
+"cin": {
+"dark": true
+},
+"cle": {
+"dark": true
+},
+"col": {
+"dark": true
+},
+"det": {
+"dark": true
+},
+"hou": {
+"dark": false
+},
+"kc": {
+"dark": true
+},
+"laa": {
+"dark": false
+},
+"lad": {
+"dark": true
+},
+"mia": {
+"dark": false
+},
+"mil": {
+"dark": false
+},
+"min": {
+"dark": true
+},
+"nym": {
+"dark": false
+},
+"nyy": {
+"dark": true
+},
+"phi": {
+"dark": true
+},
+"pit": {
+"dark": true
+},
+"sd": {
+"dark": true
+},
+"sea": {
+"dark": false
+},
+"sf": {
+"dark": false
+},
+"stl": {
+"dark": true
+},
+"tb": {
+"dark": true
+},
+"tex": {
+"dark": true
+},
+"tor": {
+"dark": false
+},
+"wsh": {
+"dark": true
+}
+}

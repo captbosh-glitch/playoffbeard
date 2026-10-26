@@ -1,0 +1,92 @@
+{
+"atl": {
+"dark": false
+},
+"bkn": {
+"dark": false
+},
+"bos": {
+"dark": false
+},
+"cha": {
+"dark": false
+},
+"chi": {
+"dark": false
+},
+"cle": {
+"dark": false
+},
+"dal": {
+"dark": false
+},
+"den": {
+"dark": false
+},
+"det": {
+"dark": false
+},
+"gs": {
+"dark": false
+},
+"hou": {
+"dark": false
+},
+"ind": {
+"dark": false
+},
+"lac": {
+"dark": false
+},
+"lal": {
+"dark": false
+},
+"mem": {
+"dark": false
+},
+"mia": {
+"dark": false
+},
+"mil": {
+"dark": false
+},
+"min": {
+"dark": false
+},
+"no": {
+"dark": false
+},
+"ny": {
+"dark": false
+},
+"okc": {
+"dark": true
+},
+"orl": {
+"dark": false
+},
+"phi": {
+"dark": true
+},
+"phx": {
+"dark": false
+},
+"por": {
+"dark": false
+},
+"sa": {
+"dark": false
+},
+"sac": {
+"dark": false
+},
+"tor": {
+"dark": true
+},
+"utah": {
+"dark": true
+},
+"wsh": {
+"dark": false
+}
+}

@@ -1,0 +1,98 @@
+{
+"ari": {
+"dark": false
+},
+"atl": {
+"dark": false
+},
+"bal": {
+"dark": false
+},
+"buf": {
+"dark": false
+},
+"car": {
+"dark": false
+},
+"chi": {
+"dark": false
+},
+"cin": {
+"dark": false
+},
+"cle": {
+"dark": false
+},
+"dal": {
+"dark": true
+},
+"den": {
+"dark": true
+},
+"det": {
+"dark": false
+},
+"gb": {
+"dark": true
+},
+"hou": {
+"dark": false
+},
+"ind": {
+"dark": false
+},
+"jax": {
+"dark": false
+},
+"kc": {
+"dark": false
+},
+"lac": {
+"dark": false
+},
+"lar": {
+"dark": true
+},
+"lv": {
+"dark": true
+},
+"mia": {
+"dark": false
+},
+"min": {
+"dark": true
+},
+"ne": {
+"dark": false
+},
+"no": {
+"dark": false
+},
+"nyg": {
+"dark": true
+},
+"nyj": {
+"dark": true
+},
+"phi": {
+"dark": false
+},
+"pit": {
+"dark": false
+},
+"sea": {
+"dark": false
+},
+"sf": {
+"dark": false
+},
+"tb": {
+"dark": false
+},
+"ten": {
+"dark": false
+},
+"wsh": {
+"dark": false
+}
+}

@@ -1,0 +1,37 @@
+name: Collect news and publish
+
+on:
+  schedule:
+    - cron: '17 * * * *'     # every hour, at :17
+  workflow_dispatch: {}       # run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths: ['pb/**', 'data/teams/**', 'run.py']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Collect and build
+        run: python3 run.py
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "playoffbeard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/articles.json docs
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
+          git commit -m "News update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase
+          git push

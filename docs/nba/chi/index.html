@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chicago Bulls News — Playoff Beard</title>
+<meta name="description" content="The latest Chicago Bulls headlines.">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<script>try{var t=localStorage.getItem('pb-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+</head>
+<body>
+<header class="top"><div class="wrap top-in">
+  <a class="brand" href="../../"><svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M6 9c0 9 3 17 10 20 7-3 10-11 10-20-2 3-5 4-10 4S8 12 6 9z" fill="currentColor"/><path d="M11 18c2 1.5 8 1.5 10 0" stroke="var(--bg)" stroke-width="2" fill="none" stroke-linecap="round"/></svg><span>Playoff <b>Beard</b></span></a>
+  <nav class="nav" aria-label="Leagues"><a href="../../">Home</a><a href="../../nhl/">NHL</a><a href="../../nfl/">NFL</a><a href="../../nba/" aria-current="page">NBA</a><a href="../../mlb/">MLB</a></nav>
+  <button class="theme" id="themeBtn" type="button" aria-label="Toggle light / dark">&#9681;</button>
+</div></header>
+<main class="wrap"><a class="back" href="../">&larr; All NBA news</a><section class="team-head"><span class="logo" style="width:64px;height:64px"><img src="../../assets/logos/nba/chi.png" alt="" loading="lazy"></span><div><h1>Chicago Bulls</h1><p>Central · Eastern Conference</p></div></section><div class="chips rivals"><span class="muted">Division:</span><a class="chip" href="../cle/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nba/cle.png" alt="" loading="lazy"></span>Cavaliers</a><a class="chip" href="../det/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nba/det.png" alt="" loading="lazy"></span>Pistons</a><a class="chip" href="../ind/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nba/ind.png" alt="" loading="lazy"></span>Pacers</a><a class="chip" href="../mil/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nba/mil.png" alt="" loading="lazy"></span>Bucks</a></div><section class="sec"><div class="grid"><p class="muted">No Chicago Bulls headlines in the last 30 days.</p></div></section></main>
+<footer class="foot"><div class="wrap">
+  <p>Headlines link to their publishers (NHL.com, ESPN, Yahoo Sports, CBS Sports). Playoff Beard collects and sorts them; it doesn&rsquo;t host articles.</p>
+  <p class="muted">Updated Oct 26, 2026, 9:05 AM ET</p>
+</div></footer>
+<script>
+(function() {
+  var root = document.documentElement;
+  document.getElementById('themeBtn').onclick = function() {
+    var cur = root.getAttribute('data-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    var next = cur === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('pb-theme', next); } catch (e) {}
+  };
+  var now = Date.now();
+  document.querySelectorAll('time[datetime]').forEach(function(el) {
+    var m = Math.round((now - Date.parse(el.getAttribute('datetime'))) / 60000);
+    if (isNaN(m) || m < 0) return;
+    el.textContent = m < 1 ? 'just now' : m < 60 ? m + 'm ago' : m < 1440 ? Math.round(m / 60) + 'h ago' : Math.round(m / 1440) + 'd ago';
+  });
+})();
+</script>
+</body>
+</html>

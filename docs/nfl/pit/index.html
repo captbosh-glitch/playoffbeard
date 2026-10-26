@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pittsburgh Steelers News — Playoff Beard</title>
+<meta name="description" content="The latest Pittsburgh Steelers headlines.">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<script>try{var t=localStorage.getItem('pb-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+</head>
+<body>
+<header class="top"><div class="wrap top-in">
+  <a class="brand" href="../../"><svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M6 9c0 9 3 17 10 20 7-3 10-11 10-20-2 3-5 4-10 4S8 12 6 9z" fill="currentColor"/><path d="M11 18c2 1.5 8 1.5 10 0" stroke="var(--bg)" stroke-width="2" fill="none" stroke-linecap="round"/></svg><span>Playoff <b>Beard</b></span></a>
+  <nav class="nav" aria-label="Leagues"><a href="../../">Home</a><a href="../../nhl/">NHL</a><a href="../../nfl/" aria-current="page">NFL</a><a href="../../nba/">NBA</a><a href="../../mlb/">MLB</a></nav>
+  <button class="theme" id="themeBtn" type="button" aria-label="Toggle light / dark">&#9681;</button>
+</div></header>
+<main class="wrap"><a class="back" href="../">&larr; All NFL news</a><section class="team-head"><span class="logo" style="width:64px;height:64px"><img src="../../assets/logos/nfl/pit.png" alt="" loading="lazy"></span><div><h1>Pittsburgh Steelers</h1><p>AFC North · American Football Conference</p></div></section><div class="chips rivals"><span class="muted">Division:</span><a class="chip" href="../bal/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/bal.png" alt="" loading="lazy"></span>Ravens</a><a class="chip" href="../cin/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/cin.png" alt="" loading="lazy"></span>Bengals</a><a class="chip" href="../cle/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/cle.png" alt="" loading="lazy"></span>Browns</a></div><section class="sec"><div class="grid"><article class="card big has-img"><a class="thumb" href="https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-nfl-once-considered-week-all-international-games/" target="_blank" rel="noopener"><img src="https://sportshub.cbsistatic.com/i/2026/10/25/4458e97c-51f2-40bf-933e-8a5f418ff4f3/gettyimages-2301948185.jpg" alt="" loading="lazy"></a><div class="c-body"><div class="meta">CBS Sports · <time datetime="2026-10-25T22:57:07Z">Oct 25, 6:57 PM ET</time></div><h3><a href="https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-nfl-once-considered-week-all-international-games/" target="_blank" rel="noopener">Steelers&#x27; Aaron Rodgers reveals NFL once had a completely different plan for its international games</a></h3><p>Rodgers is now the first quarterback to play an international game in three different countries in three straight years</p><div class="chips"><a class="chip" href="../../nfl/pit/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/pit.png" alt="" loading="lazy"></span>Steelers</a></div></div></article><article class="card"><div class="c-body"><div class="meta">Yahoo Sports · <time datetime="2026-10-26T08:20:25Z">Oct 26, 4:20 AM ET</time></div><h3><a href="https://sports.yahoo.com/articles/creaking-smug-contender-aaron-rodgers-082025690.html" target="_blank" rel="noopener">Creaking, smug … and a contender? Aaron Rodgers may yet get his Super Bowl farewell</a></h3><p>The 42-year-old remains a polarizing figure. But the Steelers have a formidable defense and a quarterback who has seen it all before</p><div class="chips"><a class="chip" href="../../nfl/pit/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/pit.png" alt="" loading="lazy"></span>Steelers</a></div></div></article><article class="card"><div class="c-body"><div class="meta">ESPN · <time datetime="2026-10-26T07:35:53Z">Oct 26, 3:35 AM ET</time></div><h3><a href="https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game" target="_blank" rel="noopener">Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game</a></h3><p>Aaron Rodgers threw one touchdown pass to move alone to third on the career list during the Steelers&#x27; 16-10 win over the Saints as the NFL held its first regular-season game in France.</p><div class="chips"><a class="chip" href="../../nfl/pit/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/pit.png" alt="" loading="lazy"></span>Steelers</a></div></div></article></div></section></main>
+<footer class="foot"><div class="wrap">
+  <p>Headlines link to their publishers (NHL.com, ESPN, Yahoo Sports, CBS Sports). Playoff Beard collects and sorts them; it doesn&rsquo;t host articles.</p>
+  <p class="muted">Updated Oct 26, 2026, 9:05 AM ET</p>
+</div></footer>
+<script>
+(function() {
+  var root = document.documentElement;
+  document.getElementById('themeBtn').onclick = function() {
+    var cur = root.getAttribute('data-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    var next = cur === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('pb-theme', next); } catch (e) {}
+  };
+  var now = Date.now();
+  document.querySelectorAll('time[datetime]').forEach(function(el) {
+    var m = Math.round((now - Date.parse(el.getAttribute('datetime'))) / 60000);
+    if (isNaN(m) || m < 0) return;
+    el.textContent = m < 1 ? 'just now' : m < 60 ? m + 'm ago' : m < 1440 ? Math.round(m / 60) + 'h ago' : Math.round(m / 1440) + 'd ago';
+  });
+})();
+</script>
+</body>
+</html>

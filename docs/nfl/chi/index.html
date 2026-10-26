@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chicago Bears News — Playoff Beard</title>
+<meta name="description" content="The latest Chicago Bears headlines.">
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="../../assets/style.css">
+<script>try{var t=localStorage.getItem('pb-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+</head>
+<body>
+<header class="top"><div class="wrap top-in">
+  <a class="brand" href="../../"><svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M6 9c0 9 3 17 10 20 7-3 10-11 10-20-2 3-5 4-10 4S8 12 6 9z" fill="currentColor"/><path d="M11 18c2 1.5 8 1.5 10 0" stroke="var(--bg)" stroke-width="2" fill="none" stroke-linecap="round"/></svg><span>Playoff <b>Beard</b></span></a>
+  <nav class="nav" aria-label="Leagues"><a href="../../">Home</a><a href="../../nhl/">NHL</a><a href="../../nfl/" aria-current="page">NFL</a><a href="../../nba/">NBA</a><a href="../../mlb/">MLB</a></nav>
+  <button class="theme" id="themeBtn" type="button" aria-label="Toggle light / dark">&#9681;</button>
+</div></header>
+<main class="wrap"><a class="back" href="../">&larr; All NFL news</a><section class="team-head"><span class="logo" style="width:64px;height:64px"><img src="../../assets/logos/nfl/chi.png" alt="" loading="lazy"></span><div><h1>Chicago Bears</h1><p>NFC North · National Football Conference</p></div></section><div class="chips rivals"><span class="muted">Division:</span><a class="chip" href="../det/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/det.png" alt="" loading="lazy"></span>Lions</a><a class="chip" href="../gb/"><span class="logo" style="width:18px;height:18px"><img class="lg-light" src="../../assets/logos/nfl/gb.png" alt="" loading="lazy"><img class="lg-dark" src="../../assets/logos/nfl/gb-dark.png" alt="" loading="lazy"></span>Packers</a><a class="chip" href="../min/"><span class="logo" style="width:18px;height:18px"><img class="lg-light" src="../../assets/logos/nfl/min.png" alt="" loading="lazy"><img class="lg-dark" src="../../assets/logos/nfl/min-dark.png" alt="" loading="lazy"></span>Vikings</a></div><section class="sec"><div class="grid"><article class="card"><div class="c-body"><div class="meta">Yahoo Sports · <time datetime="2026-10-26T12:00:00Z">Oct 26, 8:00 AM ET</time></div><h3><a href="https://sports.yahoo.com/articles/first-pro-tight-end-correcting-120000633.html" target="_blank" rel="noopener">The First All Pro Tight End: Correcting Mike Ditka’s Place in NFL History</a></h3><p>Chicago Sports historian Jack Silverstein with another must read about the Chicago Bears and the iconic Mike Ditka.</p><div class="chips"><a class="chip" href="../../nfl/chi/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/chi.png" alt="" loading="lazy"></span>Bears</a></div></div></article><article class="card"><div class="c-body"><div class="meta">Yahoo Sports · <time datetime="2026-10-26T10:00:00Z">Oct 26, 6:00 AM ET</time></div><h3><a href="https://sports.yahoo.com/articles/patriots-vs-bears-snap-counts-100000774.html" target="_blank" rel="noopener">Patriots vs. Bears snap counts: Limited opportunities cost offense</a></h3><p>Notes and thoughts on the Patriots’ snap counts from their 30-24 loss to the Bears.</p><div class="chips"><a class="chip" href="../../nfl/chi/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/chi.png" alt="" loading="lazy"></span>Bears</a><a class="chip" href="../../nfl/ne/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/ne.png" alt="" loading="lazy"></span>Patriots</a></div></div></article><article class="card"><div class="c-body"><div class="meta">ESPN · <time datetime="2026-10-26T02:00:57Z">Oct 25, 10:00 PM ET</time></div><h3><a href="https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game" target="_blank" rel="noopener">Da Coach: Bears pay homage to Mike Ditka at first home game since coach&#x27;s death</a></h3><p>The Bears played their first home game Thursday since Mike Ditka&#x27;s death Oct. 9.</p><div class="chips"><a class="chip" href="../../nfl/chi/"><span class="logo" style="width:18px;height:18px"><img src="../../assets/logos/nfl/chi.png" alt="" loading="lazy"></span>Bears</a></div></div></article></div></section></main>
+<footer class="foot"><div class="wrap">
+  <p>Headlines link to their publishers (NHL.com, ESPN, Yahoo Sports, CBS Sports). Playoff Beard collects and sorts them; it doesn&rsquo;t host articles.</p>
+  <p class="muted">Updated Oct 26, 2026, 9:05 AM ET</p>
+</div></footer>
+<script>
+(function() {
+  var root = document.documentElement;
+  document.getElementById('themeBtn').onclick = function() {
+    var cur = root.getAttribute('data-theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    var next = cur === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('pb-theme', next); } catch (e) {}
+  };
+  var now = Date.now();
+  document.querySelectorAll('time[datetime]').forEach(function(el) {
+    var m = Math.round((now - Date.parse(el.getAttribute('datetime'))) / 60000);
+    if (isNaN(m) || m < 0) return;
+    el.textContent = m < 1 ? 'just now' : m < 60 ? m + 'm ago' : m < 1440 ? Math.round(m / 60) + 'h ago' : Math.round(m / 1440) + 'd ago';
+  });
+})();
+</script>
+</body>
+</html>
