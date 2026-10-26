@@ -1,5 +1,102 @@
 [
 {
+"id": "2adf58f18311",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "NHL power rankings: Connor McDavid on fire; Devils land Connor Hellebuyck",
+"url": "https://sports.yahoo.com/articles/nhl-power-rankings-connor-mcdavid-152717073.html",
+"summary": "Connor McDavid is off to a Wayne Gretzky-like start and Connor Hellebuyck finally is dealt. Here are the latest USA TODAY Sports power rankings.",
+"image": null,
+"published": "2026-10-26T15:27:17Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": [
+"nj"
+]
+},
+{
+"id": "598a40c39697",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "How to watch Golden State Warriors vs Denver Nuggets: TV/live stream info for tonight's game",
+"url": "https://sports.yahoo.com/articles/watch-golden-state-warriors-vs-152340659.html",
+"summary": "Live coverage begins at 9:30 PM ET on NBCSN and Peacock.",
+"image": null,
+"published": "2026-10-26T15:23:40Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": [
+"den",
+"gs"
+]
+},
+{
+"id": "0b3a3bb17dea",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Andy Reid addresses report about kicking Chiefs player out of meeting",
+"url": "https://sports.yahoo.com/articles/andy-reid-addresses-report-kicking-152225561.html",
+"summary": "Patrick Mahomes and Andy Reid asked Chiefs lineman Josh Simmons to leave a team meeting, per a report. Here's what Reid said when asked about the incident.",
+"image": null,
+"published": "2026-10-26T15:22:25Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": [
+"kc"
+]
+},
+{
+"id": "ec90e69042de",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Fantasy Football Stock Report: Chase Brown continues to struggle while 3 other RB2s thrive in Week 7",
+"url": "https://sports.yahoo.com/fantasy/article/fantasy-football-stock-report-chase-brown-continues-to-struggle-while-3-other-rb2s-thrive-in-week-7-152155032.html",
+"summary": "Matt Okada highlights the biggest risers and fallers for fantasy football going into Week 8.",
+"image": null,
+"published": "2026-10-26T15:21:55Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": []
+},
+{
+"id": "aa2dc716162b",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Three Rivers Report: The AFC North is a dogfight",
+"url": "https://sports.yahoo.com/articles/three-rivers-report-afc-north-151918011.html",
+"summary": "Steelers news, notes, and more from October 26",
+"image": null,
+"published": "2026-10-26T15:19:18Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": [
+"pit"
+]
+},
+{
+"id": "4599890f15da",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Report: Aaron Jones considered day-to-day with knee injury",
+"url": "https://sports.yahoo.com/articles/report-aaron-jones-considered-day-151717693.html",
+"summary": "There is some positive news on the injury front for the undefeated Vikings.",
+"image": null,
+"published": "2026-10-26T15:17:17Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": [
+"min"
+]
+},
+{
+"id": "9f1d336391f6",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Patriots release punter Bryce Baringer",
+"url": "https://sports.yahoo.com/articles/patriots-release-punter-bryce-baringer-151505344.html",
+"summary": "The Patriots are parting ways with their punter of the last three seasons.",
+"image": null,
+"published": "2026-10-26T15:15:05Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": [
+"ne"
+]
+},
+{
 "id": "9d8b5d9c5353",
 "league": "nhl",
 "source": "Yahoo Sports",
@@ -53,6 +150,21 @@
 "published": "2026-10-26T15:02:15Z",
 "collected": "2026-10-26T15:19:24Z",
 "teams": []
+},
+{
+"id": "55d828b941b5",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Saddledome Nostalgia: Maple Leafs Prepare One Last Rodeo in Calgary’s Iconic Barn",
+"url": "https://sports.yahoo.com/articles/saddledome-nostalgia-maple-leafs-prepare-150206831.html",
+"summary": "The Toronto Maple Leafs will play their final regular season game at the Scotiabank Saddledome before moving into their new arena across the street in 2026-27.",
+"image": null,
+"published": "2026-10-26T15:02:06Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": [
+"cgy",
+"tor"
+]
 },
 {
 "id": "ab0fe703a79a",
@@ -2223,6 +2335,20 @@
 ]
 },
 {
+"id": "18fbaa8647cf",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Rookie James Hagens has been everything Bruins need… and more",
+"url": "https://sports.yahoo.com/articles/rookie-james-hagens-everything-bruins-112409775.html",
+"summary": "Hagens is in the Calder Trophy (rookie of the year) conversation early in his first full NHL season.",
+"image": null,
+"published": "2026-10-26T11:24:09Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": [
+"bos"
+]
+},
+{
 "id": "da9b3faafac0",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -3349,6 +3475,18 @@
 "atl",
 "hou"
 ]
+},
+{
+"id": "15faa43a66f5",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Is Ville Koivunen Turning A Corner?",
+"url": "https://sports.yahoo.com/articles/ville-koivunen-turning-corner-035535066.html",
+"summary": "Ville Koivunen has been fantastic for the last 7-10 days. Is he turning a corner?",
+"image": null,
+"published": "2026-10-26T03:55:35Z",
+"collected": "2026-10-26T15:33:54Z",
+"teams": []
 },
 {
 "id": "1122dcec9e7d",
