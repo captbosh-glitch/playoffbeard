@@ -1,7 +1,7 @@
 """
 League icons, the same ones RTYB uses: the puck (NHL), the NFL ball (no
 stripes), the basketball (NBA) and the baseball (MLB), in full color, plus
-Playoff Beard's own soccer ball and MMA glove in the same style. The
+Playoff Beard's own soccer ball and MMA octagon in the same style. The
 colors are CSS classes on the --ball-* tokens in pb/static/style.css, so
 the outlines adapt to light and dark mode.
 
@@ -83,20 +83,20 @@ def soccer_ball():
             '" cx="16" cy="16" r="13" fill="none" stroke-width="1.3"/>')
 
 
-def fight_glove():
-    # an open-finger MMA glove from the front: a wide fist with finger slits
-    # and a thumb crease, on a wrist cuff with a white strap; rim on the
-    # puck-rim token so it shows on dark
-    return ('<path class="bi-glove" d="M6 13 C6 7 10 4 16 4 C22 4 26.5 7 26.5 13 L26.5 17 C26.5 20 24.5 21.5 22 21.5 L10 21.5 C7.6 21.5 6 19.8 6 17.5 Z" stroke-width="1"/>'
-            '<g class="bi-glove-slit" fill="none" stroke-width="1.1" stroke-linecap="round">'
-            '<line x1="11.5" y1="5" x2="11.5" y2="8.8"/><line x1="15" y1="4.4" x2="15" y2="8.4"/>'
-            '<line x1="18.5" y1="4.4" x2="18.5" y2="8.4"/><line x1="22" y1="5" x2="22" y2="8.8"/>'
-            '<path d="M7.2 15.4 C9.6 13.8 12.6 14.2 13.8 17.2"/></g>'
-            '<rect class="bi-glove" x="8" y="21" width="16.5" height="8" rx="2.5" stroke-width="1"/>'
-            '<rect class="bi-glove-strap" x="7.4" y="23.4" width="17.7" height="3.4" rx="1.2"/>')
+def octagon():
+    # the UFC cage from above: a dark fence ring, canvas mat, fence posts at the corners, red center mark
+    import math
+    def ring(r, rot=22.5, c=16):
+        return ' '.join(f'{c + r * math.cos(math.radians(rot + 45 * i)):.2f},{c + r * math.sin(math.radians(rot + 45 * i)):.2f}' for i in range(8))
+    posts = ''.join(f'<circle class="bi-oct-post" cx="{16 + 12.4 * math.cos(math.radians(22.5 + 45 * i)):.2f}" '
+                    f'cy="{16 + 12.4 * math.sin(math.radians(22.5 + 45 * i)):.2f}" r="1"/>' for i in range(8))
+    return (f'<polygon class="bi-oct-fence" points="{ring(13.6)}" stroke-width="1"/>'
+            f'<polygon class="bi-oct-mat" points="{ring(11.2)}"/>{posts}'
+            f'<polygon class="bi-oct-mark" points="{ring(4.2)}" fill="none" stroke-width="1.4"/>')
+
 
 ICONS = {'nhl': lambda: puck(), 'nfl': lambda: football(stripes=False), 'nba': basketball, 'mlb': baseball,
-         'ufc': fight_glove, 'soccer': soccer_ball}
+         'ufc': octagon, 'soccer': soccer_ball}
 
 
 def sport_icon(league, cls=''):
