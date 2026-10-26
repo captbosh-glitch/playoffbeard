@@ -207,7 +207,7 @@ def build(now=None):
                  f'<a href="{lg["key"]}/">All {esc(lg["label"])} news &rarr;</a></div><div class="grid">{cards}</div></section>')
     hero = (f'<section class="hero"><h1>Playoff <span>Beard</span></h1><p>{esc(config.TAGLINE)}</p>'
             f'<div class="hero-links">' + ''.join(f'<a href="{lg["key"]}/">{icons.sport_icon(lg["key"])}{esc(lg["label"])}</a>' for lg in config.LEAGUES) + '</div></section>')
-    write('', page(f'{config.SITE_NAME} — Hockey first, every league’s headlines', config.TAGLINE, hero + secs, '', 'home', updated))
+    write('', page(f'{config.SITE_NAME} — Every league’s headlines, every team’s news', config.TAGLINE, hero + secs, '', 'home', updated))
 
     # leagues and teams
     for lg in config.LEAGUES:

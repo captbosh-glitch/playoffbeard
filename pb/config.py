@@ -9,7 +9,7 @@ SITE_URL = 'https://playoffbeard.com'
 # Set to 'playoffbeard.com' once the domain's DNS points at GitHub; while it's
 # None the site previews at https://captbosh-glitch.github.io/playoffbeard/
 CUSTOM_DOMAIN = None
-TAGLINE = 'Hockey first. Every league’s headlines, every team’s news.'
+TAGLINE = 'Every league’s headlines, every team’s news.'
 
 # League order on the site: hockey first.
 LEAGUES = [

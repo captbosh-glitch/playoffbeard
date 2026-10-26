@@ -1,6 +1,6 @@
 # Playoff Beard
 
-Hockey-first sports news at [playoffbeard.com](https://playoffbeard.com): the
+Sports news at [playoffbeard.com](https://playoffbeard.com): the
 latest NHL, NFL, NBA and MLB headlines from NHL.com, ESPN, Yahoo Sports and CBS
 Sports, sorted by league and tagged by team. Headlines link to the publisher.
 
