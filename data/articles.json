@@ -1,5 +1,20 @@
 [
 {
+"id": "5cf219b54727",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Chiefs’ offense had a historically poor showing in loss to Seahawks",
+"url": "https://sports.yahoo.com/articles/chiefs-offense-had-historically-poor-153000605.html",
+"summary": "Kansas City’s quarterback was unable to lift the flailing unit around him in Seattle.",
+"image": null,
+"published": "2026-10-26T15:30:00Z",
+"collected": "2026-10-26T15:39:27Z",
+"teams": [
+"kc",
+"sea"
+]
+},
+{
 "id": "2adf58f18311",
 "league": "nhl",
 "source": "Yahoo Sports",
@@ -11,6 +26,21 @@
 "collected": "2026-10-26T15:33:54Z",
 "teams": [
 "nj"
+]
+},
+{
+"id": "f58dc55eb222",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Eagles-Cowboys Game Preview: 5 questions and answers with the Week 7 enemy",
+"url": "https://sports.yahoo.com/articles/eagles-cowboys-game-preview-5-152344700.html",
+"summary": "﻿﻿﻿﻿Opponent insight on Philadelphia’s upcoming matchup.",
+"image": null,
+"published": "2026-10-26T15:23:44Z",
+"collected": "2026-10-26T15:39:27Z",
+"teams": [
+"dal",
+"phi"
 ]
 },
 {
