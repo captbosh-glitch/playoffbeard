@@ -46,11 +46,6 @@ def logo(team, depth, size=28):
             f'<img class="lg-dark" src="{dark}" alt="" loading="lazy"></span>')
 
 
-BEARD = ('<svg class="mark" viewBox="0 0 32 32" aria-hidden="true">'
-         '<path d="M6 9c0 9 3 17 10 20 7-3 10-11 10-20-2 3-5 4-10 4S8 12 6 9z" fill="currentColor"/>'
-         '<path d="M11 18c2 1.5 8 1.5 10 0" stroke="var(--bg)" stroke-width="2" fill="none" stroke-linecap="round"/></svg>')
-
-
 def page(title, desc, body, depth, current='home', updated=''):
     nav = [('home', 'Home', f'{depth}' or './')] + [(lg['key'], lg['label'], f'{depth}{lg["key"]}/') for lg in config.LEAGUES]
     cur = ' aria-current="page"'
@@ -68,9 +63,9 @@ def page(title, desc, body, depth, current='home', updated=''):
 <link rel="stylesheet" href="{depth}assets/style.css">
 <script>try{{var t=localStorage.getItem('pb-theme');if(t)document.documentElement.setAttribute('data-theme',t)}}catch(e){{}}</script>
 </head>
-<body>
+<body class="{'lg-' + current if current != 'home' else 'home'}">
 <header class="top"><div class="wrap top-in">
-  <a class="brand" href="{depth or './'}">{BEARD}<span>Playoff <b>Beard</b></span></a>
+  <a class="brand" href="{depth or './'}" aria-label="Playoff Beard home">Playoff <b>Beard</b></a>
   <nav class="nav" aria-label="Leagues">{links}</nav>
   <button class="theme" id="themeBtn" type="button" aria-label="Toggle light / dark">&#9681;</button>
 </div></header>
@@ -208,7 +203,7 @@ def build(now=None):
             continue
         items, lead = lead_first(items)
         cards = ''.join(card(a, teams_by, '', big=(lead and i == 0)) for i, a in enumerate(items))
-        secs += (f'<section class="sec"><div class="sec-head"><h2>{icons.sport_icon(lg["key"])}{esc(lg["label"])}</h2>'
+        secs += (f'<section class="sec lg-{lg["key"]}"><div class="sec-head"><h2>{icons.sport_icon(lg["key"])}{esc(lg["label"])}</h2>'
                  f'<a href="{lg["key"]}/">All {esc(lg["label"])} news &rarr;</a></div><div class="grid">{cards}</div></section>')
     hero = (f'<section class="hero"><h1>Playoff <span>Beard</span></h1><p>{esc(config.TAGLINE)}</p>'
             f'<div class="hero-links">' + ''.join(f'<a href="{lg["key"]}/">{icons.sport_icon(lg["key"])}{esc(lg["label"])}</a>' for lg in config.LEAGUES) + '</div></section>')

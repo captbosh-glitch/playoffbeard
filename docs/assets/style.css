@@ -2,7 +2,9 @@
    are redefined for dark mode (system setting, or the toggle). */
 :root {
   --bg: #f5f7f9; --panel: #ffffff; --panel-2: #eef2f5; --border: #d9e0e6; --text: #101820; --muted: #5b6874; --faint: #8a96a1;
-  --navy: #0f2a44; --accent: #c8102e; --accent-ink: #ffffff; --chip: #eef2f5; --shadow: rgba(15, 42, 68, 0.08);
+  --navy: #0f2a44; --brand: #c8102e; --accent: var(--brand); --accent-ink: #ffffff; --chip: #eef2f5; --shadow: rgba(15, 42, 68, 0.08);
+  /* league colors (light mode: darker shades so text stays readable) */
+  --c-nhl: #0277b6; --c-nfl: #15803d; --c-nba: #c2410c; --c-mlb: #a16207;
   /* league icons (pb/icons.py, from RTYB): light mode outlines */
   --ball-puck-top: #2A2E36; --ball-puck-side: #16181D; --ball-puck-grip: #3D434E; --ball-puck-rim: #16181D;
   --ball-shine: rgba(255, 255, 255, 0.16); --ball-leather: #8A4B22; --ball-leather-edge: #4E2610; --ball-leather-rim: transparent;
@@ -12,13 +14,15 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #0b1218; --panel: #121b23; --panel-2: #18232d; --border: #24323e; --text: #e8eef3; --muted: #9aa8b4; --faint: #6f7d89;
-    --navy: #e8f1f8; --accent: #ff4d5e; --accent-ink: #0b1218; --chip: #18232d; --shadow: rgba(0, 0, 0, 0.35);
+    --navy: #e8f1f8; --brand: #ff4d5e; --accent-ink: #0b1218; --chip: #18232d; --shadow: rgba(0, 0, 0, 0.35);
+    --c-nhl: #38bdf8; --c-nfl: #4ade80; --c-nba: #fb923c; --c-mlb: #facc15;
     --ball-puck-rim: #8B93A3; --ball-leather-rim: #8B93A3; --ball-white-edge: #9AA0A8;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0b1218; --panel: #121b23; --panel-2: #18232d; --border: #24323e; --text: #e8eef3; --muted: #9aa8b4; --faint: #6f7d89;
-  --navy: #e8f1f8; --accent: #ff4d5e; --accent-ink: #0b1218; --chip: #18232d; --shadow: rgba(0, 0, 0, 0.35);
+  --navy: #e8f1f8; --brand: #ff4d5e; --accent-ink: #0b1218; --chip: #18232d; --shadow: rgba(0, 0, 0, 0.35);
+  --c-nhl: #38bdf8; --c-nfl: #4ade80; --c-nba: #fb923c; --c-mlb: #facc15;
   --ball-puck-rim: #8B93A3; --ball-leather-rim: #8B93A3; --ball-white-edge: #9AA0A8;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -29,9 +33,8 @@ a { color: inherit; }
 
 .top { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border); }
 .top-in { display: flex; align-items: center; gap: 18px; min-height: 60px; }
-.brand { display: flex; align-items: center; gap: 8px; text-decoration: none; color: var(--navy); font: 700 1.35rem 'Oswald', sans-serif; text-transform: uppercase; letter-spacing: 0.02em; flex-shrink: 0; }
-.brand b { color: var(--accent); font-weight: 700; }
-.mark { width: 28px; height: 28px; color: var(--navy); }
+.brand { display: flex; align-items: center; gap: 0.25em; text-decoration: none; color: var(--navy); font: 700 1.4rem 'Oswald', sans-serif; text-transform: uppercase; letter-spacing: 0.02em; flex-shrink: 0; white-space: nowrap; min-height: 44px; }
+.brand b { color: var(--brand); font-weight: 700; }
 .nav { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; flex: 1; }
 .nav::-webkit-scrollbar { display: none; }
 .nav a { font: 600 0.95rem 'Oswald', sans-serif; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); text-decoration: none;
@@ -103,7 +106,7 @@ a { color: inherit; }
 @media (max-width: 600px) {
   .grid { grid-template-columns: 1fr; }
   .card.big { grid-column: auto; grid-row: auto; }
-  .brand span { display: none; }
+  .brand { font-size: 1.1rem; }
   .top-in { gap: 8px; }
   .nav a { padding: 0 9px; }
 }
@@ -149,3 +152,14 @@ a { color: inherit; }
   .logo-row::-webkit-scrollbar { display: none; }
 }
 .lr-nhl .logo img { transform: scale(1.45); }   /* NHL's SVGs carry extra padding */
+
+/* each league's pages (and its home-page section) use the league's color */
+.lg-nhl { --accent: var(--c-nhl); }
+.lg-nfl { --accent: var(--c-nfl); }
+.lg-nba { --accent: var(--c-nba); }
+.lg-mlb { --accent: var(--c-mlb); }
+.sec .sec-head { border-bottom-color: var(--accent); }
+.home .hero h1 span { color: var(--brand); }
+.hero-links a:first-child { background: var(--panel); color: var(--text); border-color: var(--border); }
+.home .hero-links a { border-color: var(--border); }
+.home .hero-links a:hover { border-color: var(--text); }
