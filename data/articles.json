@@ -1,5 +1,1814 @@
 [
 {
+"id": "5074df5130a4",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Harry Kane’s emotional acceptance speech in full after winning Ballon d’Or",
+"url": "https://sports.yahoo.com/articles/harry-kane-emotional-acceptance-speech-234204369.html",
+"summary": "Kane became the first English winner of the Ballon d’Or since 2001",
+"image": "https://s.yimg.com/lo/mysterio/api/bc399aeb539d68e4e0777ea42f840e131ccf62df3b0990c6780479ece467b2e5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2Fa95073329ee612cbc5f1426ddf807a01.jpg",
+"published": "2026-10-26T23:42:04Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "b1b5ec47c680",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC 336: Joshua Van vs. Manel Kape odds, what to know for flyweight title bout",
+"url": "https://sports.yahoo.com/articles/ufc-336-joshua-van-vs-234026788.html",
+"summary": "The opening odds for UFC 336 show Manel Kape is considered a true threat to Joshua Van's title reign.",
+"image": "https://s.yimg.com/lo/mysterio/api/97cdadaf4d4990fbab4825f623edf6c8116bf3e6dcbb2f8a05357175e9d9e002/lightyear_networkapi/resizefill_w1080_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2Fdd2a0062095e3fd6f7b7afe7a1cdf8b7.jpg",
+"published": "2026-10-26T23:40:26Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"flyweight"
+],
+"img_tried": true
+},
+{
+"id": "252aa1c343e1",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Eagles vs. Cowboys: Live score updates, highlights, injury news",
+"url": "https://sports.yahoo.com/articles/eagles-vs-cowboys-live-score-233930615.html",
+"summary": "Follow along with Week 7 game updates here!",
+"image": "https://s.yimg.com/lo/mysterio/api/ebe435764f6c3c2397410095166ab083491455826f45e36ec75d79cf07687c01/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fcf1f943877c21e8bcf7d67d3d8b700ad.jpg",
+"published": "2026-10-26T23:39:30Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "7bdc803e26d7",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend",
+"url": "https://sports.yahoo.com/articles/kane-ends-englands-25-ballon-225507580.html",
+"summary": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.",
+"image": "https://s.yimg.com/lo/mysterio/api/0560ddbc4ebe0984920f0b7ca9d8f436b089c58cdb2fe87eb67ee8acbb2a002a/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc184c6282095bfee9d4bf0231fed0fe3.jpg",
+"published": "2026-10-26T23:34:53Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "74735d448267",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Use FanDuel promo code to get $350 in bonus bets by targeting Cowboys vs. Eagles, Monday Night Football",
+"url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-cowboys-eagles-monday-night-football/",
+"summary": "Sign up and bet on Monday Night Football with the latest FanDuel promo code to get your bonus bets",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/11/75c36b18-83fe-49ef-9757-d560099e5072/fanduel-350-promo.jpg",
+"published": "2026-10-26T23:34:38Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "f0238fd76b7f",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "World Series Game 3: Rays vs. Brewers Discussion",
+"url": "https://sports.yahoo.com/articles/world-series-game-3-rays-233000198.html",
+"summary": "Fastball Freddy tries to right the ship",
+"image": "https://s.yimg.com/lo/mysterio/api/7dd5095bf4c735d7a7a0c39602b5adedd742f110250a28203fdd52a49d128849/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fe9701826ac61b05452ea2c575c83e5a2.jpg",
+"published": "2026-10-26T23:30:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "964c288fb8b3",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "World Series Game 3: Brewers at Rays, 8:00 p.m. ET",
+"url": "https://sports.yahoo.com/articles/world-series-game-3-brewers-233000320.html",
+"summary": "Join us as the World Series moves to Tampa with the Rays in an 0-2 hole.",
+"image": "https://s.yimg.com/lo/mysterio/api/5ccbc4b5ab81e5648ac195c9c1e0bc9e2cca5aba5c9447f32be7f5149ed0d048/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fdbc8f31c5d888f6b236fb4ba686e199f.jpg",
+"published": "2026-10-26T23:30:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "c3a68528b5e9",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "😂 Social media erupts over 2026 Ballon d'Or: Cry harder, Mbappé",
+"url": "https://sports.yahoo.com/articles/social-media-erupts-over-2026-232900678.html",
+"summary": "On Monday (26), in London, Harry Kane was announced as the winner of the 2026 Ballon d'Or.The English striker, who spent most of his career under the \"curse\" of never winning a trophy at Tottenham, sa...",
+"image": "https://s.yimg.com/lo/mysterio/api/00e622c4c65da7103165fcf1811ff851dc9913c187cd4a233f0e08215574b049/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F9e35b9bcb18c1809772760ec73ec6faf.jpg",
+"published": "2026-10-26T23:29:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"tottenham"
+],
+"img_tried": true
+},
+{
+"id": "501207833c05",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Arsenal eye Monza striker Varela - Tuesday's gossip",
+"url": "https://sports.yahoo.com/articles/arsenal-eye-monza-striker-varela-213848231.html",
+"summary": "Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila Sarr, Brighton defender Luka Vuskovic receives admiring glances from some of Europe's biggest clubs, plus more.",
+"image": "https://s.yimg.com/lo/mysterio/api/924a409e7394d6bc36fdd52646a75edba68d764ebd058be88a189b50027381b5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fba3a5097837cf70cbbf656e3d3063c1e.png",
+"published": "2026-10-26T23:26:38Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"arsenal"
+],
+"img_tried": true
+},
+{
+"id": "09112da1c46c",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "🏆 Ballon d'Or 2026, full rankings: Mbappé-Yamal on podium, Messi 5th",
+"url": "https://sports.yahoo.com/articles/ballon-dor-2026-full-rankings-232600347.html",
+"summary": "Harry Kane has won the 2026 Ballon d’Or, ahead of Kylian Mbappé and Lamine Yamal.Watch every Serie BKT match live with LaB Channel on OneFootball: subscribe for just €9.99 a month!Below is the fu...",
+"image": "https://s.yimg.com/lo/mysterio/api/6c27fe6fc15933cb52d1b472025b062c3bdcf814414661db808020d08044db07/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F74e6bad441bf3348ef9a5b812a18f32b.jpg",
+"published": "2026-10-26T23:26:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "9d16d5c96f90",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Ballon d’Or: Full list of 2026 winners as Kane and Yamal take home awards",
+"url": "https://sports.yahoo.com/articles/ballon-d-full-list-2026-213455584.html",
+"summary": "The 2026 Ballon d’Or awards ceremony was held at the London Palladium on Monday night",
+"image": "https://s.yimg.com/lo/mysterio/api/8a2e92cc4692a89580036ab9c834754d7de26a791f33f4d2f8fdba6f464fd754/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2Fcaac35eb4d87a158f2057bafc025ff25.jpg",
+"published": "2026-10-26T23:20:20Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "4e18fa12033d",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "World Series Game 3 – Milwaukee Brewers at Tampa Bay Rays",
+"url": "https://sports.yahoo.com/articles/world-series-game-3-milwaukee-231938103.html",
+"summary": "Tampa hosts its first World Series game against Milwaukee as they try to climb back into the race.",
+"image": "https://s.yimg.com/lo/mysterio/api/32c9863450932a290b974f24587b541b71e232fdc3ab6dd54054e4ebb2258d9b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fc18ef0b16e1a7f8556d84d1e64ebe165.jpg",
+"published": "2026-10-26T23:19:38Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "bc2e9606041c",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Harry Kane pips Kylian Mbappé to 2025-2026 Men’s Ballon d’Or",
+"url": "https://sports.yahoo.com/articles/harry-kane-pips-kylian-mbapp-231900311.html",
+"summary": "Bayern Munich striker and England captain Harry Kane (33) was handed the 2025-2026 Men’s ​Ballon d’Or on ‌Monday at Palladium Theatre, in Kane’s London hometown. The 33-year-old also secured...",
+"image": "https://s.yimg.com/lo/mysterio/api/c4cf9434a00368e2bdd422606b6d85e7d2961a4855443de68548eeb76e30160e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fget_french_football_news_702%2Fa44cd4a4f9166649a59e03bca159deed.jpg",
+"published": "2026-10-26T23:19:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "95e1768ec02b",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Monday Night Football: Dallas Cowboys Vs Philadelphia Eagles Game Information & Discussion",
+"url": "https://sports.yahoo.com/articles/monday-night-football-dallas-cowboys-231500619.html",
+"summary": "Join us live to follow and discuss this evenings MNF game between the Dallas Cowboys and the Philadelphia Eagles.",
+"image": "https://s.yimg.com/lo/mysterio/api/52f4d4716bd79f3bc6afca6416f71abaeb9700171e23673717f3aac016dd1c2a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5944ce0fe8cfb19c4018d31f364cae37.jpg",
+"published": "2026-10-26T23:15:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "5abb5d78748f",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Eagles vs. Cowboys Week 7 ‘Monday Night Football’ live chat",
+"url": "https://sports.yahoo.com/articles/eagles-vs-cowboys-week-7-231500238.html",
+"summary": "The Eagles will face the Cowboys in an NFC East matchup at home on Monday night.",
+"image": "https://s.yimg.com/lo/mysterio/api/0a477c44b6f6b970b3874ca99df7480e2471f4452addb53b495cd6df98c2b3c3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F74bdc9c9750fe087e7c56045a5ef6cc2.jpg",
+"published": "2026-10-26T23:15:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "509cbc3af113",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Harry Kane wins 2026 Ballon d’Or ahead of Lamine Yamal and Kylian Mbappe",
+"url": "https://sports.yahoo.com/articles/harry-kane-wins-2026-ballon-231500480.html",
+"summary": "Bayern Munich striker Harry Kane has won the 2026 Ballon d’Or ahead of Lamine Yamal and Kylian Mbappe, capping a remarkable year for the England captain.The 33-year-old also collected the Gerd Mulle...",
+"image": "https://s.yimg.com/lo/mysterio/api/88342033119d2e4c522bc109da9d4f819cb9596d4f9e32108df5dff9e77ad2d9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_today_articles_719%2F247c1766820eaf3fc848d3921042e2cf.jpg",
+"published": "2026-10-26T23:15:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "7fab1de411ee",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Rays shake up lineup in World Series Game 3, benching Jonathan Aranda, Liam Hicks",
+"url": "https://sports.yahoo.com/articles/rays-shake-lineup-world-series-231443068.html",
+"summary": "Facing a 2-0 deficit in the World Series, the Tampa Bay Rays shook up their lineup for Game 3 at Tropicana Field.",
+"image": "https://s.yimg.com/lo/mysterio/api/af0b8ac4d8bbd3882294e1570072572c96974fac09f595a9606bb60087116880/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F223b4360d3d196d3f9e28dfb6bcf304d.jpg",
+"published": "2026-10-26T23:14:43Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "7bc74999c9a9",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Putellas wins record-equalling third Ballon d'Or",
+"url": "https://sports.yahoo.com/articles/putellas-wins-record-equalling-third-223547904.html",
+"summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+"image": "https://s.yimg.com/lo/mysterio/api/dc5c9f7c1dfd0df02c755404b544a81e22a4143b4fabd2fe79fe71c0e63ef00a/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe2fc845c97dc64fff8a43f60cf98fc13.jpg",
+"published": "2026-10-26T23:14:42Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "5f4a86eb15a3",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Alexander Volkanovski Open to Ilia Topuria Rematch",
+"url": "https://sports.yahoo.com/articles/alexander-volkanovski-open-ilia-topuria-231100304.html",
+"summary": "UFC featherweight champion Alexander Volkanovski says that he is open to a rematch against former rival Ilia Topuria.Topuria knocked out Volkanovski at UFC 298 in February 2024 to claim the UFC featherweight title. Now, nearly three years later, Volkanovski says that he’s open to a rematch against him.Alexander…",
+"image": "https://s.yimg.com/lo/mysterio/api/32972e827b73164ad19ed11015e4b40ec8d222d32bb4e1894fcf8cfe1a55927a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fe8b995a7b64ef99254c5a1f1c07409a3.jpg",
+"published": "2026-10-26T23:11:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"featherweight",
+"lightweight"
+],
+"img_tried": true
+},
+{
+"id": "d4fb3e49f880",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Eagles vs. Cowboys on Monday Night Football",
+"url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-eagles-vs-cowboys-on-monday-night-football/",
+"summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Eagles vs. Cowboys on Monday Night Football",
+"image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+"published": "2026-10-26T23:09:43Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "3123ae110592",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Alexia Putellas wins Women’s Ballon d’Or for third time",
+"url": "https://sports.yahoo.com/articles/alexia-putellas-wins-women-ballon-224235053.html",
+"summary": "The Spanish forward captained Barcelona to a quadruple, including a third Champions League in four years",
+"image": "https://s.yimg.com/lo/mysterio/api/e40e37c65f93c18355ecee2479e0ee12a02607c59d810748aa62b7871650c465/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2Fc66e57280761268c29bb727efd694825.jpg",
+"published": "2026-10-26T23:08:45Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "90a84aa5f079",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Cowboys-Eagles on Monday Night Football",
+"url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-cowboys-eagles-on-monday-night-football/",
+"summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Eagles vs. Cowboys on Monday Night Football",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
+"published": "2026-10-26T23:08:21Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "0de430fec912",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "FULL LIST | 2025-2026 Ballon d’Or Winners",
+"url": "https://sports.yahoo.com/articles/full-list-2025-2026-ballon-230700120.html",
+"summary": "The best football players in the world convened to London’s Palladium Theatre for the 70th Ballon d’Or ceremony. The decision to stage ​France Football’s grand evening in England was a tribute...",
+"image": "https://s.yimg.com/lo/mysterio/api/3cadd0dc6f9cf89180aefe0ce3593a9286646f8315231a277559b81034f90e1d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fget_french_football_news_702%2F3192b7ed7840b40e3d0be39d35b2a2d2.jpg",
+"published": "2026-10-26T23:07:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "ddab961964b0",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Game Thread: The World Series moves to St. Pete",
+"url": "https://sports.yahoo.com/articles/game-thread-world-series-moves-230602804.html",
+"summary": "It’s time for the third game of what so far has been a strong World Series between the Rays and the Brewers. And tonight, the crown jewell of the baseball world heads to… uh, the Trop. As a child of the 90s, I am somewhat nostalgic for gross old domes. The first World Series I […]",
+"image": "https://s.yimg.com/lo/mysterio/api/34fb8a97f74af3259d27e2b0e7523e22f0b5fecc6b3dcabc86cb1c963ef24a84/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F30832b10c3ed3ba8c24daedd7e7325de.jpg",
+"published": "2026-10-26T23:06:02Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "d38dd4ab05fb",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Monday Night Football: Jonathan Greenard, Saquon Barkley are active for Eagles vs. Cowboys",
+"url": "https://sports.yahoo.com/articles/monday-night-football-jonathan-greenard-230525245.html",
+"summary": "The Eagles will have outside linebackers Jonathan Greenard (ankle) and Jalyx Hunt (knee/ankle) tonight.",
+"image": "https://s.yimg.com/lo/mysterio/api/a91c4ab0c199bc27fad700a547680d70fb46c58410a225f4edc7c7db2fd69254/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Fbc82bbe02a8422b7d2d27deb4309ac2d.jpg",
+"published": "2026-10-26T23:05:25Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "f0c506678905",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "How far can the Rams go without a viable number 2 receiver?",
+"url": "https://sports.yahoo.com/articles/far-rams-without-viable-wr-230500561.html",
+"summary": "The Rams need someone besides Puka Nacua to step up, but there is nobody who seems ready",
+"image": "https://s.yimg.com/lo/mysterio/api/b7c26f69f5cb58a657b1f38002898cec7d736bb8c857836f90c9c6bc8b05e4f5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F1172a2819a6eeb743bc363386764c582.jpg",
+"published": "2026-10-26T23:05:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lar"
+],
+"img_tried": true
+},
+{
+"id": "c3993e0adcba",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Week 7 NFL betting promos, Cowboys-Eagles: Claim over $3,000 in bonuses from online betting apps, sportsbooks",
+"url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-promos-cowboys-eagles-claim-over-3000-in-bonuses-from-online-betting-apps-sportsbooks/",
+"summary": "Top Week 7 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/72629fdd-498f-47c3-ab09-493e1595cbb9/dak-prescott-dallas-cowboys.jpg",
+"published": "2026-10-26T23:02:26Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "0a619b7c6d81",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Thunder's Jalen Williams has dislocated left ankle, fractured fibula; Cason Wallace has torn labrum",
+"url": "https://sports.yahoo.com/articles/thunders-jalen-williams-dislocated-left-230216475.html",
+"summary": "The two Thunder starters went down Sunday night and are now likely to miss most of all of the season.",
+"image": "https://s.yimg.com/lo/mysterio/api/53038f2a56b9c5bffa14af204b6c95104d8e94cb8ff0e46cf48b381bc70378ad/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2Feca014698bc78807d688ebdd8aad0982.jpg",
+"published": "2026-10-26T23:02:16Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"okc"
+],
+"img_tried": true
+},
+{
+"id": "7e4b7c8a239a",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Cowboys vs. Eagles odds, betting preview, prediction, start time: Monday Night Football picks, best bets",
+"url": "https://www.cbssports.com/betting/news/cowboys-eagles-odds-betting-preview-prediction-start-time-monday-night-football-picks-best-bets/",
+"summary": "Best bets and betting preview for Cowboys vs. Eagles on Monday Night Football",
+"image": "https://sportshub.cbsistatic.com/i/2025/09/02/97025c02-ae2a-47a0-8804-711ecf2de0a7/dak-prescott-ceedee-lamb-cowboys-cbs-imagn.jpg",
+"published": "2026-10-26T23:01:01Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "3effe9f7dd58",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Eagles-Cowboys inactives: Saquon Barkley will play",
+"url": "https://sports.yahoo.com/articles/eagles-cowboys-inactives-saquon-barkley-230058894.html",
+"summary": "﻿﻿﻿﻿The latest news on who’s in and who’s out.﻿",
+"image": "https://s.yimg.com/lo/mysterio/api/1855774089458bf4fe6d577a61d3cdd08cfd86dd4dc67b390b196e6d69da3dd6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ff1384fcec997c3e7ed3cf52f00d9fa95.jpg",
+"published": "2026-10-26T23:00:58Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "aa646a193985",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Sean Payton trying to find ways to get Marvin Mims Jr. more opportunities",
+"url": "https://sports.yahoo.com/articles/sean-payton-trying-ways-marvin-230000384.html",
+"summary": "It’s another season and another slow start for Marvin Mims Jr. in the Denver Broncos offense. The strange usage early on in seasons seems to be a recurring theme and something head coach Sean Payton mentions about this time every year of getting more touches to Mims. He did so again on Monday. “We’re trying […]",
+"image": "https://s.yimg.com/lo/mysterio/api/fd8911fd052cdd6a9a289bd62deaf5ef6f61363140e47774ea18bf398d0be912/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F79d87e3b040df769329e314e256056fe.jpg",
+"published": "2026-10-26T23:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"den"
+],
+"img_tried": true
+},
+{
+"id": "2620aba742c1",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "World Series Game 3, Brewers at Rays: Lineups, broadcast info, and open thread, 10/26/26",
+"url": "https://sports.yahoo.com/articles/world-series-game-3-brewers-230000682.html",
+"summary": "Milwaukee looks to go up 3-0 in Tampa.",
+"image": "https://s.yimg.com/lo/mysterio/api/3e6bdbab89940ca20f045b9d4722284596ea9796196d2320193b716729f0b596/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F79ae2e240693d018714a589b29a6e114.jpg",
+"published": "2026-10-26T23:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "8dbb4d218413",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "2026 World Series discussion thread: Game 3",
+"url": "https://sports.yahoo.com/articles/2026-world-series-discussion-thread-230000957.html",
+"summary": "Can the Rays earn a victory on their home field?",
+"image": "https://s.yimg.com/lo/mysterio/api/cbab18744c07b19337e5c68e1578e8309c31f4aac4f73c2d9911b4e493b0a8a0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ffe2fb50f1b74114272e4b6c6563e45be.jpg",
+"published": "2026-10-26T23:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "415e00d76bd1",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "World Series Game 3 Thread",
+"url": "https://sports.yahoo.com/articles/world-series-game-3-thread-230000040.html",
+"summary": "Tampa Bay needs to win tonight",
+"image": "https://s.yimg.com/lo/mysterio/api/1c7298156965f6ef56e4cd18c998a8bd868d331a28cd4e3a15af97890b8c7143/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F54fa895b6c9876000de658b8da1d67d5.jpg",
+"published": "2026-10-26T23:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "566dbf8d9550",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "World Series Game 3 discussion thread",
+"url": "https://sports.yahoo.com/articles/world-series-game-3-discussion-230000154.html",
+"summary": "We have Game 3 of the World Series tonight. The Rays, down 2-0, are at home and will try to get back in the series against the Brewers. The University of Houston’s own Robert Gasser pitches for the Brewers, while the Dominican Republic’s own Freddy Peralta goes for the Rays. It is a 7 p.m. […]",
+"image": "https://s.yimg.com/lo/mysterio/api/5b1ed1f5797aaa09ddc777e58f0cc10f6c6901eb0a568040c9a5bf4564825fa6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F9d112a7affd01bb4fb09e50c876de0a5.jpg",
+"published": "2026-10-26T23:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"hou",
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "4b9c0ab7d1bd",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "2026 World Series Game 3 Live Discussion",
+"url": "https://sports.yahoo.com/articles/2026-world-series-game-3-230000637.html",
+"summary": "The Brewers have a 2-0 lead as the series heads to Tampa Bay.",
+"image": "https://s.yimg.com/lo/mysterio/api/4b8a230131b154563544ddc5cdcb619844fa209e97a28a366f429746cc6d855f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fc44eaa8e91bc42bb2222d43dfcafc95e.jpg",
+"published": "2026-10-26T23:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "9ba20b510a5d",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "2026 World Series Game 3: Brewers at Rays, 7 p.m. CT",
+"url": "https://sports.yahoo.com/articles/2026-world-series-game-3-230000820.html",
+"summary": "The Series heads to the Trop.",
+"image": "https://s.yimg.com/lo/mysterio/api/5ccbe117bbf0bfbecf19e70b0b2db7cc78e3c7df85d5d8f2740a9135bc379d13/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fdc4bb97a683bbb6a431cbe1c0253e2ca.jpg",
+"published": "2026-10-26T23:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "6b25ffc574f2",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Brewers vs. Rays live updates, World Series lineups, where to watch: ALCS MVP Freddy Peralta, Robert Gasser to start Game 3",
+"url": "https://sports.yahoo.com/mlb/live/brewers-rays-box-score-live-updates-world-series-game-3-lineups-starting-pitchers-news-highlights-where-to-watch-230000283.html",
+"summary": "The Brewers hold a 2-0 lead over the Rays as the World Series heads to Tropicana Field for Game 3.",
+"image": "https://s.yimg.com/lo/mysterio/api/3cf69ae2c5226f29138030c19f0c089e90dc7ec98a7c03a6f32d200143203e02/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F19a62c67-ce96-4941-9915-ad51affc6aca",
+"published": "2026-10-26T23:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "a6e564ed265e",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "What Matthew Stafford loves about Rams’ offense this season",
+"url": "https://sports.yahoo.com/articles/matthew-stafford-loves-rams-offense-225858083.html",
+"summary": "Stafford calls LA’s running back duo of Kyren Williams and Blake Corum “unique”",
+"image": "https://s.yimg.com/lo/mysterio/api/a3ced979aa92575f35f8aa9c10e64006e692aac384f89fd487477016fea5e20d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fb4ad788e1c70ad973625fc18b58c1ba7.jpg",
+"published": "2026-10-26T22:58:58Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lar"
+],
+"img_tried": true
+},
+{
+"id": "2d8f49089fdc",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "✍ Harry Kane wins the 2026 Ballon d’Or: why he deserves it 🏆",
+"url": "https://sports.yahoo.com/articles/harry-kane-wins-2026-ballon-225600742.html",
+"summary": "Harry Kane has won the 2026 Ballon d’Or. And one number probably explains why the award ended up in his hands: 73.Watch every Serie BKT match live with LaB Channel on OneFootball: subscribe for just...",
+"image": "https://s.yimg.com/lo/mysterio/api/6a0902a6ae3900c2ba0aff2f8fe9e90c92565e384c89ad08d6b553c9509f7a43/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F54fa33b1632b8a4cee520701bb847d0c.jpg",
+"published": "2026-10-26T22:56:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "b59613a0cc90",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Lamine Yamal finishes third as Harry Kane wins 2026 Ballon d’Or",
+"url": "https://sports.yahoo.com/articles/confirmed-lamine-yamal-misses-2026-225500034.html",
+"summary": "Lamine Yamal has narrowly missed out on the 2026 Ballon d’Or, finishing third, as Harry Kane of Bayern Munich won the Golden Orb at Monday’s ceremony in London.The Barcelona winger had been among ...",
+"image": "https://s.yimg.com/lo/mysterio/api/bafe5c9fdc34747a276d85d317b11165c3be55a696a2ebefaf8a66a01b4a9081/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2Feb7f233805ce50b099c41c52627e3582.jpg",
+"published": "2026-10-26T22:55:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "ae76a7147e0a",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Kylian Mbappe finishes second as Harry Kane wins 2026 Ballon d’Or",
+"url": "https://sports.yahoo.com/articles/confirmed-kylian-mbappe-misses-2026-225300027.html",
+"summary": "Kylian Mbappe has missed out on the 2026 Ballon d’Or despite a prolific season for Real Madrid and another remarkable campaign on the international stage with France. The 27-year-old was among the l...",
+"image": "https://s.yimg.com/lo/mysterio/api/f663f26af317f81b91a0a32c59c74fdc063e4777f967207acc835d35c25335e2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2F182ff1a7dacffc91c4fd39dfd25bd8b6.jpg",
+"published": "2026-10-26T22:53:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "232c9b572a19",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Harry Kane wins first Ballon d'Or, Alexia Putellas takes 2026 Ballon d'Or Féminin in delayed ceremony",
+"url": "https://sports.yahoo.com/soccer/article/harry-kane-wins-first-ballon-dor-alexia-putellas-takes-2026-ballon-dor-feminin-in-delayed-ceremony-225219745.html",
+"summary": "Kane won the honor for the first time after a massive season with Bayern Munich; Putellas took the award for the third time in her career in an overlong, Spain-heavy ceremony.",
+"image": "https://s.yimg.com/lo/mysterio/api/2692ad84a86ae2af1af1130f75123ca74e93e478cfd9d9b72068f1d3ebc37a38/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fca93c6ae-6d74-47c6-a96e-4bd02635676d",
+"published": "2026-10-26T22:52:19Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "5e9be33b5d5b",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "🚨Harry Kane is the 2026 Ballon d'Or winner",
+"url": "https://sports.yahoo.com/articles/harry-kane-2026-ballon-dor-225100704.html",
+"summary": "Harry Kane has won the 2026 Ballon d’Or, becoming the standout figure of the football season. The English striker receives the highest individual honour after excelling for Bayern Munich and England...",
+"image": "https://s.yimg.com/lo/mysterio/api/5748e6d9823182b8a4c6ff7527e11e1ad4ea75ed5506d51ba8e896a77fd5f20a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F957c868fe04ca1a0639139b4be1dc456.jpg",
+"published": "2026-10-26T22:51:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "97a45c6eed5c",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC 336: Carlos Prates vs. Michael Morales odds, what to know for interim title bout",
+"url": "https://sports.yahoo.com/articles/ufc-336-carlos-prates-vs-225030662.html",
+"summary": "The opening odds for UFC 336 pin the interim title fight between Carlos Prates and Michael Morales as razor-close.",
+"image": "https://s.yimg.com/lo/mysterio/api/2c7a0b89610da487d5100d44a3e2d68b7f80d4c63ddcfb8976f99066dce2d810/lightyear_networkapi/resizefill_w1080_h633%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F67ff8d74e73cb009b99f142f2bd3e052.jpg",
+"published": "2026-10-26T22:50:30Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"welterweight"
+],
+"img_tried": true
+},
+{
+"id": "20ad82cf5979",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Harry Kane wins 2026 Ballon d’Or as England captain beats Yamal and Mbappe to top prize",
+"url": "https://sports.yahoo.com/articles/harry-kane-wins-2026-ballon-225024950.html",
+"summary": "The Bayern Munich striker, who scored 73 goals last season for club and country, claimed the most prestigious individual prize in world football",
+"image": "https://s.yimg.com/lo/mysterio/api/a34bd2131b15aa6a243e0a03ce0299b6eb185e51b6a51a2eb8da507f607cafb2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F271c17b1a878c521377cec25738d9e96.jpg",
+"published": "2026-10-26T22:50:24Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "e234004733cc",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Cowboys vs. Eagles live updates, inactives, where to watch: Saquon Barkley returns as Eagles, without Jalen Hurts, try to snap 4-game skid in NFC East showdown",
+"url": "https://sports.yahoo.com/nfl/live/cowboys-eagles-score-live-updates-inactives-highlights-stats-where-to-watch-week-7-monday-night-football-224909959.html",
+"summary": "The Cowboys and Eagles both enter the week at 2-4 in a wide-open NFC East.",
+"image": "https://s.yimg.com/lo/mysterio/api/c8b3586dfaa21fee8abc7d59ac1a99cbad9b5a1ed46415d89768ed2a1c5dd690/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Ff6a36f71-62e6-487d-a158-bb18943dab73",
+"published": "2026-10-26T22:49:09Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "eece4dec77f5",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Eagles vs. Cowboys odds, picks, player props: Expert's NFL Week 7 best bets for Monday Night Football",
+"url": "https://www.cbssports.com/betting/news/eagles-vs-cowboys-odds-picks-player-props-experts-nfl-week-7-best-bets-for-monday-night-football/",
+"summary": "Take the underdog Eagles getting 4.5 points, back CeeDee Lamb to bounce back through the air and target value on a pair of red-zone tight ends",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/c829960e-57c1-4751-b0db-6e37e48baa3e/mckee.jpg",
+"published": "2026-10-26T22:45:50Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "9a6de157e1d5",
+"league": "mlb",
+"source": "CBS Sports",
+"title": "Brewers vs. Rays World Series Game 3 picks: Freddy Peralta faces former club at crucial point in series",
+"url": "https://www.cbssports.com/betting/news/brewers-vs-rays-world-series-game-3-picks-freddy-peralta-faces-former-club-at-crucial-point-in-series/",
+"summary": "Down 2-0, the Rays turn to former Brewer Freddy Peralta in Game 3 of the World Series",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/ec284248-2fc1-4e0f-b75c-621ddf7a28af/peralta.jpg",
+"published": "2026-10-26T22:45:48Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+]
+},
+{
+"id": "7ac117a6b4e2",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Kalshi promo code CBSSPORTS55: Land $55 bonus for Cowboys vs. Eagles on Monday Night Football",
+"url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-land-55-bonus-cowboys-vs-eagles-monday-night-football/",
+"summary": "New Kalshi users who make trades on the NFL Week 7 Cowboys vs. Eagles MNF matchup can get a $55 bonus after spending $25+",
+"image": "https://sportshub.cbsistatic.com/i/2026/09/18/02779120-23fa-41ca-b99d-dcc29817df6e/kalshi-promo-code-cbssports55.jpg",
+"published": "2026-10-26T22:45:47Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "c443e6d0881b",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Dominick Reyes doubles down on criticism of 'lazy' Daniel Cormier: 'He doesn't do the research and work'",
+"url": "https://sports.yahoo.com/mma/article/dominick-reyes-doubles-down-on-criticism-of-lazy-daniel-cormier-he-doesnt-do-the-research-and-work-ufc-333-224244661.html",
+"summary": "Dominick Reyes is done letting the UFC's commentary booth go by unchecked.",
+"image": "https://s.yimg.com/lo/mysterio/api/a350e5f2e7cbbd872172538cdd9c0559bb17fa7b69093a26168f19a42efd9538/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F75705b4e-1e14-488f-b894-8f37ee6ebcd8",
+"published": "2026-10-26T22:42:44Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"light-heavyweight"
+],
+"img_tried": true
+},
+{
+"id": "237bd62496e4",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Phillies reportedly hiring Peter Fatse as new hitting coach, joining Carlos Mendoza on Don Mattingly's staff",
+"url": "https://sports.yahoo.com/mlb/article/phillies-reportedly-hiring-peter-fatse-as-new-hitting-coach-joining-carlos-mendoza-on-don-mattinglys-staff-224102083.html",
+"summary": "Fatse replaces Kevin Long, under whom the Phillies' hitting numbers had steadily declined.",
+"image": "https://s.yimg.com/lo/mysterio/api/f7a6be5e1430ad1085e78fb09e127b377467cd19ccd29a842492f9ed89cc8de5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fde4cc12c-ed05-406e-a22d-37346023de97",
+"published": "2026-10-26T22:41:02Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "fd33f172b843",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Cavs watched World Cup film to address recent blown leads",
+"url": "https://sports.yahoo.com/articles/cavs-watched-world-cup-film-224009060.html",
+"summary": "The Cavs are trying to find the root of a problem that has plagued them since last season.",
+"image": "https://s.yimg.com/lo/mysterio/api/d55377d562162304b7a492ce7fecec70c25b7ffaab230288eaee18a487dd750b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ff96ad7154d9d6e2985919d25f39d08e9.jpg",
+"published": "2026-10-26T22:40:09Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"cle"
+],
+"img_tried": true
+},
+{
+"id": "83b916858116",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Ballon d'Or Feminin: All-time winners, 2018-present after Alexia Putellas reclaims her crown in 2026",
+"url": "https://sports.yahoo.com/articles/ballon-dor-feminin-time-winners-210624775.html",
+"summary": "The Barcelona and Spain dynasty in the Ballon d'Or Feminin award remains alive and well following Alexia Putellas' 2026 win.",
+"image": "https://s.yimg.com/lo/mysterio/api/242c06a26908133bdedb65a24e191659c6139f88d20d0fb418af5a1650b805a2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2F661970ebd274ec7b3c332771cefeafcf.jpg",
+"published": "2026-10-26T22:40:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "5036190d6785",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "49ers ‘pretty optimistic’ Christian McCaffrey’s mild hamstring strain won’t cause him to miss time",
+"url": "https://sports.yahoo.com/articles/49ers-pretty-optimistic-christian-mccaffrey-223522409.html",
+"summary": "49ers HC Kyle Shanahan is expecting plenty of reinforcements to return after the bye",
+"image": "https://s.yimg.com/lo/mysterio/api/255099fb098e4f8463432ea47a5c835bf05709a105f3d7461d4a919a5f749003/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F9d7d4aeb6a929681b25d889fca81952f.jpg",
+"published": "2026-10-26T22:35:22Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"sf"
+],
+"img_tried": true
+},
+{
+"id": "ae5d5754a776",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Alexia Putellas, wins the Ballon d'Or",
+"url": "https://sports.yahoo.com/articles/alexia-putellas-wins-ballon-dor-223400238.html",
+"summary": "Alexia Putellas reigns supreme in world football once again. The Spanish midfielder claims her third Ballon d’Or, following her wins in 2021 and 2022, reaffirming her place among the great legends o...",
+"image": "https://s.yimg.com/lo/mysterio/api/7afa70a8a924333a9bdcfa0f7220c3a4d27f5f53a49fe31b64711b64b5bd3d6a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F8ede8b8242f3c0fa5c6fb6973648422b.jpg",
+"published": "2026-10-26T22:34:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "66c6b33d8037",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "World Series Gamethread: 10/26/26",
+"url": "https://sports.yahoo.com/articles/world-series-gamethread-10-26-223000184.html",
+"summary": "Game 3, tonight.",
+"image": "https://s.yimg.com/lo/mysterio/api/f3d8e23fbcaf9ee889fc7cdd9bfab1a219f88ff81f9d60c75ad067b4a8ddc6a5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd2d5c1dd3e0c569b7502459daf2d27e4.jpg",
+"published": "2026-10-26T22:30:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "90bb01b93024",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Cardinals RB Jeremiyah Love will practice Wednesday",
+"url": "https://sports.yahoo.com/articles/cardinals-rb-jeremiyah-love-practice-222956510.html",
+"summary": "Jeremiyah Love has missed the past two games with a sprained left ankle, but the Cardinals running back is close to returning.",
+"image": "https://s.yimg.com/lo/mysterio/api/2a8d21abb2c02630983935d9272dc0fd33a9e4a54379c31185cdde8a1ab94aac/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Ff3c89b35b31966dbcf8b07edc04a533e.jpg",
+"published": "2026-10-26T22:29:56Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"ari"
+],
+"img_tried": true
+},
+{
+"id": "a48d21352421",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Rams say they still don't know when Myles Garrett will return from knee injury",
+"url": "https://sports.yahoo.com/nfl/breaking-news/article/rams-say-they-still-dont-know-when-myles-garrett-will-return-from-knee-injury-222931251.html",
+"summary": "Sean McVay said he didn't know on Monday whether Garrett would return to practice this week.",
+"image": "https://s.yimg.com/lo/mysterio/api/f57fd324ed6a57bb4ae112c699bf69461845da4c1e2f25693206383a16a4ba3e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F0f6f63ab-fb10-4f7d-98ac-8478cb2b2ffb",
+"published": "2026-10-26T22:29:31Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lar"
+],
+"img_tried": true
+},
+{
+"id": "2e78be480c55",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Monday practice report for Packers",
+"url": "https://sports.yahoo.com/articles/monday-practice-report-packers-222509055.html",
+"summary": "Packers announce estimated practice report for first practice of week",
+"image": "https://s.yimg.com/lo/mysterio/api/30046f529e622d4e91ea49ede275cb36eb4e065d0d08881cc9b1c83c8728745f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Ff7d6538f69b888bc23895e17054cf75c.jpg",
+"published": "2026-10-26T22:25:09Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"gb"
+],
+"img_tried": true
+},
+{
+"id": "dc39418e50dc",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Patriots' Mike Vrabel has blunt response to reported $250,000 fine: 'Talk to the league'",
+"url": "https://sports.yahoo.com/articles/patriots-mike-vrabel-blunt-response-221543250.html",
+"summary": "New England Patriots head coach Mike Vrabel said \"talk to the league\" about his reported $250,000 fine that was supposed to remain \"confidential.\"",
+"image": "https://s.yimg.com/lo/mysterio/api/4d7bdacfd2cf333eb78797370be4e776ccf45db2a8c298571085df8c0aea0c7f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F61be3816800c8b163f386c3dafd18fbf.jpg",
+"published": "2026-10-26T22:15:43Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"ne"
+],
+"img_tried": true
+},
+{
+"id": "f0642fcd71bb",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Matthew Golden does not practice Monday",
+"url": "https://sports.yahoo.com/articles/matthew-golden-does-not-practice-221531335.html",
+"summary": "Packers WR Matthew Golden listed as non participant in estimated report",
+"image": "https://s.yimg.com/lo/mysterio/api/b91792345f566f5cb6925da1267fdb62f1995aaa50b8132a5641d4630e2a1998/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fbc6eaa0ac3533f337faee0f6fb97159d.jpg",
+"published": "2026-10-26T22:15:31Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"gb"
+],
+"img_tried": true
+},
+{
+"id": "83f09c95cd00",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Game 1 of Brewers-Rays World Series sees slight step back in ratings from 2024-25",
+"url": "https://sports.yahoo.com/mlb/article/game-1-of-brewers-rays-world-series-sees-slight-step-back-in-ratings-from-2024-25-221337553.html",
+"summary": "Outside of the recent pair of Dodgers World Series, it was still the most-watched Game 1 since 2019.",
+"image": "https://s.yimg.com/lo/mysterio/api/d943879f2439dcf8973cb970fd0d94d69edbea9bc00c38beef888d2d0e0b0ca6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc770f749-e3fc-4c81-a6d1-a7775e9ce36e",
+"published": "2026-10-26T22:13:28Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "d07e1ffee7a9",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "The Lions had a good game plan to limit Lukas Van Ness",
+"url": "https://sports.yahoo.com/articles/lions-had-good-game-plan-221127885.html",
+"summary": "Lukas Van Ness only rushed the tackle five times on Sunday against the Detroit Lions",
+"image": "https://s.yimg.com/lo/mysterio/api/913a1134f159486e8fbd59375f5b4718a10aa7c201a8c12a92bc30dc9478b055/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fee1e05ca7d64fd1e6a4fa6c85d3f2f9d.jpg",
+"published": "2026-10-26T22:11:27Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"det"
+],
+"img_tried": true
+},
+{
+"id": "696643f997a0",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Game over: Long-serving Liverpool duo won't get new deals",
+"url": "https://sports.yahoo.com/articles/game-over-long-serving-liverpool-221000466.html",
+"summary": "Liverpool have spent a lot of time and money improving their centre-back options in recent windows. The renewal process kicked off in summer 2025 with the acquisition of Giovanni Leoni in a £26m deal...",
+"image": "https://s.yimg.com/lo/mysterio/api/91daeb75ced0ffeb98d9a07e93f143b932eaeee602c40203355de5e6e4c88686/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_watch_articles_625%2Fced91e7417683afe91cfa6c87828bc3d.jpg",
+"published": "2026-10-26T22:10:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "a7e53eafd03e",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "World Series Game 3 Discussion: Milwaukee Brewers (2-0) @ Tampa Bay Rays (0-2)",
+"url": "https://sports.yahoo.com/articles/world-series-game-3-discussion-220831402.html",
+"summary": "The Crew looks to take a stronghold over the World Series against a former friend in Tampa Bay",
+"image": "https://s.yimg.com/lo/mysterio/api/00ea31acd44db159de79b23653c29d1976cd1a33aba1660f10c21fd62447b724/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F560733407fd464a632c3d56cea3f4978.jpg",
+"published": "2026-10-26T22:08:31Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+],
+"img_tried": true
+},
+{
+"id": "4661c55024d6",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Leeds United Boss Wins Exit Clause: Is It Loyalty Or Pragmatism?",
+"url": "https://sports.yahoo.com/articles/leeds-united-boss-wins-exit-220500819.html",
+"summary": "Leeds United have started the Premier League season with a clear identity under Daniel Farke. They sit seventh with 11 points from eight matches, recording two wins, five draws and one defeat. Nine go...",
+"image": "https://s.yimg.com/lo/mysterio/api/3cb5b87511eb4e3dfc7e1335ddb45a7b5b6fd9a7561105e95f43895a76662493/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2Ff447e1e3425e0fc1d4ca7ec660edb7cb.jpg",
+"published": "2026-10-26T22:05:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"leeds"
+],
+"img_tried": true
+},
+{
+"id": "ddca25dd2cab",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "📋 Flamengo and Atlético-MG line-ups for Brasileirão matchweek 32 finale",
+"url": "https://sports.yahoo.com/articles/flamengo-atl-tico-mg-line-220500959.html",
+"summary": "Flamengo and Atlético-MG face off at the Maracanã this Monday (26) at 8 p.m. (Brasília time) to wrap up Matchday 32 of the 2026 Brasileirão.On 67 points, the Rubro-Negro need a third consecutive l...",
+"image": "https://s.yimg.com/lo/mysterio/api/281146e59a9f46cadf9fc126cef616e92136233bbbc6d4eebaeb10e5e02b9e0e/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F31c5da38ae23fb8685e4f4dfd4978200.jpg",
+"published": "2026-10-26T22:05:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "4ebe9381a53c",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Juventus starlet Alajbegovic ranks 7th in Ballon d’Or Young Talent award",
+"url": "https://sports.yahoo.com/articles/juventus-starlet-alajbegovic-ranks-7th-220500222.html",
+"summary": "Juventus forward Kerim Alajbegovic has finished 7th in the 2026 Kopa Trophy rankings, the award for the world’s best player under the age of 21, with Lamine Yamal taking the prize at tonight’s Bal...",
+"image": "https://s.yimg.com/lo/mysterio/api/b587ffdf4ccc9db6d0f67c6a4277f0a208797a51b5af5baa20d1ac823e3f6a0e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2Fb30d936a3df08faacc2a9becf4baed18.jpg",
+"published": "2026-10-26T22:05:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "258f7e50bb36",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Monday practice report for Panthers",
+"url": "https://sports.yahoo.com/articles/monday-practice-report-panthers-220330256.html",
+"summary": "Panthers announce Monday estimated practice report leading up to Week 8",
+"image": "https://s.yimg.com/lo/mysterio/api/d7857622d3854068d9653ee80de78839653eab99c87f195d1873527a874d389a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Faf388b0d9fb4023e30312bb7302b05b8.jpg",
+"published": "2026-10-26T22:03:30Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"car"
+],
+"img_tried": true
+},
+{
+"id": "e8954933a16d",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Thunder's Jalen Williams out indefinitely with fractured fibula, dislocated ankle after gruesome injury in win over Clippers",
+"url": "https://sports.yahoo.com/nba/breaking-news/article/thunders-jalen-williams-out-indefinitely-with-fractured-fibula-dislocated-ankle-after-gruesome-injury-in-win-over-clippers-220320179.html",
+"summary": "Williams and Cason Wallace could both miss the rest of the 2026-27 season.",
+"image": "https://s.yimg.com/lo/mysterio/api/c407b915821a7586895df69fd46fb87166ea5d2f3897c5575a4df650b8a3bc06/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fd093ea9a-fcce-4505-a70f-4cb0cbc24901",
+"published": "2026-10-26T22:03:20Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lac",
+"okc"
+],
+"img_tried": true
+},
+{
+"id": "27c7687c9db8",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Thunder lose starters Jalen Williams, Cason Wallace to injuries requiring surgery",
+"url": "https://sports.yahoo.com/articles/thunder-star-jalen-williams-fractured-220319966.html",
+"summary": "Thunder starters Jalen Williams and Cason Wallace both suffered injuries that will require surgery during an Oct. 25 game. Here's the latest update.",
+"image": "https://s.yimg.com/lo/mysterio/api/60767412e87a180c204fdf14a18e45541922bbcc03d5cf9f334186e70c01b36f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F8e697fe2295e6726670a986feeb66361.jpg",
+"published": "2026-10-26T22:03:19Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"okc"
+],
+"img_tried": true
+},
+{
+"id": "50f62c35a6ef",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "PSG, best men's club of the 2026 season",
+"url": "https://sports.yahoo.com/articles/psg-best-mens-club-2026-220200452.html",
+"summary": "PSG are crowned the best men's club of the 2026 season. Paris Saint-Germain have been named the best men's club of the season, retaining last year's title. Luis Enrique's team won their second consecu...",
+"image": "https://s.yimg.com/lo/mysterio/api/9a06b3defc2723dbb1ac5e499f64a9f6016c6daa85b82ecc417ef7e7eefcbcfd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F70c5eea9af2fc16931fe4955f845b78b.jpg",
+"published": "2026-10-26T22:02:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "57a03b7d1f24",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Spinning Back Clique: Alexander Volkanovski, Petr Yan win big at UFC 333",
+"url": "https://sports.yahoo.com/articles/spinning-back-clique-alexander-volkanovski-220059211.html",
+"summary": "On the latest episode of \"Spinning Back Clique,\" the panel discusses the results of UFC 333, plus the new interim title booking in Prates vs. Morales.",
+"image": "https://s.yimg.com/lo/mysterio/api/65dcf8de719286f55e55f30601db6c494152f1a280686998c4f7884c66e22879/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F3ec4f21762463150c9982458f15ba425.jpg",
+"published": "2026-10-26T22:00:59Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"bantamweight",
+"featherweight"
+],
+"img_tried": true
+},
+{
+"id": "b043b95358ee",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Jordan Love, Christian Watson off Packers' injury report",
+"url": "https://sports.yahoo.com/articles/jordan-love-christian-watson-off-220043731.html",
+"summary": "The Packers had quarterback Jordan Love and wide receiver Christian Watson on their injury report last week.",
+"image": "https://s.yimg.com/lo/mysterio/api/2cf3ef2d86f96eed7174f180ce72f739fd5d4a8a6c68c77874a4377480212c2f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Fd3a989974e7c9c1abd2a466a748cf0e5.jpg",
+"published": "2026-10-26T22:00:43Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"gb"
+],
+"img_tried": true
+},
+{
+"id": "320f09a5bd61",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "NFL Trade Rumors: Bears ‘connected to several defensive players’",
+"url": "https://sports.yahoo.com/articles/nfl-trade-rumors-bears-connected-220000457.html",
+"summary": "More buzz surrounds a potential Chicago Bears trade before the deadline. @wiltfongjr with the latest here.",
+"image": "https://s.yimg.com/lo/mysterio/api/3878567ac25fe44d92dbfeac3985a5e8bc4f827449c29ab31564ffdc7f6f6650/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd66fb4ebd8ec663154ae058d1b72e621.jpg",
+"published": "2026-10-26T22:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"chi"
+],
+"img_tried": true
+},
+{
+"id": "d3e9f482b8e3",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Keys before kickoff: Cowboys at Eagles Week 7",
+"url": "https://sports.yahoo.com/articles/keys-kickoff-cowboys-eagles-week-220000940.html",
+"summary": "This game is huge for the Cowboys",
+"image": "https://s.yimg.com/lo/mysterio/api/d657b63512339915096becd2ddcadb93c1ef2a17941d9bf3fd47366170ea80b9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F0eec8fb105d84d47ddadfb0e6ec37b4e.jpg",
+"published": "2026-10-26T22:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "1638171cf4fd",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Barça, best women's club of 2026",
+"url": "https://sports.yahoo.com/articles/bar-best-womens-club-2026-215100864.html",
+"summary": "Barça, champions of everything: a flawless yearFC Barcelona Femení is the best women’s club of the season. The Blaugrana won all four available trophies: Liga F, the Copa de la Reina, the Spanish ...",
+"image": "https://s.yimg.com/lo/mysterio/api/615d5d0189021d3bcf158c93f6d3efa042825cc98e5427365b4e809e76842242/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F7b1b51e6c4c389f6a822d1370743ecc5.jpg",
+"published": "2026-10-26T21:51:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "5d3084a6f20c",
+"league": "nba",
+"source": "CBS Sports",
+"title": "More than a championship hangover: Four reasons behind Knicks' troubling 0-3 start",
+"url": "https://www.cbssports.com/nba/news/more-than-championship-hangover-four-reasons-behind-knicks-troubling-start/",
+"summary": "The Knicks are just the third defending champ this century to drop their opening three games",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/ffd8984f-e635-4c59-8fd7-4356c31dea05/mikal-bridges-getty-4.png",
+"published": "2026-10-26T21:48:47Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"ny"
+]
+},
+{
+"id": "1e69c5241363",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Phillies hire Peter Fatse as Hitting Coach",
+"url": "https://sports.yahoo.com/articles/phillies-hire-peter-fatse-hitting-214816513.html",
+"summary": "New hitting coach.",
+"image": "https://s.yimg.com/lo/mysterio/api/bf786c4a3cefcfa9c83304236c1e36fa1b0aaff9df24dec0d052d34fa7235cb2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fcf927f716b90b83e446b78787364807a.jpg",
+"published": "2026-10-26T21:48:16Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "5e1ddb46963b",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Panthers estimate four starters out of practice, including OLB Jaelan Phillips",
+"url": "https://sports.yahoo.com/articles/panthers-estimate-four-starters-practice-214416196.html",
+"summary": "The Panthers did not practice on Monday, but they still had to submit an injury report for Thursday night's game.",
+"image": "https://s.yimg.com/lo/mysterio/api/eee805a33c7646aaed5c802fc5c98c2280c23d2029e7927a893ec719e8ee6aa5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Fe27c89d72759e2e63dee1513149d48a7.jpg",
+"published": "2026-10-26T21:44:16Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"car"
+],
+"img_tried": true
+},
+{
+"id": "b5a84f4190fb",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Official: Lulli signs new Roma contract until 2031",
+"url": "https://sports.yahoo.com/articles/official-lulli-signs-roma-contract-214300436.html",
+"summary": "Roma have officially announced Emanuele Lulli’s new deal.“AS Roma are delighted to announce that Emanuele Lulli has signed a new contract with the club.The young winger made his professional debut...",
+"image": "https://s.yimg.com/lo/mysterio/api/596ebca601af75968c28cbc1f81d4017b408c0c8239d8c4ef7e2e3389674d428/lightyear_networkapi/resizefill_w612_h408%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fromapress_articles_142%2F59630c9c6e01ebe4e17f6ca17cbb027c.jpg",
+"published": "2026-10-26T21:43:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "7f38ccc7b077",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Andoni Iraola handpicks new £30m right-back",
+"url": "https://sports.yahoo.com/articles/andoni-iraola-handpicks-30m-back-214000653.html",
+"summary": "Ronald Araujo looks right at home at Liverpool. The 27-year-old has emerged as a fan favourite throughout his short time at Anfield since moving from Barcelona on a season-long loan deal.The Uruguayan...",
+"image": "https://s.yimg.com/lo/mysterio/api/5770388c6e96f81738af8e0fc0e96402a13109ba8b8eeefb94c3ab12d7f6f332/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_watch_articles_625%2Fe1ee57f0d04a85f9d6936076c060caf1.jpg",
+"published": "2026-10-26T21:40:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "1f8bffcaa69b",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Cata Coll, goalkeeper of the year",
+"url": "https://sports.yahoo.com/articles/cata-coll-goalkeeper-213600426.html",
+"summary": "Cata Coll, between the posts for a Barça side that won it allCata Coll has been named goalkeeper of the season after a perfect campaign with FC Barcelona, who won the league, the Copa de la Reina, th...",
+"image": "https://s.yimg.com/lo/mysterio/api/33a78f6070e42bfa67d30c39211db18136d2530bf2f9a158c82000123a58f520/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F9268dcf213097f6332d42a274b80f005.jpg",
+"published": "2026-10-26T21:36:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "66d562836f17",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Boyd Questions Celtic’s £11m Striker: Should Durán Lead The Line?",
+"url": "https://sports.yahoo.com/articles/boyd-questions-celtic-11m-striker-213500361.html",
+"summary": "Celtic’s 2-1 win over Hibernian kept them four points clear at the top of the Premiership, but Kasper Høgh’s latest display has sharpened questions about Martin O’Neill’s choice of centre-for...",
+"image": "https://s.yimg.com/lo/mysterio/api/d4f8936b3830354b344aabfebf7b2aea39357d0a99ef2ef30e912fef2aba6c17/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2Fb0ecdcff9a88b6e14750e3feb710b4b9.jpg",
+"published": "2026-10-26T21:35:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "e29a2a053fa9",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Unai Simón, goalkeeper of the season",
+"url": "https://sports.yahoo.com/articles/unai-sim-n-goalkeeper-season-213400811.html",
+"summary": "Unai Simón, Golden Glove winner and world championUnai Simón has been named goalkeeper of the year after starring in defence for World Cup-winning Spain. He won the World Cup Golden Glove and set a ...",
+"image": "https://s.yimg.com/lo/mysterio/api/1a0810327c7cd169a915002e120ca2339849ce7d7d6489c38f6cb204fb98f699/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F9f2c27306856a2dfec2c6e3f558b60a5.jpg",
+"published": "2026-10-26T21:34:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "798d9b60b433",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "📋 Grêmio line-up to face Coritiba and try to end their crisis",
+"url": "https://sports.yahoo.com/articles/gr-mio-line-face-coritiba-213300991.html",
+"summary": "Grêmio face Coritiba at Estádio Couto Pereira this Monday (26) at 7:30 p.m. (Brasília time), on Matchday 32 of the 2026 Brasileirão.Winless in seven games, the Tricolor Gaúcho are languishing in ...",
+"image": "https://s.yimg.com/lo/mysterio/api/837680455dc9f41010c817f85f5c7af62c136cc2672038a405ef56d0afc4cec3/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F1f13649b79ea68accea22be3c8cd09b0.jpg",
+"published": "2026-10-26T21:33:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "2d02f72eceb8",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Geno Smith gets earful from Garrett Wilson in New York Jets loss to Miami Dolphins ahead of Las Vegas Raiders matchup",
+"url": "https://sports.yahoo.com/articles/geno-smith-gets-earful-garrett-213200577.html",
+"summary": "Checking in on a few old friends after Week 7.",
+"image": "https://s.yimg.com/lo/mysterio/api/ad009e61a237f2313f2cde433f6cef8d4b9181317ee8c2a50f86c4fb9155792c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F1968c0de935e000251fba614d7d8a4ea.jpg",
+"published": "2026-10-26T21:32:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lv",
+"mia",
+"nyj"
+],
+"img_tried": true
+},
+{
+"id": "bf3e8411843e",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "49ers fans have a real officiating gripe vs. the Falcons—and it’s not the catch rule",
+"url": "https://sports.yahoo.com/articles/49ers-fans-real-officiating-gripe-213000767.html",
+"summary": "Fans compared Brock Purdy’s interception to the Jordan Watkins non-catch. There were ref problems, but not there.",
+"image": "https://s.yimg.com/lo/mysterio/api/fa771de370e674d5eaa98efd4c05ad49afc64532144c947ae1b2d11c32c8b15a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F4c175228ad5143aae7875e4f4d8c387f.jpg",
+"published": "2026-10-26T21:30:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"atl",
+"sf"
+],
+"img_tried": true
+},
+{
+"id": "2d019e5aa970",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "PLAYER RATINGS | PSG 2-0 Lyon: Les Parisiens go top of Ligue thanks to super-sub Mika Godts",
+"url": "https://sports.yahoo.com/articles/player-ratings-psg-2-0-212500469.html",
+"summary": "Round 8, Ligue 1 McDonald’s, 26/10/2026With three points meaning either team would take top spot in Ligue 1, it was PSG who returned to the summit thanks to impressive strikes from second-half subst...",
+"image": "https://s.yimg.com/lo/mysterio/api/8fdc592bdc64bd9e40276d401893e13e3fd36e2a385f0a94600096829e7f0cf4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fget_french_football_news_702%2F8b4cab32ce35269b785389d74e2adc1e.jpg",
+"published": "2026-10-26T21:25:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "19ac6870b523",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Ashton Jeanty struggling to find room to run, averaging 3.1 yards per carry",
+"url": "https://sports.yahoo.com/articles/ashton-jeanty-struggling-room-run-212343606.html",
+"summary": "Raiders running back Ashton Jeanty has not been the player they thought they were getting when they selected him with the sixth overall pick in the 2025 NFL draft.",
+"image": "https://s.yimg.com/lo/mysterio/api/a8e6b98d765cfa46b4cd1b529562df07f6d8197cc2b9bb77ba8642122681d3f8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F2c19da322d482f95b7896d1140e7821a.jpg",
+"published": "2026-10-26T21:23:43Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lv"
+],
+"img_tried": true
+},
+{
+"id": "28121b10d3f9",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Julian Erosa announces retirement fight ahead of UFC Vegas 123 – ‘Fighting used to be my life’",
+"url": "https://sports.yahoo.com/articles/julian-erosa-announces-retirement-fight-212241210.html",
+"summary": "One last fight for “Juicy J.” Longtime Ultimate Fighting Championship (UFC) Featherweight veteran Julian Erosa will make his final walk to the Octagon this weekend (Sat., Oct. 31, 2026) when he battles Jeong Yeong Lee on the UFC Vegas 123 preliminary card from inside Meta APEX in Las Vegas, Nevada. Recently, Erosa,…",
+"image": "https://s.yimg.com/lo/mysterio/api/f9a347efab38053141759d77d628d59b24056617e88d0a1b36c8d2ca7a4206f8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F14e6517c162522ffbc98634472cc13b1.jpg",
+"published": "2026-10-26T21:22:41Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"featherweight"
+],
+"img_tried": true
+},
+{
+"id": "a3f3d28ec3d3",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Luis de la Fuente, the best coach of a men's team",
+"url": "https://sports.yahoo.com/articles/luis-la-fuente-best-coach-212100945.html",
+"summary": "World champion De la Fuente named coach of the yearLuis de la Fuente has been named the best men's coach after leading Spain to victory at the 2026 World Cup. The national team coach takes the award i...",
+"image": "https://s.yimg.com/lo/mysterio/api/d7efbe2e51f288b7fc9e68213c7a6eaff1aefcf1392397464e14c93e42b7ea2b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fdd3a8ccfbb2297eb4da19789273cb291.jpg",
+"published": "2026-10-26T21:21:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "f80193246d42",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "David Lynch heaps praise on Liverpool star after huge Brighton win",
+"url": "https://sports.yahoo.com/articles/david-lynch-heaps-praise-liverpool-212000487.html",
+"summary": "David Lynch Praises Florian Wirtz as Liverpool Star Shows Signs of Finding His FormFlorian Wirtz is beginning to show encouraging signs of progress at Liverpool, with journalist David Lynch praising t...",
+"image": "https://s.yimg.com/lo/mysterio/api/dd5fcd227a1dc89edbcfd8a6a21c841b265951a8bdc5c334d8cbf9c3c3926fbf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F9978481faf12a368fffe5a74010cc298.jpg",
+"published": "2026-10-26T21:20:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"brighton",
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "147edb852382",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Chelsea and Liverpool could be set for huge Alex Scott blow",
+"url": "https://sports.yahoo.com/articles/chelsea-liverpool-could-set-huge-212000797.html",
+"summary": "Alex Scott transfer latest as Bournemouth fight to keep Chelsea targetBournemouth are preparing a fresh push to tie Alex Scott down to a new deal, with TeamTalk reporting that owner Bill Foley has aut...",
+"image": "https://s.yimg.com/lo/mysterio/api/01fbe8ec7f4a856def05c82b9f7f08c8144aeb0a16bb9aeb9138e602f55a2bf5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2F10af9615808ad0ad7e84385858afc657.jpg",
+"published": "2026-10-26T21:20:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"chelsea",
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "1d51972771b6",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Lamine Yamal says he shouldn’t have won Golden Boy award as he chases Ballon d’Or",
+"url": "https://sports.yahoo.com/articles/lamine-yamal-says-shouldn-t-211907413.html",
+"summary": "Yamal is vying for the first Ballon d’Or of his career",
+"image": "https://s.yimg.com/lo/mysterio/api/fadefe0664266a7e2d11c18292a81ea55da8823c2be5c734342bf458b1446e01/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F01c464cf59fa8af3e3d0f23ee5ef4dc7.jpg",
+"published": "2026-10-26T21:19:07Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "c5a5aa67a405",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Timberwolves could be without star guard in matchup with Cavs",
+"url": "https://sports.yahoo.com/articles/timberwolves-could-without-star-guard-211500564.html",
+"summary": "The Cavs could be taking on a short-handed version of the Timberwolves.",
+"image": "https://s.yimg.com/lo/mysterio/api/21412c8c9c59123625c809dd2a57bcfb9207d6ca1e5fe02283eb9192d5d21440/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F8d4616e5bcafd2e3596f5d2fcb6fe42d.jpg",
+"published": "2026-10-26T21:15:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"cle",
+"min"
+],
+"img_tried": true
+},
+{
+"id": "547759da5fb4",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Abus Magomedov loves when opponents want to take him down – like UFC 333",
+"url": "https://sports.yahoo.com/articles/abus-magomedov-loves-opponents-want-211033025.html",
+"summary": "Go ahead, middleweights: Take Abus Magomedov down. That's where he wants you.",
+"image": null,
+"published": "2026-10-26T21:10:33Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"middleweight"
+],
+"img_tried": true
+},
+{
+"id": "9b1b0d71f00f",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool reach decision over deal for £50m Senegal forward",
+"url": "https://sports.yahoo.com/articles/liverpool-reach-decision-over-deal-211000911.html",
+"summary": "Liverpool spent big improving their forward options once again last summer. The biggest deal was Bradley Barcola - arriving from Paris Saint-Germain for a fee that could top £123m. And Victor Munoz w...",
+"image": "https://s.yimg.com/lo/mysterio/api/369bec6a557990db359fc4cc45c0a625f7b00e4c113839019337d28e2e84a7ec/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_watch_articles_625%2F76a1d08f53cb6fb86e736af13661d094.jpg",
+"published": "2026-10-26T21:10:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "86dcf8eecbcf",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Romeu, the best coach in women's football",
+"url": "https://sports.yahoo.com/articles/romeu-best-womens-team-coach-211000959.html",
+"summary": "Romeu, the Barça coach who won it allPere Romeu has been named best women's team coach after a perfect season with FC Barcelona, who won all four trophies on offer: the league, the Copa de la Reina, ...",
+"image": "https://s.yimg.com/lo/mysterio/api/1df3306d8640a5f4946b5818f638c083c4631b22d134a560e445240404ce5287/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fb73c468a65afbec2a55caeb3d672bdd8.jpg",
+"published": "2026-10-26T21:10:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "221c36ba6ee0",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Andrew Berry: We're excited to keep Maliek Collins in Cleveland",
+"url": "https://sports.yahoo.com/articles/andrew-berry-were-excited-keep-210601435.html",
+"summary": "The 5-3 Browns have another reason to celebrate on Monday.",
+"image": "https://s.yimg.com/lo/mysterio/api/860e53f5ace6a596117636f37b2d80cfa300879ee689b14fa2ad68f25a561189/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Ffdd90ab851d6cfafc1ddaba812ae91ee.jpg",
+"published": "2026-10-26T21:06:01Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"cle"
+],
+"img_tried": true
+},
+{
+"id": "fcb71694b360",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Denver’s dynasty never arrived. Golden State’s is running out of time",
+"url": "https://sports.yahoo.com/articles/denver-dynasty-never-arrived-golden-210555328.html",
+"summary": "Denver has one ring from Jokić’s prime. Golden State has four with Curry. Tonight, both are running out of time.",
+"image": "https://s.yimg.com/lo/mysterio/api/e52e3c65353740bc228d529560171c172975831d1663374e24d843dcd732a718/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F3d5d5061aa9ad7948316f5f704bc8501.jpg",
+"published": "2026-10-26T21:05:55Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"den",
+"gs"
+],
+"img_tried": true
+},
+{
+"id": "957bc03055a4",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Newcastle United Eye This AC Milan Duo: Can The Centre-Back Fix Jaissle’s High Line?",
+"url": "https://sports.yahoo.com/articles/newcastle-united-eye-ac-milan-210500426.html",
+"summary": "Newcastle United’s 2-0 victory over Crystal Palace on Sunday offered Matthias Jaissle some relief, with William Osula and Harvey Barnes scoring after half-time. However, the Magpies still need bette...",
+"image": "https://s.yimg.com/lo/mysterio/api/c3e181574c58c61db7b844cff28ee48a77d5d6025fd2bae23948c1cdbec96d5b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2Fb8e1c366bdd8e16ba01432394d872e09.jpg",
+"published": "2026-10-26T21:05:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"newcastle"
+],
+"img_tried": true
+},
+{
+"id": "4e2fa6ed1ec2",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Lamine Yamal wins 2026 Kopa Trophy to complete hat-trick",
+"url": "https://sports.yahoo.com/articles/confirmed-lamine-yamal-wins-2026-210200507.html",
+"summary": "Lamine Yamal has won the 2026 Kopa Trophy, the Men’s Young Talent of the Year Award, at the Ballon d’Or ceremony in London, becoming the first player to claim the award three times. The Barcelona ...",
+"image": "https://s.yimg.com/lo/mysterio/api/057bff2a52f38d95d574c369836f9149e4cc895bc53e91c63b435c008a11bdb1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2Fdf8cacfcff188513e05b7a042265a685.jpg",
+"published": "2026-10-26T21:02:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "ddbc11debf53",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Klint Kubiak says Kirk Cousins will remain Raiders' QB1 over Fernando Mendoza",
+"url": "https://sports.yahoo.com/articles/klint-kubiak-says-kirk-cousins-210136252.html",
+"summary": "Klint Kubiak announced his plans to stick with Kirk Cousins as the starter for Week 8, shutting the door on any quarterback controversy.",
+"image": "https://s.yimg.com/lo/mysterio/api/d0f0e69563f402ef95d8c04c30ed80738988983de2689be567faefa8a33e1f23/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Ff05aa06c539351603375c9db36a1acc1.jpg",
+"published": "2026-10-26T21:01:36Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lv"
+],
+"img_tried": true
+},
+{
+"id": "8078d76cbbf1",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "The Canucks Are Inching Dangerously Close To Tying Last Year’s Winless Streak",
+"url": "https://sports.yahoo.com/articles/canucks-inching-dangerously-close-tying-210039815.html",
+"summary": "Vancouver went on an 11-game winless streak during the 2025-26 season. This year's Canucks are only one game away from doing the same.",
+"image": "https://s.yimg.com/lo/mysterio/api/31b4d78a608d084e1582d2ee20144b2ddb69150dc2145cdc4bd2acab1e6c4e7d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hockey_news_vancouver_canucks_articles_867%2F7d68f77a9b7462a6a130476421dee1ce.jpg",
+"published": "2026-10-26T21:00:39Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"van"
+],
+"img_tried": true
+},
+{
+"id": "1cd6684de627",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Steelers Week 7 grades in win over Saints",
+"url": "https://sports.yahoo.com/articles/steelers-week-7-grades-win-205954489.html",
+"summary": "Steelers grades from Week 7 win over Saints.",
+"image": "https://s.yimg.com/lo/mysterio/api/391d92061acb8c04a6212fc42a1cd366f1978d8556562e7db684a41f31e215aa/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F84c20e29c4d333aa83119f2ec367dd6f.jpg",
+"published": "2026-10-26T20:59:54Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"no",
+"pit"
+],
+"img_tried": true
+},
+{
+"id": "fe20e5f2c149",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Lamine Yamal wins the Kopa Trophy",
+"url": "https://sports.yahoo.com/articles/lamine-yamal-wins-kopa-trophy-205700241.html",
+"summary": "Lamine Yamal wins the Kopa Trophy for the third consecutive time, becoming the first player to do so. The Barcelona winger recorded 24 goals and 18 assists in 45 matches and was a key figure in the te...",
+"image": "https://s.yimg.com/lo/mysterio/api/3a1a091d5e17ec2a26e70438b4b5ed53dd847b8a6508d948d2104091db7729ed/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F2e7bba947e565d5a44f974bf52bcbd6b.jpg",
+"published": "2026-10-26T20:57:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "c8bee2d42735",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Tyon Grant-Foster Selected No. 15 in NBA G League Draft",
+"url": "https://sports.yahoo.com/articles/tyon-grant-foster-selected-no-205004054.html",
+"summary": "The 6-7 defensive impactor was with the San Antonio Spurs organization throughout the summer.",
+"image": "https://s.yimg.com/lo/mysterio/api/b70ac7bdf24a837cbbd1f9dca1a657dcd26233e6c7955a580d378314304cfa09/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F2da3096415e09d9873824bb73ee246a6.jpg",
+"published": "2026-10-26T20:50:04Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"sa"
+],
+"img_tried": true
+},
+{
+"id": "273ede59515d",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Everton Takeover Threatens Moyes: Should The Club Change Its Cautious Approach?",
+"url": "https://sports.yahoo.com/articles/everton-takeover-threatens-moyes-club-205000206.html",
+"summary": "Everton’s progress under David Moyes has come under pressure after two consecutive Premier League defeats exposed the limits of their current approach. The Toffees lost 2-0 at home to Chelsea before...",
+"image": "https://s.yimg.com/lo/mysterio/api/32b86f81a8e6cf44a4e3dcfa80f0822f23119a6f73009102e9ee603ef1cc9621/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2F96b67d5288e7650603d283fd31466d14.jpg",
+"published": "2026-10-26T20:50:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"everton"
+],
+"img_tried": true
+},
+{
+"id": "310f4f8833e5",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "John Harbaugh blasts NFL for flag on Cam Skattebo for lowing his helmet: 'That's the way you're supposed to run'",
+"url": "https://sports.yahoo.com/nfl/breaking-news/article/john-harbaugh-blasts-nfl-for-flag-on-cam-skattebo-for-lowing-his-helmet-thats-the-way-youre-supposed-to-run-204948962.html",
+"summary": "In a game where violence is the point, the NFL has yet to come up with a satisfactory player safety measure that doesn't legislate the football out of football.",
+"image": "https://s.yimg.com/lo/mysterio/api/28383c9126bb987b1671a50f31eeca498eca42e9b9a72d67550d2bdef917bab6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F248388a9-d647-4653-b087-5b3b19e812e0",
+"published": "2026-10-26T20:49:48Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "c577cb748819",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "How Milwaukee Brewers player manages diabetes on MLB's biggest stage",
+"url": "https://sports.yahoo.com/articles/milwaukee-brewers-player-manages-diabetes-204755736.html",
+"summary": "Milwaukee Brewers outfielder Garrett Mitchell manages his Type 1 diabetes while competing in the World Series.",
+"image": "https://s.yimg.com/lo/mysterio/api/2cd2e1619eefc6487bf10fb300aea1fe5dfc4f39c9e37edb928d9643a048b0b8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F68b14bc2776db12516847c91959f0480.jpg",
+"published": "2026-10-26T20:47:55Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil"
+],
+"img_tried": true
+},
+{
+"id": "a7f3f28661f3",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Snap Reactions: All nickel, no base as Seahawks stymie Chiefs",
+"url": "https://sports.yahoo.com/articles/snap-reactions-nickel-no-seahawks-204500210.html",
+"summary": "The Seahawks slowed Kenneth Walker and the Chiefs offense in Week 7 with speed, not size.",
+"image": "https://s.yimg.com/lo/mysterio/api/b849b28fe67ace878adf93b4fa6ce0e7f6a86487f6298c1ac4309b0182f21fbd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F2f2a643a6cd48e2aa2c72616b710fbc3.jpg",
+"published": "2026-10-26T20:45:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"kc",
+"sea"
+],
+"img_tried": true
+},
+{
+"id": "6214800f3c87",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Panthers put Taylor Moton on injured reserve",
+"url": "https://sports.yahoo.com/articles/panthers-put-taylor-moton-injured-204427653.html",
+"summary": "Veteran right tackle Taylor Moton's return to the Panthers lineup turned out to be a short-lived one.",
+"image": "https://s.yimg.com/lo/mysterio/api/13875be99c5795d4556c0171cfa78cf4f339edc1678565a5c2cecd8eeb966cc6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Fe83c27de60ea24f9d54a491b5f7397fd.jpg",
+"published": "2026-10-26T20:44:27Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"car"
+],
+"img_tried": true
+},
+{
+"id": "f06781b71b81",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "NFL trade rumors: 4 potential landing spots for Maxx Crosby if Raiders decide to sell at deadline",
+"url": "https://www.cbssports.com/nfl/news/nfl-trade-rumors-landing-spots-maxx-crosby-raiders/",
+"summary": "As the Raiders stumble to 3-4 ahead of the Nov. 10 deadline, contenders like the Bears and Bills could pursue the star pass rusher to fuel a playoff push",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/853fefbc-6d80-4e72-92a6-b527d16fd72e/max.jpg",
+"published": "2026-10-26T20:43:53Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lv"
+]
+},
+{
+"id": "a01813d6399b",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Giants say Dominic Zvada’s placekicking job is not in jeopardy",
+"url": "https://sports.yahoo.com/articles/giants-dominic-zvada-placekicking-job-204332766.html",
+"summary": "John Harbaugh says there will not be a kicker tryout.",
+"image": "https://s.yimg.com/lo/mysterio/api/94897b8364226c463c17e2ffb41cdd98e127777b614a95bbb4e7205e6e56dd52/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F25098a68cc166e9f7cb09188a7b1c477.jpg",
+"published": "2026-10-26T20:43:32Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"nyg"
+],
+"img_tried": true
+},
+{
+"id": "59dc35ca8e67",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Cooper Flagg upgraded to probable for Mavericks' game vs. Heat after sitting out Saturday with sprained left shoulder",
+"url": "https://sports.yahoo.com/nba/article/cooper-flagg-upgraded-to-probable-for-mavericks-game-vs-heat-after-sitting-out-saturday-with-sprained-left-shoulder-204317217.html",
+"summary": "The NBA Rookie of the Year was listed as questionable on the injury report until participating in the Mavericks' shootaround earlier on Monday.",
+"image": "https://s.yimg.com/lo/mysterio/api/5bec8056e73df7d301fc31356e877de3c9628cd4892b6c57525674c95f3e08d5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F21b5851e-eb91-422d-9c4b-d43823f23610",
+"published": "2026-10-26T20:43:17Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal"
+],
+"img_tried": true
+},
+{
+"id": "38873052ebec",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Botman, Ramsey And Wissa To Start | 4-3-3 Newcastle United Predicted Lineup Vs Everton",
+"url": "https://sports.yahoo.com/articles/botman-ramsey-wissa-start-4-203500169.html",
+"summary": "Newcastle United will lock horns with Everton at the Hill Dickinson Stadium this Wednesday night as they look to secure a victory in the EFL Cup. The Magpies managed to earn a solid 2-0 win away at Cr...",
+"image": "https://s.yimg.com/lo/mysterio/api/fe7f411a29525c42db431fbd6e2d26197788ed9a52e88ad054a7890d9d832186/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2F4064f78b6986d022862b62946218fa74.jpg",
+"published": "2026-10-26T20:35:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"everton",
+"newcastle"
+],
+"img_tried": true
+},
+{
+"id": "43dcc74f6dcd",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Raiders designate Jack Bech to return to practice",
+"url": "https://sports.yahoo.com/articles/raiders-designate-jack-bech-return-203458540.html",
+"summary": "The Raiders are getting healthier at receiver.",
+"image": "https://s.yimg.com/lo/mysterio/api/407971e5edab59730b6e5277baf63ec658444bc61293df5cfc239aa95c65941d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F0a889c352aba45146f87d7f0bcf66705.jpg",
+"published": "2026-10-26T20:34:58Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lv"
+],
+"img_tried": true
+},
+{
+"id": "1c168eaa654e",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "St. Louis Blues' Chairman Releases Statement Regarding Antisemitic Protest",
+"url": "https://sports.yahoo.com/articles/st-louis-blues-chairman-releases-203439150.html",
+"summary": "Following an antisemitic protest on Thursday, Oct. 22, St. Louis Blues chairman and governor Tom Stillman released a statement.",
+"image": "https://s.yimg.com/lo/mysterio/api/f844cf6690eff216239f9a32c6628a88a9cebc98d1decd09149d41878f1eadc1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hockey_news_st_louis_blues_articles_393%2Ff3bc9b266b83be6684f6645e268456b5.jpg",
+"published": "2026-10-26T20:34:39Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"stl"
+],
+"img_tried": true
+},
+{
+"id": "d1f75a39c959",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Cowboys key matchup: Brian Schottenheimer vs Vic Fangio",
+"url": "https://sports.yahoo.com/articles/cowboys-key-matchup-brian-schottenheimer-203000279.html",
+"summary": "The Cowboys need Brian Schottenheimer to be a difference maker tonight",
+"image": "https://s.yimg.com/lo/mysterio/api/3bfab8973213a60b84eaf3bee03a0d5377073de8276e425cfa1b905f420e5165/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F27e234413e27ad1a1961da9c3c668302.jpg",
+"published": "2026-10-26T20:30:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal"
+],
+"img_tried": true
+},
+{
+"id": "11256814889f",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Chicago Bulls (1-2) at Boston Celtics (1-1) Game #3 10/26/26",
+"url": "https://sports.yahoo.com/articles/chicago-bulls-1-2-boston-203000407.html",
+"summary": "The Celtics host the Chicago Bulls for the first of 4 games between them this season.",
+"image": "https://s.yimg.com/lo/mysterio/api/afaa00f03e59fcf71c599c3456ebba7bc69811bdc18af3d33f28499119d469e6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F48a6712ee0a812c082adee5d05d8c37d.jpg",
+"published": "2026-10-26T20:30:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"bos",
+"chi"
+],
+"img_tried": true
+},
+{
+"id": "10878cdb955e",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Patriots-Bears racks up 19.86 million on Thursday night",
+"url": "https://sports.yahoo.com/articles/patriots-bears-racks-19-86-202752969.html",
+"summary": "The Bears' Thursday night win over the Patriots delivered on the scoreboard that matters most to the NFL — eyeballs.",
+"image": "https://s.yimg.com/lo/mysterio/api/76ca70e27f7363738b5307bc58b894721dc83895da549eb6ab739e90ca92287c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Fde86d83580ad83171db9338a9c433c0c.jpg",
+"published": "2026-10-26T20:27:52Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"chi",
+"ne"
+],
+"img_tried": true
+},
+{
 "id": "dc4a8e71e6e3",
 "league": "mlb",
 "source": "Yahoo Sports",
@@ -11,6 +1820,36 @@
 "collected": "2026-10-26T20:28:37Z",
 "teams": [
 "mil"
+],
+"img_tried": true
+},
+{
+"id": "2d12470397cc",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Kirk Cousins remaining Raiders’ starting quarterback",
+"url": "https://sports.yahoo.com/articles/kirk-cousins-remaining-raiders-starting-202057199.html",
+"summary": "Coach Klint Kubiak shuts down speculation about change",
+"image": "https://s.yimg.com/lo/mysterio/api/7723fd328401818192c00bcc9937e8625ef13104b3f9d29bb7aafb892be07ab0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F9462bce1cbcc820f01be51921c555b1d.jpg",
+"published": "2026-10-26T20:20:57Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lv"
+],
+"img_tried": true
+},
+{
+"id": "69d1eebdbdc7",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Packers sign Mekhi Becton to 53-man roster, put Jacob Monk on IR",
+"url": "https://sports.yahoo.com/articles/packers-sign-mekhi-becton-53-202019463.html",
+"summary": "The Packers had a couple of offensive linemen go down with injuries in Sunday's loss to the Lions and they moved one of them to injured reserve on Monday.",
+"image": "https://s.yimg.com/lo/mysterio/api/efa22eb3f95c8097493deee4f164e5200ba9336bbc8ab4d5dd78260c8b70e091/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F54d5566afab2d54fee8fb7d327da5ad1.jpg",
+"published": "2026-10-26T20:20:19Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"gb"
 ],
 "img_tried": true
 },
@@ -57,6 +1896,21 @@
 "collected": "2026-10-26T20:28:37Z",
 "teams": [
 "liverpool"
+],
+"img_tried": true
+},
+{
+"id": "74e691f4e154",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Tottenham Hotspur keen on move to sign 20-year-old Brazilian star",
+"url": "https://sports.yahoo.com/articles/tottenham-hotspur-keen-move-sign-202000615.html",
+"summary": "Tottenham tracking Otavio as goalkeeper transfer picture becomes clearerTottenham Hotspur are keeping a close watch on Cruzeiro goalkeeper Otavio, with fresh reporting from TeamTalk outlining why the ...",
+"image": "https://s.yimg.com/lo/mysterio/api/69ded6f0b46b002ce80a43aa575e39e4b767519cebf4f93824efb57ff1d6f5c5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2F9d953d75450f0a86a546bbb8f4a98fb4.jpg",
+"published": "2026-10-26T20:20:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"tottenham"
 ],
 "img_tried": true
 },
@@ -387,6 +2241,51 @@
 "img_tried": true
 },
 {
+"id": "d8083fc48b07",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Game Preview: Suns have a chance to change the conversation in OKC",
+"url": "https://sports.yahoo.com/articles/game-preview-suns-chance-change-200000062.html",
+"summary": "Suns have a chance to work on their process issues against a great but depleted OKC squad.",
+"image": "https://s.yimg.com/lo/mysterio/api/9ee3a5837dd7058604ac36846f035e53036064b14c906bdb42ed817b123d1316/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5840cd23cd86fbe0abc38ed33b092b16.jpg",
+"published": "2026-10-26T20:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"phx"
+],
+"img_tried": true
+},
+{
+"id": "ee4492b3b6e2",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Westchester Knicks announce 2026–27 training camp roster",
+"url": "https://sports.yahoo.com/articles/westchester-knicks-announce-2026-27-200000478.html",
+"summary": "Jaden Akins, Dalton Knecht, and Tyler Nickel headline the 16-player group.",
+"image": "https://s.yimg.com/lo/mysterio/api/108c44a9d473c710fe23bddf08730712368909093962c3925155971f52ce4c95/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fe3aa5dd41d2d3130ad78874ae033e50b.jpg",
+"published": "2026-10-26T20:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"ny"
+],
+"img_tried": true
+},
+{
+"id": "e737e7e7a32a",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Fans want Chris Boucher back on the Raptors after last night’s game",
+"url": "https://sports.yahoo.com/articles/fans-want-chris-boucher-back-200000741.html",
+"summary": "Chris Boucher played seven seasons in a Toronto Raptors jersey, and fans seem to be clamouring for him to have one more after the debacle that was Sunday night’s loss to the Minnesota Timberwolves. Losses are to be expected in the NBA, especially to teams like the Minnesota Timberwolves, who have one of the most […]",
+"image": "https://s.yimg.com/lo/mysterio/api/08c43393d23f2f159b2acf7b047f856a77224329990a24379fb75c22cd93eb51/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F8a540d25bbfa73fcedbe7c853df6a09b.jpg",
+"published": "2026-10-26T20:00:00Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"tor"
+],
+"img_tried": true
+},
+{
 "id": "3ed2aa73bca1",
 "league": "soccer",
 "source": "ESPN",
@@ -647,6 +2546,21 @@
 "collected": "2026-10-26T20:07:38Z",
 "teams": [
 "nym"
+],
+"img_tried": true
+},
+{
+"id": "485655ea3345",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Volkanovski Silences Doubters Who Thought He Was Fading at 38",
+"url": "https://sports.yahoo.com/articles/volkanovski-silences-doubters-thought-fading-195432023.html",
+"summary": "At 38, Alexander Volkanovski shattered the UFC's age curse and the all-time featherweight title record with a stunning second-round TKO over Movsar Evloev.",
+"image": "https://s.yimg.com/lo/mysterio/api/80bc31f6db426340e70271683e26a888bc673461c111fcf519dbee0619941769/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fathlon_sports_articles_610%2F357142dae895b636ec40b56a725e2905.jpg",
+"published": "2026-10-26T19:54:32Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"featherweight"
 ],
 "img_tried": true
 },
@@ -1131,6 +3045,35 @@
 "img_tried": true
 },
 {
+"id": "5b5f79816704",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "MMBets: Dallas will need discipline to beat the Miami Heat",
+"url": "https://sports.yahoo.com/articles/mmbets-dallas-discipline-beat-miami-192313163.html",
+"summary": "Dusty May will have an opportunity to coach up a win on the road when the Mavericks meet the Heat at Kaseya Center.",
+"image": null,
+"published": "2026-10-26T19:23:13Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"dal",
+"mia"
+]
+},
+{
+"id": "6aaead6d02b0",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Boston Celtics Daily Links 10/26/26",
+"url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-10-192107747.html",
+"summary": "All the Celtics news you need in one convenient place.",
+"image": null,
+"published": "2026-10-26T19:21:07Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"bos"
+]
+},
+{
 "id": "3192ed1d0ddf",
 "league": "soccer",
 "source": "Yahoo Sports",
@@ -1459,6 +3402,20 @@
 "img_tried": true
 },
 {
+"id": "bb1e47d6419e",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "The Biggest Change for the Wolves This Season",
+"url": "https://sports.yahoo.com/articles/biggest-change-wolves-season-190012431.html",
+"summary": "The Minnesota Timberwolves are already seeing a drastic difference in their approach through two games this season.",
+"image": null,
+"published": "2026-10-26T19:00:12Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"min"
+]
+},
+{
 "id": "5756ba4668a6",
 "league": "mlb",
 "source": "Yahoo Sports",
@@ -1489,6 +3446,34 @@
 "heavyweight"
 ],
 "img_tried": true
+},
+{
+"id": "114fb2aab5d3",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Lakers star humiliates former teammate’s trash talk in leaked audio",
+"url": "https://sports.yahoo.com/articles/lakers-star-humiliates-former-teammate-185810925.html",
+"summary": "Luka Dončić had a savage response to trash talk from a former teammate.",
+"image": null,
+"published": "2026-10-26T18:58:10Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"lal"
+]
+},
+{
+"id": "22b3212757d2",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Brewers closer Trevor Megill starts World Series controversy ahead of Game 3: ‘F–king idiot’",
+"url": "https://sports.yahoo.com/articles/brewers-closer-trevor-megill-starts-185756686.html",
+"summary": "As Milwaukee prepared for Game 3 of the World Series on Monday in Tampa, Megill had a colorful complaint about the roof at the Trop.",
+"image": null,
+"published": "2026-10-26T18:57:56Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil"
+]
 },
 {
 "id": "09ee1761e6b8",
@@ -1844,6 +3829,20 @@
 "img_tried": true
 },
 {
+"id": "5894f524ac4b",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Jalen Williams injury impact: What the Thunder star's absence means for OKC's future",
+"url": "https://sports.yahoo.com/nba/article/jalen-williams-injury-impact-what-the-thunder-stars-absence-means-for-okcs-future-221349327.html",
+"summary": "OKC's second-best player suffered a gruesome left leg injury on Sunday night.",
+"image": null,
+"published": "2026-10-26T18:31:38Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"okc"
+]
+},
+{
 "id": "45203a77a180",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -1914,6 +3913,20 @@
 "collected": "2026-10-26T19:18:03Z",
 "teams": [
 "nj"
+]
+},
+{
+"id": "8ffe9bd10670",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Sean O'Malley Sends Huge UFC Message Ahead of Possible Petr Yan Rematch",
+"url": "https://sports.yahoo.com/articles/sean-omalley-sends-huge-ufc-182605940.html",
+"summary": "'Suga' is focused on regaining his UFC bantamweight title.",
+"image": null,
+"published": "2026-10-26T18:26:05Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"bantamweight"
 ]
 },
 {
@@ -2105,6 +4118,20 @@
 "img_tried": true
 },
 {
+"id": "ea3ca1887ae6",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Phillies to hire Peter Fatse as next hitting coach",
+"url": "https://sports.yahoo.com/articles/phillies-hire-peter-fatse-next-180607454.html",
+"summary": "Fatse spent four-plus seasons leading Boston's offense before joining the Rays as a hitting consultant.",
+"image": null,
+"published": "2026-10-26T18:06:07Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"phi"
+]
+},
+{
 "id": "283641e479fb",
 "league": "nfl",
 "source": "CBS Sports",
@@ -2281,6 +4308,20 @@
 "collected": "2026-10-26T19:18:03Z",
 "teams": [],
 "img_tried": true
+},
+{
+"id": "4d43b4bdae33",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Alex Cora won’t rule out managing next season after turning down Phillies",
+"url": "https://sports.yahoo.com/articles/alex-cora-won-t-rule-175326754.html",
+"summary": "The 51-year-old, who was fired by the Red Sox in April after a 10-17 start, isn't committing to managing next season but he didn't shut down the possibility.",
+"image": null,
+"published": "2026-10-26T17:53:26Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"phi"
+]
 },
 {
 "id": "dad4ae6621da",
@@ -3006,6 +5047,21 @@
 ]
 },
 {
+"id": "63916f88b690",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "How many World Series have ended in a sweep?",
+"url": "https://sports.yahoo.com/articles/many-world-series-ended-sweep-165437694.html",
+"summary": "The Brewers, who have lost just one game this postseason, enter Monday's Game 3 with a 2-0 World Series lead over the Rays.",
+"image": null,
+"published": "2026-10-26T16:54:37Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"mil",
+"tb"
+]
+},
+{
 "id": "3ddcf31cc663",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -3035,6 +5091,18 @@
 "la",
 "nyr"
 ]
+},
+{
+"id": "acefbaf844b7",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Maxey named East Player of the Week for standout start to season",
+"url": "https://sports.yahoo.com/articles/maxey-named-east-player-week-164744329.html",
+"summary": "Tyrese Maxey earned another award at the very start of the 2026-27 season.",
+"image": null,
+"published": "2026-10-26T16:47:44Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": []
 },
 {
 "id": "c0da2d818b1f",
@@ -3094,6 +5162,20 @@
 "teams": [
 "dal",
 "phi"
+]
+},
+{
+"id": "dc67905d87bc",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Merab Dvalishvili Eyes Quick Turnaround After UFC 333 Loss to Petr Yan",
+"url": "https://sports.yahoo.com/articles/merab-dvalishvili-eyes-quick-turnaround-163639839.html",
+"summary": "Ex-UFC titleholder Merab Dvalishvili claims he doesn't need much time to recover after falling short in his trilogy fight with Petr Yan at UFC 333.",
+"image": null,
+"published": "2026-10-26T16:36:39Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"bantamweight"
 ]
 },
 {
@@ -4152,6 +6234,20 @@
 "phi"
 ],
 "img_tried": true
+},
+{
+"id": "13f041fc761a",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Former Warriors player rips GM Mike Dunleavy's ‘s–t job' building team's roster",
+"url": "https://sports.yahoo.com/articles/former-warriors-player-rips-gm-144951970.html",
+"summary": "Demarcus Cousins did not hold back when talking about Golden State Warriors general manager Mike Dunleavy's roster building strategy.",
+"image": null,
+"published": "2026-10-26T14:49:51Z",
+"collected": "2026-10-26T23:51:55Z",
+"teams": [
+"gs"
+]
 },
 {
 "id": "46daa6650f95",
