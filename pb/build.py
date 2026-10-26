@@ -197,7 +197,11 @@ def build(now=None):
     # static bits
     for f in ('style.css', 'favicon.svg'):
         shutil.copy(os.path.join(ROOT, 'pb', 'static', f), os.path.join(DOCS, 'assets', f))
-    with open(os.path.join(DOCS, 'CNAME'), 'w') as f:
-        f.write('playoffbeard.com\n')
+    cname = os.path.join(DOCS, 'CNAME')
+    if config.CUSTOM_DOMAIN:
+        with open(cname, 'w') as f:
+            f.write(config.CUSTOM_DOMAIN + '\n')
+    elif os.path.exists(cname):
+        os.remove(cname)
     open(os.path.join(DOCS, '.nojekyll'), 'w').close()
     print(f'built: home, {len(config.LEAGUES)} leagues, {sum(len(v) for v in teams.values())} team pages')

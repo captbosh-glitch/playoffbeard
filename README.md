@@ -34,8 +34,11 @@ open docs/index.html
 ## One-time setup (GitHub + domain)
 
 1. Repo **Settings → Pages**: Source "Deploy from a branch", branch `main`,
-   folder `/docs`. Custom domain: `playoffbeard.com` (the `docs/CNAME` file
-   sets it too), then tick **Enforce HTTPS** once it's offered.
+   folder `/docs`. Until the domain is ready the site previews at
+   https://captbosh-glitch.github.io/playoffbeard/.
+3. When DNS is set: `CUSTOM_DOMAIN = 'playoffbeard.com'` in `pb/config.py`
+   (the build writes `docs/CNAME`), push, then tick **Enforce HTTPS** in
+   Settings → Pages once it's offered.
 2. At the domain registrar, DNS for `playoffbeard.com`:
    - `A` records for `@`: 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153
    - `CNAME` for `www`: `captbosh-glitch.github.io`
