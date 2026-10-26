@@ -1,5 +1,295 @@
 [
 {
+"id": "de61e561d09b",
+"league": "nba",
+"source": "ESPN",
+"title": "NBA buzz: Latest news, updates and intel for the 2026-27 season",
+"url": "https://www.espn.com/nba/story/_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals",
+"summary": "Bookmark this page for the latest news, rumblings and analysis from ESPN's insiders.",
+"image": null,
+"published": "2026-10-26T20:01:12Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "3ed2aa73bca1",
+"league": "soccer",
+"source": "ESPN",
+"title": "LIVE 2026 Ballon d'Or updates: Winners, results, reaction",
+"url": "https://www.espn.com/soccer/story/_/id/50259091/2026-ballon-dor-live-updates-winners-results-reaction",
+"summary": "Enjoy live updates from the 2026 Ballon d'Or ceremony in London as the biggest names in world soccer compete for the men's and women's awards.",
+"image": null,
+"published": "2026-10-26T19:59:56Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "02e651a4b6bb",
+"league": "soccer",
+"source": "ESPN",
+"title": "Can ESPN predict the Ballon d'Or? We simulated the voting process to find out",
+"url": "https://www.espn.com/soccer/story/_/id/50166049/a-global-experiment-espn-predict-ballon-dor",
+"summary": "The Ballon d'Or awards are typically tough to predict, but can ESPN and our global resources do just that?",
+"image": null,
+"published": "2026-10-26T19:59:56Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "f79ff4404bf5",
+"league": "nba",
+"source": "ESPN",
+"title": "NBA announces Kalshi, Polymarket partnerships",
+"url": "https://www.espn.com/nba/story/_/id/50280364/nba-prediction-markets-kalshi-polymarket-partnership",
+"summary": "The NBA announced Monday that it's partnering with prediction markets Kalshi and Polymarket and expanding its DraftKings deal to include a prediction market offering.",
+"image": null,
+"published": "2026-10-26T19:58:29Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "5c2bdbe29afc",
+"league": "nba",
+"source": "ESPN",
+"title": "U.S. senators call on NBA to reevaluate Rwanda partnership",
+"url": "https://www.espn.com/nba/story/_/id/50288053/us-senators-call-nba-reevaluate-rwanda-partnership",
+"summary": "Two U.S. senators called on the NBA to reevaluate a partnership with Rwanda and its dictator Paul Kagame, citing the American government's changing policy toward the small African nation.",
+"image": null,
+"published": "2026-10-26T19:58:29Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "ae9ad56e80b2",
+"league": "nba",
+"source": "ESPN",
+"title": "Magic's Suggs (knee) out at least 2 weeks, but no major damage",
+"url": "https://www.espn.com/nba/story/_/id/50289397/magic-jalen-suggs-least-2-weeks-knee-injury",
+"summary": "Magic guard Jalen Suggs suffered a mild bone bruise in his right knee and will miss at least the next two weeks.",
+"image": null,
+"published": "2026-10-26T19:58:28Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "52d2405920a8",
+"league": "soccer",
+"source": "ESPN",
+"title": "Real Madrid best Barça in brilliant Clásico; Man United mess deepens; Spurs win again",
+"url": "https://www.espn.com/soccer/story/_/id/50284670/marcotti-musings-analysis-clasico-real-madrid-barcelona-man-united-carrick-tottenham-chelsea",
+"summary": "The weekend's big games brought plenty to unpack, with Real Madrid's Clásico win slowing Barcelona down in LaLiga and Man United's heavy home defeat surely pushing Michael Carrick toward the exit.",
+"image": null,
+"published": "2026-10-26T19:56:48Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "e1aec7238be2",
+"league": "soccer",
+"source": "ESPN",
+"title": "Ballon d'Or blunder! Site 'leaks' Kane, Yamal and Mbappé as winners",
+"url": "https://www.espn.com/soccer/story/_/id/50289230/ballon-dor-2026-winners-blunder-harry-kane-lamine-yamal-kylian-mbappe",
+"summary": "The official Ballon d'Or website mistakenly published articles naming three different players as winners of the 2026 men's award, hours before Monday's ceremony in London.",
+"image": null,
+"published": "2026-10-26T19:56:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "f975a46d76f3",
+"league": "soccer",
+"source": "ESPN",
+"title": "Sources: Mbappé's Madrid end Ballon d'Or boycott",
+"url": "https://www.espn.com/soccer/story/_/id/50286844/real-madrid-end-ballon-dor-boycott-kylian-mbappe-nominated",
+"summary": "Real Madrid will have representation at the Ballon d'Or award again, with Kylian Mbappé leading the team's delegation at the event, sources have told ESPN.",
+"image": null,
+"published": "2026-10-26T19:56:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "ed5c58c6adce",
+"league": "soccer",
+"source": "ESPN",
+"title": "Napoli to appeal Allegri's two-match ban for insulting ref in Roma draw",
+"url": "https://www.espn.com/soccer/story/_/id/50288088/napoli-appeal-allegri-2-match-ban-insulting-ref",
+"summary": "Napoli have confirmed they will appeal against the two-match ban which was given to boss Massimiliano Allegri following their 3-3 draw with Roma.",
+"image": null,
+"published": "2026-10-26T19:56:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "d656cf1b2b47",
+"league": "soccer",
+"source": "ESPN",
+"title": "Barça's Espart has ankle injury, to miss seven weeks",
+"url": "https://www.espn.com/soccer/story/_/id/50287697/xavi-espart-barcelona-ankle-injury-spanish-la-liga-champions-league",
+"summary": "Barcelona have been dealt another setback in defence after confirming Xavi Espart will be out of action for around seven weeks.",
+"image": null,
+"published": "2026-10-26T19:56:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "1cde76cbfedf",
+"league": "soccer",
+"source": "ESPN",
+"title": "Mou: Madrid plays to win LaLiga, not just to win at Camp Nou",
+"url": "https://www.espn.com/soccer/story/_/id/50282227/jose-mourinho-barcelona-real-madrid-play-win-league",
+"summary": "José Mourinho said he's setting his sights even higher after Real Madrid beat Barcelona 2-1 in Sunday's Clásico, saying \"Real Madrid play to win the league, not to win at Camp Nou.\"",
+"image": null,
+"published": "2026-10-26T19:56:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "f2396cedc0cc",
+"league": "soccer",
+"source": "ESPN",
+"title": "Under-fire Carrick leaves Man United training HQ amid uncertainty",
+"url": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
+"summary": "Under-fire head coach Michael Carrick has arrived at Carrington after Manchester United chief executive Omar Berrada and director of football Jason Wilcox held talks over his future.",
+"image": null,
+"published": "2026-10-26T19:56:38Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "7d441ea36270",
+"league": "soccer",
+"source": "ESPN",
+"title": "Pulisic goal for Milan caps great day for USMNT stars in Europe",
+"url": "https://www.espn.com/soccer/story/_/id/50282760/pulisic-goal-milan-great-day-usmnt-stars-europe",
+"summary": "AC Milan bounced back from their humbling at Bournemouth to overcome Udinese 2-0 in Serie A on Sunday with Christian Pulisic opening the scoring for Ruben Amorim's side.",
+"image": null,
+"published": "2026-10-26T19:56:38Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "a6a272411ab2",
+"league": "soccer",
+"source": "ESPN",
+"title": "LAFC clinches playoffs with derby draw as Galaxy cling to last spot",
+"url": "https://www.espn.com/soccer/report/_/gameId/761904",
+"summary": "Leo Walta scored the tying goal in the 62nd minute as LAFC clinched a playoff spot by rallying from two goals down in the second half for a 2-2 draw with the LA Galaxy on Sunday night.",
+"image": null,
+"published": "2026-10-26T19:56:38Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "d3d0fbf87e67",
+"league": "soccer",
+"source": "ESPN",
+"title": "📈 Ranking every team that can win 2027 Women's World Cup",
+"url": "https://www.espn.com/soccer/story/_/id/50241680/2027-world-cup-teams-ranked-49-womens-national-teams-win-next-summer-brazil",
+"summary": "There are 49 national teams that could win the FIFA Women's World Cup next summer. With only four international breaks left before the tournament, we rank them all.",
+"image": null,
+"published": "2026-10-26T19:56:38Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "bafe8b784867",
+"league": "soccer",
+"source": "ESPN",
+"title": "Man United are in crisis (again), but where are the Glazers?",
+"url": "https://www.espn.com/soccer/story/_/id/50287279/man-united-crisis-again-where-glazers",
+"summary": "The people with ultimate control of one of the world's most historic soccer clubs in Manchester United are nowhere to be seen.",
+"image": null,
+"published": "2026-10-26T19:56:35Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "89460417af69",
+"league": "soccer",
+"source": "ESPN",
+"title": "Man United are stuck with underperforming players no matter who's manager",
+"url": "https://www.espn.com/soccer/story/_/id/50278354/manchester-united-stuck-their-underperforming-players-no-matter-whos-manager",
+"summary": "Man United can dismiss Michael Carrick, but a squad that continues to fail the club and its fans will remain.",
+"image": null,
+"published": "2026-10-26T19:56:35Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "7b6b5942fa3d",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Lions don't expect Amon-Ra St. Brown, Ennis Rakestraw to practice Wednesday",
+"url": "https://sports.yahoo.com/articles/lions-dont-expect-amon-ra-195019231.html",
+"summary": "Lions head coach Dan Campbell offered updates on Monday about a couple of players who emerged from Sunday's win over the Packers with ankle injuries.",
+"image": null,
+"published": "2026-10-26T19:50:19Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"det"
+]
+},
+{
+"id": "fd4b3f8a2fa4",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Venezia agree 40-year deal with city council for new 18,500-seat stadium",
+"url": "https://sports.yahoo.com/articles/venezia-agree-40-deal-city-195000704.html",
+"summary": "Venezia have signed a 40-year agreement with Venice city council to manage their new stadium, which is set to open during the 2027-28 season.According to TuttoMercatoWeb, the stadium will be built in ...",
+"image": null,
+"published": "2026-10-26T19:50:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "e9d5b616825b",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Talbi, Alderete And Tutyerov To Start | 4-2-3-1 Sunderland Predicted Lineup Vs Brentford",
+"url": "https://sports.yahoo.com/articles/talbi-alderete-tutyerov-start-4-195000151.html",
+"summary": "Sunderland will welcome Brentford at the Stadium of Light this Wednesday night as they look to secure a win at home in the EFL Cup. The Black Cats were held to a 0-0 draw by Leeds United recently, so ...",
+"image": null,
+"published": "2026-10-26T19:50:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "1a0a23948118",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "La Liga to investigate Camavinga assault during Real Madrid’s Clasico victory",
+"url": "https://sports.yahoo.com/articles/la-liga-investigate-camavinga-assault-194500218.html",
+"summary": "La Liga is preparing to report an alleged assault on Real Madrid midfielder Eduardo Camavinga during Sunday’s 2-1 victory over Barcelona at the Camp Nou.The incident occurred during celebrations for...",
+"image": null,
+"published": "2026-10-26T19:45:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "fe3f6cdf22cd",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Burnley appoint Chief football officer to facilitate search for new manager",
+"url": "https://sports.yahoo.com/articles/burnley-appoint-chief-football-officer-194500026.html",
+"summary": "Burnley have confirmed the appointment of Diego Lopez as their new chief football officer to facilitate the search for a new manager after sacking Nicky Hayen.The 37-year-old joins the Clarets from Ge...",
+"image": null,
+"published": "2026-10-26T19:45:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "a95e846c9abf",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Kylian Mbappe only behind Cristiano Ronaldo as he hits 100-goal milestone for Real Madrid",
+"url": "https://sports.yahoo.com/articles/kylian-mbappe-only-behind-cristiano-194500055.html",
+"summary": "Kylian Mbappe reached the 100-goal milestone for Real Madrid in spectacular fashion, scoring twice in the 2-1 victory over Barcelona at Spotify Camp Nou. The French forward needed just 116 appearances...",
+"image": null,
+"published": "2026-10-26T19:45:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "c4de0e21e59f",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -11,6 +301,74 @@
 "collected": "2026-10-26T19:50:18Z",
 "teams": [
 "bal"
+]
+},
+{
+"id": "f2eee6637402",
+"league": "nfl",
+"source": "ESPN",
+"title": "Glenn: Wilson outburst overblown, but 'it's going to get noisy' for Jets",
+"url": "https://www.espn.com/nfl/story/_/id/50287902/aaron-glenn-says-talked-garrett-wilson-outburst",
+"summary": "Commenting for the first time on Garrett Wilson's sideline outburst during Sunday's loss to Miami, Jets coach Aaron Glenn said it was \"overblown\" by the media.",
+"image": null,
+"published": "2026-10-26T19:38:30Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"nyj"
+]
+},
+{
+"id": "ea7fa88fd00b",
+"league": "nfl",
+"source": "ESPN",
+"title": "Rodgers touts full week of international games, jabs at 'tight' NFL owners",
+"url": "https://www.espn.com/nfl/story/_/id/50287522/aaron-rodgers-suggests-full-week-nfl-international-games",
+"summary": "Aaron Rodgers advocated for the NFL to schedule a full week of international games and also jabbed at owners, hinting that they pay lip service to player safety.",
+"image": null,
+"published": "2026-10-26T19:38:30Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "ae13c14b9eb9",
+"league": "nfl",
+"source": "ESPN",
+"title": "Vikings RB Jones avoids serious knee injury, day-to-day",
+"url": "https://www.espn.com/nfl/story/_/id/50289047/vikings-rb-jones-avoids-serious-knee-injury-day-day",
+"summary": "Vikings running back Aaron Jones Sr. avoided a serious knee injury Sunday and is considered day-to-day, coach Kevin O'Connell confirmed Monday.",
+"image": null,
+"published": "2026-10-26T19:38:30Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"min"
+]
+},
+{
+"id": "320e407f2413",
+"league": "nfl",
+"source": "ESPN",
+"title": "Source: Seahawks LT Cross has high ankle sprain, likely to miss time",
+"url": "https://www.espn.com/nfl/story/_/id/50288850/source-seahawks-lt-charles-cross-high-ankle-sprain",
+"summary": "Seahawks left tackle Charles Cross suffered a high ankle sprain and is expected to miss time, a source told NFL Network's Ian Rapoport.",
+"image": null,
+"published": "2026-10-26T19:38:30Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"sea"
+]
+},
+{
+"id": "3b307c45bcdf",
+"league": "nfl",
+"source": "ESPN",
+"title": "Packers LB Franklin has hairline fracture in leg, sources say",
+"url": "https://www.espn.com/nfl/story/_/id/50287123/sources-packers-zaire-franklin-hairline-fracture-leg",
+"summary": "Packers linebacker Zaire Franklin has a hairline fracture in his leg and center Sean Rhyan is believed to have a high ankle sprain, sources told NFL Network's Ian Rapoport.",
+"image": null,
+"published": "2026-10-26T19:38:30Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"gb"
 ]
 },
 {
@@ -26,6 +384,42 @@
 "teams": [
 "ne"
 ]
+},
+{
+"id": "a15520144bf0",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool set to lose crucial pair just one year in to Andoni Iraola's reign",
+"url": "https://sports.yahoo.com/articles/liverpool-set-lose-crucial-pair-193500863.html",
+"summary": "Liverpool's start to life under Andoni Iraola has been difficult to judge. The Reds have dominated some games, recording some very convincing victories, but Iraola's side have also faced some crushing...",
+"image": null,
+"published": "2026-10-26T19:35:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "28d2e37c3224",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Lulli renews Roma contract to 2031: how much he will earn",
+"url": "https://sports.yahoo.com/articles/lulli-renews-roma-contract-2031-193500539.html",
+"summary": "Emanuele Lulli’s new contract with Roma has been finalised, with the 19-year-old now tied to the club until June 2031.According to Calciomercato.com, the full-back will earn €500,000 net per seaso...",
+"image": null,
+"published": "2026-10-26T19:35:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "ee411c52711c",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Bizot, Mbaye And Abraham To Start | 4-2-3-1 Aston Villa Predicted Lineup Vs Bournemouth",
+"url": "https://sports.yahoo.com/articles/bizot-mbaye-abraham-start-4-193500779.html",
+"summary": "Aston Villa will lock horns with Bournemouth at the Vitality Stadium this Wednesday night as they look to secure a win on their travels in the EFL Cup. The Villans managed to earn a hard-fought 2-1 wi...",
+"image": null,
+"published": "2026-10-26T19:35:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "c1564fd7455a",
@@ -126,6 +520,18 @@
 ]
 },
 {
+"id": "6a679f67b5fb",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Grant Dawson knew weathering Nurullo Aliev's storm was key at UFC 333",
+"url": "https://sports.yahoo.com/articles/grant-dawson-knew-weathering-nurullo-193042453.html",
+"summary": "Longtime UFC lightweight Grant Dawson planned for his UFC 333 opponent to come out fast in the desert, and that's exactly what happened.",
+"image": null,
+"published": "2026-10-26T19:30:42Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "b2b191e77ea6",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -135,6 +541,30 @@
 "image": null,
 "published": "2026-10-26T19:29:45Z",
 "collected": "2026-10-26T19:50:18Z",
+"teams": []
+},
+{
+"id": "b2c635419973",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Lots of positives for Sørensen in Aston Villa’s win at Everton",
+"url": "https://sports.yahoo.com/articles/lots-positives-rensen-aston-villa-192900167.html",
+"summary": "Aston Villa’s interim head coach Brian Sørensen saw lots of positives in his side’s 3-2 victory over Everton at Goodison Park on Sunday afternoon.An Amalie Vangsgaard brace and a Noelle Maritz go...",
+"image": null,
+"published": "2026-10-26T19:29:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "10bc77723dd2",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Premier League Power Rankings: Manchester United falling fast; Tottenham Hotspur, Bournemouth rise",
+"url": "https://www.cbssports.com/soccer/news/premier-league-power-rankings-manchester-united-falling-fast/",
+"summary": "Bournemouth's 3-0 win at Manchester United on Sunday was one of the biggest results of a hectic weekend in the Premier League",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/d7e32fcb-933c-469b-b064-fbd08c0d263a/man-unitd.jpg",
+"published": "2026-10-26T19:27:15Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -151,6 +581,66 @@
 "mil",
 "tb"
 ]
+},
+{
+"id": "796e64c6302e",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Ballon d’Or chaos as Harry Kane, Lamine Yamal and Kylian Mbappe published as winners on website",
+"url": "https://sports.yahoo.com/articles/ballon-d-publishes-articles-claiming-183312696.html",
+"summary": "The official Ballon d’Or website posted the articles before the ceremony and has since deleted them",
+"image": null,
+"published": "2026-10-26T19:26:52Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "a214f6db5a94",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Pedri wins 2026 Canary Islands Sports Award after historic year with Barcelona and Spain",
+"url": "https://sports.yahoo.com/articles/pedri-wins-2026-canary-islands-192500079.html",
+"summary": "Pedri has been named a joint winner of the 2026 Canary Islands Sports Award, with the Canary Islands government recognising the Barcelona midfielder’s outstanding career and achievements with Spain....",
+"image": null,
+"published": "2026-10-26T19:25:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "3192ed1d0ddf",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Arsenal remain interested in move to sign world-class forward",
+"url": "https://sports.yahoo.com/articles/arsenal-remain-interested-move-sign-192000916.html",
+"summary": "Arsenal Transfer Latest: Julián Álvarez Interest Revives Ahead of January WindowArsenal are again being linked with a move for Julián Álvarez, with fresh reporting suggesting the Atlético Madrid ...",
+"image": null,
+"published": "2026-10-26T19:20:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "dc247c113b36",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool urged to make shock contract decision that will leave fans baffled",
+"url": "https://sports.yahoo.com/articles/liverpool-urged-shock-contract-decision-192000722.html",
+"summary": "Liverpool Face Major Alexis Mac Allister Contract Decision as David Lynch Gives VerdictLiverpool face a significant decision over Alexis Mac Allister’s long-term future, with journalist David Lynch ...",
+"image": null,
+"published": "2026-10-26T19:20:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "e2f2a58fb2f5",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Bouaddi, Kovacic And Foden To Start | 4-2-3-1 Manchester City Predicted Lineup Vs Brighton",
+"url": "https://sports.yahoo.com/articles/bouaddi-kovacic-foden-start-4-192000743.html",
+"summary": "Manchester City will entertain Brighton and Hove Albion at the Etihad Stadium this Wednesday night as they look to earn a victory at home in the EFL Cup. The Mancunian giants suffered a 2-1 loss at th...",
+"image": null,
+"published": "2026-10-26T19:20:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "26c57e6acb9a",
@@ -180,6 +670,42 @@
 "stl",
 "vgk"
 ]
+},
+{
+"id": "6119b1bceac5",
+"league": "soccer",
+"source": "ESPN",
+"title": "Premier League VAR review: Why did Man United's Heaven avoid red for two-footed tackle?",
+"url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+"summary": "VAR often causes controversy, but how are decisions made? Our resident ref, Andy Davies, explains all.",
+"image": null,
+"published": "2026-10-26T19:16:06Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "33a3df93e272",
+"league": "soccer",
+"source": "ESPN",
+"title": "Iraola era at Liverpool finally has liftoff thanks to big-money forwards",
+"url": "https://www.espn.com/soccer/story/_/id/50277814/iraola-era-liverpool-lift-thanks-big-money-forwards",
+"summary": "Two years ago, the Arne Slot project took off with a win over Brighton. Has the same thing just happened for Andoni Iraola?",
+"image": null,
+"published": "2026-10-26T19:16:06Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "3548051be2cc",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Former Real Madrid goalkeeper questions Mbappe-Vinicius partnership after Clasico victory",
+"url": "https://sports.yahoo.com/articles/former-real-madrid-goalkeeper-questions-191600144.html",
+"summary": "Real Madrid’s 2-1 victory over Barcelona has considerably changed the mood surrounding Jose Mourinho’s side.Los Blancos arrived at the Spotify Camp Nou under pressure, but their disciplined perfor...",
+"image": null,
+"published": "2026-10-26T19:16:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "ba64576d69ea",
@@ -234,6 +760,66 @@
 "image": null,
 "published": "2026-10-26T19:06:31Z",
 "collected": "2026-10-26T19:18:03Z",
+"teams": []
+},
+{
+"id": "9f02f37ceefb",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Barcelona captain Raphinha matches Lionel Messi’s historic La Liga record after stunning start to season",
+"url": "https://sports.yahoo.com/articles/barcelona-captain-raphinha-matches-lionel-190600096.html",
+"summary": "Barcelona have endured a difficult few days, suffering consecutive defeats against PSG in the Champions League and Real Madrid in La Liga.However, despite the disappointing results, Hansi Flick has on...",
+"image": null,
+"published": "2026-10-26T19:06:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "4333f4a8b85f",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Fabregas: ‘Como must stay focused against Torino’ as Kean and Liberali miss out",
+"url": "https://sports.yahoo.com/articles/fabregas-como-must-stay-focused-190500448.html",
+"summary": "Cesc Fabregas has warned Como they must stay focused for 90 minutes against an in-form Torino, with Moise Kean and Mattia Liberali both missing from the squad.With quotes via TuttoMercatoWeb, the Como...",
+"image": null,
+"published": "2026-10-26T19:05:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "87efe3b199a7",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Journalist wants award honour for Arsenal fan favourite",
+"url": "https://sports.yahoo.com/articles/journalist-wants-award-honour-arsenal-190500081.html",
+"summary": "Santi Cazorla has been backed for one of Spain’s biggest sporting honours, with a columnist arguing that the former Arsenal midfielder’s story deserves recognition well beyond what he won on the p...",
+"image": null,
+"published": "2026-10-26T19:05:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "c2ef8ee7b36d",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Salmon, Mosquera And Hincapie To Start | 4-2-3-1 Arsenal Predicted Lineup Vs Fleetwood Town",
+"url": "https://sports.yahoo.com/articles/salmon-mosquera-hincapie-start-4-190500634.html",
+"summary": "Arsenal will clash heads with Fleetwood Town at Highbury Stadium this Tuesday night as they look to secure a good result on the road in the EFL Cup. The Gunners managed to earn a solid 2-0 win over Ev...",
+"image": null,
+"published": "2026-10-26T19:05:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "6d8a89272b08",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool to battle Real Madrid for Virgil van Dijk replacement",
+"url": "https://sports.yahoo.com/articles/liverpool-battle-real-madrid-virgil-190500215.html",
+"summary": "One of the early positives at Liverpool under Andoni Iraola is a marked improvement to the defence. New arrival Jeremy Jacquet has formed a solid partnership with Virgil van Dijk and loanee Ronald Ar...",
+"image": null,
+"published": "2026-10-26T19:05:00Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -326,6 +912,30 @@
 ]
 },
 {
+"id": "19225e13a64f",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Alex Pereira’s Heavyweight Run Rides on UFC 335",
+"url": "https://sports.yahoo.com/articles/alex-pereira-heavyweight-run-rides-185900208.html",
+"summary": "Alex Pereira has made it clear that his time at heavyweight depends on one fight. Pereira faces Sergei Pavlovich in […]",
+"image": null,
+"published": "2026-10-26T18:59:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "09ee1761e6b8",
+"league": "ufc",
+"source": "ESPN",
+"title": "Alexander Volkanovski, Petr Yan solidify their greatness",
+"url": "https://www.espn.com/mma/story/_/id/50269333/volkanovski-yan-ufc-333-takeaways",
+"summary": "Facing tough tests, the champions at UFC 333 proved their all-time mettle in their respective divisions.",
+"image": null,
+"published": "2026-10-26T18:57:31Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "f635d357127d",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -369,6 +979,20 @@
 ]
 },
 {
+"id": "dc73b724c8d3",
+"league": "nfl",
+"source": "ESPN",
+"title": "Browns balance relishing close wins, lamenting slow starts",
+"url": "https://www.espn.com/nfl/story/_/id/50288083/cleveland-browns-balance-close-wins-slow-starts-week-7",
+"summary": "Despite a \"complete game\" by Deshaun Watson, offensive struggles are still lingering for the AFC North-leading Browns.",
+"image": null,
+"published": "2026-10-26T18:53:16Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"cle"
+]
+},
+{
 "id": "3fcf2c1f63f3",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -381,6 +1005,18 @@
 "teams": [
 "wsh"
 ]
+},
+{
+"id": "51a9b6337f12",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool told to complete £47m move for defender – “He’s a monster”",
+"url": "https://sports.yahoo.com/articles/liverpool-told-complete-47m-move-185000359.html",
+"summary": "Liverpool Face £47m Ronald Araujo Decision After Barcelona Defender ImpressesLiverpool face a significant decision over whether to pay £47 million to sign Ronald Araujo permanently from Barcelona, w...",
+"image": null,
+"published": "2026-10-26T18:50:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "68b8784fe5d5",
@@ -396,6 +1032,42 @@
 "dal",
 "phi"
 ]
+},
+{
+"id": "d5bee7261b73",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Watch: Magherafelt & Desertmartin celebrate Derry successes",
+"url": "https://sports.yahoo.com/articles/watch-magherafelt-desertmartin-celebrate-derry-184744353.html",
+"summary": "BBC Sport NI's Thomas Niblock goes behind the scenes, joining the post-match celebrations and speaking to players and management after Magherafelt and Desertmartin secure Derry Football Championship successes.",
+"image": null,
+"published": "2026-10-26T18:47:44Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "c7f1cad5de32",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "🚨 And midway through the Ballon d'Or: the PSG-Lyon XIs",
+"url": "https://sports.yahoo.com/articles/midway-ballon-dor-psg-lyon-184600684.html",
+"summary": "With the Ballon d’Or ceremony underway, these are the lineups for today’s match at the Parc des Princes.The winner goes top of Ligue 1. PSG: Safonov; Hakimi, Zabarnyi, Pacho, Zaire-Emery; Fabián ...",
+"image": null,
+"published": "2026-10-26T18:46:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "35ba8be9223a",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Ballon d’Or history: All the Italians and Serie A stars to lift football’s most prestigious award",
+"url": "https://sports.yahoo.com/articles/ballon-d-history-italians-serie-184600944.html",
+"summary": "As the 2026 Ballon d’Or is handed out in London tonight, we look back at the Italians and Serie A stars who have won football’s most prestigious individual award.Serie A players have won the Ballo...",
+"image": null,
+"published": "2026-10-26T18:46:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "4c745b51003a",
@@ -439,6 +1111,54 @@
 "teams": []
 },
 {
+"id": "2370d725a2bc",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Jean Silva Sends Warning to Alexander Volkanovski After UFC 333",
+"url": "https://sports.yahoo.com/articles/jean-silva-sends-warning-alexander-184254465.html",
+"summary": "UFC featherweight contender Jean Silva sent a warning to UFC featherweight champion Alexander Volkanovski after UFC 333.Volkanovski beat Movsar Evloev via second-round TKO in the main event of UFC 333 to once again successfully defend his featherweight belt.Next up for the champion could be a matchup against Silva,…",
+"image": null,
+"published": "2026-10-26T18:42:54Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "38c169a45b73",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Video: Every UFC 333 finish, including Reyes’ head kick message",
+"url": "https://sports.yahoo.com/articles/video-every-ufc-333-finish-184016954.html",
+"summary": "Check out the seven stoppages from UFC 333 in Abu Dhabi this past Saturday.",
+"image": null,
+"published": "2026-10-26T18:40:16Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "efbda0c6b66c",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Mark Walters On Aston Villa, Rangers, Liverpool, England And Life After Football",
+"url": "https://sports.yahoo.com/articles/mark-walters-aston-villa-rangers-184000609.html",
+"summary": "An interview with Mark Walters, by Callum McFadden for WFi.You began your professional career at Aston Villa and were there during an incredible period in the club’s history. How do you reflect on y...",
+"image": null,
+"published": "2026-10-26T18:40:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "aaed07901710",
+"league": "nfl",
+"source": "ESPN",
+"title": "Free agents: Willis, Coleman, Cooper lead top options",
+"url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8",
+"summary": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+"image": null,
+"published": "2026-10-26T18:39:58Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "8c7a4a0996ae",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -453,6 +1173,45 @@
 ]
 },
 {
+"id": "0ab9167372aa",
+"league": "nfl",
+"source": "ESPN",
+"title": "Early bets for Week 8: Lions to hand Vikings first loss?",
+"url": "https://www.espn.com/espn/betting/story/_/id/50250601/nfl-week-8-betting-odds-props-early-picks-predictions",
+"summary": "Which Week 8 lines offered immediate value once odds came out? Here are the early bets we like.",
+"image": null,
+"published": "2026-10-26T18:38:42Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"det",
+"min"
+]
+},
+{
+"id": "c29f9db7ff4b",
+"league": "nfl",
+"source": "ESPN",
+"title": "Week 8 betting odds for every game",
+"url": "https://www.espn.com/espn/betting/story/_/id/50250750/2026-nfl-week-8-schedule-odds-point-spreads-totals",
+"summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
+"image": null,
+"published": "2026-10-26T18:38:42Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "2c398a3fe46a",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool force club into major decision, they were ready to pounce",
+"url": "https://sports.yahoo.com/articles/liverpool-force-club-major-decision-183500336.html",
+"summary": "Liverpool have cast their net far and wide for new players over the last couple of years. In fact, over £600 million has been spent by the Anfield outfit on trying to improve their ranks and, while t...",
+"image": null,
+"published": "2026-10-26T18:35:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "b5a4c3218631",
 "league": "mlb",
 "source": "Yahoo Sports",
@@ -465,6 +1224,18 @@
 "teams": [
 "ari"
 ]
+},
+{
+"id": "f6f939b2142f",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "MMA pound-for-pound rankings (Oct. 2026): Alexander Volkanovski, Petr Yan leave voters with an impossible choice",
+"url": "https://sports.yahoo.com/mma/article/mma-pound-for-pound-rankings-oct-2026-alexander-volkanovski-petr-yan-impossible-choice-ufc-333-183232657.html",
+"summary": "Volkanovski and Yan both delivered statement performances at UFC 333, but with each champ making compelling cases for their place among MMA's very best, who came out ahead?",
+"image": null,
+"published": "2026-10-26T18:32:32Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "45203a77a180",
@@ -482,6 +1253,18 @@
 ]
 },
 {
+"id": "e6bf5f396cba",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Real Madrid ace Jude Bellingham finishes 11th in 2026 Ballon d’Or rankings",
+"url": "https://sports.yahoo.com/articles/confirmed-real-madrid-ace-jude-182800985.html",
+"summary": "Real Madrid superstar Jude Bellingham has finished in the 11th position in the 2026 Ballon d’Or rankings.The midfield ace was not at his best for Real Madrid during the last season, with inconsisten...",
+"image": null,
+"published": "2026-10-26T18:28:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "5eea6874d0fb",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -493,6 +1276,20 @@
 "collected": "2026-10-26T19:18:03Z",
 "teams": [
 "ne"
+]
+},
+{
+"id": "253f6712dd24",
+"league": "nfl",
+"source": "ESPN",
+"title": "Can Lamar Jackson solve the Ravens' historic identity crisis?",
+"url": "https://www.espn.com/nfl/story/_/id/50286278/can-lamar-jackson-solve-ravens-historic-identity-crisis",
+"summary": "The Ravens are the NFL's best team in the first half, outscoring teams by 65 points. But they are the worst team in the second half, getting outscored by 70 points.",
+"image": null,
+"published": "2026-10-26T18:26:34Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"bal"
 ]
 },
 {
@@ -508,6 +1305,78 @@
 "teams": [
 "nj"
 ]
+},
+{
+"id": "12c4c01d72c7",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Why Manchester United’s Seemingly Eternal State of Flux Shows No Sign of Ending",
+"url": "https://sports.yahoo.com/articles/why-manchester-united-seemingly-eternal-182500544.html",
+"summary": "Another managerial change at Manchester United would be unlikely to solve the problems that continue to plague the club. With Michael Carrick under severe pressure following a winless run stretching t...",
+"image": null,
+"published": "2026-10-26T18:25:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "0816f9b842ac",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Lamine Yamal tops CIES 2026 Ballon d’Or ranking ahead of Harry Kane",
+"url": "https://sports.yahoo.com/articles/lamine-yamal-tops-cies-2026-182100372.html",
+"summary": "Barcelona may have suffered a disappointing defeat against Real Madrid on Sunday, but the quality within Hansi Flick’s squad remains unquestionable.With the 2026 Ballon d’Or ceremony underway, the...",
+"image": null,
+"published": "2026-10-26T18:21:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "4fc818c198da",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool ready to battle Real Madrid in the race for £50m star",
+"url": "https://sports.yahoo.com/articles/liverpool-ready-battle-real-madrid-182000510.html",
+"summary": "Liverpool Join Luka Vuskovic Race as Brighton Stand Firm Over £50m Centre-BackLiverpool are among the clubs showing serious interest in Brighton defender Luka Vuskovic, according to TeamTalk, with Re...",
+"image": null,
+"published": "2026-10-26T18:20:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "9b9bd091725c",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Eddie Howe has already set out his demands amid Manchester United interest",
+"url": "https://sports.yahoo.com/articles/eddie-howe-already-set-demands-182000651.html",
+"summary": "Eddie Howe to Manchester United: Backroom Staff Demands Could Decide Old Trafford MoveManchester United may be heading for another managerial change, and if Eddie Howe is the leading candidate then th...",
+"image": null,
+"published": "2026-10-26T18:20:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "0e2c9c0265a1",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Milan suffer another injury blow with Loftus-Cheek out for at least 2 weeks",
+"url": "https://sports.yahoo.com/articles/milan-suffer-another-injury-blow-181500233.html",
+"summary": "Ruben Loftus-Cheek will miss at least two weeks after tests confirmed a muscle tear in his left thigh.According to MilanNews, the midfielder has damaged a medial hamstring muscle and will be reassesse...",
+"image": null,
+"published": "2026-10-26T18:15:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "3922f013e54a",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Real Madrid’s summer signings vindicate Mourinho with impressive Clasico performances",
+"url": "https://sports.yahoo.com/articles/real-madrid-summer-signings-vindicate-181500339.html",
+"summary": "Real Madrid came away from the Spotify Camp Nou last night with much more than just the three points in the La Liga race.It was also an important test of the club’s summer recruitment, after several...",
+"image": null,
+"published": "2026-10-26T18:15:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "f20f6891ef24",
@@ -610,6 +1479,58 @@
 ]
 },
 {
+"id": "1eaa3eb381b0",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool defender offers update on future with Anfield exit looming",
+"url": "https://sports.yahoo.com/articles/liverpool-defender-offers-future-anfield-180500834.html",
+"summary": "One of the big problems Liverpool have faced early in the tenure of Andoni Iraola is their fullbacks. After enjoying one of the best fullback pairings in the history of the game for several years, th...",
+"image": null,
+"published": "2026-10-26T18:05:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "3c376866484c",
+"league": "mlb",
+"source": "ESPN",
+"title": "Mets' Lindor wins Roberto Clemente Award for humanitarian work",
+"url": "https://www.espn.com/mlb/story/_/id/50288401/mets-francisco-lindor-wins-roberto-clemente-award",
+"summary": "Mets shortstop Francisco Lindor has won the Roberto Clemente Award from Major League Baseball for his humanitarian work.",
+"image": null,
+"published": "2026-10-26T18:04:09Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"nym"
+]
+},
+{
+"id": "8a2685f7c561",
+"league": "mlb",
+"source": "ESPN",
+"title": "Dead grass era? MLB aids offense by testing restricted OF shifts",
+"url": "https://www.espn.com/mlb/story/_/id/50287898/mlb-tests-restricted-shifts-effort-offense",
+"summary": "Major League Baseball, in an effort to boost offense, is testing out limited outfield shifts during this year's Arizona Fall League, as players consult a videoboard to see whether they are properly positioned.",
+"image": null,
+"published": "2026-10-26T18:04:09Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"ari"
+]
+},
+{
+"id": "c721868a1d95",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Barcelona’s Pau Cubarsi finishes 12th in 2026 Ballon d’Or rankings",
+"url": "https://sports.yahoo.com/articles/confirmed-barcelona-pau-cubarsi-finishes-180400207.html",
+"summary": "The 2026 Ballon d’Or winner will be revealed today in a ceremony in London, which is set to get underway shortly.Leading up to the gala, the organisers have started to reveal the final rankings for ...",
+"image": null,
+"published": "2026-10-26T18:04:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "cce5e95d0e97",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -623,6 +1544,18 @@
 "bal",
 "buf"
 ]
+},
+{
+"id": "b3df57e2b09c",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "England match at U15 World Cup abandoned after allegation of racism",
+"url": "https://sports.yahoo.com/articles/england-match-u15-world-cup-180015506.html",
+"summary": "England coach Matt Thorpe beckoned his players off the field after a confrontation during a match with Republic of Ireland",
+"image": null,
+"published": "2026-10-26T18:00:15Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "607b1e3dcf1b",
@@ -680,6 +1613,54 @@
 "teams": []
 },
 {
+"id": "dad4ae6621da",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Real Madrid duo Vinicius, Cucurella finish 17th and 18th in 2026 Ballon d’Or rankings",
+"url": "https://sports.yahoo.com/articles/confirmed-real-madrid-duo-vinicius-175300525.html",
+"summary": "With the Ballon d’Or ceremony set to kick off shortly, the announcement of the rankings starting from the 30th position has already gotten underway.Real Madrid had as many as four players in the fin...",
+"image": null,
+"published": "2026-10-26T17:53:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "65fcc9d21ffd",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Israel Adesanya: Alex Pereira staying at heavyweight 'doesn't make sense to me'",
+"url": "https://sports.yahoo.com/articles/israel-adesanya-alex-pereira-staying-175023701.html",
+"summary": "Israel Adesanya hates Alex Pereira's fighting at heavyweight again at UFC 335 and tells him to stop \"all this BS.\"",
+"image": null,
+"published": "2026-10-26T17:50:23Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "e677f78b99ba",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "📸 Ballon d'Or: France Football's incredible blunder 😭",
+"url": "https://sports.yahoo.com/articles/ballon-dor-france-footballs-incredible-175000686.html",
+"summary": "If that happens to me, I’m getting fired. Signed: the author of this piece.The 2026 Ballon d’Or winner will be revealed this Monday, October 26, at around 10:45 p.m., but France Football may have ...",
+"image": null,
+"published": "2026-10-26T17:50:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "07ec685c8a5d",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool dealt transfer blow with record-breaking offer planned",
+"url": "https://sports.yahoo.com/articles/liverpool-dealt-transfer-blow-record-175000641.html",
+"summary": "Liverpool Monitor Alex Scott as Bournemouth Prepare Fresh Record Contract PushBournemouth are preparing a renewed attempt to tie Alex Scott to a new deal, with Liverpool among the clubs watching devel...",
+"image": null,
+"published": "2026-10-26T17:50:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "9a5206797606",
 "league": "nhl",
 "source": "Yahoo Sports",
@@ -691,6 +1672,32 @@
 "collected": "2026-10-26T19:18:03Z",
 "teams": [
 "buf"
+]
+},
+{
+"id": "3b90ca7f9656",
+"league": "nba",
+"source": "ESPN",
+"title": "Time to trade red-hot Ty Jerome, drop struggling Draymond Green?",
+"url": "https://www.espn.com/fantasy/basketball/story/_/id/50287760/fantasy-basketball-risers-fallers-keep-cut-add-today",
+"summary": "Ty Jerome's fantasy stock is seemingly on a rocket ship, but should fantasy basketball managers keep the faith in Myles Turner and Onyeka Okongwu?",
+"image": null,
+"published": "2026-10-26T17:47:54Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "a55f48844fa1",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Roundtable: Early Overreactions to Mavericks Basketball",
+"url": "https://sports.yahoo.com/articles/roundtable-early-overreactions-mavericks-basketball-174645316.html",
+"summary": "Feelings over facts, if you please",
+"image": null,
+"published": "2026-10-26T17:46:45Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"dal"
 ]
 },
 {
@@ -720,6 +1727,30 @@
 ]
 },
 {
+"id": "b30218c2e925",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Udinese back Runjaic despite disastrous start to the season",
+"url": "https://sports.yahoo.com/articles/udinese-back-runjaic-despite-disastrous-174500282.html",
+"summary": "Udinese are continuing to back Kosta Runjaic, despite Sunday’s 2-0 home defeat to Milan extending their losing run to six Serie A games.According to ANSA, via TuttoMercatoWeb, the club insists its s...",
+"image": null,
+"published": "2026-10-26T17:45:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "26b3efe91f98",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Tottenham outcast Richarlison convicted of running red light in £60k sportscar",
+"url": "https://sports.yahoo.com/articles/tottenham-outcast-richarlison-convicted-running-174037410.html",
+"summary": "Richarlison has been frozen out by manager Roberto De Zerbi at Tottenham this season",
+"image": null,
+"published": "2026-10-26T17:40:37Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "57b3b963d91d",
 "league": "mlb",
 "source": "Yahoo Sports",
@@ -746,6 +1777,30 @@
 "teams": [
 "okc"
 ]
+},
+{
+"id": "0bac52ada56e",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Former Barcelona star praises Mourinho’s tactical masterclass in El Clasico win",
+"url": "https://sports.yahoo.com/articles/former-barcelona-star-praises-mourinho-173300023.html",
+"summary": "Real Madrid’s victory over Barcelona on Sunday was more than just three points in the La Liga title race.It was an important statement from Jose Mourinho, who outcoached Hansi Flick and made tactica...",
+"image": null,
+"published": "2026-10-26T17:33:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "e6c4578729fa",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Southampton state case in automatic promotion race",
+"url": "https://sports.yahoo.com/articles/southampton-state-case-automatic-promotion-173225113.html",
+"summary": "Southampton's win on Saturday against West Ham makes it clear how serious they are to push for automatic promotion this season.",
+"image": null,
+"published": "2026-10-26T17:32:25Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "9b92f2aaa392",
@@ -789,6 +1844,32 @@
 ]
 },
 {
+"id": "7c170c8236a2",
+"league": "nhl",
+"source": "ESPN",
+"title": "Fantasy hockey pickups: Start Lindholm, stash Evangelista, stream Flames forwards",
+"url": "https://www.espn.com/fantasy/hockey/story/_/id/50287911/fantasy-hockey-picks-forwards-defense-goalies-streamers",
+"summary": "Begin your fantasy hockey week with forwards, defensemen, goalies and streamers to add to your lineup.",
+"image": null,
+"published": "2026-10-26T17:28:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": [
+"cgy"
+]
+},
+{
+"id": "e67ec0119829",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Official: Inter’s Lautaro Martínez comes 22nd in 2026 Ballon d’Or rankings",
+"url": "https://sports.yahoo.com/articles/official-inter-lautaro-mart-nez-172500562.html",
+"summary": "Inter captain Lautaro Martínez has finished 22nd in the 2026 Ballon d’Or rankings, with the winner still due to be announced at tonight’s ceremony in London.The Argentine was the only Serie A pla...",
+"image": null,
+"published": "2026-10-26T17:25:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "6c5b3d4231ba",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -801,6 +1882,42 @@
 "teams": [
 "sea"
 ]
+},
+{
+"id": "4f6953ec7a07",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Virgil van Dijk throws down challenge to Liverpool's new-look attack after Mohamed Salah exit",
+"url": "https://sports.yahoo.com/articles/virgil-van-dijk-throws-down-172320894.html",
+"summary": "Liverpool’s frontline impressed on Sunday in a 2-0 win over Brighton",
+"image": null,
+"published": "2026-10-26T17:23:20Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "f7b26fd2af49",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool interested in move for £34m Premier League star",
+"url": "https://sports.yahoo.com/articles/liverpool-interested-move-34m-premier-172000948.html",
+"summary": "Liverpool Join Tarik Muharemovic Transfer Race as Leeds United Stand Firm on £60m ValuationLiverpool are among the clubs monitoring Leeds United centre-back Tarik Muharemovic, with TeamTalk reporting...",
+"image": null,
+"published": "2026-10-26T17:20:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "535afe3183e3",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool have joined the race to sign £34m defender",
+"url": "https://sports.yahoo.com/articles/liverpool-joined-race-sign-34m-172000979.html",
+"summary": "Liverpool Monitor Tarik Muharemovic as Leeds United Take Firm Transfer StanceLiverpool are among the clubs tracking Leeds United defender Tarik Muharemovic, although the current picture suggests Ellan...",
+"image": null,
+"published": "2026-10-26T17:20:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "d7647a6b7085",
@@ -817,6 +1934,18 @@
 ]
 },
 {
+"id": "e6e4348b1ca3",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Barcelona decided not to sign in-form striker in the summer due to €50 million price tag",
+"url": "https://sports.yahoo.com/articles/barcelona-decided-not-sign-form-171700265.html",
+"summary": "Barcelona had a summer transfer window that brought significant changes to their attack. The departures of Robert Lewandowski and Ferran Torres left the club without a number nine.Although Gabriel Jes...",
+"image": null,
+"published": "2026-10-26T17:17:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "ab1f8fefd897",
 "league": "nba",
 "source": "Yahoo Sports",
@@ -829,6 +1958,18 @@
 "teams": [
 "sa"
 ]
+},
+{
+"id": "f14a36eed12d",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Footy Fix: Who will win Ballon d'Or as Harry Kane, Kylian Mbappe, Lamine Yamal, Lionel Messi vie for prize",
+"url": "https://www.cbssports.com/soccer/news/who-will-win-ballon-dor-harry-kane-kylian-mbappe-lamine-yamal-lionel-messi/",
+"summary": "The EFL League Cup returns with Arsenal in action on Tuesday",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/5ec1a093-f4df-40ab-a1d3-15d719ce16c6/untitled-design-2026-10-26t182927-329.png",
+"published": "2026-10-26T17:15:14Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "31facc428348",
@@ -900,6 +2041,18 @@
 ]
 },
 {
+"id": "4bbeaaeb4333",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Nico Williams confirms ‘countless offers’ during Arsenal transfer pursuit",
+"url": "https://sports.yahoo.com/articles/nico-williams-confirms-countless-offers-170500422.html",
+"summary": "Nico Williams has confirmed recent comments from his agent that he had plenty of options to leave Athletic Club before extending his contract, with Arsenal among the interested clubs.Photo by Justin S...",
+"image": null,
+"published": "2026-10-26T17:05:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "fd8d83c094ba",
 "league": "nba",
 "source": "Yahoo Sports",
@@ -912,6 +2065,18 @@
 "teams": [
 "ny"
 ]
+},
+{
+"id": "48a422ce373f",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC Fight Night 292: Make predictions for Renato Moicano vs. Tom Nolan",
+"url": "https://sports.yahoo.com/articles/ufc-fight-night-292-predictions-170105557.html",
+"summary": "We want your predictions for UFC Fight Night 292 at the Meta APEX in Las Vegas.",
+"image": null,
+"published": "2026-10-26T17:01:05Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "5b018ce54b3c",
@@ -1065,6 +2230,18 @@
 ]
 },
 {
+"id": "14ac3cfd6e0c",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Baresi mural outside Casa Milan vandalised again, weeks after being restored",
+"url": "https://sports.yahoo.com/articles/baresi-mural-outside-casa-milan-170000098.html",
+"summary": "The mural of Franco Baresi outside Casa Milan has been vandalised for a second time, just over two weeks after it was restored.According to MilanNews24, black paint was used to cover the captain’s a...",
+"image": null,
+"published": "2026-10-26T17:00:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "6d68b78405e8",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -1122,6 +2299,18 @@
 "la",
 "nyr"
 ]
+},
+{
+"id": "c0da2d818b1f",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Manel Kape Sends Stern Warning to Joshua Van",
+"url": "https://sports.yahoo.com/articles/manel-kape-sends-stern-warning-164646130.html",
+"summary": "UFC flyweight contender Manel Kape sent a stern warning to UFC flyweight champion Joshua Van ahead of their upcoming title fight.The UFC recently announced that Van will defend his title against Kape in the main event of UFC 336, which takes place on January 30, 2027, at Scotiabank Arena in Toronto, Ontario,…",
+"image": null,
+"published": "2026-10-26T16:46:46Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "dea5c6259031",
@@ -1253,6 +2442,18 @@
 ]
 },
 {
+"id": "a79129fd61f9",
+"league": "soccer",
+"source": "ESPN",
+"title": "NWSL Power Rankings: Angel City take top spot as Decision Day, playoffs loom",
+"url": "https://www.espn.com/soccer/story/_/id/50286798/nwsl-power-rankings-angel-city-take-top-spot-decision-day-playoffs-loom",
+"summary": "Angel City are peaking at the right time, with only Decision Day left in the regular season, the L.A. club are No. 1 in ESPN's NWSL Power Rankings.",
+"image": null,
+"published": "2026-10-26T16:25:07Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "b181ab72760c",
 "league": "nhl",
 "source": "NHL.com",
@@ -1266,6 +2467,30 @@
 "la",
 "nyr"
 ]
+},
+{
+"id": "93487894a178",
+"league": "soccer",
+"source": "ESPN",
+"title": "Mourinho primes Madrid for statement win over Barça to blow LaLiga title race wide open",
+"url": "https://www.espn.com/soccer/story/_/id/50282143/jose-mourinho-primes-real-madrid-statement-clasico-win-barcelona-blow-laliga-title-race-wide-open",
+"summary": "Real Madrid haven't convinced this season, but José Mourinho's game plan overwhelmed Barça, and Los Blancos' 2-1 win brings them into the title race.",
+"image": null,
+"published": "2026-10-26T16:24:59Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "1376f52701d3",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Arman Tsarukyan Says Justin Gaethje is Ducking Him",
+"url": "https://sports.yahoo.com/articles/arman-tsarukyan-says-justin-gaethje-162426670.html",
+"summary": "UFC lightweight contender Arman Tsarukyan is convinced that UFC lightweight champion Justin Gaethje is ducking a fight against him.Tsarukyan is coming off a brutal knockout win over Mauricio Ruffy at UFC 331 that cemented his place as the lightweight division’s top contender. But he has not been booked for the title…",
+"image": null,
+"published": "2026-10-26T16:24:26Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "d76501719cdf",
@@ -1296,6 +2521,18 @@
 ]
 },
 {
+"id": "ccb909fdd198",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Kody Steele wants 'sick' names for 'dope' fights after UFC 333",
+"url": "https://sports.yahoo.com/articles/kody-steele-wants-sick-names-161019889.html",
+"summary": "After his second straight finish at UFC 333, Kody Steele is looking to make some waves at lightweight in 2027.",
+"image": null,
+"published": "2026-10-26T16:10:19Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "9b5956c5b5c5",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -1308,6 +2545,18 @@
 "teams": [
 "gb"
 ]
+},
+{
+"id": "58b265cff7a4",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Alexander Volkanovski and Petr Yan cemented GOAT status in their respective divisions at UFC 333",
+"url": "https://sports.yahoo.com/articles/alexander-volkanovski-petr-yan-cemented-160700592.html",
+"summary": "Alexander Volkanovski and Petr Yan are the best ever in their weight classes.",
+"image": null,
+"published": "2026-10-26T16:07:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "412ced03ffe9",
@@ -1733,6 +2982,18 @@
 ]
 },
 {
+"id": "b4fb45bb234a",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Jean Silva Opens as Favorite Over Alexander Volkanovski",
+"url": "https://sports.yahoo.com/articles/jean-silva-opens-favorite-over-152339340.html",
+"summary": "Perhaps surprisingly, Jean Silva has opened up as the betting favorite for a fight against UFC featherweight champion Alexander Volkanovski.After Volkanovski beat Movsar Evloev in the main event of UFC 333, most people assume that Silva will be next in line to fight for the promotion’s 145 lbs belt.With the fight…",
+"image": null,
+"published": "2026-10-26T15:23:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "0b3a3bb17dea",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -1814,6 +3075,18 @@
 "teams": [
 "ne"
 ]
+},
+{
+"id": "85926c5ef7aa",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "First UFC Fight Night Event of November Hit With Late Change",
+"url": "https://sports.yahoo.com/articles/first-ufc-fight-night-event-151020968.html",
+"summary": "Thomas Petersen is stepping on very short notice to meet the debuting Gabriel Loreno in a heavyweight bout at UFC Vegas 124.",
+"image": null,
+"published": "2026-10-26T15:10:20Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "dad95134e7f3",
@@ -1983,6 +3256,18 @@
 ]
 },
 {
+"id": "4ad8457fe635",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Alex Pereira hints at light heavyweight return if he loses to Sergei Pavlovich at UFC 335",
+"url": "https://sports.yahoo.com/articles/alex-pereira-hints-light-heavyweight-150000238.html",
+"summary": "Alex Pereira lost his heavyweight debut to Ciryl Gane",
+"image": null,
+"published": "2026-10-26T15:00:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "8c4f76681a25",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -1995,6 +3280,18 @@
 "teams": [
 "gb"
 ]
+},
+{
+"id": "e38834e470f9",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Kade Ruotolo Vs. Ok Rae Yoon, Maurice Abevi Vs. Dzhabir Dzhabrailov Set For ONE Fight Night 50",
+"url": "https://sports.yahoo.com/articles/kade-ruotolo-vs-ok-rae-145717495.html",
+"summary": "These blockbuster bouts are headed to Bangkok’s Lumpinee Stadium on December 18, live in U.S. primetime.",
+"image": null,
+"published": "2026-10-26T14:57:17Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "9f0e5d421444",
@@ -2143,6 +3440,18 @@
 "image": null,
 "published": "2026-10-26T14:30:00Z",
 "collected": "2026-10-26T14:57:23Z",
+"teams": []
+},
+{
+"id": "68c125942e56",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "'Healthy and motivated' Merab Dvalishvili promises quick return after UFC 333 loss",
+"url": "https://sports.yahoo.com/articles/healthy-motivated-merab-dvalishvili-promises-142948532.html",
+"summary": "His trilogy with Petr Yan is in the rearview mirror, and Merab Dvalishvili has to look forward without immediate title prospects.",
+"image": null,
+"published": "2026-10-26T14:29:48Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -2500,6 +3809,18 @@
 ]
 },
 {
+"id": "2bc9f8a6ef23",
+"league": "ufc",
+"source": "ESPN",
+"title": "Volkanovski due for a change of scenery, Yan bound for new rematch after UFC 333",
+"url": "https://www.espn.com/mma/story/_/id/50279491/ufc-333-next-alexander-volkanovski-petr-yan-more",
+"summary": "Alexander Volkanovski and Petr Yan defended titles at UFC 333, but which champion could fight in a new division?",
+"image": null,
+"published": "2026-10-26T13:49:04Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "31bc0d68e6dd",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -2684,6 +4005,18 @@
 "lal",
 "utah"
 ]
+},
+{
+"id": "ae92b5cc4de2",
+"league": "soccer",
+"source": "ESPN",
+"title": "Transfer rumors, news: Man United eye Branthwaite amid defensive rebuild",
+"url": "https://www.espn.com/soccer/story/_/id/50285660/transfer-rumors-news-man-united-eye-jarrad-branthwaite-amid-defensive-rebuild",
+"summary": "Paris Saint-Germain are reportedly looking to sign young talent JJ Gabriel from Manchester United. Transfer Talk has the latest.",
+"image": null,
+"published": "2026-10-26T13:29:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "6444132c3514",
@@ -3253,6 +4586,18 @@
 "teams": []
 },
 {
+"id": "1cc2a313bfaa",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "What’s Next For Evloev?",
+"url": "https://sports.yahoo.com/articles/next-evloev-130000970.html",
+"summary": "UFC 333 blew the roof off Etihad Arena last Saturday (Oct. 24, 2026) in Abud Dhabi, United Arab Emirates (UAE), leaving several fighters feeling the post-fight blues. Among them was Merab Dvalishvili, who was unable to re-claim the UFC bantamweight title after getting out-classed by division king, Petr Yan (see it…",
+"image": null,
+"published": "2026-10-26T13:00:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "6bd1d7713219",
 "league": "nfl",
 "source": "CBS Sports",
@@ -3305,6 +4650,18 @@
 "image": null,
 "published": "2026-10-26T12:55:22Z",
 "collected": "2026-10-26T13:02:47Z",
+"teams": []
+},
+{
+"id": "d69909414e4e",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "BJJ wiz Kade Ruotolo draws former MMA champion in ONE return",
+"url": "https://sports.yahoo.com/articles/bjj-wiz-kade-ruotolo-draws-124515649.html",
+"summary": "Kade Ruotolo in undefeated in mixed martial arts",
+"image": null,
+"published": "2026-10-26T12:45:15Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -3364,6 +4721,18 @@
 "teams": [
 "jax"
 ]
+},
+{
+"id": "1b8396567bcc",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Islam Makhachev defends decision to duck Carlos Prates: ‘We’ll see who’s the real challenger’",
+"url": "https://sports.yahoo.com/articles/islam-makhachev-defends-decision-duck-123424462.html",
+"summary": "Islam Makhachev has spoken out regarding his decision to pass on fighting at UFC 336, resulting in an interim welterweight fight between Carlos Prates and Michael Morales being booked for the Toronto event. Prates vs. Morales was announced on Saturday afternoon in Abu Dhabi during UFC 333. Play-by-play announcer Jon…",
+"image": null,
+"published": "2026-10-26T12:34:24Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "9bc0e4308bff",
@@ -3614,6 +4983,18 @@
 ]
 },
 {
+"id": "ccf335071ced",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Ballon d'Or Power Rankings: Why Harry Kane should win over Lamine Yamal, Kylian Mbappe, and Lionel Messi",
+"url": "https://www.cbssports.com/soccer/news/ballon-dor-harry-kane-should-win-lamine-yamal-kylian-mbappe-lionel-messi/",
+"summary": "Here's how the Ballon d'Or contenders rank as we near the end of September",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/7a1e15b4-eaa7-4400-bcaa-f1957663efa0/untitled-design-2026-10-26t141354-138.png",
+"published": "2026-10-26T12:16:04Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "572883616e71",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -3714,6 +5095,18 @@
 "mia",
 "nyj"
 ]
+},
+{
+"id": "1c0adc750966",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC Fight Night 292: How to watch Renato Moicano vs. Tom Nolan, lineup, odds",
+"url": "https://sports.yahoo.com/articles/ufc-fight-night-292-watch-120229309.html",
+"summary": "Here's what you need to know to watch UFC Fight Night 292 on Paramount+.",
+"image": null,
+"published": "2026-10-26T12:02:29Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "894046e761b8",
@@ -4121,6 +5514,18 @@
 ]
 },
 {
+"id": "7066e6348d52",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Ballon d'Or 2026: Where to watch, start time, how does voting work as Harry Kane, Lamine Yamal eye prize",
+"url": "https://www.cbssports.com/soccer/news/ballon-dor-2026-where-to-watch-start-time-voting-harry-kane-kylian-mbappe-lamine-yamal-lionel-messi/",
+"summary": "Here's everything to know about Monday's ceremony, who can win and who are the nominees",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/25/2c4dc0fd-f133-417e-8b3e-11c1a8ca805c/harry-kane-1.jpg",
+"published": "2026-10-26T11:39:20Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "7fad50615e3d",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -4232,6 +5637,18 @@
 "teams": [
 "phi"
 ]
+},
+{
+"id": "6e28ce4941bf",
+"league": "soccer",
+"source": "ESPN",
+"title": "Will an American woman ever again be the world's best player?",
+"url": "https://www.espn.com/soccer/story/_/id/50270616/will-uswnt-player-ever-win-ballon-dor-again",
+"summary": "After years of dominance, USWNT players no longer land as finalists -- let alone win -- major awards such as the Ballon d'Or.",
+"image": null,
+"published": "2026-10-26T11:24:42Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "18fbaa8647cf",
@@ -4988,6 +6405,18 @@
 ]
 },
 {
+"id": "8123c2b9990d",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "“We Will Figure Out Who’s the Real Challenger” – Islam Makhachev Reveals Why He Turned Down Carlos Prates at UFC 336",
+"url": "https://sports.yahoo.com/articles/figure-real-challenger-islam-makhachev-063950113.html",
+"summary": "The UFC welterweight title picture has taken a surprising turn, with Carlos Prates now scheduled to face Michael Morales for the interim championship at UFC 336. The pair will headline the co-main event when the promotion returns to Toronto on January 30. Prates was previously linked to a title showdown with Islam…",
+"image": null,
+"published": "2026-10-26T06:39:50Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "54fd4c3c5ecf",
 "league": "nba",
 "source": "ESPN",
@@ -5056,6 +6485,18 @@
 "teams": [
 "det"
 ]
+},
+{
+"id": "cda9859fea7a",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Aaron Pico Rips Aljamain Sterling for Turning Down UFC Fight",
+"url": "https://sports.yahoo.com/articles/aaron-pico-rips-aljamain-sterling-060531703.html",
+"summary": "UFC featherweight contender Aaron Pico ripped Aljamain Sterling for turning down a fight against him at UFC 333.The UFC tried to book Pico against Sterling on the UFC 333 undercard, but Sterling declined the fight and was instead booked to face Kevin Vallejos at UFC Qatar.Pico, who ended up fighting Losene Keita at…",
+"image": null,
+"published": "2026-10-26T06:05:31Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "299e2c5d02eb",
@@ -5295,6 +6736,18 @@
 ]
 },
 {
+"id": "9d332b16c029",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Arman Tsarukyan wants Georges St. Pierre wrestling match after RAF 14",
+"url": "https://sports.yahoo.com/articles/arman-tsarukyan-wants-georges-st-041650851.html",
+"summary": "Arman Tsarukyan has set his sights on a high-profile wrestling matchup against Georges St. Pierre after his dominant victory over Dillon Danis at Real American Freestyle 14.",
+"image": null,
+"published": "2026-10-26T04:16:50Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "7e03eefef425",
 "league": "nba",
 "source": "Yahoo Sports",
@@ -5323,6 +6776,18 @@
 "mon",
 "wpg"
 ]
+},
+{
+"id": "3b0e3778e611",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Is Petr Yan the UFC Bantamweight GOAT? Dana White Thinks So",
+"url": "https://sports.yahoo.com/articles/petr-yan-ufc-bantamweight-goat-040305785.html",
+"summary": "Is UFC bantamweight champion Petr Yan the best to ever do it at 135 lbs? UFC president Dana White seems to think he is.Yan defeated Merab Dvalishvili in the pair’s trilogy bout in the main event of UFC 333 in what was one of the best fights of the year, with the pair winning $100,000 […] The post Is Petr Yan the UFC…",
+"image": null,
+"published": "2026-10-26T04:03:05Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "da9fc255d126",
@@ -5414,6 +6879,18 @@
 "teams": []
 },
 {
+"id": "1a053afcc054",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Dana White Outlines How Movsar Evloev Gets Another Title Shot",
+"url": "https://sports.yahoo.com/articles/dana-white-outlines-movsar-evloev-034358536.html",
+"summary": "UFC president Dana White outlined how featherweight fighter Movsar Evloev could get another title shot at 145 lbs.Evloev was 20-0 in MMA and 10-0 in the UFC heading into UFC 333, but he suffered a brutal second-round knockout loss against UFC featherweight champion Alexander Volkanovski in a failed bid to become the…",
+"image": null,
+"published": "2026-10-26T03:43:58Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "1122dcec9e7d",
 "league": "nba",
 "source": "Yahoo Sports",
@@ -5454,6 +6931,18 @@
 "dal",
 "mia"
 ]
+},
+{
+"id": "13fbb5775b7c",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Daniel Cormier Says Alexander Volkov Should Get UFC Title Shot",
+"url": "https://sports.yahoo.com/articles/daniel-cormier-says-alexander-volkov-033025669.html",
+"summary": "UFC commentator Daniel Cormier says that Alexander Volkov deserves to be next in line to fight for the UFC heavyweight title. Volkov — who turned heads this week with a viral clip of him asking UFC president Dana White what he has to do to get a title shot — defeated Rizvan Kuniev at UFC […] The post Daniel Cormier…",
+"image": null,
+"published": "2026-10-26T03:30:25Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "1b578dc7b162",
@@ -5929,6 +7418,18 @@
 ]
 },
 {
+"id": "41752983d23f",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Alexander Volkanovski Had His Own Michael Jordan 'Flu Game' at UFC 333, and Offers Justin Gaethje 'Last Dance'",
+"url": "https://sports.yahoo.com/articles/alexander-volkanovski-had-own-michael-012245823.html",
+"summary": "Alexander Volkanovski revealed he weathered sickness at UFC 333, reminiscent of Michael Jordan's iconic 'Flu game.' Calls for Justin Gaethje super fight.",
+"image": null,
+"published": "2026-10-26T01:22:45Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "0a5413851d96",
 "league": "nba",
 "source": "Yahoo Sports",
@@ -6172,6 +7673,18 @@
 "teams": []
 },
 {
+"id": "8720745e026d",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Islam Makhachev explains why he turned down UFC title defense vs. Carlos Prates",
+"url": "https://sports.yahoo.com/articles/islam-makhachev-explains-why-turned-003027503.html",
+"summary": "Islam Makhachev explains why he's not defending his UFC welterweight title in January.",
+"image": null,
+"published": "2026-10-26T00:30:27Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "28ef72400e6c",
 "league": "nba",
 "source": "Yahoo Sports",
@@ -6184,6 +7697,18 @@
 "teams": [
 "ny"
 ]
+},
+{
+"id": "b0bcf0c86ca3",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Ballon d'Or 2026 predictions: Did Harry Kane, Lamine Yamal or Kylian Mbappe win Golazo Network vote?",
+"url": "https://www.cbssports.com/soccer/news/ballon-dor-2026-predictions-harry-kane-lamine-yamal-kylian-mbappe/",
+"summary": "Here's how CBS Sports Golazo Network's talent voted on Monday's award",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/53aab038-7f1d-493f-b266-022b5e07b99e/ballon.jpg",
+"published": "2026-10-26T00:13:10Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "1d394edf8822",
@@ -6303,6 +7828,18 @@
 ]
 },
 {
+"id": "0459e9d5146e",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Aljamain Sterling Has Message for Alex Volkanovski After UFC 333",
+"url": "https://sports.yahoo.com/articles/aljamain-sterling-message-alex-volkanovski-234203695.html",
+"summary": "Former UFC bantamweight champion Aljamain Sterling sent a message to UFC featherweight champion Alex Volkanovski after UFC 333.In the UFC 333 headliner, Volkanovski defeated Movsar Evloev via second-round TKO to cement himself as the best featherweight in the world.While many believe Jean Silva is next in line for…",
+"image": null,
+"published": "2026-10-25T23:42:03Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "33ec76771507",
 "league": "nba",
 "source": "Yahoo Sports",
@@ -6316,6 +7853,18 @@
 "lal",
 "utah"
 ]
+},
+{
+"id": "5ab38308087d",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Daniel Cormier: Alexander Volkov next for title shot after UFC 333 win",
+"url": "https://sports.yahoo.com/articles/daniel-cormier-alexander-volkov-next-234019228.html",
+"summary": "Daniel Cormier thinks Alexander Volkov is the No. 1 contender after UFC 333, but sees two things that could stand in his way.",
+"image": null,
+"published": "2026-10-25T23:40:19Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "d50bb36238c5",
@@ -6346,6 +7895,18 @@
 "det",
 "phi"
 ]
+},
+{
+"id": "610c3243026e",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Real Madrid finally show their potential under Jose Mourinho in convincing El Clasico win over Barcelona",
+"url": "https://www.cbssports.com/soccer/news/real-madrid-show-their-potential-jose-mourinho-el-clasico/",
+"summary": "Kylian Mbappe scored his 100th goal for Real Madrid in a 2-1 win at Barcelona on Sunday, trimming the gap between the rivals to three points",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/25/359c9322-242c-4f5a-8660-dd790e0d303f/los-blancos.jpg",
+"published": "2026-10-25T23:28:30Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "49864139d5df",
@@ -6693,6 +8254,18 @@
 ]
 },
 {
+"id": "b12b6ca90f49",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Islam Makhachev reveals why he turned down January fight with Carlos Prates",
+"url": "https://sports.yahoo.com/articles/islam-makhachev-reveals-why-turned-220000870.html",
+"summary": "Islam Makhachev explains why he’s not fighting Carlos Prates in January",
+"image": null,
+"published": "2026-10-25T22:00:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "b6f5ce7f3d70",
 "league": "nfl",
 "source": "CBS Sports",
@@ -6819,6 +8392,30 @@
 ]
 },
 {
+"id": "c9de538e3a0c",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Michael Morales Sends Warning to Carlos Prates Before UFC 336",
+"url": "https://sports.yahoo.com/articles/michael-morales-sends-warning-carlos-211445863.html",
+"summary": "UFC welterweight stud Michael Morales sent a warning to rival Carlos Prates before the two meet at UFC 336 in January.With UFC welterweight champion Islam Makhachev out for undisclosed reasons, the UFC created an interim welterweight title that Morales and Prates will fight over at UFC 336.Ahead of their upcoming…",
+"image": null,
+"published": "2026-10-25T21:14:45Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "5ff2a92304f5",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC 333 post-event facts: History made in both championship fights",
+"url": "https://sports.yahoo.com/articles/ufc-333-post-event-facts-211039183.html",
+"summary": "The UFC 333 title fights won by Alexander Volkanovski and Petr Yan led to new history in the record books.",
+"image": null,
+"published": "2026-10-25T21:10:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "d38a07e7fd24",
 "league": "nhl",
 "source": "NHL.com",
@@ -6833,6 +8430,18 @@
 ]
 },
 {
+"id": "1444813593f4",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC's Carlos Prates Blasts Islam Makhachev for Delaying Planned Title Fight",
+"url": "https://sports.yahoo.com/articles/ufcs-carlos-prates-blasts-islam-210002026.html",
+"summary": "Will \"The Nightmare\" lose out in the biggest fight of his career, even though he's not at fault?",
+"image": null,
+"published": "2026-10-25T21:00:02Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "590e80dbb515",
 "league": "mlb",
 "source": "Yahoo Sports",
@@ -6845,6 +8454,30 @@
 "teams": [
 "mil"
 ]
+},
+{
+"id": "9369fa3e07d8",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC returns to Dallas for Fight Night event",
+"url": "https://sports.yahoo.com/articles/ufc-returns-dallas-fight-night-210000143.html",
+"summary": "UFC Dallas takes place on Jan. 16 at American Airlines Center",
+"image": null,
+"published": "2026-10-25T21:00:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "98dceb7ff9b4",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Islam Makhachev’s Coach Denies UFC Set Carlos Prates Fight",
+"url": "https://sports.yahoo.com/articles/islam-makhachev-coach-denies-ufc-205843211.html",
+"summary": "Javier Mendez, the head coach of UFC welterweight champion Islam Makhachev, denied that his fighter was set for a matchup with Carlos Prates.On Saturday during the UFC 333 broadcast, the promotion officially announced that Prates will fight Michael Morales for the interim UFC welterweight title at UFC 336.Fans were…",
+"image": null,
+"published": "2026-10-25T20:58:43Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "881c263e8323",
@@ -6885,6 +8518,18 @@
 "teams": [
 "mon"
 ]
+},
+{
+"id": "994d7fd02f03",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Team Alex Volkanovski Makes Feelings About Jean Silva Clear",
+"url": "https://sports.yahoo.com/articles/team-alex-volkanovski-makes-feelings-204808686.html",
+"summary": "Joe Lopez, the head coach of UFC featherweight champion Alexander Volkanovski, made it clear their team is not interested in Jean Silva.Volkanovski knocked out Movsar Evloev in the second round of their UFC 333 featherweight title fight in an impressive showing.Up next appears to be Silva, who is coming off…",
+"image": null,
+"published": "2026-10-25T20:48:08Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "80b7d32f2a96",
@@ -6944,6 +8589,42 @@
 ]
 },
 {
+"id": "71d327dea83e",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Sean O’Malley Wanted Petr Yan to Call Him Out After UFC 333",
+"url": "https://sports.yahoo.com/articles/sean-o-malley-wanted-petr-193528733.html",
+"summary": "UFC superstar Sean O’Malley said that he was hoping that UFC bantamweight champion Petr Yan would call him out after UFC 333.In the co-main event of UFC 333, Yan defeated Merab Dvalishvili via unanimous decision in an amazing fight that won Fight of the Night and earned both men a $100,000 bonus.Afterward, UFC…",
+"image": null,
+"published": "2026-10-25T19:35:28Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "c3c5c9b60527",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Sean Shelby's Shoes: What's next for Alexander Volkanovski after UFC 333 history?",
+"url": "https://sports.yahoo.com/articles/sean-shelbys-shoes-whats-next-193037273.html",
+"summary": "Dana White essentially gave Alexander Volkanovski carte blanche to pick his next fight after UFC 333. So what will it be?",
+"image": null,
+"published": "2026-10-25T19:30:37Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "d996f4f03185",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC Legend Alexander Volkanovski Teases Mega Champ vs. Champ Fight After UFC 333",
+"url": "https://sports.yahoo.com/articles/ufc-legend-alexander-volkanovski-teases-193001951.html",
+"summary": "Could 'The Great' get another shot at double-champ status?",
+"image": null,
+"published": "2026-10-25T19:30:01Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "2e6317e663ee",
 "league": "nfl",
 "source": "CBS Sports",
@@ -7001,6 +8682,18 @@
 ]
 },
 {
+"id": "57e0f588abe4",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "GFL announces announces new debut date following 2025 event cancellations",
+"url": "https://sports.yahoo.com/articles/gfl-announces-announces-debut-date-190000596.html",
+"summary": "The GFL is back in business",
+"image": null,
+"published": "2026-10-25T19:00:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "b85f016baaac",
 "league": "nhl",
 "source": "Yahoo Sports",
@@ -7016,6 +8709,18 @@
 ]
 },
 {
+"id": "a9df6e9e4d6d",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Lone’er Kavanagh Reacts to KO Win at UFC 333",
+"url": "https://sports.yahoo.com/articles/lone-er-kavanagh-reacts-ko-185342960.html",
+"summary": "UFC flyweight contender Lone’er Kavanagh shared his reaction to his knockout win over Ramazan Temirov at UFC 333.In one of the biggest wins of his UFC career to date, Kavanagh brutally stopped Temirov’s 12-fight win streak with a nasty first-round knockout on the UFC 333 main card.It was an unbelievable win for…",
+"image": null,
+"published": "2026-10-25T18:53:42Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "7c9cda9b8017",
 "league": "mlb",
 "source": "Yahoo Sports",
@@ -7028,6 +8733,18 @@
 "teams": [
 "mil"
 ]
+},
+{
+"id": "bf55fcccb510",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Aaron Pico criticizes Aljamain Sterling for overprotecting UFC ranking",
+"url": "https://sports.yahoo.com/articles/aaron-pico-criticizes-aljamain-sterling-184649693.html",
+"summary": "Aaron Pico accuses former UFC champion Aljamain Sterling of turning down fights against him.",
+"image": null,
+"published": "2026-10-25T18:46:49Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "a8fc133f15a4",
@@ -7059,6 +8776,30 @@
 ]
 },
 {
+"id": "97b0378935c6",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Michael Morales warns Carlos Prates before UFC 336: 'Shut your mouth'",
+"url": "https://sports.yahoo.com/articles/michael-morales-warns-carlos-prates-184026618.html",
+"summary": "Michael Morales urges Carlos Prates to put down the cigarettes and lock in for their UFC 336 interim title fight.",
+"image": null,
+"published": "2026-10-25T18:40:26Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "1d4c4e6b9983",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Dana White Gets Brutally Blunt on Islam Makhachev's Next UFC Fight",
+"url": "https://sports.yahoo.com/articles/dana-white-gets-brutally-blunt-183427759.html",
+"summary": "Dana White was not amused by the latest UFC decision involving Islam Makhachev.",
+"image": null,
+"published": "2026-10-25T18:34:27Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "5e145282305c",
 "league": "nhl",
 "source": "Yahoo Sports",
@@ -7088,6 +8829,18 @@
 ]
 },
 {
+"id": "0e4e2fbd53a7",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Alexander Volkanovski dared to be 'Great' — and guess what? He's more than lived up to the nickname",
+"url": "https://sports.yahoo.com/mma/article/ufc-333-alexander-volkanovski-dared-to-be-great-and-guess-what-hes-more-than-lived-up-to-the-nickname-175927236.html",
+"summary": "Written off after back-to-back knockout losses, Volkanovski was supposed to be nearing the end. Instead, his stunning win at UFC 333 has made the case undeniable: At 38, he's the greatest featherweight in MMA history — and one of the five greatest fighters the UFC has ever seen.",
+"image": null,
+"published": "2026-10-25T17:59:27Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "9df81b78aec2",
 "league": "nfl",
 "source": "ESPN",
@@ -7109,6 +8862,30 @@
 "image": null,
 "published": "2026-10-25T17:55:00Z",
 "collected": "2026-10-26T13:02:47Z",
+"teams": []
+},
+{
+"id": "25e228016c50",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Video replay: UFC 333 fallout and UFC 336 title fight reaction",
+"url": "https://sports.yahoo.com/articles/video-ufc-333-fallout-ufc-175017815.html",
+"summary": "UFC 333 is in the books, and now it's time to sort through the aftermath of one of the more memorable numbered events of 2026 so far.",
+"image": null,
+"published": "2026-10-25T17:50:17Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "c1f3d3cac1b6",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Aaron Pico Issues Statement After UFC 333 TKO Win",
+"url": "https://sports.yahoo.com/articles/aaron-pico-issues-statement-ufc-174026376.html",
+"summary": "UFC featherweight contender Aaron Pico issued a statement following his first-round knockout win over Losene Keita at UFC 333.In what was his best performance inside the Octagon yet, Pico knocked out Keita in the first round with punches to improve his UFC record to 2-1.Aaron Pico Reacts to UFC 333 WinTaking to his…",
+"image": null,
+"published": "2026-10-25T17:40:26Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -7179,6 +8956,18 @@
 "teams": []
 },
 {
+"id": "102db2267b49",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Dana White Has Latest Update on Usman Nurmagomedov to UFC",
+"url": "https://sports.yahoo.com/articles/dana-white-latest-usman-nurmagomedov-171151567.html",
+"summary": "UFC president Dana White shared the latest update on former PFL lightweight champion Usman Nurmagomedov potentially signing with the UFC.Nurmagomedov recently became a free agent following his final fight in PFL, a knockout win over Archie Colgan at PFL New York in July. However, that free agency came with a…",
+"image": null,
+"published": "2026-10-25T17:11:51Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "c3c51f3d2109",
 "league": "nfl",
 "source": "CBS Sports",
@@ -7193,6 +8982,18 @@
 "gb",
 "lar"
 ]
+},
+{
+"id": "56adcc324289",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Alexander Volkanovski insists on lightweight title shot vs. Justin Gaethje after UFC 333",
+"url": "https://sports.yahoo.com/articles/alexander-volkanovski-insists-lightweight-title-170100012.html",
+"summary": "Alexander Volkanovski wants another chance at becoming a two-division UFC champion.",
+"image": null,
+"published": "2026-10-25T17:01:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "41857c5027b8",
@@ -7267,6 +9068,18 @@
 "lv",
 "sea"
 ]
+},
+{
+"id": "9eb55c274239",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Here's why the LaLiga race is probably over if Barcelona beat Real Madrid in El Clasico",
+"url": "https://www.cbssports.com/soccer/news/laliga-over-barcelona-real-madrid-el-clasico-2026/",
+"summary": "Hansi Flick's side have nine wins from nine domestic matches, putting Jose Mourinho in a must-win spot to keep the title race alive, if history is anything to go by",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/25/f4698820-fed8-4d9d-93a3-1603f4f020db/mbappe-real-madrid.jpg",
+"published": "2026-10-25T16:21:24Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "da358c891f05",
@@ -7683,6 +9496,18 @@
 ]
 },
 {
+"id": "a1c0c2bc6311",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Inter Miami's MLS Cup credentials take hit with midfield problems that are too big for Lionel Messi to solve",
+"url": "https://www.cbssports.com/soccer/news/inter-miamis-mls-cup-credentials-problems-midfield-lionel-messi/",
+"summary": "Miami lost 2-0 at Red Bull New York on Saturday, failing to gain control of the game even after Messi's second-half substitution",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/25/3df35093-8ba6-4956-9d38-3a099cd4168c/inter-miami.jpg",
+"published": "2026-10-25T13:35:53Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "81e0aac645c7",
 "league": "nhl",
 "source": "NHL.com",
@@ -7765,6 +9590,30 @@
 "teams": [
 "stl"
 ]
+},
+{
+"id": "76fedf728e5e",
+"league": "ufc",
+"source": "ESPN",
+"title": "Kavanagh secures R1 finish at UFC 333, joins flyweight title talk",
+"url": "https://www.espn.com/ufc/story/_/id/50267857/loneer-kavanagh-shoots-flyweight-title-talk-devastating-finish-ufc-333",
+"summary": "England's Lone'er Kavanagh catapulted himself into flyweight title contention on Saturday with a devastating Round 1 finish of Ramazonbek Temirov in Abu Dhabi.",
+"image": null,
+"published": "2026-10-25T12:45:26Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "8c1653974f41",
+"league": "ufc",
+"source": "ESPN",
+"title": "Volkanovski, 38, KO's Evloev to retain title, wants to 'keep going'",
+"url": "https://www.espn.com/mma/story/_/id/50270358/volkanovski-keeps-title-2nd-round-ko-evloev",
+"summary": "Alexander Volkanovski defended his featherweight title for the second time this year Saturday, knocking out undefeated challenger Movsar Evloev at 4:54 of the second round at UFC 333 in Abu Dhabi.",
+"image": null,
+"published": "2026-10-25T12:44:46Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "37e75aa99625",
@@ -8254,6 +10103,42 @@
 ]
 },
 {
+"id": "3d4e6ee46c80",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Barcelona vs. Real Madrid: Who has the edge in El Clasico in goal, defense, midfield and attack?",
+"url": "https://www.cbssports.com/soccer/news/barcelona-vs-real-madrid-who-has-the-edge-in-el-clasico/",
+"summary": "The two Spanish giants will meet on Sunday in Barcelona for one of the most anticipated matches of the season",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/25/03940d73-6659-4efa-ba33-8f3b65a30f07/barca-real-madrid.jpg",
+"published": "2026-10-25T01:06:39Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "249f9a840ee2",
+"league": "ufc",
+"source": "ESPN",
+"title": "White tells Makhachev 'you can't hold up' division, books interim title bout",
+"url": "https://www.espn.com/mma/story/_/id/50269191/makhachev-defend-title-ufc-books-interim-title-bout",
+"summary": "UFC CEO Dana White said welterweight champ Islam Makhachev gave no reason for declining a January title defense, forcing the promotion to book an interim title bout.",
+"image": null,
+"published": "2026-10-25T01:04:53Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "4018b0d26afe",
+"league": "ufc",
+"source": "ESPN",
+"title": "Yan completes trilogy with gritty win over Dvalishvili to defend title",
+"url": "https://www.espn.com/mma/ufc/story/_/id/50269828/petr-yan-completes-trilogy-gritty-win-merab-dvalishvili-defend-title",
+"summary": "Petr Yan beat Merab Dvalishvili via unanimous decision in the co-main event of UFC 333, completing their trilogy with two straight victories.",
+"image": null,
+"published": "2026-10-24T23:38:38Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "7efdd2190d8b",
 "league": "nhl",
 "source": "ESPN",
@@ -8295,6 +10180,18 @@
 "teams": [
 "car"
 ]
+},
+{
+"id": "5282b695723d",
+"league": "ufc",
+"source": "ESPN",
+"title": "UFC 333 results: Alexander Volkanovski, Petr Yan win to retain titles",
+"url": "https://www.espn.com/mma/story/_/id/50220522/ufc-333-results-volkanovski-evloev",
+"summary": "Alexander Volkanovski and Petr Yan held on to their titles with big wins at the top of the UFC 333 fight card.",
+"image": null,
+"published": "2026-10-24T22:40:47Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "03559f4789c2",
@@ -8803,6 +10700,18 @@
 ]
 },
 {
+"id": "0213ff5c4e95",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Vincent Kompany hospitalized after collapsing at Bayern Munich training ground",
+"url": "https://www.cbssports.com/soccer/news/vincent-kompany-collapse-bayern-munich/",
+"summary": "The manager was taken to the hospital for evaluation and the club did not yet offer an update on his status",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/23/4a70be1f-ddaa-4cfa-93e2-1b55c4c67277/vincentkompany.jpg",
+"published": "2026-10-23T18:14:04Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "d2fb99994c11",
 "league": "nhl",
 "source": "NHL.com",
@@ -8833,6 +10742,18 @@
 ]
 },
 {
+"id": "f8bb6ee10d13",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Footy Fix: How to watch, live stream El Clasico as Real Madrid and Barcelona square off",
+"url": "https://www.cbssports.com/soccer/news/footy-fix-how-to-watch-live-stream-el-clasico-real-madrid-barcelona/",
+"summary": "Spain's two biggest teams meet on Sunday",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/23/510c5479-7e46-4bd8-84e3-ac87b055b9e7/clasico-1.jpg",
+"published": "2026-10-23T17:37:40Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "be52d7a4d270",
 "league": "nba",
 "source": "CBS Sports",
@@ -8848,6 +10769,18 @@
 ]
 },
 {
+"id": "469978ebc102",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "NWSL Power Rankings: Washington Spirit, Gotham FC and San Diego Wave eye shield",
+"url": "https://www.cbssports.com/soccer/news/nwsl-power-rankings-washington-spirit-gotham-fc-san-diego-wave/",
+"summary": "As the regular season winds down, the race for the NWSL Shield continues to heat up",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/23/0cc59541-2f97-456a-ab80-85ffa28fe100/power-rankings-soccer-nwsl-template-3.jpg",
+"published": "2026-10-23T16:39:40Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "55b2e8418d67",
 "league": "nba",
 "source": "CBS Sports",
@@ -8861,6 +10794,18 @@
 "bos",
 "phi"
 ]
+},
+{
+"id": "437ae3c991a8",
+"league": "ufc",
+"source": "ESPN",
+"title": "Michael 'Venom' Page's UFC stint is over -- has his MMA legacy been badly affected?",
+"url": "https://www.espn.com/ufc/story/_/id/50180379/michael-venom-page-ufc-stint-his-mma-legacy-badly-affected",
+"summary": "What will Michael 'Venom' Page's MMA legacy be, and how will a strange UFC stint impact it?",
+"image": null,
+"published": "2026-10-23T16:16:01Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "29b47f888a71",
@@ -8916,6 +10861,18 @@
 "image": null,
 "published": "2026-10-23T15:02:49Z",
 "collected": "2026-10-26T13:02:47Z",
+"teams": []
+},
+{
+"id": "d17234c632ed",
+"league": "ufc",
+"source": "ESPN",
+"title": "Yan vs. Dvalishvili 3 comes down to one question: Who will make better decisions?",
+"url": "https://www.espn.com/mma/story/_/id/50257331/petr-yan-merab-dvalishvili-trilogy",
+"summary": "Merab Dvalishvili has tweaked his fight plan, while Yan has gone all-in on his. Which strategy will win out?",
+"image": null,
+"published": "2026-10-23T14:47:33Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -9031,6 +10988,18 @@
 ]
 },
 {
+"id": "94f6898ebbb5",
+"league": "ufc",
+"source": "ESPN",
+"title": "Tsarukyan lunges at Danis, igniting fracas at presser ahead of RAF matchup",
+"url": "https://www.espn.com/mma/story/_/id/50253379/arman-tsarukyan-dillon-danis-involved-fracas-raf-presser",
+"summary": "Arman Tsarukyan took exception to Dillon Danis mocking teammate Khamzat Chimaev and lunged at him Thursday, igniting a scuffle ahead of their RAF wrestling match.",
+"image": null,
+"published": "2026-10-23T01:39:35Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "62234e15a2b4",
 "league": "mlb",
 "source": "CBS Sports",
@@ -9059,6 +11028,18 @@
 "cle",
 "phi"
 ]
+},
+{
+"id": "a5b75fcacabf",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Champions League Power Rankings: How low can struggling Manchester United go?",
+"url": "https://www.cbssports.com/soccer/news/champions-league-power-rankings-manchester-united-psg-real-madrid-arsenal-bayern/",
+"summary": "Here's how teams rank after Matchday 3 of UCL",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/22/0fd02bf9-03f3-4d69-92f9-8414208d253b/power-rankings-soccer-16x9.jpg",
+"published": "2026-10-22T21:02:48Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "2bb62ab37498",
@@ -9157,6 +11138,30 @@
 "teams": [
 "cgy"
 ]
+},
+{
+"id": "cef66c541c2b",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "FIFA awards inaugural Women's Club World Cup in 2028 to United States",
+"url": "https://www.cbssports.com/soccer/news/fifa-inaugural-womens-club-world-cup-2028-united-states/",
+"summary": "United States set to host yet another major soccer competition",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/22/e7032af4-19fa-4951-80cb-bf6acd175b7f/united-states.jpg",
+"published": "2026-10-22T18:49:43Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "53bea635e1d5",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "WSL Power Rankings: London City Lionesses rising as Arsenal struggle to find form",
+"url": "https://www.cbssports.com/soccer/news/wsl-power-rankings-london-city-lioness-rising-arsenal-struggle-2026/",
+"summary": "The Gunners can't figure out how to win this season while London City hit a new stride",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/22/c65730c7-3018-48d7-bb50-5edbb1002f58/london-city-lionesses.jpg",
+"published": "2026-10-22T18:21:47Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "9697ee6b9ac4",
@@ -9308,6 +11313,18 @@
 ]
 },
 {
+"id": "570d2b7896f4",
+"league": "ufc",
+"source": "ESPN",
+"title": "UFC 333 preview and picks for Volkanovski vs. Evloev and Yan vs. Dvalishvili",
+"url": "https://www.espn.com/mma/story/_/id/50238314/ufc-333-preview-picks",
+"summary": "Check out the matchups and expert predictions for both championship fights at UFC 333 in Abu Dhabi.",
+"image": null,
+"published": "2026-10-22T16:23:59Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "0c9f5c39a8ce",
 "league": "nba",
 "source": "CBS Sports",
@@ -9320,6 +11337,18 @@
 "teams": [
 "ind"
 ]
+},
+{
+"id": "35cf392523b3",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Bruno Fernandes' rebellion in Como underlines Manchester United's never-ending problem",
+"url": "https://www.cbssports.com/soccer/news/bruno-fernandes-rebellion-underlines-manchester-uniteds-problem/",
+"summary": "Eight managers since Sir Alex Ferguson have lost the players, and until there are significant changes, the ninth will too",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/22/db5c924a-2604-4855-9413-8aae4cd3eaef/bruno-fernandes.jpg",
+"published": "2026-10-22T15:13:55Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "4c0441b84236",
@@ -9480,6 +11509,18 @@
 "teams": []
 },
 {
+"id": "676e428fef85",
+"league": "ufc",
+"source": "ESPN",
+"title": "Chimaev: If Strickland wants to get paid, he should accept rematch",
+"url": "https://www.espn.com/mma/story/_/id/50245442/khamzat-chimaev-sean-strickland-rematch",
+"summary": "Khamzat Chimaev believes he should still be the UFC's middleweight champion and wants Sean Strickland to accept a rematch if he is serious about making money.",
+"image": null,
+"published": "2026-10-22T06:19:14Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "b137ecdab574",
 "league": "nba",
 "source": "CBS Sports",
@@ -9519,6 +11560,42 @@
 "image": "https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/v1791392858/prd/auxf2afxqsitwyvmgo0h.jpg",
 "published": "2026-10-22T04:00:00Z",
 "collected": "2026-10-26T13:02:47Z",
+"teams": []
+},
+{
+"id": "dc89b8ae5c57",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "First trophy, old tradition: St. Louis City SC brings U.S. Open Cup back to soccer's oldest American hotbed",
+"url": "https://www.cbssports.com/soccer/news/st-louis-city-wins-2026-us-open-cup/",
+"summary": "Backup keeper Ben Lundt saved the opening penalty in the shootout after Roman Burki was hospitalized, and St. Louis City SC claimed the first trophy in club history",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/22/e0fa7c69-a921-44b9-a04b-2658f8e55e08/st-louis-1.jpg",
+"published": "2026-10-22T03:53:32Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "42082eea0f10",
+"league": "ufc",
+"source": "ESPN",
+"title": "Retirement, fighting at 40 don't scare Volkanovski",
+"url": "https://www.espn.com/mma/story/_/id/50223020/alexander-volkanovski-ufc-333",
+"summary": "Even at 38 years old, UFC featherweight champion Alexander Volkanovski says he will deliver one of the finest performances of his career at UFC 333.",
+"image": null,
+"published": "2026-10-22T01:20:14Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "21babde865da",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Harry Kane shows Arsenal what they're missing at striker as Bayern hold Arsenal in Champions League draw",
+"url": "https://www.cbssports.com/soccer/news/harry-kane-shows-arsenal-what-theyre-missing-at-striker-bayern-arsenal-champions-league/",
+"summary": "Bayern Munich's talisman delivered another fantastic showing against Arsenal, scoring a penalty and carrying the attack to show the Gunners exactly what they are missing at center forward",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/21/ccfaf41b-56d7-44ae-8c9c-047388eb1bf0/bayern-munich-7.jpg",
+"published": "2026-10-21T22:24:09Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -9634,6 +11711,18 @@
 ]
 },
 {
+"id": "4c4eaebd91cd",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Footy Fix: How to watch Arsenal vs. Bayern Munich, Real Madrid vs. RB Leipzig in UCL",
+"url": "https://www.cbssports.com/soccer/news/footy-fix-how-to-watch-arsenal-vs-bayern-munich/",
+"summary": "Here's how to watch Wednesday's action",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/21/60c16110-aa07-4f1c-9b17-bfeb167afddd/bayern-munich-6.jpg",
+"published": "2026-10-21T16:34:33Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "b4eb5416b4e6",
 "league": "nhl",
 "source": "NHL.com",
@@ -9655,6 +11744,18 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/21/0d025cb9-9127-4dfc-95c9-c7909aad224d/wemby.jpg",
 "published": "2026-10-21T16:11:58Z",
 "collected": "2026-10-26T13:02:47Z",
+"teams": []
+},
+{
+"id": "c737d8627b65",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "U.S. Open Cup live stream: How to watch Columbus Crew vs. St. Louis City SC, odds, TV channel",
+"url": "https://www.cbssports.com/soccer/news/u-s-open-cup-live-stream-how-to-watch-columbus-crew-vs-st-louis-city-sc/",
+"summary": "The final is set for Wednesday night with everything on the line",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/21/d0f6a577-20c0-4c72-b18d-23dbf2689517/u-s-opencup.jpg",
+"published": "2026-10-21T15:34:31Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -9687,6 +11788,30 @@
 ]
 },
 {
+"id": "7e30bf3c65af",
+"league": "ufc",
+"source": "ESPN",
+"title": "Loss bumps Blanchfield, boosts Suarez, Jandiroda in women's pound-for-pound rankings",
+"url": "https://www.espn.com/mma/story/_/id/24067525/mma-pound-pound-rankings",
+"summary": "After winning UFC women's flyweight title, Silva rises in ESPN's P4P top 10.",
+"image": null,
+"published": "2026-10-21T14:18:12Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "1fa298713d8f",
+"league": "ufc",
+"source": "ESPN",
+"title": "MMA divisional rankings: Mike Malott knocks on door, enters at welterweight",
+"url": "https://www.espn.com/mma/story/_/id/21807736/mma-divisional-rankings-ufc-pfl-rankings-weight-class",
+"summary": "Here's a look at every weight class to determine the best of the best in UFC, PFL and beyond.",
+"image": null,
+"published": "2026-10-21T14:18:11Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "13d32b3f7ce1",
 "league": "nhl",
 "source": "CBS Sports",
@@ -9699,6 +11824,18 @@
 "teams": [
 "bos"
 ]
+},
+{
+"id": "7f806528dea1",
+"league": "ufc",
+"source": "ESPN",
+"title": "Jasudavicius outgrapples Blanchfield; Malott scores highlight-reel KO",
+"url": "https://www.espn.com/college-football/story/_/id/50207665/jasmine-jasudavicius-outpoints-erin-blanchfield-ufc-fight-night",
+"summary": "Jasmine Jasudavicius stated her case as a contender in the UFC women's featherweight division, dominating Erin Blanchfield on the canvas to win by unanimous decision.",
+"image": null,
+"published": "2026-10-21T14:11:05Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "dd0e8d62568b",
@@ -9756,6 +11893,30 @@
 "teams": []
 },
 {
+"id": "853368341db9",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "PSG star Khvicha Kvaratskhelia to undergo surgery after suffering ruptured ACL in win over Barcelona",
+"url": "https://www.cbssports.com/soccer/news/psg-star-khvicha-kvaratskhelia-injury-ruptured-acl-2026/",
+"summary": "The Georgian star's injury leaves Luis Enrique with major questions across Paris Saint-Germain's frontline",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/21/b7115f5c-8313-448b-89a9-ffa53ece34f9/psg-kvara-1.jpg",
+"published": "2026-10-21T12:44:32Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "269c11679204",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "What to watch in UEFA Champions League: Arsenal to test Bayern Munich's depth",
+"url": "https://www.cbssports.com/soccer/news/what-to-watch-in-uefa-champions-league-arsenal-to-test-bayern-munichs-depth/",
+"summary": "With Jamal Musiala hurt and Michael Olise suspended, the Bavarians must lean on a thin bench against Mikel Arteta's loaded reserves who can take over in the final 30 minutes",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/20/876e0532-77e9-4bfc-b72b-e26e54f7deb9/untitled-design-2026-10-21t013437-440.png",
+"published": "2026-10-21T09:00:47Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "6314e0cabb01",
 "league": "nhl",
 "source": "NHL.com",
@@ -9768,6 +11929,66 @@
 "teams": [
 "sj"
 ]
+},
+{
+"id": "6a9f1d0b8acb",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Long before MLS, St. Louis ruled the U.S. Open Cup: Gateway to the West's latest club wants to add a chapter",
+"url": "https://www.cbssports.com/soccer/news/st-louis-soccer-history-us-open-cup-final-2026-city-vs-columbus-crew/",
+"summary": "A showdown with the Columbus Crew gives St. Louis City SC a chance to end a 38-year championship drought for a soccer hotbed",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/21/27f22d72-fc80-4557-9c80-afd8f506332a/st-louis.jpg",
+"published": "2026-10-21T00:27:18Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "8c3861f0293e",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Five things we learned from Champions League: PSG's depth too much for Barca; Rio Ngumoha key for Liverpool?",
+"url": "https://www.cbssports.com/soccer/news/five-things-we-learned-from-champions-league-psgs-barca-liverpool/",
+"summary": "While Paris Saint-Germain secured an important win over Barcelona, several key players made a case for themselves in other matches across Europe",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/20/a639f4ff-efc1-4520-a63b-44c74ca5d8ca/barca-5.jpg",
+"published": "2026-10-20T23:39:00Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "caa8db4eb432",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Josef Martinez embraces chance at turning Columbus Crew's season around in U.S. Open Cup final",
+"url": "https://www.cbssports.com/soccer/news/josef-martinez-embraces-chance-u-s-open-cup-final/",
+"summary": "The final is set for Wednesday night and will air on Paramount+ and CBS Sports Network",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/19/ffc697c4-0d25-4e31-b9ca-599a5c9f5fc0/columbus-crew.jpg",
+"published": "2026-10-20T23:22:11Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "c1bc47dc9662",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "If Barcelona and injuries can't stop PSG's pursuit of a Champions League three-peat, can anyone?",
+"url": "https://www.cbssports.com/soccer/news/psg-who-can-stop-them-uefa-champions-league-barcelona/",
+"summary": "Even with Ousmane Dembele and Khvicha Kvaratskhelia forced off, the back-to-back champions relied on suffocating intensity and late goals to prove the gap to the rest of Europe remains wide",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/20/1128856d-4309-470b-a7b9-0c27f9339277/psg-barca-1.jpg",
+"published": "2026-10-20T23:14:17Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "d9b8b389534f",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Champions League expert picks, predictions, best bets: Can Arsenal top Bayern in battle of possible champions?",
+"url": "https://www.cbssports.com/soccer/news/champions-league-expert-picks-predictions-best-bets-arsenal-bayern-possible-champions/",
+"summary": "Check out all the picks from our experts as the Champions League league phase rolls on",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/20/1cdc49ce-dc8e-438f-867d-3033d30c07fa/untitled-design-2026-10-21t005108-112.png",
+"published": "2026-10-20T22:05:46Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "6b7af84f7ce7",
@@ -9785,6 +12006,18 @@
 ]
 },
 {
+"id": "a2e96d94375f",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Cesc Fabregas eyes Champions League statement vs. Manchester United, with surprise support from Lionel Messi",
+"url": "https://www.cbssports.com/soccer/news/cesc-fabregas-champions-league-manchester-lionel-messi/",
+"summary": "Cesc Fabregas has the Italian upstarts favored to beat the slumping Premier League giants in an unprecedented Champions League showdown at Stadio Sinigaglia",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/20/689e16f3-2a8b-438d-9eb1-5d046636a55d/untitled-design-2026-10-20t211020-379.png",
+"published": "2026-10-20T18:21:03Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "2064bbe7cbc0",
 "league": "mlb",
 "source": "CBS Sports",
@@ -9798,6 +12031,18 @@
 "mil",
 "tb"
 ]
+},
+{
+"id": "af1c02152f9b",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "What to watch in UEFA Champions League: PSG vs. Barcelona could be a classic, Serie A need to recover, more",
+"url": "https://www.cbssports.com/soccer/news/uefa-champions-league-psg-barcelona-serie-a/",
+"summary": "Hansi Flick's free-scoring attack puts its 11-game winning run on the line against the reigning champions in a clash of Europe's top contenders",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/20/283d77d8-80d5-43f4-9aed-1baa97550ca0/untitled-design-2026-10-20t134756-379.png",
+"published": "2026-10-20T10:52:02Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "80ec3d7b0956",
@@ -9814,6 +12059,30 @@
 ]
 },
 {
+"id": "bf0c5cfcec00",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Why Paris Saint-Germain's clash with Barcelona could be peak Champions League drama",
+"url": "https://www.cbssports.com/soccer/news/why-paris-saint-germain-barcelona-could-be-epic-champions-league-match/",
+"summary": "'I think all the ingredients are in place for this to be one of the great games,' PSG midfielder Vitinha said",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/20/802fcdb1-24a5-4990-9750-292afbbf5303/psg-barcelona.jpg",
+"published": "2026-10-20T01:21:07Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "c4ae84f17823",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Champions League expert picks, predictions, best bets: PSG vs. Barca to bring goals but is there a favorite?",
+"url": "https://www.cbssports.com/soccer/news/champions-league-expert-picks-predictions-best-bets-psg-vs-barca-arsenal-bayern-munich/",
+"summary": "Check out all the picks from our experts as the Champions League league phase rolls on",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/19/37b75887-6c77-4f93-bec6-a78a4ba2a690/lamine-yamal-1.jpg",
+"published": "2026-10-19T20:02:51Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "ae14690979ad",
 "league": "nhl",
 "source": "CBS Sports",
@@ -9823,6 +12092,42 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/13/0f1b86b0-41b0-4bf5-82b7-26f402390f15/freddy-peralta-cbs.jpg",
 "published": "2026-10-19T19:32:37Z",
 "collected": "2026-10-26T13:02:47Z",
+"teams": []
+},
+{
+"id": "23a4b2a79120",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "NWSL Team of the Week: Washington Spirit, San Diego Wave keep making noise as playoffs near",
+"url": "https://www.cbssports.com/soccer/news/nwsl-team-of-the-week-washington-spirit-san-diego-wave-playoff-push/",
+"summary": "With two regular-season matches remaining, Washington clinched a postseason spot while San Diego keep pace in a fierce battle for the NWSL Shield",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/19/6481cdc4-565d-41e1-bc21-de0d97d12577/wash-spirit.jpg",
+"published": "2026-10-19T17:08:17Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "ddbf9928a3a9",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Footy Fix: PSG vs. Barcelona showdown headlines Champions League league phase's Matchday 3",
+"url": "https://www.cbssports.com/soccer/news/footy-fix-psg-vs-barcelona-showdown-headlines-champions-league-league-phases-matchday-3/",
+"summary": "Elsewhere on the Golazo Starting XI newsletter, can Roma and Napoli get back on tack as home favorites?",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/19/0621de7e-6cca-492b-8b7a-1e1a66dc5bc1/ucl26-uefa-psg-barcelona-hq-fullscreen-slate-1920x1080-tuesday.png",
+"published": "2026-10-19T16:53:10Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "4f64435ccb5a",
+"league": "ufc",
+"source": "ESPN",
+"title": "Petr Yan vs. Merab Dvalishvili joins UFC's rare list of trilogy bouts at UFC 333",
+"url": "https://www.espn.com/mma/story/_/id/50206478/ufc-333-petr-yan-merab-dvalishvili-join-trilogy-list",
+"summary": "ESPN categorizes all 19 of the UFC's trilogies ahead of Petr Yan vs. Merab Dvalishvili 3 at UFC 333 on Saturday.",
+"image": null,
+"published": "2026-10-19T14:45:06Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -9838,6 +12143,42 @@
 "teams": []
 },
 {
+"id": "7b541d79be4c",
+"league": "ufc",
+"source": "ESPN",
+"title": "Joshua Pacio takes aim at 'Japan curse' in next world title defense",
+"url": "https://www.espn.com/espn/story/_/id/50216760/joshua-pacio-takes-aim-japan-curse-next-world-title-defense",
+"summary": "Joshua Pacio is hoping to end the \"Japan curse\" when when he defends his ONE strawweight MMA world title against Keito Yamakita in Tokyo on Nov. 18.",
+"image": null,
+"published": "2026-10-19T08:33:55Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "4c0d8dd24075",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Champions League Vibe Check: Barcelona, Bayern Munich impress; Manchester United in trouble",
+"url": "https://www.cbssports.com/soccer/news/champions-league-vibe-check-barcelona-bayern-munich-man-united/",
+"summary": "Matchday 3's action is headlined by Barcelona's clash with Paris Saint-Germain and Arsenal's trip to Bayern Munich",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/19/7971f71e-6a5d-4e5b-9c9b-bc45d568c529/fcbarcelona.jpg",
+"published": "2026-10-19T01:09:12Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "56d8e594c55d",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "Premier League Power Rankings: Brighton continue to impress, Aston Villa surge",
+"url": "https://www.cbssports.com/soccer/news/premier-league-power-rankings-brighton-aston-villa/",
+"summary": "Brighton and Hove Albion's 5-0 win over Crystal Palace was the highlight of the weekend, ensuring the Seagulls remain this season's pleasant surprise for another week",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/18/80d7e5e4-110a-4ac2-a98e-404d8f5f662c/brighton-premier-league-rankings.jpg",
+"published": "2026-10-18T19:29:35Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "0626a7f2a0aa",
 "league": "nhl",
 "source": "NHL.com",
@@ -9847,6 +12188,30 @@
 "image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1790955298/prd/aciavzcoghyw1ofxlzpt.jpg",
 "published": "2026-10-18T07:00:00Z",
 "collected": "2026-10-26T13:02:47Z",
+"teams": []
+},
+{
+"id": "9f0b3cdfe143",
+"league": "soccer",
+"source": "CBS Sports",
+"title": "How good can Barcelona be? After an 11th straight win to start the season, is something historic brewing?",
+"url": "https://www.cbssports.com/soccer/news/barcelona-11th-straight-season-historic/",
+"summary": "With 39 goals in nine league games and Lamine Yamal ascending to another level, Hansi Flick's squad has built an unstoppable juggernaut",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/17/e419c233-0c55-437c-b7be-25c95abe86f5/untitled-design-2026-10-17t234209-467.png",
+"published": "2026-10-17T20:46:59Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "8c8146bcbaa4",
+"league": "ufc",
+"source": "ESPN",
+"title": "Bishop survives early onslaught, outpoints Carmouche to capture PFL crown",
+"url": "https://www.espn.com/mma/story/_/id/50200055/jena-bishop-rallies-outpoint-liz-carmouche-pfl-crown",
+"summary": "Nearly finished in Round 1, Jena Bishop dug deep to score a unanimous decision win over Liz Carmouche to capture the PFL women's flyweight title.",
+"image": null,
+"published": "2026-10-17T17:07:45Z",
+"collected": "2026-10-26T20:01:12Z",
 "teams": []
 },
 {
@@ -10031,6 +12396,18 @@
 ]
 },
 {
+"id": "d337945a0218",
+"league": "ufc",
+"source": "CBS Sports",
+"title": "Dodgers take NLDS lead, Padres extend series vs. Brewers; Pete Prisco's Week 5 NFL Power Rankings",
+"url": "https://www.cbssports.com/mlb/news/dodgers-take-nlds-lead-padres-extend-series-vs-brewers-pete-priscos-week-5-nfl-power-rankings/",
+"summary": "Plus NBA coach rankings for the 2026-27 season",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/07/b7dba04f-fd94-4d90-bb83-447415b358b3/gettyimages-2298376503-2.jpg",
+"published": "2026-10-07T12:58:25Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
 "id": "b53e33e40c0a",
 "league": "nhl",
 "source": "CBS Sports",
@@ -10133,6 +12510,18 @@
 "col",
 "fla"
 ]
+},
+{
+"id": "07a1ea39f3d0",
+"league": "ufc",
+"source": "CBS Sports",
+"title": "Cam Schlittler, Austin Riley open MLB playoffs in style; Pete Prisco's NFL Power Rankings are out",
+"url": "https://www.cbssports.com/mlb/news/cam-schlittler-austin-riley-open-mlb-playoffs-in-style-pete-priscos-nfl-power-rankings-are-out/",
+"summary": "Plus our first 2027 WNBA mock draft after a historic night in the postseason",
+"image": "https://sportshub.cbsistatic.com/i/2026/09/30/c7e1eade-277f-4b16-b98d-2be8dd922c26/gettyimages-2297799788-2.jpg",
+"published": "2026-09-30T12:57:04Z",
+"collected": "2026-10-26T20:01:12Z",
+"teams": []
 },
 {
 "id": "9ad294689f49",

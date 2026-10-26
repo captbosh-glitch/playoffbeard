@@ -17,6 +17,8 @@ LEAGUES = [
     {'key': 'nfl', 'label': 'NFL', 'name': 'Football'},
     {'key': 'nba', 'label': 'NBA', 'name': 'Basketball'},
     {'key': 'mlb', 'label': 'MLB', 'name': 'Baseball'},
+    {'key': 'ufc', 'label': 'UFC', 'name': 'MMA', 'noun': 'UFC and MMA'},
+    {'key': 'soccer', 'label': 'Soccer', 'name': 'Soccer', 'noun': 'soccer'},
 ]
 
 # Checked Oct 26, 2026. NHL.com has no native feed; to-rss.xyz regenerates
@@ -42,6 +44,17 @@ FEEDS = {
         'ESPN': 'https://www.espn.com/espn/rss/mlb/news',
         'Yahoo Sports': 'https://sports.yahoo.com/mlb/rss.xml',
         'CBS Sports': 'https://www.cbssports.com/rss/headlines/mlb',
+    },
+    # News-only for now (no team pages): checked Oct 26, 2026
+    'ufc': {
+        'ESPN': 'https://www.espn.com/espn/rss/mma/news',
+        'Yahoo Sports': 'https://sports.yahoo.com/mma/rss.xml',
+        'CBS Sports': 'https://www.cbssports.com/rss/headlines/mma/',
+    },
+    'soccer': {
+        'ESPN': 'https://www.espn.com/espn/rss/soccer/news',
+        'Yahoo Sports': 'https://sports.yahoo.com/soccer/rss.xml',
+        'CBS Sports': 'https://www.cbssports.com/rss/headlines/soccer/',
     },
 }
 

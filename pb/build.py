@@ -217,8 +217,8 @@ def build(now=None):
             for s in a['teams']:
                 counts[s] = counts.get(s, 0) + 1
         hero = (f'<section class="hero"><h1>{icons.sport_icon(key, "hero-icon")}{esc(lg["label"])} <span>News</span></h1>'
-                f'<p>The latest {esc(lg["name"].lower())} headlines from {esc(", ".join(config.FEEDS[key]))}.</p>'
-                f'{logo_row(key, teams[key], "../")}</section>')
+                f'<p>The latest {esc(lg.get("noun") or lg["name"].lower())} headlines from {esc(", ".join(config.FEEDS[key]))}.</p>'
+                + (logo_row(key, teams[key], "../") if teams[key] else '') + '</section>')
         body = hero + (day_sections(items[:config.LEAGUE_PAGE_LIMIT], teams_by, '../') or '<p class="muted">No headlines yet.</p>')
         write(key, page(f'{lg["label"]} News — {config.SITE_NAME}', f'The latest {lg["label"]} headlines from around the league.', body, '../', key, updated))
         for t in teams[key]:

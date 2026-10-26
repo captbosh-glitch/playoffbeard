@@ -1,6 +1,7 @@
 """
 League icons, the same ones RTYB uses: the puck (NHL), the NFL ball (no
-stripes), the basketball (NBA) and the baseball (MLB), in full color. The
+stripes), the basketball (NBA) and the baseball (MLB), in full color, plus
+Playoff Beard's own soccer ball and MMA glove in the same style. The
 colors are CSS classes on the --ball-* tokens in pb/static/style.css, so
 the outlines adapt to light and dark mode.
 
@@ -47,7 +48,39 @@ def baseball():
             '</g>')
 
 
-ICONS = {'nhl': lambda: puck(), 'nfl': lambda: football(stripes=False), 'nba': basketball, 'mlb': baseball}
+def soccer_ball():
+    # a white ball, black center pentagon and five edge patches (clipped to
+    # the ball), seams joining them; outline on the --ball-white-edge token
+    return ('<defs><clipPath id="pb-ball-clip"><circle cx="16" cy="16" r="13"/></clipPath></defs>'
+            '<circle class="bi-baseball" cx="16" cy="16" r="13" stroke-width="1.1"/>'
+            '<g class="bi-soccer-patch" clip-path="url(#pb-ball-clip)">'
+            '<polygon points="16.00,11.40 20.37,14.58 18.70,19.72 13.30,19.72 11.63,14.58"/>'
+            '<polygon points="20.70,9.53 19.39,5.50 22.82,3.02 26.24,5.50 24.93,9.53"/>'
+            '<polygon points="23.61,18.47 27.03,15.98 30.46,18.47 29.15,22.50 24.92,22.50"/>'
+            '<polygon points="16.00,24.00 19.42,26.49 18.12,30.51 13.88,30.51 12.58,26.49"/>'
+            '<polygon points="8.39,18.47 7.08,22.50 2.85,22.50 1.54,18.47 4.97,15.98"/>'
+            '<polygon points="11.30,9.53 7.07,9.53 5.76,5.50 9.18,3.02 12.61,5.50"/></g>'
+            '<g class="bi-soccer-seam" stroke-width="1" stroke-linecap="round">'
+            '<line x1="16" y1="11.4" x2="16" y2="7.4"/><line x1="20.37" y1="14.58" x2="24.18" y2="13.34"/>'
+            '<line x1="18.7" y1="19.72" x2="21.05" y2="22.96"/><line x1="13.3" y1="19.72" x2="10.95" y2="22.96"/>'
+            '<line x1="11.63" y1="14.58" x2="7.82" y2="13.34"/></g>'
+            '<circle class="bi-baseball-edge" cx="16" cy="16" r="13" fill="none" stroke-width="1.1"/>')
+
+
+def fight_glove():
+    # an open-finger MMA glove from the front: a wide fist with finger slits
+    # and a thumb crease, on a wrist cuff with a white strap; rim on the
+    # puck-rim token so it shows on dark
+    return ('<path class="bi-glove" d="M6 13 C6 7 10 4 16 4 C22 4 26.5 7 26.5 13 L26.5 17 C26.5 20 24.5 21.5 22 21.5 L10 21.5 C7.6 21.5 6 19.8 6 17.5 Z" stroke-width="1"/>'
+            '<g class="bi-glove-slit" fill="none" stroke-width="1.1" stroke-linecap="round">'
+            '<line x1="11.5" y1="5" x2="11.5" y2="8.8"/><line x1="15" y1="4.4" x2="15" y2="8.4"/>'
+            '<line x1="18.5" y1="4.4" x2="18.5" y2="8.4"/><line x1="22" y1="5" x2="22" y2="8.8"/>'
+            '<path d="M7.2 15.4 C9.6 13.8 12.6 14.2 13.8 17.2"/></g>'
+            '<rect class="bi-glove" x="8" y="21" width="16.5" height="8" rx="2.5" stroke-width="1"/>'
+            '<rect class="bi-glove-strap" x="7.4" y="23.4" width="17.7" height="3.4" rx="1.2"/>')
+
+ICONS = {'nhl': lambda: puck(), 'nfl': lambda: football(stripes=False), 'nba': basketball, 'mlb': baseball,
+         'ufc': fight_glove, 'soccer': soccer_ball}
 
 
 def sport_icon(league, cls=''):

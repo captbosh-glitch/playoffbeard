@@ -4,7 +4,7 @@
   --bg: #f5f7f9; --panel: #ffffff; --panel-2: #eef2f5; --border: #d9e0e6; --text: #101820; --muted: #5b6874; --faint: #8a96a1;
   --navy: #0f2a44; --brand: #c8102e; --accent: var(--brand); --accent-ink: #ffffff; --chip: #eef2f5; --shadow: rgba(15, 42, 68, 0.08);
   /* league colors (light mode: darker shades so text stays readable) */
-  --c-nhl: #0277b6; --c-nfl: #15803d; --c-nba: #c2410c; --c-mlb: #a16207;
+  --c-nhl: #0277b6; --c-nfl: #15803d; --c-nba: #c2410c; --c-mlb: #a16207; --c-ufc: #7c3aed; --c-soccer: #0f766e;
   /* league icons (pb/icons.py, from RTYB): light mode outlines */
   --ball-puck-top: #2A2E36; --ball-puck-side: #16181D; --ball-puck-grip: #3D434E; --ball-puck-rim: #16181D;
   --ball-shine: rgba(255, 255, 255, 0.16); --ball-leather: #8A4B22; --ball-leather-edge: #4E2610; --ball-leather-rim: transparent;
@@ -15,14 +15,14 @@
   :root:not([data-theme="light"]) {
     --bg: #0b1218; --panel: #121b23; --panel-2: #18232d; --border: #24323e; --text: #e8eef3; --muted: #9aa8b4; --faint: #6f7d89;
     --navy: #e8f1f8; --brand: #ff4d5e; --accent-ink: #0b1218; --chip: #18232d; --shadow: rgba(0, 0, 0, 0.35);
-    --c-nhl: #38bdf8; --c-nfl: #4ade80; --c-nba: #fb923c; --c-mlb: #facc15;
+    --c-nhl: #38bdf8; --c-nfl: #4ade80; --c-nba: #fb923c; --c-mlb: #facc15; --c-ufc: #a78bfa; --c-soccer: #2dd4bf;
     --ball-puck-rim: #8B93A3; --ball-leather-rim: #8B93A3; --ball-white-edge: #9AA0A8;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0b1218; --panel: #121b23; --panel-2: #18232d; --border: #24323e; --text: #e8eef3; --muted: #9aa8b4; --faint: #6f7d89;
   --navy: #e8f1f8; --brand: #ff4d5e; --accent-ink: #0b1218; --chip: #18232d; --shadow: rgba(0, 0, 0, 0.35);
-  --c-nhl: #38bdf8; --c-nfl: #4ade80; --c-nba: #fb923c; --c-mlb: #facc15;
+  --c-nhl: #38bdf8; --c-nfl: #4ade80; --c-nba: #fb923c; --c-mlb: #facc15; --c-ufc: #a78bfa; --c-soccer: #2dd4bf;
   --ball-puck-rim: #8B93A3; --ball-leather-rim: #8B93A3; --ball-white-edge: #9AA0A8;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -158,8 +158,16 @@ a { color: inherit; }
 .lg-nfl { --accent: var(--c-nfl); }
 .lg-nba { --accent: var(--c-nba); }
 .lg-mlb { --accent: var(--c-mlb); }
+.lg-ufc { --accent: var(--c-ufc); }
+.lg-soccer { --accent: var(--c-soccer); }
 .sec .sec-head { border-bottom-color: var(--accent); }
 .home .hero h1 span { color: var(--brand); }
 .hero-links a:first-child { background: var(--panel); color: var(--text); border-color: var(--border); }
 .home .hero-links a { border-color: var(--border); }
 .home .hero-links a:hover { border-color: var(--text); }
+.sport-icon .bi-baseball-edge { stroke: var(--ball-white-edge); }
+.sport-icon .bi-soccer-patch { fill: #16181d; }
+.sport-icon .bi-soccer-seam { stroke: #16181d; }
+.sport-icon .bi-glove { fill: #1b1d22; stroke: var(--ball-puck-rim); }
+.sport-icon .bi-glove-slit { stroke: var(--ball-puck-rim); }
+.sport-icon .bi-glove-strap { fill: #f5f3ec; }
