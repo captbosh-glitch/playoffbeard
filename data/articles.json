@@ -112,6 +112,19 @@
 "img_tried": true
 },
 {
+"id": "b078c11ae1ca",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Klint Kubiak: Kirk Cousins is our starting quarterback",
+"url": "https://sports.yahoo.com/articles/klint-kubiak-kirk-cousins-starting-200057470.html",
+"summary": "Kubiak added that there's \"no controversy\" at the position.",
+"image": "https://s.yimg.com/lo/mysterio/api/1fd82604802d4db2c7b092fdbf8716fa0822dd814ecc03704aa1184376d534b8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F626669bc7f45585c63e889a552550937.jpg",
+"published": "2026-10-26T20:00:57Z",
+"collected": "2026-10-26T20:13:40Z",
+"teams": [],
+"img_tried": true
+},
+{
 "id": "92191c5b0c65",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -144,31 +157,20 @@
 "img_tried": true
 },
 {
-"id": "b078c11ae1ca",
-"league": "nfl",
-"source": "Yahoo Sports",
-"title": "Klint Kubiak: Kirk Cousins is our starting quarterback",
-"url": "https://sports.yahoo.com/articles/klint-kubiak-kirk-cousins-starting-200057470.html",
-"summary": "Kubiak added that there's \"no controversy\" at the position.",
-"image": null,
-"published": "2026-10-26T20:00:57Z",
-"collected": "2026-10-26T20:13:40Z",
-"teams": []
-},
-{
 "id": "8dd939dd2fce",
 "league": "nfl",
 "source": "Yahoo Sports",
 "title": "Monday Night Football live updates, TV info as Dak Prescott, Cowboys face Eagles",
 "url": "https://sports.yahoo.com/articles/monday-night-football-live-updates-200030435.html",
 "summary": "The Cowboys look to get back on track against a reeling Eagles team on \"Monday Night Football.\" USA TODAY Sports will provide highlights stats, analysis and more.",
-"image": null,
+"image": "https://s.yimg.com/lo/mysterio/api/e5a0a9673a82247f7c472226b89e42854c8832d0bb1f0ccc4dc0130713a5d1aa/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fa8b75f6905daff8860b20197e37d5f91.jpg",
 "published": "2026-10-26T20:00:30Z",
 "collected": "2026-10-26T20:13:40Z",
 "teams": [
 "dal",
 "phi"
-]
+],
+"img_tried": true
 },
 {
 "id": "cdecb030371d",
