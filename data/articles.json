@@ -43,6 +43,18 @@
 ]
 },
 {
+"id": "e6df1890b89a",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Question Time: Which Jays Player Surprised You By Being Better Than You Expected?",
+"url": "https://sports.yahoo.com/articles/time-jays-player-surprised-being-150215792.html",
+"summary": "I’m traveling today, so won’t be posting. And, there isn’t much for Jays news today. So let’s have a question: Which Jays player surprised you by being much better than you expected? We did the reverse of this last week. For me? Marco Estrada would be the obvious choice. When we traded Adam Lind for […]",
+"image": null,
+"published": "2026-10-26T15:02:15Z",
+"collected": "2026-10-26T15:19:24Z",
+"teams": []
+},
+{
 "id": "ab0fe703a79a",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -68,6 +80,46 @@
 "collected": "2026-10-26T15:14:05Z",
 "teams": [
 "jax"
+]
+},
+{
+"id": "1ed114ac38dc",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Yankees Birthday of the Day: Snuffy Stirnweiss",
+"url": "https://sports.yahoo.com/articles/yankees-birthday-day-snuffy-stirnweiss-150000939.html",
+"summary": "The man known as “Snuffy” had two of the best individual seasons in Yankees’ history.",
+"image": null,
+"published": "2026-10-26T15:00:00Z",
+"collected": "2026-10-26T15:19:24Z",
+"teams": [
+"nyy"
+]
+},
+{
+"id": "fcd0d288c527",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Beware of Paying for Aging Corner Outfielders",
+"url": "https://sports.yahoo.com/articles/beware-paying-aging-corner-outfielders-150000930.html",
+"summary": "I know some of you won’t like this one.",
+"image": null,
+"published": "2026-10-26T15:00:00Z",
+"collected": "2026-10-26T15:19:24Z",
+"teams": []
+},
+{
+"id": "ce0d14b79b6f",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "2026 Royals season in review: Isaac Collins",
+"url": "https://sports.yahoo.com/articles/2026-royals-season-review-isaac-150000489.html",
+"summary": "It was a lackluster season for the new left fielder",
+"image": null,
+"published": "2026-10-26T15:00:00Z",
+"collected": "2026-10-26T15:19:24Z",
+"teams": [
+"kc"
 ]
 },
 {
