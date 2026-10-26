@@ -49,22 +49,38 @@ def baseball():
 
 
 def soccer_ball():
-    # a white ball, black center pentagon and five edge patches (clipped to
-    # the ball), seams joining them; outline on the --ball-white-edge token
-    return ('<defs><clipPath id="pb-ball-clip"><circle cx="16" cy="16" r="13"/></clipPath></defs>'
-            '<circle class="bi-baseball" cx="16" cy="16" r="13" stroke-width="1.1"/>'
-            '<g class="bi-soccer-patch" clip-path="url(#pb-ball-clip)">'
-            '<polygon points="16.00,11.40 20.37,14.58 18.70,19.72 13.30,19.72 11.63,14.58"/>'
-            '<polygon points="20.70,9.53 19.39,5.50 22.82,3.02 26.24,5.50 24.93,9.53"/>'
-            '<polygon points="23.61,18.47 27.03,15.98 30.46,18.47 29.15,22.50 24.92,22.50"/>'
-            '<polygon points="16.00,24.00 19.42,26.49 18.12,30.51 13.88,30.51 12.58,26.49"/>'
-            '<polygon points="8.39,18.47 7.08,22.50 2.85,22.50 1.54,18.47 4.97,15.98"/>'
-            '<polygon points="11.30,9.53 7.07,9.53 5.76,5.50 9.18,3.02 12.61,5.50"/></g>'
-            '<g class="bi-soccer-seam" stroke-width="1" stroke-linecap="round">'
-            '<line x1="16" y1="11.4" x2="16" y2="7.4"/><line x1="20.37" y1="14.58" x2="24.18" y2="13.34"/>'
-            '<line x1="18.7" y1="19.72" x2="21.05" y2="22.96"/><line x1="13.3" y1="19.72" x2="10.95" y2="22.96"/>'
-            '<line x1="11.63" y1="14.58" x2="7.82" y2="13.34"/></g>'
-            '<circle class="bi-baseball-edge" cx="16" cy="16" r="13" fill="none" stroke-width="1.1"/>')
+    # A classic ball, projected from a real truncated icosahedron (the shape of
+    # a real ball) turned so a white hexagon faces front, with the three
+    # black pentagons around it and slivers of the next ring at the edge.
+    return (
+            '<defs><clipPath id="pb-ball-clip"><circle cx="16" cy="16" r="13"/></clipPath></defs><circle class="bi-soccer-w'
+            'hite" cx="16" cy="16" r="13"/><g clip-path="url(#pb-ball-clip)"><g class="bi-soccer-seam" stroke-width="0.8" s'
+            'troke-linecap="round"><line x1="6.20" y1="24.49" x2="8.07" y2="24.49"/><line x1="13.55" y1="3.27" x2="12.61" y'
+            '2="4.89"/><line x1="27.32" y1="13.38" x2="23.93" y2="10.75"/><line x1="27.32" y1="13.38" x2="28.25" y2="11.76"'
+            '/><line x1="27.32" y1="13.38" x2="27.32" y2="18.62"/><line x1="23.93" y1="10.75" x2="20.54" y2="13.38"/><line '
+            'x1="23.93" y1="10.75" x2="21.48" y2="6.51"/><line x1="28.25" y1="11.76" x2="25.80" y2="7.51"/><line x1="11.46"'
+            ' y1="18.62" x2="16.00" y2="21.25"/><line x1="11.46" y1="18.62" x2="11.46" y2="13.38"/><line x1="11.46" y1="18.'
+            '62" x2="7.49" y2="20.24"/><line x1="28.25" y1="20.24" x2="25.80" y2="24.49"/><line x1="28.25" y1="20.24" x2="2'
+            '7.32" y2="18.62"/><line x1="20.54" y1="13.38" x2="20.54" y2="18.62"/><line x1="20.54" y1="13.38" x2="16.00" y2'
+            '="10.75"/><line x1="13.55" y1="28.73" x2="12.61" y2="27.11"/><line x1="18.45" y1="28.73" x2="22.42" y2="27.11"'
+            '/><line x1="3.75" y1="11.76" x2="3.17" y2="16.00"/><line x1="18.45" y1="3.27" x2="22.42" y2="4.89"/><line x1="'
+            '8.07" y1="7.51" x2="6.20" y2="7.51"/><line x1="8.07" y1="7.51" x2="7.49" y2="11.76"/><line x1="8.07" y1="7.51"'
+            ' x2="12.61" y2="4.89"/><line x1="25.80" y1="24.49" x2="22.42" y2="27.11"/><line x1="20.54" y1="18.62" x2="16.0'
+            '0" y2="21.25"/><line x1="20.54" y1="18.62" x2="23.93" y2="21.25"/><line x1="3.75" y1="20.24" x2="3.17" y2="16.'
+            '00"/><line x1="27.32" y1="18.62" x2="23.93" y2="21.25"/><line x1="16.00" y1="21.25" x2="16.58" y2="25.49"/><li'
+            'ne x1="16.58" y1="6.51" x2="16.00" y2="10.75"/><line x1="16.58" y1="6.51" x2="12.61" y2="4.89"/><line x1="16.5'
+            '8" y1="6.51" x2="21.48" y2="6.51"/><line x1="7.49" y1="11.76" x2="5.04" y2="16.00"/><line x1="7.49" y1="11.76"'
+            ' x2="11.46" y2="13.38"/><line x1="5.04" y1="16.00" x2="3.17" y2="16.00"/><line x1="5.04" y1="16.00" x2="7.49" '
+            'y2="20.24"/><line x1="11.46" y1="13.38" x2="16.00" y2="10.75"/><line x1="12.61" y1="27.11" x2="16.58" y2="25.4'
+            '9"/><line x1="12.61" y1="27.11" x2="8.07" y2="24.49"/><line x1="22.42" y1="27.11" x2="21.48" y2="25.49"/><line'
+            ' x1="23.93" y1="21.25" x2="21.48" y2="25.49"/><line x1="7.49" y1="20.24" x2="8.07" y2="24.49"/><line x1="16.58'
+            '" y1="25.49" x2="21.48" y2="25.49"/><line x1="21.48" y1="6.51" x2="22.42" y2="4.89"/><line x1="25.80" y1="7.51'
+            '" x2="22.42" y2="4.89"/></g><g class="bi-soccer-patch"><polygon points="16.00,10.75 20.54,13.38 23.93,10.75 21'
+            '.48,6.51 16.58,6.51"/><polygon points="7.49,20.24 11.46,18.62 11.46,13.38 7.49,11.76 5.04,16.00"/><polygon poi'
+            'nts="16.58,25.49 21.48,25.49 23.93,21.25 20.54,18.62 16.00,21.25"/><polygon points="9.58,27.11 13.55,28.73 12.'
+            '61,27.11 8.07,24.49 6.20,24.49"/><polygon points="6.20,7.51 8.07,7.51 12.61,4.89 13.55,3.27 9.58,4.89"/><polyg'
+            'on points="27.32,18.62 28.25,20.24 28.83,16.00 28.25,11.76 27.32,13.38"/></g></g><circle class="bi-soccer-edge'
+            '" cx="16" cy="16" r="13" fill="none" stroke-width="1.3"/>')
 
 
 def fight_glove():
