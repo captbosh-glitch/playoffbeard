@@ -173,3 +173,17 @@ a { color: inherit; }
 .sport-icon .bi-oct-mat { fill: #ece7dc; }
 .sport-icon .bi-oct-post { fill: #8B93A3; }
 .sport-icon .bi-oct-mark { stroke: #c8102e; }
+
+/* soccer: one logo row per competition; UFC: weight classes as name pills */
+.lr-label { font: 600 0.72rem 'Inter', sans-serif; text-transform: uppercase; letter-spacing: 0.08em; color: var(--faint); margin: 18px 0 -12px 4px; }
+.lr-label + .logo-row { margin-top: 16px; }
+.name-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+.name-row a { font: 600 0.9rem 'Oswald', sans-serif; letter-spacing: 0.04em; text-transform: uppercase; text-decoration: none; border: 1px solid var(--border);
+  background: var(--panel); border-radius: 999px; padding: 0 16px; min-height: 40px; display: inline-flex; align-items: center; }
+.name-row a:hover { border-color: var(--accent); color: var(--accent); }
+.logo .logo-icon { width: 100%; height: 100%; margin: 0; vertical-align: 0; }
+.ranks { list-style: none; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 6px 18px; }
+.ranks li { display: flex; align-items: center; gap: 10px; min-height: 36px; padding: 0 10px; border-radius: 8px; background: var(--panel); border: 1px solid var(--border); font-weight: 600; font-size: 0.9rem; }
+.ranks li span { width: 1.6em; text-align: center; color: var(--faint); font-variant-numeric: tabular-nums; }
+.ranks li.champ { grid-column: 1 / -1; border-color: var(--accent); }
+.ranks li.champ span { color: var(--accent); font-weight: 700; }

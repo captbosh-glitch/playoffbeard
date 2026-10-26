@@ -1,5 +1,82 @@
 [
 {
+"id": "dc4a8e71e6e3",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "World Series 2026: Former big leaguer Daniel Vogelbach is bringing energy and game-planning as hitting coach for Brewers' high-flying offense",
+"url": "https://sports.yahoo.com/mlb/article/world-series-2026-former-big-leaguer-daniel-vogelbach-is-bringing-energy-and-game-planning-as-hitting-coach-for-brewers-high-flying-offense-202318891.html",
+"summary": "\"When you're playing, you have a job to do that isn't just on the field — it's preparing, giving yourself a best chance to perform,” Vogelbach said. \"When you're coaching, it's the same thing.\"",
+"image": "https://s.yimg.com/lo/mysterio/api/205f0d4b8db7a4b80a7ab32e759b22234aa4f9d3a8c9223779b8be618c1c3ef7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F12cc6de8-e292-4b6a-ba01-f4637ff8304a",
+"published": "2026-10-26T20:23:18Z",
+"collected": "2026-10-26T20:28:37Z",
+"teams": [
+"mil"
+],
+"img_tried": true
+},
+{
+"id": "39834dccddd3",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Packers bring up Mekhi Becton to the active roster, Jacob Monk to IR",
+"url": "https://sports.yahoo.com/articles/packers-bring-mekhi-becton-active-202008695.html",
+"summary": "The Packers seem adamant on keeping 11 offensive linemen on their 53-man roster, following Jacob Monk’s placement on the IR",
+"image": "https://s.yimg.com/lo/mysterio/api/879f00b5664218fe323964c5c5d12f9aa02be4578d8f7c16b4bb0de76524ff72/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fdc71bdc3f7fe16ddf8f017ebd1758cf7.jpg",
+"published": "2026-10-26T20:20:08Z",
+"collected": "2026-10-26T20:28:37Z",
+"teams": [
+"gb"
+],
+"img_tried": true
+},
+{
+"id": "a10dccbb3f8b",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Emegha To Lead The Line | 3-4-2-1 Chelsea Predicted Lineup Vs Liverpool",
+"url": "https://sports.yahoo.com/articles/emegha-lead-line-3-4-202000481.html",
+"summary": "Chelsea will lock horns with Liverpool at Anfield this Wednesday night as they look to secure a good result away from home in the EFL Cup. The Blues suffered a lackluster 2-0 loss at the hands of Tott...",
+"image": "https://s.yimg.com/lo/mysterio/api/c7728b3d638cbd53dcc7b92fabc52f1dd9fb6b8478e23eb700ecd106799f9553/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2Fac602ef34a2bdc9092980dff026ae59b.jpg",
+"published": "2026-10-26T20:20:00Z",
+"collected": "2026-10-26T20:28:37Z",
+"teams": [
+"chelsea",
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "02448f938ba6",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Journalist reveals which midfielder Liverpool are most likely to sign",
+"url": "https://sports.yahoo.com/articles/journalist-reveals-midfielder-liverpool-most-202000913.html",
+"summary": "David Lynch Reveals Lamine Camara’s Standing on Liverpool’s Midfield Transfer ListLiverpool’s interest in AS Monaco midfielder Lamine Camara appears to be more than a passing transfer link, with...",
+"image": "https://s.yimg.com/lo/mysterio/api/830d1978401ed2fc4b9e7026e0e45461b3f6fee24b33ee650f33b9a14cd4ec95/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2Fb03b476288abe9124ee40dd1c2ac7191.jpg",
+"published": "2026-10-26T20:20:00Z",
+"collected": "2026-10-26T20:28:37Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "23f3c09f4065",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Recap: Saints play Steelers in inaugural Paris matchup",
+"url": "https://sports.yahoo.com/articles/recap-saints-play-steelers-inaugural-201902138.html",
+"summary": "Catch up on all the action from France.",
+"image": "https://s.yimg.com/lo/mysterio/api/9a845efc7ad7a24fa16069afbfd49e2603e3ad115aaadd8ea14715b99859a30d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F3eb7edf41553f77cdb8adf17bf32f8e9.jpg",
+"published": "2026-10-26T20:19:02Z",
+"collected": "2026-10-26T20:28:37Z",
+"teams": [
+"no",
+"pit"
+],
+"img_tried": true
+},
+{
 "id": "85d6113ad3f8",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -8,7 +85,7 @@
 "summary": "Coach Mike McCarthy's offense managed just one touchdown, but the defense almost completely shut down the New Orleans running game.",
 "image": "https://s.yimg.com/lo/mysterio/api/bece225780c17b2e743957dcd0cddb5dd6c99722a80652728f661cda9c2ee71a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F76255ca2ad3aa20778ab9aaf34dd0063.jpg",
 "published": "2026-10-26T20:16:29Z",
-"collected": "2026-10-26T20:22:17Z",
+"collected": "2026-10-26T20:28:37Z",
 "teams": [
 "pit"
 ],
@@ -30,6 +107,37 @@
 "img_tried": true
 },
 {
+"id": "326cbdfed088",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Lions injury news: Good news for Amon-Ra St. Brown, Ennis Rakestraw",
+"url": "https://sports.yahoo.com/articles/lions-injury-news-good-news-201313082.html",
+"summary": "Detroit Lions injury updates on Amon-Ra St. Brown and Ennis Rakestraw.",
+"image": "https://s.yimg.com/lo/mysterio/api/1a1260d2f9503aab0fa173b92abb0a3589c689595ea054438ef0137b2dd72994/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fdf4fdef5c21127de605455ad02d288ff.jpg",
+"published": "2026-10-26T20:13:13Z",
+"collected": "2026-10-26T20:28:37Z",
+"teams": [
+"det"
+],
+"img_tried": true
+},
+{
+"id": "4c0627a6e230",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "First half performance disappoints Phelan in Everton’s defeat to Aston Villa",
+"url": "https://sports.yahoo.com/articles/first-half-performance-disappoints-phelan-201300237.html",
+"summary": "Everton head coach Scott Phelan was disappointed with his side’s first half performance as they went down 3-2 to Aston Villa at Goodison Park on Sunday afternoon.The Toffees had been on fantastic fi...",
+"image": "https://s.yimg.com/lo/mysterio/api/061d8bb6b81f7c37bcbcbc16c4126519832e65bc7c42b59ae45b13b9ff564f17/lightyear_networkapi/resizefill_w1050_h700%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsl_full_time_articles_123%2Fc476428b4586f48682f15a10bc6cc739.jpg",
+"published": "2026-10-26T20:13:00Z",
+"collected": "2026-10-26T20:28:37Z",
+"teams": [
+"aston-villa",
+"everton"
+],
+"img_tried": true
+},
+{
 "id": "b781a7452a52",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -38,7 +146,7 @@
 "summary": "It's already almost November, which means your fantasy football playoff picture is rounding into shape. Who should you buy or sell before Week 8?",
 "image": "https://s.yimg.com/lo/mysterio/api/acd85e29dd79bdb09b4d83947ed41f8420c8915895597f48c9070d1996d4e27b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F58d80ef851cbf02066d5c2152816588a.jpg",
 "published": "2026-10-26T20:10:02Z",
-"collected": "2026-10-26T20:22:17Z",
+"collected": "2026-10-26T20:28:37Z",
 "teams": [],
 "img_tried": true
 },
@@ -51,7 +159,7 @@
 "summary": "The Eagles added three players to their active roster ahead of Monday night's game against the Cowboys.",
 "image": "https://s.yimg.com/lo/mysterio/api/c6869050d91aa50ad3a61bf54a349cb61975ccba501dea2ac061902ac7d11e16/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Fa09738af16caddf5f69886dd626e76c9.jpg",
 "published": "2026-10-26T20:09:43Z",
-"collected": "2026-10-26T20:22:17Z",
+"collected": "2026-10-26T20:28:37Z",
 "teams": [
 "phi"
 ],
@@ -66,8 +174,11 @@
 "summary": "Manchester City suffered their first defeat of their Premier League campaign on Saturday against Aston Villa. Enzo Maresca’s side fell to a 2-1 defeat at Villa Park as a brace from Nicolas Jackson s...",
 "image": "https://s.yimg.com/lo/mysterio/api/8ec640acd7180cd66c7d47e607f8db0bd89eaf4e542ec7fc56cbd46d090fe96d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Festeemed_kompany_articles_332%2Fdaf468ecadd2f7796e358688b8c6cb67.jpg",
 "published": "2026-10-26T20:07:00Z",
-"collected": "2026-10-26T20:22:17Z",
-"teams": [],
+"collected": "2026-10-26T20:28:37Z",
+"teams": [
+"aston-villa",
+"man-city"
+],
 "img_tried": true
 },
 {
@@ -110,7 +221,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/57b51a2a34af562dba0f001158da02eda56b94874b9de63d355a292a7ece0d85/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2Fb2e82c3e94c3d6ed9d2465019879e1b8.jpg",
 "published": "2026-10-26T20:05:00Z",
 "collected": "2026-10-26T20:17:04Z",
-"teams": [],
+"teams": [
+"man-utd"
+],
 "img_tried": true
 },
 {
@@ -238,7 +351,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/b45d11fce9343a30165024f5cbff11ab27645fbace438c6f5ac397dce563e015/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2F33b6f183637d82d531f1dce16c8f3d4c.jpg",
 "published": "2026-10-26T20:00:00Z",
 "collected": "2026-10-26T20:07:38Z",
-"teams": [],
+"teams": [
+"chelsea",
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -345,7 +461,10 @@
 "image": "https://a.espncdn.com/photo/2026/1026/r1736417_1296x729_16-9.jpg",
 "published": "2026-10-26T19:56:48Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"man-utd",
+"tottenham"
+],
 "img_tried": true
 },
 {
@@ -423,7 +542,9 @@
 "image": "https://a.espncdn.com/photo/2026/1026/r1736508_1296x729_16-9.jpg",
 "published": "2026-10-26T19:56:38Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"man-utd"
+],
 "img_tried": true
 },
 {
@@ -436,7 +557,9 @@
 "image": "https://a.espncdn.com/photo/2026/1026/r1736264_1296x729_16-9.jpg",
 "published": "2026-10-26T19:56:38Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bournemouth"
+],
 "img_tried": true
 },
 {
@@ -449,7 +572,10 @@
 "image": null,
 "published": "2026-10-26T19:56:38Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"la-galaxy",
+"lafc"
+],
 "img_tried": true
 },
 {
@@ -475,7 +601,9 @@
 "image": "https://a.espncdn.com/photo/2026/1026/r1736473_1296x729_16-9.jpg",
 "published": "2026-10-26T19:56:35Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"man-utd"
+],
 "img_tried": true
 },
 {
@@ -488,7 +616,9 @@
 "image": "https://a.espncdn.com/photo/2026/1025/r1735997_1296x729_16-9.jpg",
 "published": "2026-10-26T19:56:35Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"man-utd"
+],
 "img_tried": true
 },
 {
@@ -573,7 +703,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/3ce6fc428317fb78d767e4c8adb34964dbda478a4bfa4307ed0b4b60984eb23d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2Fa6af03498e656233936c37dc2bae974b.jpg",
 "published": "2026-10-26T19:50:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"brentford",
+"sunderland"
+],
 "img_tried": true
 },
 {
@@ -586,7 +719,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/de82a083070aeb49fef6a99fad0ecc2a4059abf7bac58839dbd88560acc841b8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2Fda3260980785e284a14c171548d9c633.jpg",
 "published": "2026-10-26T19:50:00Z",
 "collected": "2026-10-26T20:07:38Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -637,7 +772,7 @@
 "summary": "The Thunder star had to be stretchered off the court on Sunday night, and OKC's season won't be the same moving forward",
 "image": "https://sportshub.cbsistatic.com/i/2026/10/26/edfc1a3f-1b29-4b45-9828-5d863c3503c2/jalen-williams-getty-2.png",
 "published": "2026-10-26T19:42:36Z",
-"collected": "2026-10-26T20:22:17Z",
+"collected": "2026-10-26T20:28:37Z",
 "teams": [
 "okc"
 ]
@@ -755,7 +890,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/ab7a5e339f2990575984160617b23c1e4084f6cf80b14b39d74c5343af0617f5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_watch_articles_625%2F2bb97ff657d71fe1327dad69c4b45fc1.jpg",
 "published": "2026-10-26T19:35:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -781,7 +918,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/95767d211944346e2038cf4806d6263bb28083d7a51ac2f88a749d4708d9a866/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2Faa5a11a40f34035493c9c9e009d9ec87.jpg",
 "published": "2026-10-26T19:35:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bournemouth",
+"aston-villa"
+],
 "img_tried": true
 },
 {
@@ -898,7 +1038,9 @@
 "image": null,
 "published": "2026-10-26T19:30:42Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"lightweight"
+],
 "img_tried": true
 },
 {
@@ -924,7 +1066,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/10faffb13b126c34c269f608a4b2dff60083ca49feaf54afa969919edbf2cfc3/lightyear_networkapi/resizefill_w1050_h701%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsl_full_time_articles_123%2F3889a030b07626a3401c357ff5d2096f.jpg",
 "published": "2026-10-26T19:29:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"aston-villa",
+"everton"
+],
 "img_tried": true
 },
 {
@@ -937,7 +1082,11 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/26/d7e32fcb-933c-469b-b064-fbd08c0d263a/man-unitd.jpg",
 "published": "2026-10-26T19:27:15Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"bournemouth",
+"man-utd",
+"tottenham"
+]
 },
 {
 "id": "242abddfec7b",
@@ -991,7 +1140,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/2a3ded88850eea2dc2e778e3650687641e9637838d7ac5dccc71e5668d507629/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2F2d187145a6a69fdd8c0989980960201e.jpg",
 "published": "2026-10-26T19:20:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"arsenal"
+],
 "img_tried": true
 },
 {
@@ -1004,7 +1155,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/a95f90e10afd88090e80297779cf6c6e11a01b756af28983585fbe0c6abe4bf2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2Fd389b43ac6dfdaf39310deac149d52f9.jpg",
 "published": "2026-10-26T19:20:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -1017,7 +1170,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/3e8e38cbe09175f684dfcd9a6074b9db9d0aa2faffaa2e4c7228650509df59b1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2F98c977bfd114dfc8f1052f07968c335a.jpg",
 "published": "2026-10-26T19:20:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"brighton",
+"man-city"
+],
 "img_tried": true
 },
 {
@@ -1061,7 +1217,9 @@
 "image": "https://a.espncdn.com/photo/2026/1025/r1735916_1296x729_16-9.jpg",
 "published": "2026-10-26T19:16:06Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"man-utd"
+],
 "img_tried": true
 },
 {
@@ -1074,7 +1232,9 @@
 "image": "https://a.espncdn.com/photo/2026/1025/r1735899_1296x729_16-9.jpg",
 "published": "2026-10-26T19:16:06Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -1184,7 +1344,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/0e58a0817fd48ad5a92d38df5e9b3a40fdfeb1ca045afe466b09cc3085dd0e35/lightyear_networkapi/resizefill_w1000_h680%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_cannon_articles_231%2F2bb2595460c0a2daf3fd0a643e4aaf8b.jpg",
 "published": "2026-10-26T19:05:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"arsenal"
+],
 "img_tried": true
 },
 {
@@ -1197,7 +1359,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/5a137a3631eecbd7b2b9b419eeed71a9be5c8ea05cea6c0d87adc32599459a85/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_4th_official_articles_868%2F5350920085c581c5059f9d6e545b7b39.jpg",
 "published": "2026-10-26T19:05:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"arsenal"
+],
 "img_tried": true
 },
 {
@@ -1210,7 +1374,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/a5fc2d4498be199bbba323e61b5945f0ce4a86942a5249b3b673c678f6ccdedd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_watch_articles_625%2F9f98ea12e4acfc8c8351b6598f3f9962.png",
 "published": "2026-10-26T19:05:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -1318,7 +1484,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/35e9449a0ebf2e1ce8592b46ff108b5a5802bb4eeed19f9d8a2ed177a92677d8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnaut_articles_397%2F83b222122bb35777c22b68628658c9a1.jpg",
 "published": "2026-10-26T18:59:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"light-heavyweight",
+"heavyweight"
+],
 "img_tried": true
 },
 {
@@ -1331,7 +1500,10 @@
 "image": "https://a.espncdn.com/photo/2026/1024/r1735626_1296x729_16-9.jpg",
 "published": "2026-10-26T18:57:31Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight",
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -1420,7 +1592,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/7d8d97628d6f41ee704810f3dfe90a5fe4dd05b78ff6c532a03c00b634c30558/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F2a84cdca71ff21ca4faf437679bae2f5.jpg",
 "published": "2026-10-26T18:50:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -1530,7 +1704,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/fd4199d4d23bfb13a7e0f8baf4eb28067ef7030e91e82dc7d6da59bc760195e4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F57be54bc5fde00a0d627bfc95ab5f750.jpg",
 "published": "2026-10-26T18:42:54Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -1543,7 +1719,9 @@
 "image": null,
 "published": "2026-10-26T18:40:16Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"light-heavyweight"
+],
 "img_tried": true
 },
 {
@@ -1556,7 +1734,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/6620e8df2f9c94ddd55a264ea6865f54c13adaae11e56faec025383088801c07/lightyear_networkapi/resizefill_w1000_h667%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fworld_football_index_articles_315%2F0b2be37e9189286f427fda73254e2a71.jpg",
 "published": "2026-10-26T18:40:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"aston-villa",
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -1626,7 +1807,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/1396cd866b482417c8def72c7b7456cebd917e9e7e0ad7c0956c58952f1b98f6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_watch_articles_625%2F4e7986fc89e4eecacd8ecfdc96eaf107.jpg",
 "published": "2026-10-26T18:35:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -1654,7 +1837,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/ea49edb0d0c08e77820fec954617129750cbb1662a958f33faf5c92b82b28a74/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fufc-333-volkanovski-v-evloev-cropped-1_7312.jpg",
 "published": "2026-10-26T18:32:32Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight",
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -1740,7 +1926,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/a92de09c370794132049a106cd534453853740e8f470b1a1b15735fda91a8f80/lightyear_networkapi/resizefill_w1000_h667%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fworld_football_index_articles_315%2Fc50f75aa49c69633dcd47ad189a3ff28.jpg",
 "published": "2026-10-26T18:25:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"man-utd"
+],
 "img_tried": true
 },
 {
@@ -1766,7 +1954,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/7a8af4d714169c3856a549ad48577d8791b538e3d222c682ef69a5a3703ad6ab/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F77f371767e4ce9517d2fd47f2d249748.jpg",
 "published": "2026-10-26T18:20:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -1779,7 +1969,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/d2c7e5445efd41b31bed5d276ef328d87bffce279750774f27614a2038d9ac0a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2Fdc516ebf7c1a75818a5afd13f9651010.jpg",
 "published": "2026-10-26T18:20:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"man-utd"
+],
 "img_tried": true
 },
 {
@@ -1817,7 +2009,7 @@
 "summary": "The Slovenian put on a sensational performance Sunday",
 "image": "https://s.yimg.com/lo/mysterio/api/1515419d7a3aff833e7944260e5c2e502d5673273f14d0375514953d2dd2257b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F6609319379e9cf153d40201953028897.jpg",
 "published": "2026-10-26T18:15:00Z",
-"collected": "2026-10-26T20:22:17Z",
+"collected": "2026-10-26T20:28:37Z",
 "teams": [
 "utah"
 ],
@@ -1938,7 +2130,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/605a3ed38b6cdb59b42d7a7bd3a497766e8c0cd254ed02aa9dcfc1e1d32a1ff2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_watch_articles_625%2Fbe5eda63185eb95889a20ce8718dbae7.jpg",
 "published": "2026-10-26T18:05:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -1951,7 +2145,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/1c67b0000e810e6e64a567fd8b3d22f511a1f2ab71f84c08d5e6f77607625a89/lightyear_networkapi/resizefill_w800_h528%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_cannon_articles_231%2F855fb0a95324be4f55614d904869f1ff.jpg",
 "published": "2026-10-26T18:05:00Z",
 "collected": "2026-10-26T20:17:04Z",
-"teams": [],
+"teams": [
+"arsenal",
+"tottenham"
+],
 "img_tried": true
 },
 {
@@ -2108,7 +2305,11 @@
 "image": "https://s.yimg.com/lo/mysterio/api/2c6c621213fc255cf816940c724169844c6920f147f713f28bd594146c02207e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F67bc41b8dc8e7b4c69b7c77be1082b3e.jpg",
 "published": "2026-10-26T17:50:23Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"middleweight",
+"light-heavyweight",
+"heavyweight"
+],
 "img_tried": true
 },
 {
@@ -2134,7 +2335,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/9815d8a6200b1083d931389c8b650ba0e22fc205829dbc562abc0f08b47286d8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F149d9cd90adf8d6a2736aa00e41a0182.jpg",
 "published": "2026-10-26T17:50:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -2231,7 +2434,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/1f8ff18fe42d7f442fae41a3b34339801b957df5bb29ac68f9a60ab73845126e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F6c65eb94828aa0c6ecd22508b21b85b2.jpg",
 "published": "2026-10-26T17:40:37Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"tottenham"
+],
 "img_tried": true
 },
 {
@@ -2387,7 +2592,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/c5385a4f36c521487eba64fa90eb86bcca85e789415c3d939da882ae710a2a28/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2Fb6cce52bdff5d9e3e30d67495efa8020.jpg",
 "published": "2026-10-26T17:23:20Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -2400,7 +2607,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/2ba00d5996b24ccd07b7854774f98568f38300a61c5cf3b2a9eba47682e307b8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2Fab6a25da07e2b393d0f60efd18cdbb00.jpg",
 "published": "2026-10-26T17:20:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -2413,7 +2622,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/dc7e277a9a308e1db4cc3f556dbd741eaaf0b9bbac2f9d3badaed9c7ec81920c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F486d1936a070a1519f6a5c2ceea8524a.jpg",
 "published": "2026-10-26T17:20:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"liverpool"
+],
 "img_tried": true
 },
 {
@@ -2469,7 +2680,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/26/5ec1a093-f4df-40ab-a1d3-15d719ce16c6/untitled-design-2026-10-26t182927-329.png",
 "published": "2026-10-26T17:15:14Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"arsenal"
+]
 },
 {
 "id": "31facc428348",
@@ -2555,7 +2768,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/e6e37c2d83c48621cba3cd72fc3782eba817c8e400372ae2bcb574fe5cfba8cd/lightyear_networkapi/resizefill_w1000_h689%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_cannon_articles_231%2F88212f9897e54fab508f9dec166696b3.jpg",
 "published": "2026-10-26T17:05:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"arsenal"
+],
 "img_tried": true
 },
 {
@@ -2583,7 +2798,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/19116805fd2d64945ab0978e266cc3efda4470c74bc6ae508b250c6584d0c61d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F9335e3d15def419b1302c09b420b401f.jpg",
 "published": "2026-10-26T17:01:05Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"lightweight"
+],
 "img_tried": true
 },
 {
@@ -2829,7 +3046,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/211fc35b9f5cfc928860578f871bde0750406e60a4412eff6788f77aeffef94e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fee1641dda3e8ddd49bf6117ce8b5a75b.jpg",
 "published": "2026-10-26T16:46:46Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"flyweight"
+],
 "img_tried": true
 },
 {
@@ -3018,7 +3237,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/b450a1f8bc9ef3cc09f701635f3bd045a61bb4b2af0d1803df0ff6c78e551e9c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F0db5d4558d3a92423f0df44725816555.jpg",
 "published": "2026-10-26T16:24:26Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"lightweight"
+],
 "img_tried": true
 },
 {
@@ -3061,7 +3282,9 @@
 "image": null,
 "published": "2026-10-26T16:10:19Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"lightweight"
+],
 "img_tried": true
 },
 {
@@ -3089,7 +3312,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/d26b53ea2af2b8f39639aa07079fec88b79d5536ce1aded435b6d6f5160a7924/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flindy_s_sports_articles_490%2Fecebd6ecd0692c52955938138b95a668.jpg",
 "published": "2026-10-26T16:07:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight",
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -3310,7 +3536,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/26f2d01acaa852bdc955018a30494484c641ff99bef2ab370f29993b72301f47/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_knockout_on_si_781%2Fd926d0dac4773437fdfe9bbfe0ba0c1a.jpg",
 "published": "2026-10-26T15:52:10Z",
 "collected": "2026-10-26T20:07:38Z",
-"teams": [],
+"teams": [
+"flyweight"
+],
 "img_tried": true
 },
 {
@@ -3564,7 +3792,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/8bb2aead09cd3a13e0846af5e0b5137c37ff93b471e25162c2ccc8f5d9a469c9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F40cc01147f15b96c48ca2585592089b6.jpg",
 "published": "2026-10-26T15:23:39Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -3665,7 +3895,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/80f0f35b84aac2e991e8f8c8a8c84cec52d490f4bd37698ae074d68a62d9f237/lightyear_networkapi/resizefill_w768_h432%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_knockout_on_si_781%2F966057b4d775ac38f0c03d1e9bc31059.jpg",
 "published": "2026-10-26T15:10:20Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"heavyweight"
+],
 "img_tried": true
 },
 {
@@ -3856,7 +4088,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/6435cfe884f4c4ab8da9c9cb13a239ec7e2e06b548f7cbf58e6c74751402c46f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Faf9d357491945e648a44e178ad6e0187.jpg",
 "published": "2026-10-26T15:00:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"light-heavyweight",
+"heavyweight"
+],
 "img_tried": true
 },
 {
@@ -4055,7 +4290,9 @@
 "image": null,
 "published": "2026-10-26T14:29:48Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight"
+],
 "img_tried": true
 },
 {
@@ -4445,7 +4682,9 @@
 "image": "https://a.espncdn.com/photo/2026/1025/r1736052_1296x729_16-9.jpg",
 "published": "2026-10-26T13:49:04Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -4656,7 +4895,9 @@
 "image": "https://a.espncdn.com/photo/2026/1026/r1736626_1296x729_16-9.jpg",
 "published": "2026-10-26T13:29:39Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"man-utd"
+],
 "img_tried": true
 },
 {
@@ -5272,7 +5513,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/cd9b6f8dbe4f1513fd297b59cd1f276573a3cf5f2899bca37059f43c2934352e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F554e51e70c534afd517ee9e7bea3cce0.jpg",
 "published": "2026-10-26T13:00:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -5417,7 +5660,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/80a5421dfb441f2bd64c0cdeda5ea4558c3a41e9bee2e1282b7a60307ffe2221/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F6a113d039006f35b9610351624d03b5e.jpg",
 "published": "2026-10-26T12:34:24Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -5813,7 +6058,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/e43dd0afc7934e58877359c732407d1e0aa84ce9b04e6cbf001b28f5cfbfb9cd/lightyear_networkapi/resizefill_w1000_h600%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F8c4824e9d15038c00c7be405963fb031.jpg",
 "published": "2026-10-26T12:02:29Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"lightweight"
+],
 "img_tried": true
 },
 {
@@ -7208,7 +7455,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/c71f588974d04092370381ca2038f8487c4777d058ffe32264391caf27e79f7c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flast_word_on_sports_293%2F9b91a6cc8c59923e95c5e61b6a8f97bf.jpg",
 "published": "2026-10-26T06:39:50Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -7296,7 +7545,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/639bf9a9274fe09075964f06ba8001a27570da2d02e9ddd431ae8ba2de888f35/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fa6fc2d10a04cd8df8e161b9d5afe2ee6.jpg",
 "published": "2026-10-26T06:05:31Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -7558,7 +7809,9 @@
 "image": null,
 "published": "2026-10-26T04:16:50Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"lightweight"
+],
 "img_tried": true
 },
 {
@@ -7602,7 +7855,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/9c7f7f37db655c2cf3872dd88ce1b409ff70e10b8e432e05997b4f57ac84ac45/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fbb2170c4d6dbd231b9bb14c42104e7ad.jpg",
 "published": "2026-10-26T04:03:05Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight"
+],
 "img_tried": true
 },
 {
@@ -7706,7 +7961,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/0080d24c5939b4d752fbdc131f5130759fe772a75f111c77737f862f1cf32286/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F6f323f841b4a7a4e5e41a54fe9cbf0fa.jpg",
 "published": "2026-10-26T03:43:58Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -7763,7 +8020,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/5e1935a9393fc11a0de553eafbdc8f5812d99b5ab72195e5841785fe256b1589/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F4319acc8c86faad684160e9da34fb03b.jpg",
 "published": "2026-10-26T03:30:25Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"heavyweight"
+],
 "img_tried": true
 },
 {
@@ -8280,7 +8539,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/a28e8f6bdec8fff9eb0997cf522449cf33a1ccc4a4a5945b2c0ed1ef6e4a044b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fathlon_sports_articles_610%2F0ad016feb0afa5a94e8e9038919ba46f.jpg",
 "published": "2026-10-26T01:22:45Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight",
+"lightweight"
+],
 "img_tried": true
 },
 {
@@ -8551,7 +8813,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/5a90ace5dabba36a0c84e26855185220fb9185de585ee65b98e92fcccd74013f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2Fde2464c9cff5d3749da4f2e9590106c4.jpg",
 "published": "2026-10-26T00:30:27Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -8712,7 +8976,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/f72cf375e8ba30a24f76dcda8c6dfdaeeaac1ccb24e5672ab5d497612b28d8ea/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Faf7e1c21f5a4349fc4e72a0bcf7967db.jpg",
 "published": "2026-10-25T23:42:03Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -8741,7 +9007,9 @@
 "image": null,
 "published": "2026-10-25T23:40:19Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"heavyweight"
+],
 "img_tried": true
 },
 {
@@ -9159,7 +9427,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/1fee6ec0af4733511f2e168c5115091cc8074bf1c2ba8c0c3260161dab9d2b8f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F8164107ce6c4f902bb9254d85bc4680c.jpg",
 "published": "2026-10-25T22:00:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -9302,7 +9572,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/0f52c08964f1e14ae5a3b32ab1ed55f059de932f986aa5bb028bb003ec025263/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F4d6bc67577a45ff4d65459cffa701a1e.jpg",
 "published": "2026-10-25T21:14:45Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -9315,7 +9587,10 @@
 "image": null,
 "published": "2026-10-25T21:10:39Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight",
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -9342,7 +9617,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/d9a6a4c64e92188d55754dcdd9f9d599d4d0edea934d2f18efd4ae66cee31da4/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_knockout_on_si_781%2F2526450519cf4a30ff58bc13711d42ca.jpg",
 "published": "2026-10-25T21:00:02Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -9383,7 +9660,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/ee0f063fdb7fda6619e1c1f0658f93499276eb81ce1ec9fb4b17b03f198f837a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F422cff748895269e24f552d94e8d874b.jpg",
 "published": "2026-10-25T20:58:43Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -9436,7 +9715,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/11182a1a8ace4d6630597a57df0ba8deca7511faea4e3b2f04a949f01a2d2511/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F3aba61134d0f98984c7f133a032aa5b4.jpg",
 "published": "2026-10-25T20:48:08Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -9509,7 +9790,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/6ed0fb57768e12decb4d9fd4811ef425aa347033e9f08bfd3694afa50e8dab97/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F84d498e2156245b961f0f1b7a82caf92.jpg",
 "published": "2026-10-25T19:35:28Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight"
+],
 "img_tried": true
 },
 {
@@ -9522,7 +9805,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/1e6ae3e1f33cb9c3a9ac89be410b479c340c8e761e59329aafb507e7a9fbc039/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F38c97aa71ca868818d00253b69d06c70.jpg",
 "published": "2026-10-25T19:30:37Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -9535,7 +9820,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/c41c333acb8ed61f8e058bacb45529b8cac308e0bc7b2dad63d5f543e1dd48fe/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_knockout_on_si_781%2Feeb08974f158ef7e748030c0eecce70d.jpg",
 "published": "2026-10-25T19:30:01Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -9636,7 +9923,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/779e8529d537ec16e68af633be4af253edcf01b3c2d5c52ff742912f55bcf1e8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fc807ab48c280019bf40c79764cf31d4a.jpg",
 "published": "2026-10-25T18:53:42Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"flyweight"
+],
 "img_tried": true
 },
 {
@@ -9664,7 +9953,9 @@
 "image": null,
 "published": "2026-10-25T18:46:49Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -9706,7 +9997,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/e76c6054a85175c94bc46fcfff56c6bd35d853afce16d998dcb04ce8c96b63da/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2Fcc42f8cea1d5436c22e3afa3883267b9.jpg",
 "published": "2026-10-25T18:40:26Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -9719,7 +10012,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/c35d428b8f6697c3bbf8050637d35695966a62399123588dd6382235fcbe233c/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_knockout_on_si_781%2Fb4009874028d6f0c22a96b7712345aea.jpg",
 "published": "2026-10-25T18:34:27Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -9763,7 +10058,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/ec371027d1d23079e2f15947280af104597774de4fe5f013d55a862981dd8b76/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fufc-333-volkanovski-v-evloev-1-cropped_3386.jpg",
 "published": "2026-10-25T17:59:27Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -9815,7 +10112,9 @@
 "image": "https://s.yimg.com/lo/mysterio/api/1c22c6c79eac33993cc9b3814a4f51edab4146dd48ff24ccf621aeaad1be8bdb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F22898d8d051874c80ef4f0f6eb586bff.jpg",
 "published": "2026-10-25T17:40:26Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -9899,7 +10198,10 @@
 "image": "https://s.yimg.com/lo/mysterio/api/f40e816c3ff62e9f74292e45b5c7feb803aeb1b4285c28007b9e31192ebac0a2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F6292549300efc0c6d121e6478112abc0.jpg",
 "published": "2026-10-25T17:11:51Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight",
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -9928,7 +10230,10 @@
 "image": null,
 "published": "2026-10-25T17:01:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight",
+"lightweight"
+],
 "img_tried": true
 },
 {
@@ -10457,7 +10762,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/25/3df35093-8ba6-4956-9d38-3a099cd4168c/inter-miami.jpg",
 "published": "2026-10-25T13:35:53Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"inter-miami"
+]
 },
 {
 "id": "81e0aac645c7",
@@ -10558,7 +10865,9 @@
 "image": "https://a.espncdn.com/photo/2026/1024/r1735580_1296x729_16-9.jpg",
 "published": "2026-10-25T12:45:26Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"flyweight"
+],
 "img_tried": true
 },
 {
@@ -10571,7 +10880,9 @@
 "image": "https://a.espncdn.com/photo/2026/1024/r1735626_600x400_3-2.jpg",
 "published": "2026-10-25T12:44:46Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -11105,7 +11416,9 @@
 "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/c6001a5e40e44eaea2bec80502398f9a1058/c6001a5e40e44eaea2bec80502398f9a1058.jpg",
 "published": "2026-10-25T01:04:53Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -11118,7 +11431,9 @@
 "image": "https://a.espncdn.com/photo/2026/1024/r1735597_600x400_3-2.jpg",
 "published": "2026-10-24T23:38:38Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight"
+],
 "img_tried": true
 },
 {
@@ -11177,7 +11492,10 @@
 "image": "https://a.espncdn.com/photo/2026/1024/r1735621_1296x729_16-9.jpg",
 "published": "2026-10-24T22:40:47Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight",
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -11864,7 +12182,9 @@
 "image": "https://a.espncdn.com/photo/2026/1023/r1734959_1296x729_16-9.jpg",
 "published": "2026-10-23T14:47:33Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight"
+],
 "img_tried": true
 },
 {
@@ -11989,7 +12309,9 @@
 "image": "https://a.espncdn.com/photo/2026/0810/r1700045_600x400_3-2.jpg",
 "published": "2026-10-23T01:39:35Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"lightweight"
+],
 "img_tried": true
 },
 {
@@ -12032,7 +12354,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/22/0fd02bf9-03f3-4d69-92f9-8414208d253b/power-rankings-soccer-16x9.jpg",
 "published": "2026-10-22T21:02:48Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"man-utd"
+]
 },
 {
 "id": "2bb62ab37498",
@@ -12154,7 +12478,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/22/c65730c7-3018-48d7-bb50-5edbb1002f58/london-city-lionesses.jpg",
 "published": "2026-10-22T18:21:47Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"arsenal"
+]
 },
 {
 "id": "9697ee6b9ac4",
@@ -12315,7 +12641,10 @@
 "image": "https://a.espncdn.com/photo/2026/1021/r1733959_1296x729_16-9.jpg",
 "published": "2026-10-22T16:23:59Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight",
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -12342,7 +12671,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/22/db5c924a-2604-4855-9413-8aae4cd3eaef/bruno-fernandes.jpg",
 "published": "2026-10-22T15:13:55Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"man-utd"
+]
 },
 {
 "id": "4c0441b84236",
@@ -12514,7 +12845,9 @@
 "image": "https://a.espncdn.com/photo/2026/0511/r1656524_600x400_3-2.jpg",
 "published": "2026-10-22T06:19:14Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"middleweight"
+],
 "img_tried": true
 },
 {
@@ -12569,7 +12902,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/22/e0fa7c69-a921-44b9-a04b-2658f8e55e08/st-louis-1.jpg",
 "published": "2026-10-22T03:53:32Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"st-louis"
+]
 },
 {
 "id": "42082eea0f10",
@@ -12581,7 +12916,9 @@
 "image": "https://a.espncdn.com/photo/2026/1020/r1733207_1296x518_5-2.jpg",
 "published": "2026-10-22T01:20:14Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"featherweight"
+],
 "img_tried": true
 },
 {
@@ -12594,7 +12931,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/21/ccfaf41b-56d7-44ae-8c9c-047388eb1bf0/bayern-munich-7.jpg",
 "published": "2026-10-21T22:24:09Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"arsenal"
+]
 },
 {
 "id": "51c1ea1c0617",
@@ -12718,7 +13057,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/21/60c16110-aa07-4f1c-9b17-bfeb167afddd/bayern-munich-6.jpg",
 "published": "2026-10-21T16:34:33Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"arsenal"
+]
 },
 {
 "id": "b4eb5416b4e6",
@@ -12754,7 +13095,10 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/21/d0f6a577-20c0-4c72-b18d-23dbf2689517/u-s-opencup.jpg",
 "published": "2026-10-21T15:34:31Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"columbus",
+"st-louis"
+]
 },
 {
 "id": "e3332e583b01",
@@ -12795,7 +13139,10 @@
 "image": "https://a.espncdn.com/photo/2026/1006/r1726812_608x342_16-9.jpg",
 "published": "2026-10-21T14:18:12Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"womens-strawweight",
+"womens-flyweight"
+],
 "img_tried": true
 },
 {
@@ -12808,7 +13155,9 @@
 "image": "https://a.espncdn.com/photo/2026/1019/r1733018_608x342_16-9.jpg",
 "published": "2026-10-21T14:18:11Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight"
+],
 "img_tried": true
 },
 {
@@ -12835,7 +13184,10 @@
 "image": "https://a.espncdn.com/photo/2026/1018/r1732297_600x400_3-2.jpg",
 "published": "2026-10-21T14:11:05Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"welterweight",
+"womens-flyweight"
+],
 "img_tried": true
 },
 {
@@ -12915,7 +13267,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/20/876e0532-77e9-4bfc-b72b-e26e54f7deb9/untitled-design-2026-10-21t013437-440.png",
 "published": "2026-10-21T09:00:47Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"arsenal"
+]
 },
 {
 "id": "6314e0cabb01",
@@ -12941,7 +13295,10 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/21/27f22d72-fc80-4557-9c80-afd8f506332a/st-louis.jpg",
 "published": "2026-10-21T00:27:18Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"columbus",
+"st-louis"
+]
 },
 {
 "id": "8c3861f0293e",
@@ -12953,7 +13310,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/20/a639f4ff-efc1-4520-a63b-44c74ca5d8ca/barca-5.jpg",
 "published": "2026-10-20T23:39:00Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"liverpool"
+]
 },
 {
 "id": "caa8db4eb432",
@@ -12965,7 +13324,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/19/ffc697c4-0d25-4e31-b9ca-599a5c9f5fc0/columbus-crew.jpg",
 "published": "2026-10-20T23:22:11Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"columbus"
+]
 },
 {
 "id": "c1bc47dc9662",
@@ -12989,7 +13350,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/20/1cdc49ce-dc8e-438f-867d-3033d30c07fa/untitled-design-2026-10-21t005108-112.png",
 "published": "2026-10-20T22:05:46Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"arsenal"
+]
 },
 {
 "id": "6b7af84f7ce7",
@@ -13016,7 +13379,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/20/689e16f3-2a8b-438d-9eb1-5d046636a55d/untitled-design-2026-10-20t211020-379.png",
 "published": "2026-10-20T18:21:03Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"man-utd"
+]
 },
 {
 "id": "2064bbe7cbc0",
@@ -13129,7 +13494,9 @@
 "image": "https://a.espncdn.com/photo/2026/1016/261019_mma_trilogy-fights_16x9.jpg",
 "published": "2026-10-19T14:45:06Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"bantamweight"
+],
 "img_tried": true
 },
 {
@@ -13167,7 +13534,9 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/19/7971f71e-6a5d-4e5b-9c9b-bc45d568c529/fcbarcelona.jpg",
 "published": "2026-10-19T01:09:12Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"man-utd"
+]
 },
 {
 "id": "56d8e594c55d",
@@ -13179,7 +13548,10 @@
 "image": "https://sportshub.cbsistatic.com/i/2026/10/18/80d7e5e4-110a-4ac2-a98e-404d8f5f662c/brighton-premier-league-rankings.jpg",
 "published": "2026-10-18T19:29:35Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": []
+"teams": [
+"aston-villa",
+"brighton"
+]
 },
 {
 "id": "0626a7f2a0aa",
@@ -13215,7 +13587,9 @@
 "image": "https://a.espncdn.com/photo/2026/1017/r1731889_600x400_3-2.jpg",
 "published": "2026-10-17T17:07:45Z",
 "collected": "2026-10-26T20:01:12Z",
-"teams": [],
+"teams": [
+"womens-flyweight"
+],
 "img_tried": true
 },
 {

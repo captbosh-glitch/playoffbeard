@@ -1,5 +1,6 @@
 """
-Teams per league (data/teams/{league}.json, copied from RTYB) and the
+Teams per league (data/teams/{league}.json: copied from RTYB, or built by
+rosters.py for soccer and UFC) and the
 keywords used to tag articles with them.
 
 Tagging matches a team's nickname ("Maple Leafs", "Bruins") or full name,
@@ -51,6 +52,9 @@ def matchers(league, teams):
         cities.setdefault((t.get('location') or '').lower(), []).append(t['slug'])
     out = []
     for t in teams:
+        if t.get('pattern'):   # soccer clubs and UFC weight classes (rosters.py)
+            out.append((t['slug'], re.compile(t['pattern'], re.I)))
+            continue
         nick = (t.get('nickname') or t.get('short') or '').lower()
         loc = (t.get('location') or '').lower()
         words = {t['name'].lower(), f'{loc} {nick}'.strip()}

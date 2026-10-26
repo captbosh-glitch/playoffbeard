@@ -100,6 +100,11 @@ def collect(now=None):
                 seen_url.add(aid)
                 seen_head.add(hk)
                 added[key] = added.get(key, 0) + 1
+    # re-tag every kept story: new rankings or clubs reach older headlines too
+    match = {lg['key']: T.matchers(lg['key'], T.load(lg['key'])) for lg in config.LEAGUES}
+    for a in articles:
+        if a['league'] in match:
+            a['teams'] = T.tag(a['title'], match[a['league']]) or T.tag(a['summary'], match[a['league']])
     cutoff = (now - timedelta(days=config.KEEP_DAYS)).strftime('%Y-%m-%dT%H:%M:%SZ')
     articles = [a for a in articles if a['published'] >= cutoff]
     articles.sort(key=lambda a: a['published'], reverse=True)

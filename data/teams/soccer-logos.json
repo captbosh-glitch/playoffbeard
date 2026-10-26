@@ -1,0 +1,152 @@
+{
+"bournemouth": {
+"dark": false
+},
+"arsenal": {
+"dark": false
+},
+"aston-villa": {
+"dark": false
+},
+"brentford": {
+"dark": false
+},
+"brighton": {
+"dark": true
+},
+"chelsea": {
+"dark": false
+},
+"coventry": {
+"dark": false
+},
+"crystal-palace": {
+"dark": false
+},
+"everton": {
+"dark": false
+},
+"fulham": {
+"dark": false
+},
+"hull": {
+"dark": false
+},
+"ipswich": {
+"dark": false
+},
+"leeds": {
+"dark": false
+},
+"liverpool": {
+"dark": true
+},
+"man-city": {
+"dark": false
+},
+"man-utd": {
+"dark": false
+},
+"newcastle": {
+"dark": true
+},
+"nottm-forest": {
+"dark": true
+},
+"sunderland": {
+"dark": false
+},
+"tottenham": {
+"dark": true
+},
+"atlanta-united": {
+"dark": true
+},
+"austin": {
+"dark": false
+},
+"montreal": {
+"dark": false
+},
+"charlotte": {
+"dark": true
+},
+"chicago-fire": {
+"dark": false
+},
+"colorado": {
+"dark": false
+},
+"columbus": {
+"dark": true
+},
+"dc-united": {
+"dark": false
+},
+"cincinnati": {
+"dark": true
+},
+"dallas": {
+"dark": true
+},
+"houston": {
+"dark": true
+},
+"inter-miami": {
+"dark": true
+},
+"la-galaxy": {
+"dark": false
+},
+"lafc": {
+"dark": false
+},
+"minnesota": {
+"dark": true
+},
+"nashville": {
+"dark": false
+},
+"new-england": {
+"dark": false
+},
+"nycfc": {
+"dark": false
+},
+"orlando": {
+"dark": false
+},
+"philadelphia": {
+"dark": false
+},
+"portland": {
+"dark": true
+},
+"real-salt-lake": {
+"dark": false
+},
+"red-bulls": {
+"dark": true
+},
+"san-diego": {
+"dark": false
+},
+"san-jose": {
+"dark": false
+},
+"seattle": {
+"dark": false
+},
+"sporting-kc": {
+"dark": true
+},
+"st-louis": {
+"dark": true
+},
+"toronto": {
+"dark": true
+},
+"vancouver": {
+"dark": true
+}
+}

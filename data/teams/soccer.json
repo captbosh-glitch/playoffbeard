@@ -1,5 +1,506 @@
 {
  "sport": "soccer",
- "note": "No team pages yet; add teams here to get a logo row and team pages.",
- "teams": []
+ "updated": "2026-10-26T20:28:06+00:00",
+ "teams": [
+  {
+   "code": "BOU",
+   "name": "AFC Bournemouth",
+   "nickname": "Bournemouth",
+   "slug": "bournemouth",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(afc\\ bournemouth|bournemouth|cherries)(?!\\w)"
+  },
+  {
+   "code": "ARS",
+   "name": "Arsenal",
+   "nickname": "Arsenal",
+   "slug": "arsenal",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(arsenal|gunners)(?!\\w)"
+  },
+  {
+   "code": "AVL",
+   "name": "Aston Villa",
+   "nickname": "Aston Villa",
+   "slug": "aston-villa",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(aston\\ villa)(?!\\w)"
+  },
+  {
+   "code": "BRE",
+   "name": "Brentford",
+   "nickname": "Brentford",
+   "slug": "brentford",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(brentford)(?!\\w)"
+  },
+  {
+   "code": "BHA",
+   "name": "Brighton & Hove Albion",
+   "nickname": "Brighton",
+   "slug": "brighton",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(brighton\\ \\&\\ hove\\ albion|brighton)(?!\\w)"
+  },
+  {
+   "code": "CHE",
+   "name": "Chelsea",
+   "nickname": "Chelsea",
+   "slug": "chelsea",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(chelsea)(?!\\w)"
+  },
+  {
+   "code": "COV",
+   "name": "Coventry City",
+   "nickname": "Coventry",
+   "slug": "coventry",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(coventry\\ city|coventry)(?!\\w)"
+  },
+  {
+   "code": "CRY",
+   "name": "Crystal Palace",
+   "nickname": "Crystal Palace",
+   "slug": "crystal-palace",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(crystal\\ palace)(?!\\w)"
+  },
+  {
+   "code": "EVE",
+   "name": "Everton",
+   "nickname": "Everton",
+   "slug": "everton",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(everton|toffees)(?!\\w)"
+  },
+  {
+   "code": "FUL",
+   "name": "Fulham",
+   "nickname": "Fulham",
+   "slug": "fulham",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(fulham)(?!\\w)"
+  },
+  {
+   "code": "HUL",
+   "name": "Hull City",
+   "nickname": "Hull City",
+   "slug": "hull",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(hull\\ city)(?!\\w)"
+  },
+  {
+   "code": "IPS",
+   "name": "Ipswich Town",
+   "nickname": "Ipswich",
+   "slug": "ipswich",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(ipswich\\ town|ipswich)(?!\\w)"
+  },
+  {
+   "code": "LEE",
+   "name": "Leeds United",
+   "nickname": "Leeds",
+   "slug": "leeds",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(leeds\\ united|leeds)(?!\\w)"
+  },
+  {
+   "code": "LIV",
+   "name": "Liverpool",
+   "nickname": "Liverpool",
+   "slug": "liverpool",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(liverpool)(?!\\w)"
+  },
+  {
+   "code": "MNC",
+   "name": "Manchester City",
+   "nickname": "Man City",
+   "slug": "man-city",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(manchester\\ city|man\\ city)(?!\\w)"
+  },
+  {
+   "code": "MAN",
+   "name": "Manchester United",
+   "nickname": "Man United",
+   "slug": "man-utd",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(manchester\\ united|man\\ united|man\\ utd)(?!\\w)"
+  },
+  {
+   "code": "NEW",
+   "name": "Newcastle United",
+   "nickname": "Newcastle",
+   "slug": "newcastle",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(newcastle\\ united|newcastle|magpies)(?!\\w)"
+  },
+  {
+   "code": "NFO",
+   "name": "Nottingham Forest",
+   "nickname": "Nott'm Forest",
+   "slug": "nottm-forest",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(nottingham\\ forest|nott'm\\ forest|nottm\\ forest)(?!\\w)"
+  },
+  {
+   "code": "SUN",
+   "name": "Sunderland",
+   "nickname": "Sunderland",
+   "slug": "sunderland",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(sunderland)(?!\\w)"
+  },
+  {
+   "code": "TOT",
+   "name": "Tottenham Hotspur",
+   "nickname": "Spurs",
+   "slug": "tottenham",
+   "competition": "Premier League",
+   "division": "Premier League",
+   "conference": null,
+   "pattern": "(?<!\\w)(tottenham\\ hotspur|tottenham|spurs)(?!\\w)"
+  },
+  {
+   "code": "ATL",
+   "name": "Atlanta United FC",
+   "nickname": "Atlanta United",
+   "slug": "atlanta-united",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(atlanta\\ united\\ fc|atlanta\\ united)(?!\\w)"
+  },
+  {
+   "code": "ATX",
+   "name": "Austin FC",
+   "nickname": "Austin FC",
+   "slug": "austin",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(austin\\ fc)(?!\\w)"
+  },
+  {
+   "code": "MTL",
+   "name": "CF Montréal",
+   "nickname": "CF Montréal",
+   "slug": "montreal",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(cf\\ montréal|cf\\ montreal)(?!\\w)"
+  },
+  {
+   "code": "CLT",
+   "name": "Charlotte FC",
+   "nickname": "Charlotte FC",
+   "slug": "charlotte",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(charlotte\\ fc)(?!\\w)"
+  },
+  {
+   "code": "CHI",
+   "name": "Chicago Fire FC",
+   "nickname": "Chicago Fire",
+   "slug": "chicago-fire",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(chicago\\ fire\\ fc|chicago\\ fire)(?!\\w)"
+  },
+  {
+   "code": "COL",
+   "name": "Colorado Rapids",
+   "nickname": "Rapids",
+   "slug": "colorado",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(colorado\\ rapids|rapids)(?!\\w)"
+  },
+  {
+   "code": "CLB",
+   "name": "Columbus Crew",
+   "nickname": "Crew",
+   "slug": "columbus",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(columbus\\ crew)(?!\\w)"
+  },
+  {
+   "code": "DC",
+   "name": "D.C. United",
+   "nickname": "D.C. United",
+   "slug": "dc-united",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(d\\.c\\.\\ united|dc\\ united)(?!\\w)"
+  },
+  {
+   "code": "CIN",
+   "name": "FC Cincinnati",
+   "nickname": "FC Cincinnati",
+   "slug": "cincinnati",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(fc\\ cincinnati)(?!\\w)"
+  },
+  {
+   "code": "DAL",
+   "name": "FC Dallas",
+   "nickname": "FC Dallas",
+   "slug": "dallas",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(fc\\ dallas)(?!\\w)"
+  },
+  {
+   "code": "HOU",
+   "name": "Houston Dynamo FC",
+   "nickname": "Dynamo",
+   "slug": "houston",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(houston\\ dynamo\\ fc|houston\\ dynamo|dynamo)(?!\\w)"
+  },
+  {
+   "code": "MIA",
+   "name": "Inter Miami CF",
+   "nickname": "Inter Miami",
+   "slug": "inter-miami",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(inter\\ miami\\ cf|inter\\ miami)(?!\\w)"
+  },
+  {
+   "code": "LA",
+   "name": "LA Galaxy",
+   "nickname": "Galaxy",
+   "slug": "la-galaxy",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(la\\ galaxy|galaxy)(?!\\w)"
+  },
+  {
+   "code": "LAFC",
+   "name": "LAFC",
+   "nickname": "LAFC",
+   "slug": "lafc",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(los\\ angeles\\ fc|lafc)(?!\\w)"
+  },
+  {
+   "code": "MIN",
+   "name": "Minnesota United FC",
+   "nickname": "Minnesota United",
+   "slug": "minnesota",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(minnesota\\ united\\ fc|minnesota\\ united|loons)(?!\\w)"
+  },
+  {
+   "code": "NSH",
+   "name": "Nashville SC",
+   "nickname": "Nashville SC",
+   "slug": "nashville",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(nashville\\ sc)(?!\\w)"
+  },
+  {
+   "code": "NE",
+   "name": "New England Revolution",
+   "nickname": "Revolution",
+   "slug": "new-england",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(new\\ england\\ revolution|revs)(?!\\w)"
+  },
+  {
+   "code": "NYC",
+   "name": "New York City FC",
+   "nickname": "NYCFC",
+   "slug": "nycfc",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(new\\ york\\ city\\ fc|nyc\\ fc|nycfc)(?!\\w)"
+  },
+  {
+   "code": "ORL",
+   "name": "Orlando City SC",
+   "nickname": "Orlando City",
+   "slug": "orlando",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(orlando\\ city\\ sc|orlando\\ city)(?!\\w)"
+  },
+  {
+   "code": "PHI",
+   "name": "Philadelphia Union",
+   "nickname": "Union",
+   "slug": "philadelphia",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(philadelphia\\ union)(?!\\w)"
+  },
+  {
+   "code": "POR",
+   "name": "Portland Timbers",
+   "nickname": "Timbers",
+   "slug": "portland",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(portland\\ timbers|timbers)(?!\\w)"
+  },
+  {
+   "code": "RSL",
+   "name": "Real Salt Lake",
+   "nickname": "Real Salt Lake",
+   "slug": "real-salt-lake",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(real\\ salt\\ lake|rsl)(?!\\w)"
+  },
+  {
+   "code": "RBNY",
+   "name": "Red Bull New York",
+   "nickname": "Red Bulls",
+   "slug": "red-bulls",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(red\\ bull\\ new\\ york|red\\ bulls)(?!\\w)"
+  },
+  {
+   "code": "SD",
+   "name": "San Diego FC",
+   "nickname": "San Diego FC",
+   "slug": "san-diego",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(san\\ diego\\ fc)(?!\\w)"
+  },
+  {
+   "code": "SJ",
+   "name": "San Jose Earthquakes",
+   "nickname": "Earthquakes",
+   "slug": "san-jose",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(san\\ jose\\ earthquakes|earthquakes)(?!\\w)"
+  },
+  {
+   "code": "SEA",
+   "name": "Seattle Sounders FC",
+   "nickname": "Sounders",
+   "slug": "seattle",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(seattle\\ sounders\\ fc|seattle\\ sounders|sounders)(?!\\w)"
+  },
+  {
+   "code": "SKC",
+   "name": "Sporting Kansas City",
+   "nickname": "Sporting KC",
+   "slug": "sporting-kc",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(sporting\\ kansas\\ city|sporting\\ kc|skc)(?!\\w)"
+  },
+  {
+   "code": "STL",
+   "name": "St. Louis CITY SC",
+   "nickname": "St. Louis City",
+   "slug": "st-louis",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(st\\.\\ louis\\ city\\ sc|st\\.\\ louis\\ city|st\\ louis\\ city)(?!\\w)"
+  },
+  {
+   "code": "TOR",
+   "name": "Toronto FC",
+   "nickname": "Toronto FC",
+   "slug": "toronto",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Eastern Conference",
+   "pattern": "(?<!\\w)(toronto\\ fc)(?!\\w)"
+  },
+  {
+   "code": "VAN",
+   "name": "Vancouver Whitecaps",
+   "nickname": "Whitecaps",
+   "slug": "vancouver",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": "Western Conference",
+   "pattern": "(?<!\\w)(vancouver\\ whitecaps|whitecaps)(?!\\w)"
+  }
+ ]
 }

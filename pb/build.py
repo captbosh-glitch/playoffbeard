@@ -34,6 +34,8 @@ def et_time(iso):
 
 
 def logo(team, depth, size=28):
+    if team and team.get('league') == 'ufc':   # weight classes: the octagon stands in for a logo
+        return f'<span class="logo" style="width:{size}px;height:{size}px">{icons.sport_icon("ufc", "logo-icon")}</span>'
     if not team or not team.get('logo'):
         code = esc((team or {}).get('code') or '?')
         return f'<span class="logo logo-fallback" style="width:{size}px;height:{size}px">{code}</span>'
@@ -167,10 +169,29 @@ def day_sections(items, teams_by, depth):
 
 
 def logo_row(league, teams, depth):
-    """Every team's logo in one row (alphabetical), each linking to its page."""
-    return (f'<nav class="logo-row lr-{league}" aria-label="Teams">' + ''.join(
-        f'<a href="{depth}{league}/{t["slug"]}/" title="{esc(t["name"])}" aria-label="{esc(t["name"])}">{logo(t, depth, 30)}</a>'
-        for t in sorted(teams, key=lambda x: x['name'])) + '</nav>')
+    """Every team's logo in one row (alphabetical), each linking to its page;
+    one row per competition (soccer), or name pills where there are no logos (UFC)."""
+    if league == 'ufc':
+        return ('<nav class="name-row" aria-label="Weight classes">' + ''.join(
+            f'<a href="{depth}{league}/{t["slug"]}/">{esc(t["name"])}</a>' for t in teams) + '</nav>')
+    groups = {}
+    for t in sorted(teams, key=lambda x: x['name']):
+        groups.setdefault(t.get('competition'), []).append(t)
+    return ''.join(
+        (f'<div class="lr-label">{esc(comp)}</div>' if comp else '')
+        + f'<nav class="logo-row lr-{league}" aria-label="{esc(comp or "Teams")}">' + ''.join(
+            f'<a href="{depth}{league}/{t["slug"]}/" title="{esc(t["name"])}" aria-label="{esc(t["name"])}">{logo(t, depth, 30)}</a>'
+            for t in group) + '</nav>'
+        for comp, group in groups.items())
+
+
+def rankings(t):
+    """A UFC weight class's champion and top 15 (UFC.com's official rankings)."""
+    rows = (f'<li class="champ"><span>C</span>{esc(t["champion"])}</li>' if t.get('champion') else '') + ''.join(
+        f'<li><span>{i}</span>{esc(n)}</li>' for i, n in enumerate(t['ranked'], 1))
+    return (f'<section class="sec"><div class="sec-head"><h2>{esc(t["name"])} rankings</h2>'
+            f'<a href="https://www.ufc.com/rankings" target="_blank" rel="noopener">UFC.com &rarr;</a></div>'
+            f'<ol class="ranks">{rows}</ol></section>')
 
 
 def team_grid(league, teams, depth, counts):
@@ -229,6 +250,8 @@ def build(now=None):
         for t in teams[key]:
             mine = [a for a in items if t['slug'] in a['teams']][:config.TEAM_PAGE_LIMIT]
             rivals = [x for x in teams[key] if x.get('division') and x.get('division') == t.get('division') and x['slug'] != t['slug']]
+            if len(rivals) > 8:   # a whole Premier League or MLS is too many pills
+                rivals = []
             riv = ''.join(f'<a href="../{x["slug"]}/">{logo(x, "../../", 20)}{esc(x.get("nickname") or x["name"])}</a>' for x in rivals)
             loc, nick = t.get('location') or '', t.get('nickname') or ''
             title = (f'{esc(loc)} <span>{esc(nick)}</span>' if loc and nick and t['name'] == f'{loc} {nick}' else esc(t['name']))
@@ -242,7 +265,8 @@ def build(now=None):
                       f'<span class="sec-n">{len(shown)} {"story" if len(shown) == 1 else "stories"}</span></div><div class="grid">'
                       + ''.join(card(a, teams_by, '../../', big=(lead and i == 0)) for i, a in enumerate(shown)) + '</div></section>') if shown else ''
             body = hero + (latest or
-                           f'<p class="muted">No {esc(t["name"])} headlines in the last {config.KEEP_DAYS} days.</p>')
+                           f'<p class="muted">No {esc(t["name"])} headlines in the last {config.KEEP_DAYS} days.</p>') + (
+                rankings(t) if t.get('ranked') else '')
             write(f'{key}/{t["slug"]}', page(f'{t["name"]} News — {config.SITE_NAME}', f'The latest {t["name"]} headlines.', body, '../../', key, updated))
 
     # static bits
