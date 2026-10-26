@@ -1,5 +1,212 @@
 [
 {
+"id": "ddb68b4dd778",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "E.J. Jenkins reportedly not returning to the Eagles",
+"url": "https://sports.yahoo.com/articles/e-j-jenkins-reportedly-not-143641159.html",
+"summary": "Former Eagles tight end finds a new NFL home.",
+"image": null,
+"published": "2026-10-26T14:36:41Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"phi"
+]
+},
+{
+"id": "bb4cde4cf80d",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Elephant Rumblings: World Series Continues Tonight",
+"url": "https://sports.yahoo.com/articles/elephant-rumblings-world-series-continues-143612825.html",
+"summary": "MLB news roundup",
+"image": null,
+"published": "2026-10-26T14:36:12Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": []
+},
+{
+"id": "1c1b653164b7",
+"league": "mlb",
+"source": "CBS Sports",
+"title": "How the Rays fixed Freddy Peralta: The changes that propelled him back to ace form after ugly Mets stint",
+"url": "https://www.cbssports.com/mlb/news/how-rays-fixed-freddy-peralta-changes-propelled-him-back-to-ace-form/",
+"summary": "Peralta, starting for Tampa in a must-win World Series Game 3, has been dominant since a midseason trade",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/25/57f549ac-d816-49ea-8961-b30971a0be17/freddy-peralta-getty.png",
+"published": "2026-10-26T14:35:42Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"nym",
+"tb"
+]
+},
+{
+"id": "d601ce223b3a",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Fantasy Basketball Waiver Wire Week 2: Anthony Black and Alex Caruso headline early injury replacements",
+"url": "https://sports.yahoo.com/articles/fantasy-basketball-waiver-wire-week-143431347.html",
+"summary": "Anthony Black and Alex Caruso top our list of waiver wire adds after Week 1.",
+"image": null,
+"published": "2026-10-26T14:34:31Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": []
+},
+{
+"id": "c22e4b96ef4f",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Fantasy Football: Vikings' pass rate under Kyler Murray and more key stats that may go overlooked from Week 7",
+"url": "https://sports.yahoo.com/fantasy/article/fantasy-football-vikings-pass-rate-under-kyler-murray-and-more-key-stats-that-may-go-overlooked-from-week-7-143146574.html",
+"summary": "Joel Smyth takes you through key stats from Week 7 and how it can help you with fantasy football.",
+"image": null,
+"published": "2026-10-26T14:31:46Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"min"
+]
+},
+{
+"id": "2f4c6693f257",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Ups and Downs from Saints vs. Steelers",
+"url": "https://sports.yahoo.com/articles/ups-downs-saints-vs-steelers-143000450.html",
+"summary": "Not a lot looked good in the Saints loss in Paris.",
+"image": null,
+"published": "2026-10-26T14:30:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"no",
+"pit"
+]
+},
+{
+"id": "716ee020be3c",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "What happened to the ice-cold assassin that Jayden Daniels used to be? - Daily Slop",
+"url": "https://sports.yahoo.com/articles/happened-ice-cold-assassin-jayden-143000462.html",
+"summary": "The question is why a player whose poise, command and decision-making defined his extraordinary rookie season is suddenly making mistakes and choices that seem so out of character ~ Ben Standig",
+"image": null,
+"published": "2026-10-26T14:30:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": []
+},
+{
+"id": "5c58544e6e2d",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Titans vs. Bengals odds: Opening lines for Week 8 matchup",
+"url": "https://sports.yahoo.com/articles/titans-vs-bengals-odds-opening-142818776.html",
+"summary": "Another week with the Titans being a double-digit underdog.",
+"image": null,
+"published": "2026-10-26T14:28:18Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"cin",
+"ten"
+]
+},
+{
+"id": "51a5582e7d2e",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Report: NFL \"furious\" over Eagles' handling of the Jalen Hurts messaging",
+"url": "https://sports.yahoo.com/articles/report-nfl-furious-over-eagles-142519047.html",
+"summary": "The NFL reportedly has no issue with the manner in which the Eagles handled the health of quarterback Jalen Hurts in London.",
+"image": null,
+"published": "2026-10-26T14:25:19Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"phi"
+]
+},
+{
+"id": "3659ff7eab71",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Eagles vs. Cowboys odds, picks, player props: Expert's best bets for NFL Week 7 Monday Night Football",
+"url": "https://www.cbssports.com/betting/news/eagles-vs-cowboys-odds-picks-player-props-experts-best-bets-for-nfl-week-7-monday-night-football/",
+"summary": "Take the underdog Eagles getting 4.5 points, back CeeDee Lamb to bounce back through the air and target value on a pair of red-zone tight ends",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/13/38454702-2049-4020-98ed-375c030f2b72/ceedee-lamb-and-george-pickens-dallas-cowboys-imagn-images.jpg",
+"published": "2026-10-26T14:23:04Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "9b32243ff31d",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Packers Injury Updates: Sean Rhyan, Zaire Franklin likely to miss time",
+"url": "https://sports.yahoo.com/articles/packers-injury-updates-sean-rhyan-141500119.html",
+"summary": "The hits just keep coming and the Packers’ injury report just keeps growing.",
+"image": null,
+"published": "2026-10-26T14:15:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"gb"
+]
+},
+{
+"id": "76d8225dd543",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Chiefs Week 7 snap count analysis: L’Jarius Sneed has less playing time",
+"url": "https://sports.yahoo.com/articles/chiefs-week-7-snap-count-141500256.html",
+"summary": "Here are the important notes from Kansas City’s snap-count breakdown in the Week 7 loss.",
+"image": null,
+"published": "2026-10-26T14:15:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"kc"
+]
+},
+{
+"id": "78b58756b27a",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Eagles News: Saquon Barkley trade scenarios include … the Giants",
+"url": "https://sports.yahoo.com/articles/eagles-news-saquon-barkley-trade-141109053.html",
+"summary": "Philadelphia Eagles news and links for 10/26/26.",
+"image": null,
+"published": "2026-10-26T14:11:09Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"nyg",
+"phi"
+]
+},
+{
+"id": "8caf83fe8b54",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "2026 Sports Equinox: World Series, WNBA Finals, NFL, NBA, NHL on same day",
+"url": "https://sports.yahoo.com/articles/2026-sports-equinox-world-series-141046828.html",
+"summary": "The 2026 Sports Equinox has arrived and it might be bigger than ever with the World Series, WNBA Finals, NFL, NBA and NHL action all happening.",
+"image": null,
+"published": "2026-10-26T14:10:46Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": []
+},
+{
+"id": "8bc8e0712b65",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "2026 Royals season in review: Kyle Isbel",
+"url": "https://sports.yahoo.com/articles/2026-royals-season-review-kyle-140408325.html",
+"summary": "Was this the final season for Isbel in KC?",
+"image": null,
+"published": "2026-10-26T14:04:08Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"kc"
+]
+},
+{
 "id": "39247f4dfffb",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -12,6 +219,76 @@
 "teams": [
 "hou",
 "nyg"
+]
+},
+{
+"id": "a50c987f76e3",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Looking Back at the Biggest Trades of the Miami Dolphins’ Rebuild",
+"url": "https://sports.yahoo.com/articles/looking-back-biggest-trades-miami-140000763.html",
+"summary": "From Jaylen Waddle to Jaelan Phillips, revisiting the biggest moves of Miami's rebuild one year later.",
+"image": null,
+"published": "2026-10-26T14:00:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"mia"
+]
+},
+{
+"id": "8f34163def25",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Week 7 AFC West Roundup, Denver Broncos inch closer to Kansas City Chiefs",
+"url": "https://sports.yahoo.com/articles/week-7-afc-west-roundup-140000545.html",
+"summary": "Meanwhile, the Raiders’ slide continues",
+"image": null,
+"published": "2026-10-26T14:00:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"den",
+"kc"
+]
+},
+{
+"id": "a8d382692983",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Packers Winners and Losers: Week 7 vs. the Lions",
+"url": "https://sports.yahoo.com/articles/packers-winners-losers-week-7-140000408.html",
+"summary": "The Packers left much to be desired after a loss to one of their biggest rivals.",
+"image": null,
+"published": "2026-10-26T14:00:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"det",
+"gb"
+]
+},
+{
+"id": "ed429cbe960e",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Hayden Senger did his job this season",
+"url": "https://sports.yahoo.com/articles/hayden-senger-did-job-season-140000697.html",
+"summary": "He came up when Alvy was injured, he played when asked, he went back to Triple-A when Alvy returned.",
+"image": null,
+"published": "2026-10-26T14:00:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": []
+},
+{
+"id": "03f6c9e576f0",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "A few thoughts about the Cubs and Carson Kelly",
+"url": "https://sports.yahoo.com/articles/few-thoughts-cubs-carson-kelly-140000779.html",
+"summary": "The Cubs could benefit from another year with Kelly behind the plate.",
+"image": null,
+"published": "2026-10-26T14:00:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"chc"
 ]
 },
 {
@@ -30,6 +307,34 @@
 ]
 },
 {
+"id": "a6f7d19654ab",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Quinn Hughes Scores 500th Career Point In Return To Vancouver",
+"url": "https://sports.yahoo.com/articles/quinn-hughes-scores-500th-career-135507729.html",
+"summary": "Quinn Hughes scored his 500th career NHL point in his first return to Vancouver, becoming the second-fastest American-born defenseman to reach the milestone.",
+"image": null,
+"published": "2026-10-26T13:55:07Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"van"
+]
+},
+{
+"id": "b67928e85838",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Arizona Cardinals news: Trey McBride grabs TD, goes over 100 yards on National TE Day",
+"url": "https://sports.yahoo.com/articles/arizona-cardinals-news-trey-mcbride-135427246.html",
+"summary": "Trey McBride grabbed 10 passes for 111 yards and a touchdown on National Tight End Day.",
+"image": null,
+"published": "2026-10-26T13:54:27Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"ari"
+]
+},
+{
 "id": "85494ea3fc34",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -41,6 +346,49 @@
 "collected": "2026-10-26T14:03:16Z",
 "teams": [
 "jax"
+]
+},
+{
+"id": "bf5035202d12",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Los Angeles Chargers news: Mike McDaniel retains job through bye week",
+"url": "https://sports.yahoo.com/articles/los-angeles-chargers-news-mike-135000971.html",
+"summary": "Mike McDaniel expected to finish season after keeping job through Chargers bye week.",
+"image": null,
+"published": "2026-10-26T13:50:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"lac"
+]
+},
+{
+"id": "aaef9c6a4cd7",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Vikings vs. Lions odds: Vikings Underdogs Heading Into Detroit",
+"url": "https://sports.yahoo.com/articles/vikings-vs-lions-odds-vikings-134955266.html",
+"summary": "What do you think of this line?",
+"image": null,
+"published": "2026-10-26T13:49:55Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"det",
+"min"
+]
+},
+{
+"id": "54203f01aef4",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Raiders considering 'everything' amid losing streak, including potential Fernando Mendoza turn",
+"url": "https://www.cbssports.com/nfl/news/raiders-quarterback-fernando-mendoza-kirk-cousins-fourth-straight-loss/",
+"summary": "Las Vegas has dropped four consecutive games after a 3-0 start, potentially moving the franchise closer to Mendoza",
+"image": "https://sportshub.cbsistatic.com/i/2026/09/28/703266eb-cfaa-41db-93a0-8404d916bf23/template-pic.jpg",
+"published": "2026-10-26T13:49:09Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"lv"
 ]
 },
 {
@@ -181,6 +529,37 @@
 "collected": "2026-10-26T14:03:16Z",
 "teams": [
 "sd"
+]
+},
+{
+"id": "50f77b023c41",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "NFC West Recap: 49ers’ lead shrinks to two; Seahawks, Rams both win",
+"url": "https://sports.yahoo.com/articles/nfc-west-recap-49ers-lead-133000096.html",
+"summary": "Seahawks and Rams both just have to win when the 49ers lose.",
+"image": null,
+"published": "2026-10-26T13:30:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"lar",
+"sf",
+"sea"
+]
+},
+{
+"id": "e5ed0776e331",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Bengals News: Statement Win Vs. Ravens",
+"url": "https://sports.yahoo.com/articles/bengals-news-statement-win-vs-133000748.html",
+"summary": "The Bengals weren’t going down without a fight, but it turned into them mauling the Ravens instead.",
+"image": null,
+"published": "2026-10-26T13:30:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"bal",
+"cin"
 ]
 },
 {
@@ -1045,6 +1424,20 @@
 ]
 },
 {
+"id": "20d0cd5efbea",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Magic 111, Knicks 102: “This is getting real”",
+"url": "https://sports.yahoo.com/articles/magic-111-knicks-102-getting-122054085.html",
+"summary": "Knicks are the first champs to start 0-3 since the Mavs in 2011.",
+"image": null,
+"published": "2026-10-26T12:20:54Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"ny"
+]
+},
+{
 "id": "5432aa8c3e12",
 "league": "nfl",
 "source": "ESPN",
@@ -1130,6 +1523,20 @@
 "collected": "2026-10-26T13:02:47Z",
 "teams": [
 "phi"
+]
+},
+{
+"id": "9fbcf4e8c273",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Grading the Mavericks: A strong start hidden under mixed results",
+"url": "https://sports.yahoo.com/articles/grading-mavericks-strong-start-hidden-120400323.html",
+"summary": "The Mavericks may have cobbled together a good team, even with an awkwardly constructed roster",
+"image": null,
+"published": "2026-10-26T12:04:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"dal"
 ]
 },
 {
@@ -1394,6 +1801,35 @@
 "teams": [
 "kc",
 "nyy"
+]
+},
+{
+"id": "17b5f0924bc6",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "The Solar Report, Week 1: Suns continue developing chemistry after challenging opening week",
+"url": "https://sports.yahoo.com/articles/solar-report-week-1-suns-120000636.html",
+"summary": "Two games into the season, the Suns are already confronting questions about their identity and necessary adjustments.",
+"image": null,
+"published": "2026-10-26T12:00:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"phx"
+]
+},
+{
+"id": "891d5f1cc8e4",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Milwaukee Bucks vs. Indiana Pacers Preview & Game Thread: Season’s just started",
+"url": "https://sports.yahoo.com/articles/milwaukee-bucks-vs-indiana-pacers-120000682.html",
+"summary": "The Bucks’ search for a win continues tonight.",
+"image": null,
+"published": "2026-10-26T12:00:00Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"ind",
+"mil"
 ]
 },
 {
@@ -3009,6 +3445,21 @@
 "collected": "2026-10-26T13:02:47Z",
 "teams": [
 "okc"
+]
+},
+{
+"id": "233a2378951f",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Cowboys at Eagles Monday Night Football betting odds, picks and predictions: Best bets, player props",
+"url": "https://sports.yahoo.com/nfl/betting/article/cowboys-at-eagles-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-020956182.html",
+"summary": "Our NFL handicapper break downs his favorite bets in the Cowboys-Eagles Monday Night Football matchup.",
+"image": null,
+"published": "2026-10-26T02:09:56Z",
+"collected": "2026-10-26T14:57:23Z",
+"teams": [
+"dal",
+"phi"
 ]
 },
 {
