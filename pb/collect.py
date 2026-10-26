@@ -16,7 +16,7 @@ from urllib.parse import urlparse, urlunparse
 
 import feedparser
 
-from pb import config, teams as T
+from pb import config, images, teams as T
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PATH = os.path.join(ROOT, 'data', 'articles.json')
@@ -103,6 +103,7 @@ def collect(now=None):
     cutoff = (now - timedelta(days=config.KEEP_DAYS)).strftime('%Y-%m-%dT%H:%M:%SZ')
     articles = [a for a in articles if a['published'] >= cutoff]
     articles.sort(key=lambda a: a['published'], reverse=True)
+    images.fill(articles)
     os.makedirs(os.path.dirname(PATH), exist_ok=True)
     with open(PATH, 'w', encoding='utf-8') as f:
         json.dump(articles, f, indent=0, ensure_ascii=False)

@@ -103,7 +103,7 @@ CBS_WIDTHS = [640, 960, 1280, 1920]
 def img_html(url, big):
     """The photo with a srcset, so the browser loads the sharpest size the
     card needs on this screen. Feeds send small (NHL.com: 416px) or huge (CBS:
-    full-size originals) images; both servers can resize on request."""
+    full-size originals) images; NHL.com, CBS and ESPN can all resize on request."""
     sizes = '(max-width: 600px) 100vw, 66vw' if big else '(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw'
     if 'media.d3.nhle.com' in url and '/t_ratio16_9-size' in url:
         pre, rest = url.split('/t_ratio16_9-size', 1)
@@ -113,6 +113,10 @@ def img_html(url, big):
     elif 'cbsistatic.com' in url and '?' not in url:
         srcset = ', '.join(f'{url}?width={w} {w}w' for w in CBS_WIDTHS)
         src = f'{url}?width={1280 if big else 640}'
+    elif url.startswith('https://a.espncdn.com/photo/'):
+        img = url.split('a.espncdn.com', 1)[1]
+        srcset = ', '.join(f'https://a.espncdn.com/combiner/i?img={img}&w={w} {w}w' for w in CBS_WIDTHS)
+        src = f'https://a.espncdn.com/combiner/i?img={img}&w={1280 if big else 640}'
     else:
         return f'<img src="{esc(url)}" alt="" loading="lazy">'
     return f'<img src="{esc(src)}" srcset="{esc(srcset)}" sizes="{sizes}" alt="" loading="lazy" decoding="async">'
