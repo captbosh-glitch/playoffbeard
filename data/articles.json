@@ -12,6 +12,30 @@
 "teams": []
 },
 {
+"id": "cdecb030371d",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Tsimikas, Nyoni And Ngumoha To Start | 4-2-3-1 Liverpool Predicted Lineup Vs Chelsea",
+"url": "https://sports.yahoo.com/articles/tsimikas-nyoni-ngumoha-start-4-200000675.html",
+"summary": "Liverpool will welcome Chelsea at Anfield this Wednesday night as they look to secure a victory at home in the EFL Cup. The Reds managed to earn a solid 2-0 win over Brighton and Hove Albion recently,...",
+"image": null,
+"published": "2026-10-26T20:00:00Z",
+"collected": "2026-10-26T20:07:38Z",
+"teams": []
+},
+{
+"id": "6180a42cffca",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Five La Masia talents Hansi Flick could turn to amid Barcelona’s defensive injury crisis",
+"url": "https://sports.yahoo.com/articles/five-la-masia-talents-hansi-200000848.html",
+"summary": "Xavi Espart’s injury in Barcelona’s El Clasico defeat has created another selection problem for Hansi Flick, with the young defender expected to miss close to two months.Although Jules Kounde is a...",
+"image": null,
+"published": "2026-10-26T20:00:00Z",
+"collected": "2026-10-26T20:07:38Z",
+"teams": []
+},
+{
 "id": "3ed2aa73bca1",
 "league": "soccer",
 "source": "ESPN",
@@ -216,6 +240,34 @@
 "teams": []
 },
 {
+"id": "73d9573d586c",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Mets reportedly adding Mariano Duncan to coaching staff",
+"url": "https://sports.yahoo.com/articles/mets-reportedly-adding-mariano-duncan-195445984.html",
+"summary": "Duncan has served as a coach in the Mets’ Minor League system since 2019.",
+"image": null,
+"published": "2026-10-26T19:54:45Z",
+"collected": "2026-10-26T20:07:38Z",
+"teams": [
+"nym"
+]
+},
+{
+"id": "dd3903adadbd",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Ankle issue for Sean Rhyan",
+"url": "https://sports.yahoo.com/articles/ankle-issue-sean-rhyan-195201871.html",
+"summary": "Packers C Sean Rhyan could miss time after suffering a possible high ankle sprain in Week 7",
+"image": null,
+"published": "2026-10-26T19:52:01Z",
+"collected": "2026-10-26T20:07:38Z",
+"teams": [
+"gb"
+]
+},
+{
 "id": "7b6b5942fa3d",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -251,6 +303,18 @@
 "image": null,
 "published": "2026-10-26T19:50:00Z",
 "collected": "2026-10-26T20:01:12Z",
+"teams": []
+},
+{
+"id": "d49936c493de",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Journalist plays down Liverpool’s interest in forward with €60m release clause",
+"url": "https://sports.yahoo.com/articles/journalist-plays-down-liverpool-interest-195000300.html",
+"summary": "Liverpool’s David Otorbi Interest Questioned as Valencia Raise Release ClauseLiverpool have reportedly explored a move for Valencia forward David Otorbi, but David Lynch has questioned whether the y...",
+"image": null,
+"published": "2026-10-26T19:50:00Z",
+"collected": "2026-10-26T20:07:38Z",
 "teams": []
 },
 {
@@ -2753,6 +2817,18 @@
 "teams": [
 "cle"
 ]
+},
+{
+"id": "aa0a5828f13a",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Manel Kape Sends Violent Warning to Joshua Van Ahead of UFC 336 Title Fight",
+"url": "https://sports.yahoo.com/articles/manel-kape-sends-violent-warning-155210668.html",
+"summary": "Manel Kape fired off the opening salvo of what should be some intense pre-fight trash talk between himself and Joshua Van ahead of their flyweight title fight at UFC 336.",
+"image": null,
+"published": "2026-10-26T15:52:10Z",
+"collected": "2026-10-26T20:07:38Z",
+"teams": []
 },
 {
 "id": "b7a1065bbb3a",
