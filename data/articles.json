@@ -1,5 +1,20 @@
 [
 {
+"id": "85d6113ad3f8",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Aaron Rodgers was good enough in Paris, but RBs were sublime: Steelers report card",
+"url": "https://sports.yahoo.com/articles/aaron-rodgers-good-enough-paris-201629151.html",
+"summary": "Coach Mike McCarthy's offense managed just one touchdown, but the defense almost completely shut down the New Orleans running game.",
+"image": "https://s.yimg.com/lo/mysterio/api/bece225780c17b2e743957dcd0cddb5dd6c99722a80652728f661cda9c2ee71a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F76255ca2ad3aa20778ab9aaf34dd0063.jpg",
+"published": "2026-10-26T20:16:29Z",
+"collected": "2026-10-26T20:22:17Z",
+"teams": [
+"pit"
+],
+"img_tried": true
+},
+{
 "id": "23ee8fb419c2",
 "league": "nfl",
 "source": "ESPN",
@@ -12,6 +27,47 @@
 "teams": [
 "lv"
 ],
+"img_tried": true
+},
+{
+"id": "b781a7452a52",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Fantasy football buy, sell: 10 trade candidates for Week 8",
+"url": "https://sports.yahoo.com/articles/fantasy-football-buy-sell-10-201002291.html",
+"summary": "It's already almost November, which means your fantasy football playoff picture is rounding into shape. Who should you buy or sell before Week 8?",
+"image": "https://s.yimg.com/lo/mysterio/api/acd85e29dd79bdb09b4d83947ed41f8420c8915895597f48c9070d1996d4e27b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F58d80ef851cbf02066d5c2152816588a.jpg",
+"published": "2026-10-26T20:10:02Z",
+"collected": "2026-10-26T20:22:17Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "9624bd1617b5",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Eagles activate Landon Dickerson, Grant Calcaterra, Eli Stowers",
+"url": "https://sports.yahoo.com/articles/eagles-activate-landon-dickerson-grant-200943684.html",
+"summary": "The Eagles added three players to their active roster ahead of Monday night's game against the Cowboys.",
+"image": "https://s.yimg.com/lo/mysterio/api/c6869050d91aa50ad3a61bf54a349cb61975ccba501dea2ac061902ac7d11e16/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Fa09738af16caddf5f69886dd626e76c9.jpg",
+"published": "2026-10-26T20:09:43Z",
+"collected": "2026-10-26T20:22:17Z",
+"teams": [
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "bb1e77dc3935",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "One ‘issue’ at Manchester City that cost them against Aston Villa can easily be rectified",
+"url": "https://sports.yahoo.com/articles/one-issue-manchester-city-cost-200700907.html",
+"summary": "Manchester City suffered their first defeat of their Premier League campaign on Saturday against Aston Villa. Enzo Maresca’s side fell to a 2-1 defeat at Villa Park as a brace from Nicolas Jackson s...",
+"image": "https://s.yimg.com/lo/mysterio/api/8ec640acd7180cd66c7d47e607f8db0bd89eaf4e542ec7fc56cbd46d090fe96d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Festeemed_kompany_articles_332%2Fdaf468ecadd2f7796e358688b8c6cb67.jpg",
+"published": "2026-10-26T20:07:00Z",
+"collected": "2026-10-26T20:22:17Z",
+"teams": [],
 "img_tried": true
 },
 {
@@ -571,6 +627,20 @@
 "collected": "2026-10-26T20:01:12Z",
 "teams": [],
 "img_tried": true
+},
+{
+"id": "2fe9932a60f0",
+"league": "nba",
+"source": "CBS Sports",
+"title": "What Jalen Williams' injury means for the Thunder and why trading for a replacement isn't so simple",
+"url": "https://www.cbssports.com/nba/news/jalen-williams-injury-means-thunder-trade-options/",
+"summary": "The Thunder star had to be stretchered off the court on Sunday night, and OKC's season won't be the same moving forward",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/edfc1a3f-1b29-4b45-9828-5d863c3503c2/jalen-williams-getty-2.png",
+"published": "2026-10-26T19:42:36Z",
+"collected": "2026-10-26T20:22:17Z",
+"teams": [
+"okc"
+]
 },
 {
 "id": "c4de0e21e59f",
@@ -1736,6 +1806,21 @@
 "published": "2026-10-26T18:15:00Z",
 "collected": "2026-10-26T20:01:12Z",
 "teams": [],
+"img_tried": true
+},
+{
+"id": "d4956deb897c",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "JJ Redick had fun watching ‘showman’ Luka Dončić against Jazz",
+"url": "https://sports.yahoo.com/articles/jj-redick-had-fun-watching-181500349.html",
+"summary": "The Slovenian put on a sensational performance Sunday",
+"image": "https://s.yimg.com/lo/mysterio/api/1515419d7a3aff833e7944260e5c2e502d5673273f14d0375514953d2dd2257b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F6609319379e9cf153d40201953028897.jpg",
+"published": "2026-10-26T18:15:00Z",
+"collected": "2026-10-26T20:22:17Z",
+"teams": [
+"utah"
+],
 "img_tried": true
 },
 {
