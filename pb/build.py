@@ -101,6 +101,28 @@ def page(title, desc, body, depth, current='home', updated=''):
 '''
 
 
+NHL_SIZES = [('t_ratio16_9-size30', 624), ('t_ratio16_9-size40', 832), ('t_ratio16_9-size50', 1280), ('t_ratio16_9-size60', 1920)]
+CBS_WIDTHS = [640, 960, 1280, 1920]
+
+
+def img_html(url, big):
+    """The photo with a srcset, so the browser loads the sharpest size the
+    card needs on this screen. Feeds send small (NHL.com: 416px) or huge (CBS:
+    full-size originals) images; both servers can resize on request."""
+    sizes = '(max-width: 600px) 100vw, 66vw' if big else '(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw'
+    if 'media.d3.nhle.com' in url and '/t_ratio16_9-size' in url:
+        pre, rest = url.split('/t_ratio16_9-size', 1)
+        rest = rest.split('/', 1)[1]
+        srcset = ', '.join(f'{pre}/{t}/{rest} {w}w' for t, w in NHL_SIZES)
+        src = f'{pre}/{NHL_SIZES[2 if big else 1][0]}/{rest}'
+    elif 'cbsistatic.com' in url and '?' not in url:
+        srcset = ', '.join(f'{url}?width={w} {w}w' for w in CBS_WIDTHS)
+        src = f'{url}?width={1280 if big else 640}'
+    else:
+        return f'<img src="{esc(url)}" alt="" loading="lazy">'
+    return f'<img src="{esc(src)}" srcset="{esc(srcset)}" sizes="{sizes}" alt="" loading="lazy" decoding="async">'
+
+
 def lead_first(items):
     """The newest story with a photo leads (the big card); the rest stay newest first."""
     i = next((n for n, a in enumerate(items) if a.get('image')), None)
@@ -116,7 +138,7 @@ def card(a, teams_by, depth, big=False, show_league=False):
         t = teams_by[a['league']].get(slug)
         if t:
             chips += f'<a class="chip" href="{depth}{a["league"]}/{t["slug"]}/">{logo(t, depth, 18)}{esc(t.get("nickname") or t["name"])}</a>'
-    img = f'<a class="thumb" href="{esc(a["url"])}" target="_blank" rel="noopener"><img src="{esc(a["image"])}" alt="" loading="lazy"></a>' if a.get('image') else ''
+    img = f'<a class="thumb" href="{esc(a["url"])}" target="_blank" rel="noopener">{img_html(a["image"], big)}</a>' if a.get('image') else ''
     meta = ((f'<a class="lg" href="{depth}{lg["key"]}/">{esc(lg["label"])}</a> · ' if show_league else '') +
             f'{esc(a["source"])} · <time datetime="{esc(a["published"])}">{esc(et_time(a["published"]))}</time>')
     return (f'<article class="card{" big" if big else ""}{" has-img" if img else ""}">{img}<div class="c-body">'
