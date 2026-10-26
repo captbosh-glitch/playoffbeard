@@ -103,7 +103,7 @@ def page(title, desc, body, depth, current='home', updated=''):
 
 def lead_first(items):
     """The newest story with a photo leads (the big card); the rest stay newest first."""
-    i = next((n for n, a in enumerate(items[:6]) if a.get('image')), None)
+    i = next((n for n, a in enumerate(items) if a.get('image')), None)
     if i is None:
         return items, False
     return [items[i]] + items[:i] + items[i + 1:], True
@@ -124,6 +124,24 @@ def card(a, teams_by, depth, big=False, show_league=False):
             f'<h3><a href="{esc(a["url"])}" target="_blank" rel="noopener">{esc(a["title"])}</a></h3>'
             + (f'<p>{esc(a["summary"])}</p>' if a.get('summary') and a['summary'] != a['title'] else '')
             + (f'<div class="chips">{chips}</div>' if chips else '') + '</div></article>')
+
+
+def day_sections(items, teams_by, depth):
+    """Stories grouped by day (ET), each section laid out like a home-page
+    league section: a photo story leads, the rest follow newest first."""
+    today = datetime.now(timezone.utc).astimezone(ET).date()
+    days = {}
+    for a in items:
+        d = datetime.fromisoformat(a['published'].replace('Z', '+00:00')).astimezone(ET).date()
+        days.setdefault(d, []).append(a)
+    out = ''
+    for d in sorted(days, reverse=True):
+        label = 'Today' if d == today else 'Yesterday' if (today - d).days == 1 else d.strftime('%A, %b %-d')
+        shown, lead = lead_first(days[d])
+        cards = ''.join(card(a, teams_by, depth, big=(lead and i == 0)) for i, a in enumerate(shown))
+        out += (f'<section class="sec"><div class="sec-head"><h2>{esc(label)}</h2><span class="sec-n">{len(shown)} '
+                f'{"story" if len(shown) == 1 else "stories"}</span></div><div class="grid">{cards}</div></section>')
+    return out
 
 
 def team_grid(league, teams, depth, counts):
@@ -174,24 +192,28 @@ def build(now=None):
         for a in items:
             for s in a['teams']:
                 counts[s] = counts.get(s, 0) + 1
-        shown, lead = lead_first(items[:config.LEAGUE_PAGE_LIMIT])
-        cards = ''.join(card(a, teams_by, '../', big=(lead and i == 0)) for i, a in enumerate(shown))
-        body = (f'<section class="lg-head"><h1>{icons.sport_icon(key)}{esc(lg["label"])} <span>News</span></h1>'
-                f'<p>{len(items)} headlines in the last {config.KEEP_DAYS} days from {esc(", ".join(config.FEEDS[key]))}.</p></section>'
-                f'<details class="teams-box" open><summary>Teams</summary>{team_grid(key, teams[key], "../", counts)}</details>'
-                f'<section class="sec"><div class="grid">{cards or "<p class=muted>No headlines yet.</p>"}</div></section>')
+        hero = (f'<section class="hero"><h1>{icons.sport_icon(key, "hero-icon")}{esc(lg["label"])} <span>News</span></h1>'
+                f'<p>The latest {esc(lg["name"].lower())} headlines from {esc(", ".join(config.FEEDS[key]))}.</p>'
+                f'<details class="teams-box"><summary>Browse {len(teams[key])} teams</summary>{team_grid(key, teams[key], "../", counts)}</details></section>')
+        body = hero + (day_sections(items[:config.LEAGUE_PAGE_LIMIT], teams_by, '../') or '<p class="muted">No headlines yet.</p>')
         write(key, page(f'{lg["label"]} News — {config.SITE_NAME}', f'The latest {lg["label"]} headlines from around the league.', body, '../', key, updated))
         for t in teams[key]:
-            mine, lead = lead_first([a for a in items if t['slug'] in a['teams']][:config.TEAM_PAGE_LIMIT])
+            mine = [a for a in items if t['slug'] in a['teams']][:config.TEAM_PAGE_LIMIT]
             rivals = [x for x in teams[key] if x.get('division') and x.get('division') == t.get('division') and x['slug'] != t['slug']]
-            riv = ''.join(f'<a class="chip" href="../{x["slug"]}/">{logo(x, "../../", 18)}{esc(x.get("nickname") or x["name"])}</a>' for x in rivals)
-            body = (f'<a class="back" href="../">&larr; All {esc(lg["label"])} news</a>'
-                    f'<section class="team-head">{logo(t, "../../", 64)}<div><h1>{esc(t["name"])}</h1>'
-                    f'<p>{esc(" · ".join(filter(None, [t.get("division"), t.get("conference")])))}</p></div></section>'
-                    + (f'<div class="chips rivals"><span class="muted">Division:</span>{riv}</div>' if riv else '') +
-                    f'<section class="sec"><div class="grid">'
-                    + (''.join(card(a, teams_by, '../../', big=(lead and i == 0)) for i, a in enumerate(mine)) or
-                       f'<p class="muted">No {esc(t["name"])} headlines in the last {config.KEEP_DAYS} days.</p>') + '</div></section>')
+            riv = ''.join(f'<a href="../{x["slug"]}/">{logo(x, "../../", 20)}{esc(x.get("nickname") or x["name"])}</a>' for x in rivals)
+            loc, nick = t.get('location') or '', t.get('nickname') or ''
+            title = (f'{esc(loc)} <span>{esc(nick)}</span>' if loc and nick and t['name'] == f'{loc} {nick}' else esc(t['name']))
+            hero = (f'<section class="hero team-hero"><a class="back" href="../">{icons.sport_icon(key)}All {esc(lg["label"])} news</a>'
+                    f'<div class="team-title">{logo(t, "../../", 84)}<h1>{title}</h1></div>'
+                    f'<p>{esc(" · ".join(filter(None, [t.get("division"), t.get("conference")])))} &middot; {len(mine)} headline{"" if len(mine) == 1 else "s"} in the last {config.KEEP_DAYS} days</p>'
+                    + (f'<div class="hero-links rivals">{riv}</div>' if riv else '') + '</section>')
+            # teams get a few stories a day: one section, like a home-page league section
+            shown, lead = lead_first(mine)
+            latest = (f'<section class="sec"><div class="sec-head"><h2>Latest {esc(nick or t["name"])} news</h2>'
+                      f'<span class="sec-n">{len(shown)} {"story" if len(shown) == 1 else "stories"}</span></div><div class="grid">'
+                      + ''.join(card(a, teams_by, '../../', big=(lead and i == 0)) for i, a in enumerate(shown)) + '</div></section>') if shown else ''
+            body = hero + (latest or
+                           f'<p class="muted">No {esc(t["name"])} headlines in the last {config.KEEP_DAYS} days.</p>')
             write(f'{key}/{t["slug"]}', page(f'{t["name"]} News — {config.SITE_NAME}', f'The latest {t["name"]} headlines.', body, '../../', key, updated))
 
     # static bits

@@ -125,3 +125,15 @@ a { color: inherit; }
 .sport-icon .bi-baseball { fill: var(--ball-white); stroke: var(--ball-white-edge); }
 .sport-icon .bi-stitch { stroke: var(--ball-stitch); }
 .hero-links a:first-child .sport-icon { --ball-puck-rim: #8B93A3; }   /* the puck on the filled NHL button */
+
+/* league and team pages: the home page's hero and day sections */
+.hero h1 { display: flex; align-items: center; flex-wrap: wrap; column-gap: 0.25em; }
+.hero h1 .hero-icon { width: 0.9em; height: 0.9em; margin-right: 0.1em; vertical-align: middle; }
+.sec-n { color: var(--faint); font-size: 0.82rem; }
+.hero .teams-box { margin-top: 18px; }
+.team-hero .back { margin: 0 0 14px; display: inline-flex; align-items: center; }
+.team-title { display: flex; align-items: center; gap: 18px; }
+.team-title h1 { line-height: 0.95; }
+.hero-links.rivals a:first-child { background: var(--panel); color: var(--text); border-color: var(--border); }
+.hero-links.rivals a { gap: 6px; }
+@media (max-width: 600px) { .team-title { gap: 12px; } .team-title .logo { width: 56px !important; height: 56px !important; } }
