@@ -1,5 +1,145 @@
 [
 {
+"id": "9d8b5d9c5353",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "The week ahead: Penguins get much-needed schedule rest, and some potential returns",
+"url": "https://sports.yahoo.com/articles/week-ahead-penguins-much-needed-150600841.html",
+"summary": "The Pittsburgh Penguins have some days off this week and could get some players back in the lineup very soon.",
+"image": null,
+"published": "2026-10-26T15:06:00Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": [
+"pit"
+]
+},
+{
+"id": "0023fe525fc0",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Raiders Week 8: Meet the Jets",
+"url": "https://sports.yahoo.com/articles/raiders-week-8-meet-jets-150400336.html",
+"summary": "Can Raiders win their third straight game against the Jets",
+"image": null,
+"published": "2026-10-26T15:04:00Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": [
+"lv",
+"nyj"
+]
+},
+{
+"id": "be7c8e7d1749",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "The Penguins saw the old Rickard Rakell on Saturday. They need that guy back",
+"url": "https://sports.yahoo.com/articles/penguins-saw-old-rickard-rakell-150244975.html",
+"summary": "Down 2-1 on Saturday night with the clock ticking away, the Penguins got a signature goal from their three best players on the ice to tie the score. Erik Karlsson and Sidney Crosby assisted on Rickard Rakell’s late score to tie the game. It was a goal the team desperately needed, and the type of […]",
+"image": null,
+"published": "2026-10-26T15:02:44Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": [
+"pit"
+]
+},
+{
+"id": "ab0fe703a79a",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Patriots News: Henderson hits sophomore slump",
+"url": "https://sports.yahoo.com/articles/patriots-news-henderson-hits-sophomore-150151884.html",
+"summary": "Daily news and links for Monday, 10/26/26",
+"image": null,
+"published": "2026-10-26T15:01:51Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": [
+"ne"
+]
+},
+{
+"id": "dd1f635bff96",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Jaguars 2026 Rookie Analysis So Far",
+"url": "https://sports.yahoo.com/articles/jaguars-2026-rookie-analysis-far-150000790.html",
+"summary": "Was the criticism of Jacksonville’s 2026 draft class overblown? The early returns are making Gladstone’s case for him.",
+"image": null,
+"published": "2026-10-26T15:00:00Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": [
+"jax"
+]
+},
+{
+"id": "8c4f76681a25",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Zaire Franklin dealing with hairline fracture, Sean Rhyan believed to have high-ankle sprain",
+"url": "https://sports.yahoo.com/articles/zaire-franklin-dealing-hairline-fracture-145946818.html",
+"summary": "The Packers have a couple of impact players who are dealing with injuries.",
+"image": null,
+"published": "2026-10-26T14:59:46Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": [
+"gb"
+]
+},
+{
+"id": "9f0e5d421444",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Where are the starters from the Washington Nationals World Series winning team now?",
+"url": "https://sports.yahoo.com/articles/where-starters-washington-nationals-world-145500982.html",
+"summary": "It has almost been 7 years since the Nationals won the World Series. I took a look at where the starters are now",
+"image": null,
+"published": "2026-10-26T14:55:00Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": [
+"wsh"
+]
+},
+{
+"id": "4eae0ecd8f5e",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Landon Dickerson teases return ahead of Eagles-Cowboys game",
+"url": "https://sports.yahoo.com/articles/landon-dickerson-teases-return-ahead-145149572.html",
+"summary": "Philadelphia’s Pro Bowl guard is expected to be back in the starting lineup.",
+"image": null,
+"published": "2026-10-26T14:51:49Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "46daa6650f95",
+"league": "nba",
+"source": "CBS Sports",
+"title": "LeBron James explains why he doesn't want to play a 'sustainable role' at center for the 76ers",
+"url": "https://www.cbssports.com/nba/news/lebron-james-sustainable-role-center-76ers/",
+"summary": "With Joel Embiid out, LeBron started at center on Sunday in the Sixers' first loss of the season",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/447821df-797c-4d7a-93b6-a8034d276016/lebron-james-getty-24.png",
+"published": "2026-10-26T14:47:31Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": [
+"phi"
+]
+},
+{
+"id": "9742422889f8",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Fantasy Football Waiver Wire Week 8: Caleb Douglas breaks out, Omar Cooper Jr. stays hot",
+"url": "https://sports.yahoo.com/articles/fantasy-football-waiver-wire-week-144337882.html",
+"summary": "Omar Cooper Jr. stayed hot with another 100 yards and a touchdown in Week 7. Fellow rookie Caleb Douglas also broke out with two touchdowns of his own. Both players headline the list of best waiver wire targets for Week 8.",
+"image": null,
+"published": "2026-10-26T14:43:37Z",
+"collected": "2026-10-26T15:14:05Z",
+"teams": []
+},
+{
 "id": "ddb68b4dd778",
 "league": "nfl",
 "source": "Yahoo Sports",
