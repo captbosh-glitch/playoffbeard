@@ -1,5 +1,516 @@
 [
 {
+"id": "be1639e89cef",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Fantasy spin: Hellebuyck traded to Devils",
+"url": "https://www.nhl.com/news/nhl-fantasy-hockey-spin-connor-hellebuyck-new-jersey-devils-trade-2026-27",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/prd/xknd7b8n66eadoezxv5s.jpg",
+"published": "2026-10-26T16:54:55Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"nj"
+]
+},
+{
+"id": "9e413057313f",
+"league": "nhl",
+"source": "NHL.com",
+"title": "NHL Status Report: Kings 'hopeful' Byfield can return against Rangers",
+"url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-26-2026",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1793032392/prd/kerfzzbqx3gmdt2kodb5.png",
+"published": "2026-10-26T16:51:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"la",
+"nyr"
+]
+},
+{
+"id": "cc37b1ffae11",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Pick Six: 10 crazy stats from NFL's Week 7, plus Cowboys-Eagles picks for Monday night",
+"url": "https://www.cbssports.com/nfl/news/pick-six-nfl-week-7-winners-losers-grades-cowboys-eagles-picks/",
+"summary": "Here's everything you need to know about the NFL for Oct. 26",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/cd7d1ebc-6bcd-4a5c-9769-a46717633840/dak-prescott-cowboys.jpg",
+"published": "2026-10-26T16:38:48Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "7c1d53dbce3c",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Buildings blocks for offensive success established in Broncos’ win over Cardinals",
+"url": "https://sports.yahoo.com/articles/buildings-blocks-offensive-success-established-163000839.html",
+"summary": "The Denver Broncos laid the building blocks for future success on offense in their win versus the Arizona Cardinals.",
+"image": null,
+"published": "2026-10-26T16:30:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"ari",
+"den"
+]
+},
+{
+"id": "e34479771430",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Chiefs-Seahawks: 3 Winners and 6 Losers from the Sunday night loss",
+"url": "https://sports.yahoo.com/articles/chiefs-seahawks-3-winners-6-163000702.html",
+"summary": "The notable names from Kansas City’s first loss of the season in Seattle.",
+"image": null,
+"published": "2026-10-26T16:30:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"kc",
+"sea"
+]
+},
+{
+"id": "f34ac6471613",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "How Tropicana Field's catwalk ground rules could impact 2026 World Series",
+"url": "https://sports.yahoo.com/articles/tropicana-fields-catwalk-ground-rules-162728939.html",
+"summary": "What to know about Tropicana Field's peculiar catwalks and ground rules as the Tampa Bay Rays host the Milwaukee Brewers in the 2026 World Series.",
+"image": null,
+"published": "2026-10-26T16:27:28Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"mil",
+"tb"
+]
+},
+{
+"id": "497be50a989c",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Browns vs. Steelers odds: Opening lines for Week 8 matchup",
+"url": "https://sports.yahoo.com/articles/browns-vs-steelers-odds-opening-162653442.html",
+"summary": "Cleveland finds themselves in another meaningful battle for the AFC North.",
+"image": null,
+"published": "2026-10-26T16:26:53Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"cle",
+"pit"
+]
+},
+{
+"id": "f7223d1a6c97",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Garrett Wilson explains heated Jets sideline moment, says frustration wasn't directed at Geno Smith",
+"url": "https://www.cbssports.com/nfl/news/garrett-wilson-geno-smith-heated-jets-sideline-exchange/",
+"summary": "The star receiver acknowledged that he was unhappy with New York's red-zone play calls during an animated conversation",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/24/ec556b7b-37f3-4f17-88a0-993086d2420e/garrett-wilson-new-york-jets-imagn-images.jpg",
+"published": "2026-10-26T16:26:33Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"nyj"
+]
+},
+{
+"id": "b181ab72760c",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Kings at Rangers projected lineups",
+"url": "https://www.nhl.com/news/los-angeles-kings-new-york-rangers-game-preview-october-26-2026",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1730403928/prd/aurnqouhfqizkuxylfkw.jpg",
+"published": "2026-10-26T16:25:03Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"la",
+"nyr"
+]
+},
+{
+"id": "d76501719cdf",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Deadline For Simon Edvinsson Getting Closer By The Day",
+"url": "https://sports.yahoo.com/articles/deadline-simon-edvinsson-getting-closer-161654646.html",
+"summary": "The Detroit Red Wings have until Dec. 1 to sign RFA defenseman Simon Edvinsson to a new contract, or to trade him to a club that will sign him; otherwise, he'll not be eligible to play this season.",
+"image": null,
+"published": "2026-10-26T16:16:54Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"det"
+]
+},
+{
+"id": "a8b905a7e74b",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Why the Rams need a 4-game winning streak, at least",
+"url": "https://sports.yahoo.com/articles/why-rams-4-game-winning-161308760.html",
+"summary": "If the Rams lose either of their next two games, they must consider a fire sale",
+"image": null,
+"published": "2026-10-26T16:13:08Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"lar"
+]
+},
+{
+"id": "9b5956c5b5c5",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Snap counts: Secondary rotation leads to success vs. Packers",
+"url": "https://sports.yahoo.com/articles/snap-counts-secondary-rotation-leads-160709095.html",
+"summary": "The Detroit Lions delivered an inspired secondary rotation to limit the Packers’ passing attack.",
+"image": null,
+"published": "2026-10-26T16:07:09Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"gb"
+]
+},
+{
+"id": "412ced03ffe9",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Broncos Stock Up, Stock Down: Week 7 vs. Cardinals",
+"url": "https://sports.yahoo.com/articles/broncos-stock-stock-down-week-160419985.html",
+"summary": "The Broncos, and specifically quarterback Bo Nix, needed a game like this. After a week and a half of dealing with the fallout from Ryan Fitzpatrick’s rant, the media piling on, Sean Payton being asked if Nix should be benched, and so on, Nix and the Broncos responded in a big way. Nix led the […]",
+"image": null,
+"published": "2026-10-26T16:04:19Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"ari",
+"den"
+]
+},
+{
+"id": "6bb864c6c291",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Heritage blog: Ferraro on ‘Top Gun’ entrance with Jets",
+"url": "https://www.nhl.com/news/heritage-classic-blog-mario-ferraro-october-26-2026",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1793030417/prd/rxavknf4lyhez1eo8fd3.jpg",
+"published": "2026-10-26T16:03:29Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"wpg"
+]
+},
+{
+"id": "40b4b5fc0bc7",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Stripes of the Week: Week 8 at Auburn",
+"url": "https://sports.yahoo.com/articles/stripes-week-week-8-auburn-160000924.html",
+"summary": "Several LSU players had performances worthy of stripes, but with only three picks each, only six can earn honors this week.",
+"image": null,
+"published": "2026-10-26T16:00:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": []
+},
+{
+"id": "349124e81851",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "4 Cowboys players or things to buy or sell vs the Eagles",
+"url": "https://sports.yahoo.com/articles/4-cowboys-players-things-buy-160000936.html",
+"summary": "How confident are you feeling?",
+"image": null,
+"published": "2026-10-26T16:00:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "3aa29fcae3f8",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "The Good, the Bad, and the Ugly from the Saints loss to the Steelers",
+"url": "https://sports.yahoo.com/articles/good-bad-ugly-saints-loss-160000142.html",
+"summary": "Saints run game beheaded in France",
+"image": null,
+"published": "2026-10-26T16:00:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"no",
+"pit"
+]
+},
+{
+"id": "abe0775c250c",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Seahawks Droppings: Seattle destroys the Kansas City Chiefs, puts NFL on notice",
+"url": "https://sports.yahoo.com/articles/seahawks-droppings-seattle-destroys-kansas-160000792.html",
+"summary": "With their backs against the wall, the Seahawks finally show up and make the Chiefs look like pretenders.",
+"image": null,
+"published": "2026-10-26T16:00:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"kc",
+"sea"
+]
+},
+{
+"id": "b481df24fc38",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "2026 Atlanta Braves Player Review: Joel Payamps",
+"url": "https://sports.yahoo.com/articles/2026-atlanta-braves-player-review-160000355.html",
+"summary": "Personally, I didn’t understand why the Braves gave Payamps a guaranteed $2.25 million — and after April, perhaps neither did they",
+"image": null,
+"published": "2026-10-26T16:00:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"atl"
+]
+},
+{
+"id": "e43308467cce",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Ryan Ritter’s MLB struggles leave his future with the Rockies in question",
+"url": "https://sports.yahoo.com/articles/ryan-ritter-mlb-struggles-leave-160000804.html",
+"summary": "Despite continued success in Triple-A, the infielder saw a production dip in limited opportunities in the majors",
+"image": null,
+"published": "2026-10-26T16:00:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"col"
+]
+},
+{
+"id": "257bb48fc8f5",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Monday Rockpile: Jared Thomas is making up for lost time in the Arizona Fall League",
+"url": "https://sports.yahoo.com/articles/monday-rockpile-jared-thomas-making-160000607.html",
+"summary": "The Rockies outfield prospect is making the most of his second stint in the desert.",
+"image": null,
+"published": "2026-10-26T16:00:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"ari"
+]
+},
+{
+"id": "2d3252f3dda9",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Why the Royals shouldn’t trade Vinnie Pasquantino",
+"url": "https://sports.yahoo.com/articles/why-royals-shouldn-t-trade-160000689.html",
+"summary": "Could the first baseman be on the trade block?",
+"image": null,
+"published": "2026-10-26T16:00:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"kc"
+]
+},
+{
+"id": "c3f85c6a056a",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Colts' Shane Steichen has 'not thought' about QB change despite Daniel Jones' struggles",
+"url": "https://www.cbssports.com/nfl/news/colts-bench-daniel-jones-shane-steichen-quarterback/",
+"summary": "Anthony Richardson and Riley Leonard offer little evidence that either would represent an upgrade",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/39825382-1cef-43bd-9fe6-e513021951f9/gettyimages-2301531079-1.jpg",
+"published": "2026-10-26T15:58:30Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"ind"
+]
+},
+{
+"id": "cf82b548c8ae",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "NFL Week 8 odds, betting: Full list of Week 8 spreads",
+"url": "https://sports.yahoo.com/nfl/betting/article/nfl-week-8-odds-betting-full-list-of-week-8-spreads-155651894.html",
+"summary": "Here are the odds for every Week 8 NFL game.",
+"image": null,
+"published": "2026-10-26T15:56:51Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": []
+},
+{
+"id": "6ccbe0e59a4f",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Predicting the Guardians’ Arbitration Plans",
+"url": "https://sports.yahoo.com/articles/predicting-guardians-arbitration-plans-155218853.html",
+"summary": "Pretty exciting stuff, folks",
+"image": null,
+"published": "2026-10-26T15:52:18Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"cle"
+]
+},
+{
+"id": "b7a1065bbb3a",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "The Morning After: The Steelers’ defense has reached elite territory",
+"url": "https://sports.yahoo.com/articles/morning-steelers-defense-reached-elite-154921754.html",
+"summary": "The Steelers’ defense has become one of the NFL’s best.",
+"image": null,
+"published": "2026-10-26T15:49:21Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"pit"
+]
+},
+{
+"id": "5fc9f3a38473",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Tom Brady's criticism of officials tests limits of what a team owner can say",
+"url": "https://sports.yahoo.com/articles/tom-bradys-criticism-officials-tests-154613649.html",
+"summary": "Brady is prohibited from \"egregious\" criticism of calls.",
+"image": null,
+"published": "2026-10-26T15:46:13Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": []
+},
+{
+"id": "e4e7e1fd1448",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Build-a-manager: LL staff edition",
+"url": "https://sports.yahoo.com/articles/build-manager-ll-staff-edition-154500079.html",
+"summary": "Sweet Lou aside, making a list of some qualities that are the most important to the LL staff in a manager",
+"image": null,
+"published": "2026-10-26T15:45:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": []
+},
+{
+"id": "77a7c308308b",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "2026 Season in Review: Robby Ahlstrom",
+"url": "https://sports.yahoo.com/articles/2026-season-review-robby-ahlstrom-154257672.html",
+"summary": "A lefty reliever who made his debut in 2026",
+"image": null,
+"published": "2026-10-26T15:42:57Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": []
+},
+{
+"id": "69b2b9a28887",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Congrats to Eagles owner Jeffrey Lurie for inducting himself into team Hall of Fame",
+"url": "https://sports.yahoo.com/articles/congrats-eagles-owner-jeffrey-lurie-154253487.html",
+"summary": "It’s nice to treat yourself.",
+"image": null,
+"published": "2026-10-26T15:42:53Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"phi"
+]
+},
+{
+"id": "06701f5ebb31",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Will Saquon Barkley play vs. Cowboys? Eagles RB trending toward Monday night return",
+"url": "https://www.cbssports.com/nfl/news/saquon-barkley-injury-update-eagles-cowboys/",
+"summary": "Philadelphia has averaged just 28.5 rushing yards per game without Barkley, compared with 109.0 yards when he has played",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/ad2e6d3e-09c8-4a0d-93b8-3f0db021effe/saq.jpg",
+"published": "2026-10-26T15:40:47Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
+"id": "9a59d7f62255",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "NBA Stock Up, Stock Down Oct 26: Pistons, Rockets, Timberwolves climb while Heat, Knicks fall",
+"url": "https://sports.yahoo.com/articles/nba-stock-stock-down-oct-153855267.html",
+"summary": "Our weekly look at who is up and down in our NBA Power Rankings saw a lot of dramatic movement.",
+"image": null,
+"published": "2026-10-26T15:38:55Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"det",
+"hou",
+"min",
+"ny"
+]
+},
+{
+"id": "a34db051fd75",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Seahawks vs. Bears odds: Seattle opens as home favorite against Chicago",
+"url": "https://sports.yahoo.com/articles/seahawks-vs-bears-odds-seattle-153554317.html",
+"summary": "The Seahawks are three-point favorites against a 5-2 Bears team on Monday Night Football.",
+"image": null,
+"published": "2026-10-26T15:35:54Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"chi",
+"sea"
+]
+},
+{
+"id": "77bcb64aaedd",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Who is throwing first pitch for World Series Game 3? Rays tap former manager",
+"url": "https://sports.yahoo.com/articles/throwing-first-pitch-world-series-153457645.html",
+"summary": "Joe Maddon helped guide Tampa Bay's baseball franchise out of its woebegone Devil Rays phase and into an era of enduringly surprising success.",
+"image": null,
+"published": "2026-10-26T15:34:57Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"tb"
+]
+},
+{
+"id": "0c7028652393",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Packers blast officiating after loss to Lions: 'It's bulls---' and 'f---ing up the games'",
+"url": "https://www.cbssports.com/nfl/news/packers-blast-refs-after-loss-vs-lions-xavier-mckinney/",
+"summary": "Safety Xavier McKinney unloaded on the referees following a 20-17 defeat, calling out phantom penalties that kept key drives alive for Detroit and that drew criticism from Tom Brady",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/396bba43-f195-474b-bd02-269f2006b9f4/gb.jpg",
+"published": "2026-10-26T15:30:44Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"det",
+"gb"
+]
+},
+{
+"id": "226176fc287d",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "The Canadiens Kept Their Focus Despite The Fanfare",
+"url": "https://sports.yahoo.com/articles/canadiens-kept-focus-despite-fanfare-153018206.html",
+"summary": "Have a closer look at what surrounded the Heritage Classic, from the kids' clothes to the goalie fits; the Montreal Canadiens thought of everything.",
+"image": null,
+"published": "2026-10-26T15:30:18Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"mon"
+]
+},
+{
 "id": "5cf219b54727",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -85,6 +596,21 @@
 "teams": []
 },
 {
+"id": "0a79e0a03ca7",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Use FanDuel promo code to get $350 in bonus bets by targeting Cowboys vs. Eagles on Monday Night Football",
+"url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-cowboys-vs-eagles-monday-night-football/",
+"summary": "Sign up and bet on Monday Night Football with the latest FanDuel promo code to get your bonus bets",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/11/75c36b18-83fe-49ef-9757-d560099e5072/fanduel-350-promo.jpg",
+"published": "2026-10-26T15:20:14Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
 "id": "aa2dc716162b",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -153,6 +679,21 @@
 "teams": [
 "lv",
 "nyj"
+]
+},
+{
+"id": "6dccff9f4345",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Cowboys announce halftime show artist for Thanksgiving game vs. Eagles",
+"url": "https://www.cbssports.com/nfl/news/cowboys-halftime-show-thanksgiving-miranda-lambert/",
+"summary": "Miranda Lambert is the 30th Red Kettle Kickoff halftime performer",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/3e9c3cff-ba0e-4420-8c4b-2ee8412a251d/dallas-cowboys.jpg",
+"published": "2026-10-26T15:03:48Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"dal",
+"phi"
 ]
 },
 {
@@ -457,6 +998,20 @@
 ]
 },
 {
+"id": "42136d8c7b4f",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Can Rockets rely on Steven Adams?",
+"url": "https://sports.yahoo.com/articles/rockets-rely-steven-adams-142410431.html",
+"summary": "Adams is too injury-prone to be a rotational staple.",
+"image": null,
+"published": "2026-10-26T14:24:10Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"hou"
+]
+},
+{
 "id": "3659ff7eab71",
 "league": "nfl",
 "source": "CBS Sports",
@@ -497,6 +1052,20 @@
 "collected": "2026-10-26T14:57:23Z",
 "teams": [
 "kc"
+]
+},
+{
+"id": "6f25166fd0e8",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Knicks Bulletin: ‘No, no, no, no, no, no. It’s competitive’",
+"url": "https://sports.yahoo.com/articles/knicks-bulletin-no-no-no-141500486.html",
+"summary": "Remember when the Knicks won the NBA championship? Yeah, that was more than four months ago, so maybe it’s about time someone starts getting back down to earth and hooping again. Here’s the latest from the latest embarrassing loss in an early season full of them. Mike Brown On evaluating the season in five-game…",
+"image": null,
+"published": "2026-10-26T14:15:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"ny"
 ]
 },
 {
@@ -638,6 +1207,20 @@
 "teams": [
 "kc",
 "sea"
+]
+},
+{
+"id": "09e46dad92cd",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Rebounding, rebounding, rebounding",
+"url": "https://sports.yahoo.com/articles/rebounding-rebounding-rebounding-135748415.html",
+"summary": "Even with new personnel, the Sixers’ rebounding struggles have continued.",
+"image": null,
+"published": "2026-10-26T13:57:48Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"phi"
 ]
 },
 {
@@ -1510,6 +2093,20 @@
 ]
 },
 {
+"id": "3a5c7f13e6e5",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Why Egor Dëmin, Mikel Brown Jr. have barely seen the floor together for Nets",
+"url": "https://sports.yahoo.com/articles/why-egor-d-min-mikel-124352131.html",
+"summary": "Egor Dëmin and Mikel Brown Jr. are the foundation of the Nets rebuild. But going into the season’s fourth game, they’ve played just four minutes together.",
+"image": null,
+"published": "2026-10-26T12:43:52Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"bkn"
+]
+},
+{
 "id": "de94c2bffa9c",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -2164,6 +2761,20 @@
 "teams": [
 "ind",
 "mil"
+]
+},
+{
+"id": "c220f2848fc8",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Dodgers’ loaded farm system is about to become a roster headache",
+"url": "https://sports.yahoo.com/articles/dodgers-loaded-farm-system-become-120000921.html",
+"summary": "The Dodgers could have used a player like Miguel Vargas this year. Their lineup was starved for power at times and Vargas homered 31 times. Their team was old and...",
+"image": null,
+"published": "2026-10-26T12:00:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": [
+"lad"
 ]
 },
 {
@@ -2919,6 +3530,18 @@
 "teams": [
 "sf"
 ]
+},
+{
+"id": "b76fda6f4c52",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Fantasy Hockey Goalie Report: Jacob Fowler Flying High, Ukko-Pekka Luukkonen Sinking Lower",
+"url": "https://sports.yahoo.com/articles/goalie-report-fowler-flying-high-083200902.html",
+"summary": "Corey Abbott's Fantasy hockey goalie rankings include players whose stock is up or down, plus schedule tips to stream hot goalies and avoid risky starts.",
+"image": null,
+"published": "2026-10-26T08:32:00Z",
+"collected": "2026-10-26T17:05:01Z",
+"teams": []
 },
 {
 "id": "e4f0c67a8625",
