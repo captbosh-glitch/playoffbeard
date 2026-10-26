@@ -137,3 +137,15 @@ a { color: inherit; }
 .hero-links.rivals a:first-child { background: var(--panel); color: var(--text); border-color: var(--border); }
 .hero-links.rivals a { gap: 6px; }
 @media (max-width: 600px) { .team-title { gap: 12px; } .team-title .logo { width: 56px !important; height: 56px !important; } }
+
+/* league pages: every team's logo in one row */
+.logo-row { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 2px; margin-top: 20px;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 6px; }
+.logo-row a { display: flex; align-items: center; justify-content: center; min-height: 44px; border-radius: 8px; transition: transform 0.12s, background 0.12s; }
+.logo-row a:hover { background: var(--panel-2); transform: translateY(-2px); }
+.logo-row .logo { max-width: 100%; }
+@media (max-width: 900px) {
+  .logo-row { grid-auto-columns: 44px; overflow-x: auto; scrollbar-width: none; }
+  .logo-row::-webkit-scrollbar { display: none; }
+}
+.lr-nhl .logo img { transform: scale(1.45); }   /* NHL's SVGs carry extra padding */

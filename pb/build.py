@@ -144,6 +144,13 @@ def day_sections(items, teams_by, depth):
     return out
 
 
+def logo_row(league, teams, depth):
+    """Every team's logo in one row (alphabetical), each linking to its page."""
+    return (f'<nav class="logo-row lr-{league}" aria-label="Teams">' + ''.join(
+        f'<a href="{depth}{league}/{t["slug"]}/" title="{esc(t["name"])}" aria-label="{esc(t["name"])}">{logo(t, depth, 30)}</a>'
+        for t in sorted(teams, key=lambda x: x['name'])) + '</nav>')
+
+
 def team_grid(league, teams, depth, counts):
     groups = {}
     for t in teams:
@@ -194,7 +201,7 @@ def build(now=None):
                 counts[s] = counts.get(s, 0) + 1
         hero = (f'<section class="hero"><h1>{icons.sport_icon(key, "hero-icon")}{esc(lg["label"])} <span>News</span></h1>'
                 f'<p>The latest {esc(lg["name"].lower())} headlines from {esc(", ".join(config.FEEDS[key]))}.</p>'
-                f'<details class="teams-box"><summary>Browse {len(teams[key])} teams</summary>{team_grid(key, teams[key], "../", counts)}</details></section>')
+                f'{logo_row(key, teams[key], "../")}</section>')
         body = hero + (day_sections(items[:config.LEAGUE_PAGE_LIMIT], teams_by, '../') or '<p class="muted">No headlines yet.</p>')
         write(key, page(f'{lg["label"]} News — {config.SITE_NAME}', f'The latest {lg["label"]} headlines from around the league.', body, '../', key, updated))
         for t in teams[key]:
