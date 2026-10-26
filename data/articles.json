@@ -12,6 +12,33 @@
 "teams": []
 },
 {
+"id": "b078c11ae1ca",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Klint Kubiak: Kirk Cousins is our starting quarterback",
+"url": "https://sports.yahoo.com/articles/klint-kubiak-kirk-cousins-starting-200057470.html",
+"summary": "Kubiak added that there's \"no controversy\" at the position.",
+"image": null,
+"published": "2026-10-26T20:00:57Z",
+"collected": "2026-10-26T20:13:40Z",
+"teams": []
+},
+{
+"id": "8dd939dd2fce",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Monday Night Football live updates, TV info as Dak Prescott, Cowboys face Eagles",
+"url": "https://sports.yahoo.com/articles/monday-night-football-live-updates-200030435.html",
+"summary": "The Cowboys look to get back on track against a reeling Eagles team on \"Monday Night Football.\" USA TODAY Sports will provide highlights stats, analysis and more.",
+"image": null,
+"published": "2026-10-26T20:00:30Z",
+"collected": "2026-10-26T20:13:40Z",
+"teams": [
+"dal",
+"phi"
+]
+},
+{
 "id": "cdecb030371d",
 "league": "soccer",
 "source": "Yahoo Sports",
