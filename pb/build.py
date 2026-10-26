@@ -105,8 +105,9 @@ def img_html(url, big):
     card needs on this screen. Feeds send small (NHL.com: 416px) or huge (CBS:
     full-size originals) images; NHL.com, CBS and ESPN can all resize on request."""
     sizes = '(max-width: 600px) 100vw, 66vw' if big else '(max-width: 600px) 100vw, (max-width: 900px) 50vw, 33vw'
-    if 'media.d3.nhle.com' in url and '/t_ratio16_9-size' in url:
-        pre, rest = url.split('/t_ratio16_9-size', 1)
+    if 'media.d3.nhle.com' in url and '/t_ratio' in url:
+        # any crop the feed sends (16:9, square 1:1 or 3:4 thumbnails) -> sharp 16:9
+        pre, rest = url.split('/t_ratio', 1)
         rest = rest.split('/', 1)[1]
         srcset = ', '.join(f'{pre}/{t}/{rest} {w}w' for t, w in NHL_SIZES)
         src = f'{pre}/{NHL_SIZES[2 if big else 1][0]}/{rest}'
