@@ -223,7 +223,9 @@ def build(now=None):
 
     # home
     secs = ''
-    for lg in config.LEAGUES:
+    # the league with the freshest headline goes first (the nav keeps its fixed order)
+    fresh = sorted(config.LEAGUES, key=lambda lg: by_league[lg['key']][0]['published'] if by_league[lg['key']] else '', reverse=True)
+    for lg in fresh:
         items = by_league[lg['key']][:config.HOME_PER_LEAGUE]
         if not items:
             continue
