@@ -1,6 +1,6 @@
 {
  "sport": "soccer",
- "updated": "2026-11-05T18:44:12+00:00",
+ "updated": "2026-11-06T15:01:36+00:00",
  "teams": [
   {
    "code": "BOU",
@@ -20,7 +20,7 @@
    "competition": "Premier League",
    "division": "Premier League",
    "conference": null,
-   "pattern": "(?<!\\w)(arsenal|gunners)(?!\\w)"
+   "pattern": "(?<!\\w)(gunners|arsenal)(?!\\w)"
   },
   {
    "code": "AVL",
