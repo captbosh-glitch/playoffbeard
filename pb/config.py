@@ -60,10 +60,19 @@ FEEDS = {
 
 # Highlights: official league videos, played in place from YouTube. Each
 # feed is a channel's long-form uploads (the "UULF" playlist skips Shorts);
-# `match` keeps only game highlights. Checked Nov 7, 2026.
+# `match` keeps game highlights (UFC: full fights), `skip` drops repeats
+# (the NBA's "EXTENDED" cuts). MLB posts game highlights in season only.
+# Soccer has no single league channel. Checked Nov 7, 2026.
+def _uploads(channel_id):
+    return 'https://www.youtube.com/feeds/videos.xml?playlist_id=UULF' + channel_id[2:]
+
+
 VIDEO_FEEDS = {
-    'nhl': {'source': 'NHL', 'match': r'\| NHL Highlights \|',
-            'url': 'https://www.youtube.com/feeds/videos.xml?playlist_id=UULFqFMzb-4AUf6WAIbl132QKA'},
+    'nhl': {'source': 'NHL', 'match': r'\| NHL Highlights \|', 'url': _uploads('UCqFMzb-4AUf6WAIbl132QKA')},
+    'nfl': {'source': 'NFL', 'match': r'Game Highlights \| \d{4} NFL Season', 'url': _uploads('UCDVYQ4Zhbm3S2dlz7P1GBDg')},
+    'nba': {'source': 'NBA', 'match': r'FULL GAME HIGHLIGHTS', 'skip': r'^EXTENDED', 'url': _uploads('UCWJ2lWNubArHWmf3FIHbfcQ')},
+    'mlb': {'source': 'MLB', 'match': r'Game Highlights', 'url': _uploads('UCoLrcjPV5PbUrUyXq5mjc_A')},
+    'ufc': {'source': 'UFC', 'match': r'\| FULL FIGHT \|', 'url': _uploads('UCvgfXK4nTYKudb0rFR6noLA'), 'heading': 'Full fights'},
 }
 VIDEO_KEEP_DAYS = 14    # highlights older than this drop out of data/videos.json
 HIGHLIGHTS_ROW = 12     # newest highlights in a league page's row (a team page shows 6)

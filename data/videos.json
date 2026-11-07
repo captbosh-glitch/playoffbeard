@@ -1,5 +1,41 @@
 [
 {
+"id": "Tl63S0C6XhI",
+"league": "nba",
+"source": "NBA",
+"title": "TRAIL BLAZERS AT LAKERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+"published": "2026-11-07T06:31:39Z",
+"teams": [
+"por",
+"lal"
+],
+"game": "Trail Blazers at Lakers"
+},
+{
+"id": "DBhUevV3tlU",
+"league": "nba",
+"source": "NBA",
+"title": "SPURS AT KINGS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+"published": "2026-11-07T06:26:31Z",
+"teams": [
+"sa",
+"sac"
+],
+"game": "Spurs at Kings"
+},
+{
+"id": "ArdOCfDXZdI",
+"league": "nba",
+"source": "NBA",
+"title": "TIMBERWOLVES at PELICANS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+"published": "2026-11-07T04:22:36Z",
+"teams": [
+"min",
+"no"
+],
+"game": "Timberwolves at Pelicans"
+},
+{
 "id": "bNGH4Krt1AM",
 "league": "nhl",
 "source": "NHL",
@@ -8,7 +44,32 @@
 "teams": [
 "anh",
 "cgy"
-]
+],
+"game": "Ducks vs. Flames"
+},
+{
+"id": "urZbyAoCBNU",
+"league": "nba",
+"source": "NBA",
+"title": "THUNDER at GRIZZLIES | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+"published": "2026-11-07T03:58:35Z",
+"teams": [
+"okc",
+"mem"
+],
+"game": "Thunder at Grizzlies"
+},
+{
+"id": "A_4SYcSbEbQ",
+"league": "nba",
+"source": "NBA",
+"title": "RAPTORS at BUCKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+"published": "2026-11-07T03:56:44Z",
+"teams": [
+"tor",
+"mil"
+],
+"game": "Raptors at Bucks"
 },
 {
 "id": "sT4lKicXk-U",
@@ -19,7 +80,20 @@
 "teams": [
 "sj",
 "min"
-]
+],
+"game": "Sharks vs. Wild"
+},
+{
+"id": "mQUHy5tn0Qc",
+"league": "nba",
+"source": "NBA",
+"title": "JAZZ at MAVERICKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
+"published": "2026-11-07T03:48:04Z",
+"teams": [
+"utah",
+"dal"
+],
+"game": "Jazz at Mavericks"
 },
 {
 "id": "pnmF33hLfdM",
@@ -30,7 +104,8 @@
 "teams": [
 "cbj",
 "buf"
-]
+],
+"game": "Blue Jackets vs. Sabres"
 },
 {
 "id": "9CbHqmsNxuE",
@@ -41,7 +116,20 @@
 "teams": [
 "nsh",
 "col"
-]
+],
+"game": "Predators vs. Avalanche"
+},
+{
+"id": "TRUoUtxPZIU",
+"league": "nfl",
+"source": "NFL",
+"title": "Jacksonville Jaguars vs Baltimore Ravens Game Highlights | 2026 NFL Season Week 9",
+"published": "2026-11-06T04:20:12Z",
+"teams": [
+"jax",
+"bal"
+],
+"game": "Jaguars vs. Ravens"
 },
 {
 "id": "Wf3Bf9R66sA",
@@ -52,7 +140,8 @@
 "teams": [
 "anh",
 "edm"
-]
+],
+"game": "Ducks vs. Oilers"
 },
 {
 "id": "xWAxh8ddaOE",
@@ -63,7 +152,8 @@
 "teams": [
 "chi",
 "tb"
-]
+],
+"game": "Blackhawks vs. Lightning"
 },
 {
 "id": "l5RZLp0GtO0",
@@ -74,7 +164,8 @@
 "teams": [
 "dal",
 "cbj"
-]
+],
+"game": "Stars vs. Blue Jackets"
 },
 {
 "id": "qYfQpmQMNT4",
@@ -85,7 +176,8 @@
 "teams": [
 "uta",
 "mon"
-]
+],
+"game": "Mammoth vs. Canadiens"
 },
 {
 "id": "BS3pjMth_a8",
@@ -96,7 +188,8 @@
 "teams": [
 "vgk",
 "det"
-]
+],
+"game": "Golden Knights vs. Red Wings"
 },
 {
 "id": "36fxgJXNw24",
@@ -107,7 +200,8 @@
 "teams": [
 "stl",
 "nj"
-]
+],
+"game": "Blues vs. Devils"
 },
 {
 "id": "K_lJBc-rD5M",
@@ -118,7 +212,8 @@
 "teams": [
 "car",
 "nyi"
-]
+],
+"game": "Hurricanes vs. Islanders"
 },
 {
 "id": "xqojeFk0JHk",
@@ -129,6 +224,72 @@
 "teams": [
 "bos",
 "pit"
-]
+],
+"game": "Bruins vs. Penguins"
+},
+{
+"id": "T7M33HIQIQg",
+"league": "ufc",
+"source": "UFC",
+"title": "Amanda Nunes vs Ronda Rousey | FULL FIGHT | Polymarket UFC 334",
+"published": "2026-11-04T15:00:23Z",
+"teams": [],
+"game": "Amanda Nunes vs Ronda Rousey"
+},
+{
+"id": "08n1cUfer0Q",
+"league": "ufc",
+"source": "UFC",
+"title": "Johnny Walker vs Mick Parkin | FULL FIGHT | UFC Vegas 124",
+"published": "2026-11-03T17:30:38Z",
+"teams": [
+"heavyweight"
+],
+"game": "Johnny Walker vs Mick Parkin"
+},
+{
+"id": "uI-16Z5c3Ds",
+"league": "ufc",
+"source": "UFC",
+"title": "Kayla Harrison vs Julianna Peña | FULL FIGHT | Polymarket UFC 334",
+"published": "2026-11-03T15:00:15Z",
+"teams": [
+"womens-bantamweight"
+],
+"game": "Kayla Harrison vs Julianna Peña"
+},
+{
+"id": "A6daeupB33A",
+"league": "ufc",
+"source": "UFC",
+"title": "Waldo Cortes Acosta vs Derrick Lewis | FULL FIGHT | UFC Vegas 124",
+"published": "2026-11-02T17:30:29Z",
+"teams": [
+"heavyweight"
+],
+"game": "Waldo Cortes Acosta vs Derrick Lewis"
+},
+{
+"id": "R813Pn--26o",
+"league": "ufc",
+"source": "UFC",
+"title": "Josh Hokit vs Derrick Lewis | FULL FIGHT | Polymarket UFC 334",
+"published": "2026-11-02T15:00:25Z",
+"teams": [
+"heavyweight"
+],
+"game": "Josh Hokit vs Derrick Lewis"
+},
+{
+"id": "ILPWCCLb16E",
+"league": "ufc",
+"source": "UFC",
+"title": "Ciryl Gane vs Alex Pereira | FULL FIGHT | Polymarket UFC 334",
+"published": "2026-11-01T15:00:29Z",
+"teams": [
+"light-heavyweight",
+"heavyweight"
+],
+"game": "Ciryl Gane vs Alex Pereira"
 }
 ]

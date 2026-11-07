@@ -147,8 +147,8 @@ def lead_first(items):
 
 
 def game_of(v):
-    """'Ducks vs. Flames | NHL Highlights | Nov 6, 2026' -> 'Ducks vs. Flames'"""
-    return v['title'].split('|')[0].strip()
+    """The matchup to show: 'Ducks vs. Flames' (collect.video_game)."""
+    return v.get('game') or v['title'].split('|')[0].strip()
 
 
 def yt_thumb(v):
@@ -162,7 +162,7 @@ def highlights_row(videos, teams_by, depth, heading='Highlights'):
         return ''
     cards = ''
     for v in videos:
-        logos = ''.join(logo(teams_by[v['league']].get(s), depth, 20) for s in v['teams'][:2])
+        logos = '' if v['league'] == 'ufc' else ''.join(logo(teams_by[v['league']].get(s), depth, 20) for s in v['teams'][:2])
         cards += (f'<div class="hl"><button class="yt" type="button" data-yt="{esc(v["id"])}" aria-label="Play {esc(game_of(v))} highlights">'
                   f'{yt_thumb(v)}</button><div class="hl-body"><div class="hl-game">{logos}<span>{esc(game_of(v))}</span></div>'
                   f'<div class="meta">{esc(v["source"])} · <time datetime="{esc(v["published"])}">{esc(et_time(v["published"]))}</time></div></div></div>')
@@ -309,7 +309,7 @@ def build(now=None):
                 f'<p>The latest {esc(lg.get("noun") or lg["name"].lower())} headlines from {esc(", ".join(config.FEEDS[key]))}.</p>'
                 + (logo_row(key, teams[key], "../") if teams[key] else '') + '</section>')
         shown_items = items[:config.LEAGUE_PAGE_LIMIT]
-        body = hero + highlights_row(vids[key][:config.HIGHLIGHTS_ROW], teams_by, '../') + (
+        body = hero + highlights_row(vids[key][:config.HIGHLIGHTS_ROW], teams_by, '../', config.VIDEO_FEEDS.get(key, {}).get('heading', 'Highlights')) + (
             day_sections(shown_items, teams_by, '../', pair_videos(shown_items, vids[key])) or '<p class="muted">No headlines yet.</p>')
         write(key, page(f'{lg["label"]} News — {config.SITE_NAME}', f'The latest {lg["label"]} headlines from around the league.', body, '../', key, updated))
         for t in teams[key]:
@@ -331,7 +331,7 @@ def build(now=None):
                       f'<span class="sec-n">{len(shown)} {"story" if len(shown) == 1 else "stories"}</span></div><div class="grid">'
                       + ''.join(card(a, teams_by, '../../', big=(lead and i == 0), video=paired.get(a['id'])) for i, a in enumerate(shown)) + '</div></section>') if shown else ''
             team_vids = [v for v in vids[key] if t['slug'] in v['teams']][:6]
-            body = hero + highlights_row(team_vids, teams_by, '../../', f'{nick or t["name"]} highlights') + (latest or
+            body = hero + highlights_row(team_vids, teams_by, '../../', f'{nick or t["name"]} {config.VIDEO_FEEDS.get(key, {}).get("heading", "Highlights").lower()}') + (latest or
                            f'<p class="muted">No {esc(t["name"])} headlines in the last {config.KEEP_DAYS} days.</p>') + (
                 rankings(t) if t.get('ranked') else '')
             write(f'{key}/{t["slug"]}', page(f'{t["name"]} News — {config.SITE_NAME}', f'The latest {t["name"]} headlines.', body, '../../', key, updated))
