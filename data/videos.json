@@ -1,5 +1,29 @@
 [
 {
+"id": "KYYoIEWfd5o",
+"league": "nhl",
+"source": "NHL",
+"title": "Blues vs. Predators | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-07T20:57:34Z",
+"teams": [
+"stl",
+"nsh"
+],
+"game": "Blues vs. Predators"
+},
+{
+"id": "x27RbKgo4Nc",
+"league": "nhl",
+"source": "NHL",
+"title": "Panthers vs. Capitals | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-07T20:30:59Z",
+"teams": [
+"fla",
+"wsh"
+],
+"game": "Panthers vs. Capitals"
+},
+{
 "id": "Tl63S0C6XhI",
 "league": "nba",
 "source": "NBA",
