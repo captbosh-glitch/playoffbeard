@@ -156,16 +156,19 @@ def yt_thumb(v):
             '<span class="yt-play" aria-hidden="true"></span>')
 
 
-def highlights_row(videos, teams_by, depth, heading='Highlights'):
-    """The newest game highlights, side by side (scrolls sideways on phones)."""
+def highlights_row(videos, teams_by, depth, heading='Highlights', show_league=False):
+    """The newest game highlights, side by side (scrolls sideways on phones).
+    show_league (home page): each card names its league, in the league's color."""
     if not videos:
         return ''
     cards = ''
     for v in videos:
         logos = '' if v['league'] == 'ufc' else ''.join(logo(teams_by[v['league']].get(s), depth, 20) for s in v['teams'][:2])
-        cards += (f'<div class="hl"><button class="yt" type="button" data-yt="{esc(v["id"])}" aria-label="Play {esc(game_of(v))} highlights">'
+        lg = next(l for l in config.LEAGUES if l['key'] == v['league'])
+        src = (f'<a class="lg" href="{depth}{lg["key"]}/">{esc(lg["label"])}</a>' if show_league else esc(v['source']))
+        cards += (f'<div class="hl lg-{v["league"]}"><button class="yt" type="button" data-yt="{esc(v["id"])}" aria-label="Play {esc(game_of(v))} highlights">'
                   f'{yt_thumb(v)}</button><div class="hl-body"><div class="hl-game">{logos}<span>{esc(game_of(v))}</span></div>'
-                  f'<div class="meta">{esc(v["source"])} · <time datetime="{esc(v["published"])}">{esc(et_time(v["published"]))}</time></div></div></div>')
+                  f'<div class="meta">{src} · <time datetime="{esc(v["published"])}">{esc(et_time(v["published"]))}</time></div></div></div>')
     return (f'<section class="sec"><div class="sec-head"><h2>{esc(heading)}</h2><span class="sec-n">{len(videos)} '
             f'{"video" if len(videos) == 1 else "videos"}</span></div><div class="hl-row">{cards}</div></section>')
 
@@ -282,7 +285,11 @@ def build(now=None):
     vids = {lg['key']: [v for v in videos if v['league'] == lg['key']] for lg in config.LEAGUES}
 
     # home
-    secs = ''
+    # latest highlights: the newest two per league, newest first (they aren't
+    # repeated under the stories below)
+    top = sorted((v for lg in config.LEAGUES for v in vids[lg['key']][:2]), key=lambda v: v['published'], reverse=True)
+    top_ids = {v['id'] for v in top}
+    secs = highlights_row(top, teams_by, '', 'Latest highlights', show_league=True)
     # the league with the freshest headline goes first (the nav keeps its fixed order)
     fresh = sorted(config.LEAGUES, key=lambda lg: by_league[lg['key']][0]['published'] if by_league[lg['key']] else '', reverse=True)
     for lg in fresh:
@@ -290,7 +297,7 @@ def build(now=None):
         if not items:
             continue
         items, lead = lead_first(items)
-        paired = pair_videos(items, vids[lg['key']])
+        paired = pair_videos(items, [v for v in vids[lg['key']] if v['id'] not in top_ids])
         cards = ''.join(card(a, teams_by, '', big=(lead and i == 0), video=paired.get(a['id'])) for i, a in enumerate(items))
         secs += (f'<section class="sec lg-{lg["key"]}"><div class="sec-head"><h2>{icons.sport_icon(lg["key"])}{esc(lg["label"])}</h2>'
                  f'<a href="{lg["key"]}/">All {esc(lg["label"])} news &rarr;</a></div><div class="grid">{cards}</div></section>')
