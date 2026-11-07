@@ -20,6 +20,7 @@ from pb import config, images, teams as T
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PATH = os.path.join(ROOT, 'data', 'articles.json')
+VPATH = os.path.join(ROOT, 'data', 'videos.json')
 UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) PlayoffBeard/1.0'
 
 
@@ -114,3 +115,44 @@ def collect(now=None):
         json.dump(articles, f, indent=0, ensure_ascii=False)
     print(f'collected: {sum(added.values())} new ({", ".join(f"{k} {v}" for k, v in added.items()) or "none"}), {len(articles)} kept')
     return articles
+
+
+def video_teams(title, teams, m):
+    """'Sharks vs. Wild | NHL Highlights | Nov 6, 2026' -> both teams, read by
+    exact name (so 'Wild' counts here, unlike in headlines)."""
+    names = {}
+    for t in teams:
+        for n in (t.get('nickname'), t.get('short'), t['name']):
+            if n:
+                names[n.lower()] = t['slug']
+    sides = [x.strip().lower() for x in re.split(r'\s+vs\.?\s+', title.split('|')[0])]
+    found = [names[x] for x in sides if x in names]
+    return found if len(found) == 2 else T.tag(title, m)
+
+
+def collect_videos(now=None):
+    now = now or datetime.now(timezone.utc)
+    videos = json.load(open(VPATH, encoding='utf-8')) if os.path.exists(VPATH) else []
+    seen = {v['id'] for v in videos}
+    added = 0
+    for key, src in config.VIDEO_FEEDS.items():
+        teams = T.load(key)
+        m = T.matchers(key, teams)
+        feed = feedparser.parse(src['url'], agent=UA)
+        if feed.get('bozo') and not feed.entries:
+            print(f'  WARN {key} videos: {feed.get("bozo_exception")}', file=sys.stderr)
+            continue
+        for e in feed.entries:
+            vid, title = e.get('yt_videoid'), clean(e.get('title'), 200)
+            if not vid or vid in seen or not re.search(src['match'], title):
+                continue
+            videos.append({'id': vid, 'league': key, 'source': src['source'], 'title': title,
+                           'published': when(e, now), 'teams': video_teams(title, teams, m)})
+            seen.add(vid)
+            added += 1
+    cutoff = (now - timedelta(days=config.VIDEO_KEEP_DAYS)).strftime('%Y-%m-%dT%H:%M:%SZ')
+    videos = sorted((v for v in videos if v['published'] >= cutoff), key=lambda v: v['published'], reverse=True)
+    with open(VPATH, 'w', encoding='utf-8') as f:
+        json.dump(videos, f, indent=0, ensure_ascii=False)
+    print(f'videos: {added} new, {len(videos)} kept')
+    return videos

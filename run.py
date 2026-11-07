@@ -11,4 +11,5 @@ if __name__ == '__main__':
     if 'build' not in sys.argv[1:]:
         rosters.refresh()
         collect.collect()
+        collect.collect_videos()
     build.build()

@@ -58,6 +58,17 @@ FEEDS = {
     },
 }
 
+# Highlights: official league videos, played in place from YouTube. Each
+# feed is a channel's long-form uploads (the "UULF" playlist skips Shorts);
+# `match` keeps only game highlights. Checked Nov 7, 2026.
+VIDEO_FEEDS = {
+    'nhl': {'source': 'NHL', 'match': r'\| NHL Highlights \|',
+            'url': 'https://www.youtube.com/feeds/videos.xml?playlist_id=UULFqFMzb-4AUf6WAIbl132QKA'},
+}
+VIDEO_KEEP_DAYS = 14    # highlights older than this drop out of data/videos.json
+HIGHLIGHTS_ROW = 12     # newest highlights in a league page's row (a team page shows 6)
+VIDEO_PAIR_HOURS = 12   # a story shows a highlight of its team's game within this many hours
+
 KEEP_DAYS = 30          # articles older than this drop out of data/articles.json
 LEAGUE_PAGE_LIMIT = 60  # newest articles on a league page
 HOME_PER_LEAGUE = 8     # per league on the home page

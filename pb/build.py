@@ -8,7 +8,9 @@ playoffbeard.com) from data/articles.json:
   docs/assets/style.css, logos    (logos copied from RTYB)
 
 Headlines link out to the publisher. Times are shown relative ("3h ago")
-by a little script, with the ET time as the fallback.
+by a little script, with the ET time as the fallback. Highlights
+(data/videos.json) are official league videos: a thumbnail until clicked,
+then YouTube's player in place, so pages don't load YouTube up front.
 """
 import html
 import json
@@ -73,7 +75,7 @@ def page(title, desc, body, depth, current='home', updated=''):
 </div></header>
 <main class="wrap">{body}</main>
 <footer class="foot"><div class="wrap">
-  <p>Headlines link to their publishers (NHL.com, ESPN, Yahoo Sports, CBS Sports). Playoff Beard collects and sorts them; it doesn&rsquo;t host articles.</p>
+  <p>Headlines link to their publishers (NHL.com, ESPN, Yahoo Sports, CBS Sports). Playoff Beard collects and sorts them; it doesn&rsquo;t host articles. Highlights are the leagues&rsquo; own videos, played from YouTube.</p>
   <p class="muted">{esc(updated)}</p>
 </div></footer>
 <script>
@@ -85,6 +87,17 @@ def page(title, desc, body, depth, current='home', updated=''):
     root.setAttribute('data-theme', next);
     try {{ localStorage.setItem('pb-theme', next); }} catch (e) {{}}
   }};
+  document.addEventListener('click', function(e) {{
+    var b = e.target.closest('[data-yt]');
+    if (!b) return;
+    var f = document.createElement('iframe');
+    f.src = 'https://www.youtube-nocookie.com/embed/' + b.getAttribute('data-yt') + '?autoplay=1&rel=0';
+    f.title = b.getAttribute('aria-label');
+    f.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+    f.allowFullscreen = true;
+    f.className = 'yt-frame';
+    b.replaceWith(f);
+  }});
   var now = Date.now();
   document.querySelectorAll('time[datetime]').forEach(function(el) {{
     var m = Math.round((now - Date.parse(el.getAttribute('datetime'))) / 60000);
@@ -133,7 +146,49 @@ def lead_first(items):
     return [items[i]] + items[:i] + items[i + 1:], True
 
 
-def card(a, teams_by, depth, big=False, show_league=False):
+def game_of(v):
+    """'Ducks vs. Flames | NHL Highlights | Nov 6, 2026' -> 'Ducks vs. Flames'"""
+    return v['title'].split('|')[0].strip()
+
+
+def yt_thumb(v):
+    return (f'<img src="https://i.ytimg.com/vi/{esc(v["id"])}/hqdefault.jpg" alt="" loading="lazy" decoding="async">'
+            '<span class="yt-play" aria-hidden="true"></span>')
+
+
+def highlights_row(videos, teams_by, depth, heading='Highlights'):
+    """The newest game highlights, side by side (scrolls sideways on phones)."""
+    if not videos:
+        return ''
+    cards = ''
+    for v in videos:
+        logos = ''.join(logo(teams_by[v['league']].get(s), depth, 20) for s in v['teams'][:2])
+        cards += (f'<div class="hl"><button class="yt" type="button" data-yt="{esc(v["id"])}" aria-label="Play {esc(game_of(v))} highlights">'
+                  f'{yt_thumb(v)}</button><div class="hl-body"><div class="hl-game">{logos}<span>{esc(game_of(v))}</span></div>'
+                  f'<div class="meta">{esc(v["source"])} · <time datetime="{esc(v["published"])}">{esc(et_time(v["published"]))}</time></div></div></div>')
+    return (f'<section class="sec"><div class="sec-head"><h2>{esc(heading)}</h2><span class="sec-n">{len(videos)} '
+            f'{"video" if len(videos) == 1 else "videos"}</span></div><div class="hl-row">{cards}</div></section>')
+
+
+def pair_videos(stories, videos):
+    """{story id: video}: each highlight goes under the first story shown
+    (newest first) that names one of its teams within VIDEO_PAIR_HOURS of it."""
+    def t(iso):
+        return datetime.fromisoformat(iso.replace('Z', '+00:00'))
+    out, used = {}, set()
+    for a in stories:
+        if not a['teams']:
+            continue
+        near = [v for v in videos if v['id'] not in used and v['league'] == a['league'] and set(v['teams']) & set(a['teams'])
+                and abs((t(v['published']) - t(a['published'])).total_seconds()) <= config.VIDEO_PAIR_HOURS * 3600]
+        if near:
+            v = min(near, key=lambda v: abs((t(v['published']) - t(a['published'])).total_seconds()))
+            out[a['id']] = v
+            used.add(v['id'])
+    return out
+
+
+def card(a, teams_by, depth, big=False, show_league=False, video=None):
     lg = next(l for l in config.LEAGUES if l['key'] == a['league'])
     chips = ''
     for slug in a['teams'][:4]:
@@ -147,10 +202,12 @@ def card(a, teams_by, depth, big=False, show_league=False):
             f'<div class="meta">{meta}</div>'
             f'<h3><a href="{esc(a["url"])}" target="_blank" rel="noopener">{esc(a["title"])}</a></h3>'
             + (f'<p>{esc(a["summary"])}</p>' if a.get('summary') and a['summary'] != a['title'] else '')
+            + (f'<button class="c-vid" type="button" data-yt="{esc(video["id"])}" aria-label="Play {esc(game_of(video))} highlights">'
+               f'<span class="yt">{yt_thumb(video)}</span><span class="c-vid-label"><small>Highlights</small>{esc(game_of(video))}</span></button>' if video else '')
             + (f'<div class="chips">{chips}</div>' if chips else '') + '</div></article>')
 
 
-def day_sections(items, teams_by, depth):
+def day_sections(items, teams_by, depth, paired=None):
     """Stories grouped by day (ET), each section laid out like a home-page
     league section: a photo story leads, the rest follow newest first."""
     today = datetime.now(timezone.utc).astimezone(ET).date()
@@ -162,7 +219,7 @@ def day_sections(items, teams_by, depth):
     for d in sorted(days, reverse=True):
         label = 'Today' if d == today else 'Yesterday' if (today - d).days == 1 else d.strftime('%A, %b %-d')
         shown, lead = lead_first(days[d])
-        cards = ''.join(card(a, teams_by, depth, big=(lead and i == 0)) for i, a in enumerate(shown))
+        cards = ''.join(card(a, teams_by, depth, big=(lead and i == 0), video=(paired or {}).get(a['id'])) for i, a in enumerate(shown))
         out += (f'<section class="sec"><div class="sec-head"><h2>{esc(label)}</h2><span class="sec-n">{len(shown)} '
                 f'{"story" if len(shown) == 1 else "stories"}</span></div><div class="grid">{cards}</div></section>')
     return out
@@ -220,6 +277,9 @@ def build(now=None):
     teams = {lg['key']: T.load(lg['key']) for lg in config.LEAGUES}
     teams_by = {k: {t['slug']: t for t in v} for k, v in teams.items()}
     by_league = {lg['key']: [a for a in articles if a['league'] == lg['key']] for lg in config.LEAGUES}
+    vpath = os.path.join(ROOT, 'data', 'videos.json')
+    videos = json.load(open(vpath, encoding='utf-8')) if os.path.exists(vpath) else []
+    vids = {lg['key']: [v for v in videos if v['league'] == lg['key']] for lg in config.LEAGUES}
 
     # home
     secs = ''
@@ -230,7 +290,8 @@ def build(now=None):
         if not items:
             continue
         items, lead = lead_first(items)
-        cards = ''.join(card(a, teams_by, '', big=(lead and i == 0)) for i, a in enumerate(items))
+        paired = pair_videos(items, vids[lg['key']])
+        cards = ''.join(card(a, teams_by, '', big=(lead and i == 0), video=paired.get(a['id'])) for i, a in enumerate(items))
         secs += (f'<section class="sec lg-{lg["key"]}"><div class="sec-head"><h2>{icons.sport_icon(lg["key"])}{esc(lg["label"])}</h2>'
                  f'<a href="{lg["key"]}/">All {esc(lg["label"])} news &rarr;</a></div><div class="grid">{cards}</div></section>')
     hero = (f'<section class="hero"><h1>Playoff <span>Beard</span></h1><p>{esc(config.TAGLINE)}</p>'
@@ -247,7 +308,9 @@ def build(now=None):
         hero = (f'<section class="hero"><h1>{icons.sport_icon(key, "hero-icon")}{esc(lg["label"])} <span>News</span></h1>'
                 f'<p>The latest {esc(lg.get("noun") or lg["name"].lower())} headlines from {esc(", ".join(config.FEEDS[key]))}.</p>'
                 + (logo_row(key, teams[key], "../") if teams[key] else '') + '</section>')
-        body = hero + (day_sections(items[:config.LEAGUE_PAGE_LIMIT], teams_by, '../') or '<p class="muted">No headlines yet.</p>')
+        shown_items = items[:config.LEAGUE_PAGE_LIMIT]
+        body = hero + highlights_row(vids[key][:config.HIGHLIGHTS_ROW], teams_by, '../') + (
+            day_sections(shown_items, teams_by, '../', pair_videos(shown_items, vids[key])) or '<p class="muted">No headlines yet.</p>')
         write(key, page(f'{lg["label"]} News — {config.SITE_NAME}', f'The latest {lg["label"]} headlines from around the league.', body, '../', key, updated))
         for t in teams[key]:
             mine = [a for a in items if t['slug'] in a['teams']][:config.TEAM_PAGE_LIMIT]
@@ -263,10 +326,12 @@ def build(now=None):
                     + (f'<div class="hero-links rivals">{riv}</div>' if riv else '') + '</section>')
             # teams get a few stories a day: one section, like a home-page league section
             shown, lead = lead_first(mine)
+            paired = pair_videos(shown, vids[key])
             latest = (f'<section class="sec"><div class="sec-head"><h2>Latest {esc(nick or t["name"])} news</h2>'
                       f'<span class="sec-n">{len(shown)} {"story" if len(shown) == 1 else "stories"}</span></div><div class="grid">'
-                      + ''.join(card(a, teams_by, '../../', big=(lead and i == 0)) for i, a in enumerate(shown)) + '</div></section>') if shown else ''
-            body = hero + (latest or
+                      + ''.join(card(a, teams_by, '../../', big=(lead and i == 0), video=paired.get(a['id'])) for i, a in enumerate(shown)) + '</div></section>') if shown else ''
+            team_vids = [v for v in vids[key] if t['slug'] in v['teams']][:6]
+            body = hero + highlights_row(team_vids, teams_by, '../../', f'{nick or t["name"]} highlights') + (latest or
                            f'<p class="muted">No {esc(t["name"])} headlines in the last {config.KEEP_DAYS} days.</p>') + (
                 rankings(t) if t.get('ranked') else '')
             write(f'{key}/{t["slug"]}', page(f'{t["name"]} News — {config.SITE_NAME}', f'The latest {t["name"]} headlines.', body, '../../', key, updated))
