@@ -1,6 +1,6 @@
 {
  "sport": "soccer",
- "updated": "2026-11-07T13:59:48+00:00",
+ "updated": "2026-11-08T10:18:27+00:00",
  "teams": [
   {
    "code": "BOU",
@@ -230,7 +230,7 @@
    "competition": "MLS",
    "division": "MLS",
    "conference": "Eastern Conference",
-   "pattern": "(?<!\\w)(cf\\ montreal|cf\\ montréal)(?!\\w)"
+   "pattern": "(?<!\\w)(cf\\ montréal|cf\\ montreal)(?!\\w)"
   },
   {
    "code": "CLT",

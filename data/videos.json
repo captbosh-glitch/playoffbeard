@@ -1,5 +1,209 @@
 [
 {
+"id": "RSMUC3aHIIk",
+"league": "nba",
+"source": "NBA",
+"title": "SPURS at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | November 7, 2026",
+"published": "2026-11-08T05:56:22Z",
+"teams": [
+"sa",
+"por"
+],
+"game": "Spurs at Trail Blazers"
+},
+{
+"id": "KblCawJ_hGQ",
+"league": "nhl",
+"source": "NHL",
+"title": "Canucks vs. Oilers | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T05:55:26Z",
+"teams": [
+"van",
+"edm"
+],
+"game": "Canucks vs. Oilers"
+},
+{
+"id": "vPtHmqOqqVY",
+"league": "nhl",
+"source": "NHL",
+"title": "Red Wings vs. Avalanche | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T04:52:52Z",
+"teams": [
+"det",
+"col"
+],
+"game": "Red Wings vs. Avalanche"
+},
+{
+"id": "Njl75480RWY",
+"league": "nhl",
+"source": "NHL",
+"title": "Penguins vs. Kings | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T04:51:43Z",
+"teams": [
+"pit",
+"la"
+],
+"game": "Penguins vs. Kings"
+},
+{
+"id": "4ssDccjpiPU",
+"league": "nba",
+"source": "NBA",
+"title": "MAGIC at WARRIORS | FULL GAME HIGHLIGHTS | November 7, 2026",
+"published": "2026-11-08T04:51:30Z",
+"teams": [
+"orl",
+"gs"
+],
+"game": "Magic at Warriors"
+},
+{
+"id": "LTm7IPWNZYU",
+"league": "nba",
+"source": "NBA",
+"title": "ROCKETS at SUNS | FULL GAME HIGHLIGHTS | November 7, 2026",
+"published": "2026-11-08T04:45:52Z",
+"teams": [
+"hou",
+"phx"
+],
+"game": "Rockets at Suns"
+},
+{
+"id": "P7BGYMJDW6Q",
+"league": "nhl",
+"source": "NHL",
+"title": "Lightning vs. Wild | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T04:11:32Z",
+"teams": [
+"tb",
+"min"
+],
+"game": "Lightning vs. Wild"
+},
+{
+"id": "4bs19BIY_VI",
+"league": "nba",
+"source": "NBA",
+"title": "WIZARDS at THUNDER | FULL GAME HIGHLIGHTS | November 7, 2026",
+"published": "2026-11-08T03:56:32Z",
+"teams": [
+"wsh",
+"okc"
+],
+"game": "Wizards at Thunder"
+},
+{
+"id": "vQuNZxVPS4I",
+"league": "nhl",
+"source": "NHL",
+"title": "Sharks vs. Stars | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T03:52:00Z",
+"teams": [
+"sj",
+"dal"
+],
+"game": "Sharks vs. Stars"
+},
+{
+"id": "s-moVu73XM0",
+"league": "nba",
+"source": "NBA",
+"title": "KNICKS at CAVALIERS | FULL GAME HIGHLIGHTS | November 7, 2026",
+"published": "2026-11-08T03:51:11Z",
+"teams": [
+"ny",
+"cle"
+],
+"game": "Knicks at Cavaliers"
+},
+{
+"id": "l-7rwCMVj-A",
+"league": "nhl",
+"source": "NHL",
+"title": "Blackhawks vs. Hurricanes | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T03:46:48Z",
+"teams": [
+"chi",
+"car"
+],
+"game": "Blackhawks vs. Hurricanes"
+},
+{
+"id": "_vBCHO-6KzM",
+"league": "nba",
+"source": "NBA",
+"title": "NETS at HAWKS | FULL GAME HIGHLIGHTS | November 7, 2026",
+"published": "2026-11-08T03:42:08Z",
+"teams": [
+"bkn",
+"atl"
+],
+"game": "Nets at Hawks"
+},
+{
+"id": "Pw-ttsNXAYc",
+"league": "nhl",
+"source": "NHL",
+"title": "Devils vs. Islanders | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T03:33:57Z",
+"teams": [
+"nj",
+"nyi"
+],
+"game": "Devils vs. Islanders"
+},
+{
+"id": "nVIvIm6DHjE",
+"league": "nhl",
+"source": "NHL",
+"title": "Canadiens vs. Maple Leafs | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T03:11:54Z",
+"teams": [
+"mon",
+"tor"
+],
+"game": "Canadiens vs. Maple Leafs"
+},
+{
+"id": "eNWGe1mt3bI",
+"league": "nhl",
+"source": "NHL",
+"title": "Mammoth vs. Senators | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T03:05:44Z",
+"teams": [
+"uta",
+"ott"
+],
+"game": "Mammoth vs. Senators"
+},
+{
+"id": "1-yDggSIG34",
+"league": "nba",
+"source": "NBA",
+"title": "NUGGETS at PACERS | FULL GAME HIGHLIGHTS | November 7, 2026",
+"published": "2026-11-08T00:46:26Z",
+"teams": [
+"den",
+"ind"
+],
+"game": "Nuggets at Pacers"
+},
+{
+"id": "lRnru7Y48K4",
+"league": "nhl",
+"source": "NHL",
+"title": "Rangers vs. Kraken | NHL Highlights | Nov 7, 2026",
+"published": "2026-11-08T00:45:20Z",
+"teams": [
+"nyr",
+"sea"
+],
+"game": "Rangers vs. Kraken"
+},
+{
 "id": "KYYoIEWfd5o",
 "league": "nhl",
 "source": "NHL",
