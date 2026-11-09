@@ -1,5 +1,3366 @@
 [
 {
+"id": "78115dcd3a30",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "NFL Week 11 schedule flex: Giants-Jaguars moves to 4:25, Steelers-Eagles shifts to 1 p.m.",
+"url": "https://www.cbssports.com/nfl/news/nfl-week-11-schedule-flex-giants-jaguars-steelers-eagles/",
+"summary": "New York and Jacksonville will receive a larger Week 11 spotlight as the league swaps their start time with the intrastate matchup between Pittsburgh and Philadelphia",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/26/944ef8f0-b5c9-4719-a045-333580b7591d/trevor-lawrence-cbs.jpg",
+"published": "2026-11-09T18:41:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"jax",
+"nyg",
+"phi",
+"pit"
+]
+},
+{
+"id": "926185a821cc",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Celtics vs. 76ers predictions: Odds, recent stats, trends and best bets for November 10",
+"url": "https://sports.yahoo.com/articles/celtics-vs-76ers-predictions-odds-183354989.html",
+"summary": "Boston Celtics vs. Philadelphia 76ers Betting Preview for November 10, 2026",
+"image": "https://s.yimg.com/lo/mysterio/api/44f413b5f2f76e302aa782fd97c247a0db0083710c88bcb548ef2ef8260b7459/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2F3ac6e3b8dffb787ee71289c2470cb9ac.jpg",
+"published": "2026-11-09T18:33:54Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos",
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "0b8cb45ec8b3",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "NFL Deadline Trade Tracker: Who’s Moving in 2026?",
+"url": "https://sports.yahoo.com/articles/nfl-deadline-trade-tracker-moving-183013737.html",
+"summary": "The Jacksonville Jaguars have already made two additions in Week 10",
+"image": "https://s.yimg.com/lo/mysterio/api/ed45c31fc307a3385d8276aace7e8363d55172809382317351452bdfac115bcb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5e508eccb46fe971d815ca2820b2dee0.jpg",
+"published": "2026-11-09T18:30:13Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"jax"
+],
+"img_tried": true
+},
+{
+"id": "f60287399ba3",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Seahawks plan to start Drew Lock in Week 10 despite oblique injury, Sam Darnold to miss another game",
+"url": "https://www.cbssports.com/nfl/news/seahawks-plan-to-start-drew-lock-in-week-10-despite-oblique-injury-sam-darnold-to-miss-another-game/",
+"summary": "Lock will make his third start of the season as the Seattle quarterback group battles multiple injuries",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/0e9c1de3-72a2-4666-9e48-41151b91d912/gettyimages-2304194622-1.jpg",
+"published": "2026-11-09T18:30:04Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"sea"
+]
+},
+{
+"id": "9db0939a07c1",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Titans, Cam Ward’s Week 10 challenge gets more complicated",
+"url": "https://sports.yahoo.com/articles/titans-cam-ward-week-10-183000813.html",
+"summary": "The Tennessee Titans and QB Cam Ward will have a tougher challenge versus the Jacksonville Jaguars in Week 10.",
+"image": "https://s.yimg.com/lo/mysterio/api/4e0da8e048f9039da91ee45779d08a75a062c57b2969863f0577853735129c2e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F0e51a4878c8bffbca519e0d1145210f4.jpg",
+"published": "2026-11-09T18:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"ten"
+],
+"img_tried": true
+},
+{
+"id": "1120524c5ae7",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Washington Commanders NFL Trade Deadline Tracker",
+"url": "https://sports.yahoo.com/articles/washington-commanders-nfl-trade-deadline-183000893.html",
+"summary": "Rumors, reports, and speculation about the Washington Commanders at the NFL trade deadline",
+"image": "https://s.yimg.com/lo/mysterio/api/845643e6aa23b8c165da63f011243103dff9f76cdc871af2ea0157d0d43afc1b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F9b598d32faa96cd2bda5390c6affa0a1.jpg",
+"published": "2026-11-09T18:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"wsh"
+],
+"img_tried": true
+},
+{
+"id": "df6ee3ec6466",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Barcelona continue to dominate the Golden Boy awards following Pau Cubarsi triumph",
+"url": "https://sports.yahoo.com/articles/barcelona-continue-dominate-golden-boy-183000252.html",
+"summary": "After a rough few weeks, Barcelona fans have some reason to celebrate as defender Pau Cubarsi has won the Golden Boy award for the 2026 edition.The prestigious trophy, awarded every year by Italian ou...",
+"image": "https://s.yimg.com/lo/mysterio/api/e77888dd424702ffef868d7c0503ea311690be7ee97d5af1870b4d2d11a576c4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2F38f25d8ad7f0fcae1c3531c07ff3463a.jpg",
+"published": "2026-11-09T18:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "b35de3b51d15",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Rangers at Oilers projected lineups",
+"url": "https://www.nhl.com/news/new-york-rangers-edmonton-oilers-game-preview-november-9-2026",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1730403928/prd/aurnqouhfqizkuxylfkw.jpg",
+"published": "2026-11-09T18:29:30Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"edm",
+"nyr"
+]
+},
+{
+"id": "9a24d649fe42",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Andy Reid calls Patrick Mahomes 'day-to-day' with elbow injury",
+"url": "https://sports.yahoo.com/nfl/article/andy-reid-calls-patrick-mahomes-day-to-day-with-elbow-injury-182923564.html",
+"summary": "Despite how bad the injury looked, Mahomes returned for Sunday's win over the Jets.",
+"image": "https://s.yimg.com/lo/mysterio/api/a7e9cfce5c976ea94d8b4e062aaae27e62e61c4cb198ac8af617c68b0005c371/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F1bf7321a-7d24-428c-b69b-bc6dfd84add1",
+"published": "2026-11-09T18:29:23Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyj"
+],
+"img_tried": true
+},
+{
+"id": "babf59721d81",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Jaguars-Giants Week 11 Kickoff Flexed",
+"url": "https://sports.yahoo.com/articles/jaguars-giants-week-11-kickoff-182653147.html",
+"summary": "The NFL has announced the Jacksonville Jaguars Week 11, matchup at the New York Giants will officially be flexed to 4:25 p.m. ET time slot while the Pittsburgh Steelers at Philadelphia Eagles game will shif5 to the 1 p.m. ET slot. However, both games will remain on CBS for television audience viewing. The…",
+"image": "https://s.yimg.com/lo/mysterio/api/2fb8a179dc17af5cceb51bbf54c4cb7de008abc675ec8264ffccb78bc2c50ccd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fae7cb5b6b129e6e99218a9d4715c3e7c.jpg",
+"published": "2026-11-09T18:26:53Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"jax",
+"nyg"
+],
+"img_tried": true
+},
+{
+"id": "3464c94a2a5b",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Saints trade DT Davon Godchaux to the Jacksonville Jaguars",
+"url": "https://sports.yahoo.com/articles/saints-trade-dt-davon-godchaux-182628672.html",
+"summary": "The Louisiana native is now headed to Jacksonville",
+"image": "https://s.yimg.com/lo/mysterio/api/21ff58e11d84962671e5e0276fd5342d0c9deb3796994d91a9afeba6a5267ceb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ffa08681b2ef7ed925317c2d9cd5e5f5d.jpg",
+"published": "2026-11-09T18:26:28Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"jax",
+"no"
+],
+"img_tried": true
+},
+{
+"id": "afc60dca3189",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Steelers flexed out of late window in Week 11 game vs. Eagles",
+"url": "https://sports.yahoo.com/articles/steelers-flexed-window-week-11-182542693.html",
+"summary": "Steelers flexed out of 4:00 window in Week 11 matchup vs. Eagles.",
+"image": "https://s.yimg.com/lo/mysterio/api/d13d7c8408d59abc8240368a406ef5c47a19708d99d827678bc70531b0743317/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F4791c8f0318271d25f297573c9497970.jpg",
+"published": "2026-11-09T18:25:42Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phi",
+"pit"
+],
+"img_tried": true
+},
+{
+"id": "fc636926f6af",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Kraken practice in Helsinki, ready for team bonding at Global Series Finland",
+"url": "https://www.nhl.com/news/topic/global-series/seattle-kraken-practice-in-helsinki-ready-for-team-bonding-at-global-series-finland",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1794248783/prd/cvuyf4iwff3wyum2reei.jpg",
+"published": "2026-11-09T18:25:28Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"sea"
+]
+},
+{
+"id": "0bd2a5ae8626",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Report: Saints agree to trade DT Davon Godchaux to Jaguars",
+"url": "https://sports.yahoo.com/articles/report-saints-agree-trade-dt-182520483.html",
+"summary": "The Jaguars weren't done trading when they swung a deal to acquire safety Jessie Bates on Monday morning.",
+"image": "https://s.yimg.com/lo/mysterio/api/4d3de740a4b3ce4c7be6212a47099bc761a903615d82034b67cb21f028407bf0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F454226b4eb5cd94e55a6b6d0ceaf7e2b.jpg",
+"published": "2026-11-09T18:25:20Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"jax",
+"no"
+],
+"img_tried": true
+},
+{
+"id": "1130b5a55e5c",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "J.J. McCarthy appears on track for Week 10",
+"url": "https://sports.yahoo.com/articles/j-j-mccarthy-appears-track-182444372.html",
+"summary": "Giants QB J.J. McCarthy has good chance to play in Week 10 even though he injured hip in Week 9",
+"image": "https://s.yimg.com/lo/mysterio/api/16c33eb68f3016e9b2418f1b0c13dd0892cc964fa9c51d39dde95a64df234dd3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F3b4a1a009bb5d2d1c18d3f027b6cabe2.jpg",
+"published": "2026-11-09T18:24:44Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyg"
+],
+"img_tried": true
+},
+{
+"id": "68543e455356",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "It’s time for the Raiders to trade Kirk Cousins",
+"url": "https://sports.yahoo.com/articles/time-raiders-trade-kirk-cousins-182431687.html",
+"summary": "Kirk Cousins has been great for the Raiders, but even he can’t overcome the team's shortcomings.",
+"image": "https://s.yimg.com/lo/mysterio/api/38968cfb97259a5e79b2bb00eeb9ba075b57dc05243047aabc8696da89fbc993/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F2d01a3d1dbf971164f3579ecd1722433.jpg",
+"published": "2026-11-09T18:24:31Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lv"
+],
+"img_tried": true
+},
+{
+"id": "3b90f0032b8e",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Seahawks expect Drew Lock to start vs. Raiders despite oblique injury",
+"url": "https://sports.yahoo.com/articles/seahawks-expect-drew-lock-start-182413752.html",
+"summary": "It’s good news for the Seahawks after the backup suffered an injury in Sunday’s win.",
+"image": "https://s.yimg.com/lo/mysterio/api/c8ce8a161fc3fee3f79d05b760db1bea620dd8d595b848786b0ca07b66546048/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F15fffee8c574f710c128b0c39e65f67c.jpg",
+"published": "2026-11-09T18:24:13Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lv",
+"sea"
+],
+"img_tried": true
+},
+{
+"id": "df07d393344a",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "NFL trade deadline deal tracker includes Jessie Bates, Jacoby Brissett, and more",
+"url": "https://sports.yahoo.com/articles/nfl-trade-deadline-deal-tracker-161051022.html",
+"summary": "Tracking all the deals made ahead of the NFL’s trade deadline",
+"image": "https://s.yimg.com/lo/mysterio/api/8b150609c26020cc5a030dfe444523eb7858b246d64beb1b08d67b5eaf3de284/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F3991c4bf3f28cbe8b958e0b96c3c8e82.jpg",
+"published": "2026-11-09T18:22:57Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "26834f957558",
+"league": "nhl",
+"source": "NHL.com",
+"title": "NHL EDGE stats: Gauthier joins ‘Rocket’ Richard Trophy race during goal surge",
+"url": "https://www.nhl.com/news/topic/nhl-edge/nhl-edge-stats-cutter-gauthier-anaheim-ducks-goal-scoring-2026-27",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio3_4-size20/f_auto/v1794248039/prd/eqjkmwbg75uvpawfg33o.jpg",
+"published": "2026-11-09T18:22:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "f5322fca90a9",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Milan make initial contact to renew Yunus Musah’s contract",
+"url": "https://sports.yahoo.com/articles/milan-initial-contact-renew-yunus-182100021.html",
+"summary": "Serie A side Milan have seen Yunus Musah become a key player in Ruben Amorim’s project and are taking steps to keep him beyond his current contract.Daniele Longo has reported about developments rega...",
+"image": "https://s.yimg.com/lo/mysterio/api/966b0d03628525fefe34d04b6cfb2a62f11b74abaa1cfd1b3a76de7e75d34110/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fget_italian_football_news_article_917%2Fd4d2f13f27eb94c937e5a04869049138.jpg",
+"published": "2026-11-09T18:21:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "5098f29b3676",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Eagles schedule change: Steelers start time moved up",
+"url": "https://sports.yahoo.com/articles/eagles-schedule-change-steelers-start-182021297.html",
+"summary": "The Battle of the Keystone State will take place earlier than originally scheduled.",
+"image": "https://s.yimg.com/lo/mysterio/api/8449d84edb0c83d404b5cf06a47c241c7b33255bfef2eff75766cccd2d5617e8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5c13cc24afa04a26988f956f3aa3fdde.jpg",
+"published": "2026-11-09T18:20:21Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phi",
+"pit"
+],
+"img_tried": true
+},
+{
+"id": "ec63918cafb0",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool have set their sights on move for in-form Premier League star",
+"url": "https://sports.yahoo.com/articles/liverpool-set-sights-move-form-182000324.html",
+"summary": "Liverpool Monitor Bart Verbruggen as Brighton Goalkeeper Emerges in Succession PlanLiverpool are tracking Brighton goalkeeper Bart Verbruggen as part of their longer-term planning in a position that w...",
+"image": "https://s.yimg.com/lo/mysterio/api/04ebd80edc52295315f605af7fed6b0b3a78f60d9a736afc823db77a778f6076/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F63e691ba59e487e57ba605eb436383ef.jpg",
+"published": "2026-11-09T18:20:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "d8a650454c31",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Golden Boy Award 2026 goes to Cubarsi, with Ahanor Best Italian",
+"url": "https://sports.yahoo.com/articles/golden-boy-award-2026-goes-181800119.html",
+"summary": "Barcelona and Spain defender Pau Cubarsí has won the 2026 Golden Boy award, with Erling Haaland named Golden Player, Honest Ahanor Italian Golden Boy and Arsenal’s Italian Andrea Berta Best Executi...",
+"image": "https://s.yimg.com/lo/mysterio/api/872bba1ac00395aca1de8f7cc44504fba0d7fa07a0d5070b4fa0f81a9ad9ac24/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F078703ba0084d18918c34eda191a0ded.jpg",
+"published": "2026-11-09T18:18:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"arsenal"
+],
+"img_tried": true
+},
+{
+"id": "85aafbb9f1e2",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "15-fight UFC veteran jumps to Muay Thai, gets knocked out by one-armed fighter (Video)",
+"url": "https://sports.yahoo.com/articles/15-fight-ufc-veteran-jumps-181258996.html",
+"summary": "Jake Peacock is picking up where Nick Newell left off. “The One” was born with no lower right arm due to complications during his mother’s pregnancy, but that hasn’t stopped the former ONE Championship fighter from racking up big wins on the local circuit. That includes his knockout victory over UFC veteran Cody…",
+"image": "https://s.yimg.com/lo/mysterio/api/42b25cdccf560cd32854f5ee66fb220512753140b52659e47a90a07542f585ba/lightyear_networkapi/resizefill_w560_h540%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5711cd14558a89388f37c485cc2f7bad.png",
+"published": "2026-11-09T18:12:58Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "49ad2a32a5b3",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "NFL moves Jaguars-Giants game in Week 11 to a 4:25 p.m. ET kickoff",
+"url": "https://sports.yahoo.com/articles/nfl-moves-jaguars-giants-game-181126181.html",
+"summary": "The NFL announced a couple of changes to kickoff times for Week 11 of the 2026 season.",
+"image": "https://s.yimg.com/lo/mysterio/api/9996dcd69db22a303d24bcd9d8d0f3e9bc895acffe00c80d9169961a1b129110/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F37128fc4a1d5e442cf47cb207859595e.jpg",
+"published": "2026-11-09T18:11:26Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"jax",
+"nyg"
+],
+"img_tried": true
+},
+{
+"id": "6ff9a7ce70a0",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Patrick Mahomes injury: Star QB avoids ‘major’ elbow injury vs. Jets",
+"url": "https://sports.yahoo.com/articles/patrick-mahomes-injury-star-qb-130000478.html",
+"summary": "Chiefs star QB Patrick Mahomes suffered an elbow injury against the Jets",
+"image": "https://s.yimg.com/lo/mysterio/api/b46ec782fb6be5d4f2e0593f0c07ad1dcc19898c4f71e52330dfd3e9a52c5dae/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F61baf1cb4b4e35d7bf954fa7e9bd1e41.jpg",
+"published": "2026-11-09T18:10:28Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyj"
+],
+"img_tried": true
+},
+{
+"id": "dfae85277abb",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "FIFA officials visit Camp Nou amid bid to host the final of the 2030 FIFA World Cup",
+"url": "https://sports.yahoo.com/articles/fifa-officials-visit-camp-nou-181000281.html",
+"summary": "Following a successful spectacle in North America this year, the FIFA World Cup will move to the Iberian peninsula, with the 2030 edition to be hosted by three countries in Spain, Portugal and Morocco...",
+"image": "https://s.yimg.com/lo/mysterio/api/6a40279f91b70c9941b7b82b7d40c39beae5c816922734ba126edc9fd597451f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2Fa7a2c4c351dfb301f4a0b9ab9a40e9e7.jpg",
+"published": "2026-11-09T18:10:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "13b2b2c8f8ee",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Cisse: ‘Practically on the flight to PSV before Milan called, never had any doubt about my quality’",
+"url": "https://sports.yahoo.com/articles/cisse-practically-flight-psv-milan-180900337.html",
+"summary": "Alphadjo Cisse has spoken in-depth about his rapid rise to the top of Italian football, his life before becoming a professional and the fact that he had been on the verge of signing for PSV Eindhoven ...",
+"image": "https://s.yimg.com/lo/mysterio/api/c502d08ed34583185f770b8851cabdf1c6e22665e59436807291baaa9bc59b7e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F828909ee121f4fecf1b11b735b0e394c.jpg",
+"published": "2026-11-09T18:09:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "2818933f86fd",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Status Report: Smits week to week for Rangers",
+"url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-9-2026",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/v1794247475/prd/vq16j8tycbazunf3orrb.png",
+"published": "2026-11-09T18:07:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyr"
+]
+},
+{
+"id": "3607398073bd",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Raiders expected to face Drew Lock on Sunday",
+"url": "https://sports.yahoo.com/articles/raiders-expected-face-drew-lock-180608013.html",
+"summary": "Sam Darnold is out for Week 10",
+"image": "https://s.yimg.com/lo/mysterio/api/fd01dca8dee6bba5c4b48152d70e44c74f958cf029168e7d4ecc68473d7b4d85/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F4245354b42548ed49338c69fe02b7176.jpg",
+"published": "2026-11-09T18:06:08Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lv"
+],
+"img_tried": true
+},
+{
+"id": "bb078cdc11ff",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Tom Brady: \"There was some deli meat given out by Drake Maye today\"",
+"url": "https://sports.yahoo.com/articles/tom-brady-deli-meat-given-180358173.html",
+"summary": "The quarterback with a statue outside the stadium returned for the first time to call a game in his capacity as a broadcaster for Fox.",
+"image": "https://s.yimg.com/lo/mysterio/api/e30451ec532100caa8a3b6e37c1f39e7d436e6ddb094a00573afb5c327196f35/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2Feac2f72667d30b6afd0792830e1dbf34.jpg",
+"published": "2026-11-09T18:03:58Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "a9c3433dee26",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool and Netherlands hit with injury blow as Virgil van Dijk withdraws from international duty",
+"url": "https://sports.yahoo.com/articles/liverpool-netherlands-hit-injury-blow-173210902.html",
+"summary": "The Dutchman played all 90 minutes of Liverpool’s win over Crystal Palace on Sunday",
+"image": "https://s.yimg.com/lo/mysterio/api/c57647f4fb3bb1d8d6a9737723c5b37fe9e4e96a80e3727af81dc0a9f9f509aa/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F8b92c314b4f923bbf9f878328997018d.jpg",
+"published": "2026-11-09T18:02:28Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "fc7758a38e60",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC 334 'Embedded,' No. 1: Amanda Nunes' daughter predicts title fight",
+"url": "https://sports.yahoo.com/articles/ufc-334-embedded-no-1-180127334.html",
+"summary": "On the first episode of UFC 334 \"Embedded,\" Amanda Nunes' daughter makes a prediction – albeit a biased one – for her mom's return from retirement",
+"image": null,
+"published": "2026-11-09T18:01:27Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "a0fbd9cf2c18",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Arsenal women injury update ahead of Barcelona",
+"url": "https://sports.yahoo.com/articles/arsenal-women-injury-ahead-barcelona-180100422.html",
+"summary": "Arsenal Women head to Barcelona with several fitness concerns, although Renée Slegers has received some encouragement before Thursday’s Champions League trip.Photo by Ben Roberts Photo/Getty Images...",
+"image": "https://s.yimg.com/lo/mysterio/api/7c5aa3d9e05ec0a42fa318f2d9823382a5f94d439ff0950e8c0b3dbe43408e45/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_cannon_articles_231%2Fdada5d7156a5db57254e0c1b55317387.jpg",
+"published": "2026-11-09T18:01:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"arsenal"
+],
+"img_tried": true
+},
+{
+"id": "08d990dd32b4",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Sam Darnold injury update as Seahawks make QB call for Week 10 vs. Raiders",
+"url": "https://sports.yahoo.com/articles/sam-darnold-injury-seahawks-qb-180030446.html",
+"summary": "Sam Darnold will be out at least another week, likely leaving the Seahawks to roll with Drew Lock, who is also nursing a couple injuries.",
+"image": "https://s.yimg.com/lo/mysterio/api/feb67db9fbdd224b88064d6ea16fe0cb5eb70a422942f876285652ed2b3c560d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F89647191acf8a18669758d96d76b6c52.jpg",
+"published": "2026-11-09T18:00:30Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lv",
+"sea"
+],
+"img_tried": true
+},
+{
+"id": "b7adccd6b2f1",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Gauthier, J. Hughes, Saros named 3 Stars of Week",
+"url": "https://www.nhl.com/news/topic/3-stars/gauthier-j-hughes-saros-named-nhl-3-stars-of-week-november-9-2026",
+"summary": "Ducks forward, Devils center Hughes, Predators goalie Saros earn honors",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_png/prd/zjr7hfzcg1rq19ltlnf6.png",
+"published": "2026-11-09T18:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"anh",
+"nsh",
+"nj"
+]
+},
+{
+"id": "932b62ace7b1",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "AFL Mesa Solar Sox Update: Kade Snell joins the Fall Stars",
+"url": "https://sports.yahoo.com/articles/afl-mesa-solar-sox-kade-180000720.html",
+"summary": "The Mesa Solar Sox went 2-3 in the penultimate week of the AFL season.",
+"image": "https://s.yimg.com/lo/mysterio/api/0243dac4ec78df16af0ec3d4245268da855e9ce7a5b24dbda494f18ac5826020/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fbf4ba081a100c73e978b6402e21f1600.jpg",
+"published": "2026-11-09T18:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "443add1e1023",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Sam Darnold ruled out for Week 10, Drew Lock in line to start",
+"url": "https://sports.yahoo.com/articles/sam-darnold-ruled-week-10-175837268.html",
+"summary": "Sam Darnold will be out for at least another week, but the Seahawks' regular backup quarterback should be able to play in the Week 10 matchup against the Raiders.",
+"image": "https://s.yimg.com/lo/mysterio/api/84772013fb119695b6f3999f91baf57b29a6f5bf7099af0e1c7e0241d18e23ab/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F1539e0fa1653bb3a29819853cba27741.jpg",
+"published": "2026-11-09T17:58:37Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lv",
+"sea"
+],
+"img_tried": true
+},
+{
+"id": "bed636146117",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Man Utd yet to make decision on Carrick's future",
+"url": "https://sports.yahoo.com/articles/man-utd-yet-decision-carricks-175245725.html",
+"summary": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
+"image": "https://s.yimg.com/lo/mysterio/api/33b05b095f36682fa405593309507767c4ab5e18e22be74aea95a649cbcfc1cc/lightyear_networkapi/resizefill_w535_h301%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6da8dc2ca02aa4ae308f524511f7ecb4.jpg",
+"published": "2026-11-09T17:58:22Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"man-utd"
+],
+"img_tried": true
+},
+{
+"id": "3c3f35d27e2f",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Titans 'aware' of airport incident involving wideout Calvin Ridley",
+"url": "https://sports.yahoo.com/nfl/article/titans-aware-of-airport-incident-involving-wideout-calvin-ridley-175811987.html",
+"summary": "Calvin Ridley has just six receptions in 2026.",
+"image": "https://s.yimg.com/lo/mysterio/api/dcc0ea1d4b9b15f17710df100b2d82c35585e5e6030691b72e9a16220095107a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F426a7919-6c2c-40a5-93e6-653d11b007c7",
+"published": "2026-11-09T17:58:11Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"ten"
+],
+"img_tried": true
+},
+{
+"id": "b1a272029245",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Seahawks rule out QB Sam Darnold for Week 10 vs. Raiders; Drew Lock dealing with oblique injury",
+"url": "https://sports.yahoo.com/nfl/article/seahawks-rule-out-qb-sam-darnold-for-week-10-vs-raiders-drew-lock-dealing-with-oblique-injury-175613358.html",
+"summary": "Drew Lock is in line to start his second consecutive game for the Seahawks.",
+"image": "https://s.yimg.com/lo/mysterio/api/72192dbecfb6331264675c1fc2169c1721ff996e6639938bf6cd189153c776b3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F517d05fe-eea6-4d01-9342-8988ecc38612",
+"published": "2026-11-09T17:56:13Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lv",
+"sea"
+],
+"img_tried": true
+},
+{
+"id": "d69ace5f8aa8",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Kane and Bellingham air strong views in England World Cup review",
+"url": "https://sports.yahoo.com/articles/kane-bellingham-air-strong-views-174059633.html",
+"summary": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+"image": "https://s.yimg.com/lo/mysterio/api/81d48d6c82aac1274bf889b4a00b28fdc30fd405a614050217eea7e02c8d3081/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F751133d1c3eb7cc177c7cd2d3d542164.jpg",
+"published": "2026-11-09T17:55:37Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "c5dbb4d8ab8e",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "LeBron James says 'family is safe' after arrest of alleged stalker outside Brentwood home",
+"url": "https://sports.yahoo.com/articles/lebron-james-says-family-safe-175452274.html",
+"summary": "LeBron James says his family is safe after multiple media outlets reported that a man was arrested outside the former Lakers star's Brentwood home and booked on suspicion of felony stalking.",
+"image": "https://s.yimg.com/lo/mysterio/api/7d67a19e2c627daacb79afbef4c27efe9ae1fc4522cfc3ef47e8a4dda6dc8f5b/lightyear_networkapi/resizefill_w840_h560%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F747cdae7896e4cd175eb5e6c5edd9019.jpg",
+"published": "2026-11-09T17:54:52Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lal"
+],
+"img_tried": true
+},
+{
+"id": "65a30d1f8745",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Virgil van Dijk pulls out of international duty with injury issue",
+"url": "https://sports.yahoo.com/articles/virgil-van-dijk-pulls-international-175400492.html",
+"summary": "Virgil van Dijk Injury Update Raises Fresh Liverpool Contract QuestionsVirgil van Dijk is in the final year of his Liverpool contract, and that matters. When your captain is 35, has heavy mileage in h...",
+"image": "https://s.yimg.com/lo/mysterio/api/7a5da0be596ccedeceade614ae4afe34fd2b2313fc98c8b8157e5d0848eb0393/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2Ffb16a34275019e9c72b5ecf8d32dc1c7.jpg",
+"published": "2026-11-09T17:54:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "57c99ef1fd59",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Guardians News: Team Adds Antoine Kelly",
+"url": "https://sports.yahoo.com/articles/guardians-news-team-adds-antoine-175344284.html",
+"summary": "News and Notes for Monday, November 9th, 2026",
+"image": "https://s.yimg.com/lo/mysterio/api/847afa98b6d8845ce6a147e05345f3b9a6a5d361277f07a2bc02ea4649adad3f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F7fd2c6e986bffae098ad03fafd9b6b45.jpg",
+"published": "2026-11-09T17:53:44Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"cle"
+],
+"img_tried": true
+},
+{
+"id": "725c24d9687f",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Former Real Madrid manager heaps praise on Arda Guler: ‘Always in the right place, where he needs to be’",
+"url": "https://sports.yahoo.com/articles/former-real-madrid-manager-heaps-175200358.html",
+"summary": "Real Madrid’s exceptional comeback after the international break of the season deserves more recognition, with the team currently on a run of eight consecutive victories in all competitions.A key ca...",
+"image": "https://s.yimg.com/lo/mysterio/api/aacad13d32e016b9c9c078924ffba4560aaf828d3daad17f134fc46e11f80e75/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2F41096bec82a20e6f40834a0c1f290b5a.jpg",
+"published": "2026-11-09T17:52:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "fc66b0b3716e",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Sunday Aftermath: Puka Nacua's status, Tank Dell's return, and more",
+"url": "https://sports.yahoo.com/articles/sunday-aftermath-puka-nacuas-status-175037745.html",
+"summary": "Breaking down all of the NFL's biggest Week 9 storylines, including the Chiefs' latest injury issues.",
+"image": "https://s.yimg.com/lo/mysterio/api/509615ce35cb78200b2962b3c9558b56834d2bd572fb7ddc1baab44758fc716c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2Fc28608f412fefde2e1bf20edb782e2b4.jpg",
+"published": "2026-11-09T17:50:37Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"kc"
+],
+"img_tried": true
+},
+{
+"id": "e10a4de15ca1",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Liverpool considering move to sign Premier League star",
+"url": "https://sports.yahoo.com/articles/liverpool-considering-move-sign-premier-175000366.html",
+"summary": "Liverpool tracking Bart Verbruggen as Brighton goalkeeper emerges in succession planLiverpool are among the clubs closely monitoring Bart Verbruggen, with the Brighton goalkeeper gaining serious atten...",
+"image": "https://s.yimg.com/lo/mysterio/api/17528bde408a1e321257b55678c319a4585d288b2c2166ffcbcee5c7cfcfc1a8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2Fde14ec6ca667fb6b1d3414ef1a7977bd.jpg",
+"published": "2026-11-09T17:50:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "c7b5480d34b4",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Mack Hollins reaches end zone",
+"url": "https://sports.yahoo.com/articles/mack-hollins-reaches-end-zone-174552075.html",
+"summary": "New England Patriots WR Mack Hollins had three catches for 36 yards and a touchdown in Week 9 against the Green Bay Packers",
+"image": "https://s.yimg.com/lo/mysterio/api/d995019a248e8d68ecb53be391314bdb7ae0a273a510887f3d6dc49db3a819f9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F55bc7eeec1846c615a199227d2ee1e1b.jpg",
+"published": "2026-11-09T17:45:52Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"gb",
+"ne"
+],
+"img_tried": true
+},
+{
+"id": "da18c0037259",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "‘This Is What They Call Cloud Nine’ – Tye Ruotolo Basks In Two-Sport Glory After Historic Victory At The Inner Circle 37",
+"url": "https://sports.yahoo.com/articles/call-cloud-nine-tye-ruotolo-174330831.html",
+"summary": "The 23-year-old grappling phenom stunned the MMA world to claim his second World Title.",
+"image": "https://s.yimg.com/lo/mysterio/api/3b7c8b0067297f44a2de752619b4e3b9c936226c9a355dd97dcb4741ead91a23/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fone_championship_articles_385%2Fd4d4999ce98897fd38962424ccc940ba.jpg",
+"published": "2026-11-09T17:43:30Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "1f6c0a1fa11b",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Packers By The Numbers: Stats from the Week 9 win over the Patriots",
+"url": "https://sports.yahoo.com/articles/packers-numbers-stats-week-9-174227908.html",
+"summary": "Digging into some numbers from the Packers Week 9 Victory over the Patriots",
+"image": "https://s.yimg.com/lo/mysterio/api/1edf86d2b08110e024c2ce47eebdb9404b58526a7bdae16057c7728bc514a416/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F40c1d5d6f066d13ccfc481c37f5dd656.jpg",
+"published": "2026-11-09T17:42:27Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"gb",
+"ne"
+],
+"img_tried": true
+},
+{
+"id": "6e7f023aa9ba",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Joan Laporta named 2026 President of the Year at the Golden Boy awards",
+"url": "https://sports.yahoo.com/articles/confirmed-joan-laporta-named-2026-174100182.html",
+"summary": "Joan Laporta has been named the Best President of the Year at the Golden Boy 2026 ceremony, an award organised by Italian newspaper Tuttosport.The announcement came ahead of the unveiling of this year...",
+"image": "https://s.yimg.com/lo/mysterio/api/3191465bc09b6f39bf02a79a95f40221c01f3983ccd284493582f2d51b31da94/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2F8957a316d8051404c97275e290ff0193.jpg",
+"published": "2026-11-09T17:41:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "b3277e1b2a9f",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Cam Skattebo injury update: Giants RB 'full go' for Thursday night vs. Commanders",
+"url": "https://www.cbssports.com/nfl/news/cam-skattebo-injury-update-giants-rb-thursday-night-commanders/",
+"summary": "Cam Skattebo is set to return from a hamstring injury as the NFC East-leading Giants prepare for a rematch with the Commanders",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/dff50570-ddb2-4a3d-aa13-178b77808db6/cam-skattebo-giants-2.jpg",
+"published": "2026-11-09T17:38:15Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyg",
+"wsh"
+]
+},
+{
+"id": "ecebea594476",
+"league": "mlb",
+"source": "CBS Sports",
+"title": "MLB rumors: GM meetings could ramp up hot stove activity, plus why the Cubs may already be out on Tarik Skubal",
+"url": "https://www.cbssports.com/mlb/news/mlb-rumors-gm-meetings-trades-cubs-tarik-skubal/",
+"summary": "Here are your offseason rumors for Monday, Nov. 9",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/e6dd2a5d-6b3d-4a94-8c0c-73a669cb656f/skubal-getty.png",
+"published": "2026-11-09T17:37:24Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"chc"
+]
+},
+{
+"id": "abeb52e1d977",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Kon Knueppel's latest injury setback could be crushing blow for Hornets",
+"url": "https://sports.yahoo.com/articles/kon-knueppels-latest-injury-setback-173633636.html",
+"summary": "The Charlotte Hornets' rough start to the NBA season got worse with Kon Knueppel's latest injury update. Here are more details on when he could return",
+"image": "https://s.yimg.com/lo/mysterio/api/2a9410dc5c3f73236bf787fb3877cc6f81bda0fe09a649cb282cb74a35727a5a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fe4b0ca155df5c113587b97000c448611.jpg",
+"published": "2026-11-09T17:36:33Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"cha"
+],
+"img_tried": true
+},
+{
+"id": "d2880040bc46",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Football Italia Show: What we learned from Mancini’s press conference",
+"url": "https://sports.yahoo.com/articles/football-italia-show-learned-mancini-173100958.html",
+"summary": "Roberto Mancini has outlined his plans for Italy ahead of two tough fixtures against France and Belgium, stressing the need to develop young talent while balancing experience in the national team. Wat...",
+"image": "https://s.yimg.com/lo/mysterio/api/459fc1016912e2664197f3a747a44dae0414b4e5ff5df82e257568540ac5a0d2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F97265af20cd8cc65593e0d6bd7aaf93b.jpg",
+"published": "2026-11-09T17:31:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "b61a353cc931",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Cowboys at Colts: The good, the bad, and ugly from Week 9",
+"url": "https://sports.yahoo.com/articles/cowboys-colts-good-bad-ugly-173000490.html",
+"summary": "Cowboys won a close one in Indianapolis",
+"image": "https://s.yimg.com/lo/mysterio/api/ccc5974131ea56b3e2c87fed71253d5b3d3d96a7d000c01951a10e7c2acf319a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F46d8e67aeb695892f7b2724f33c7765c.jpg",
+"published": "2026-11-09T17:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"dal",
+"ind"
+],
+"img_tried": true
+},
+{
+"id": "b0cb966056c5",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "3 things we learned from the Bengals’ fun game against the Falcons",
+"url": "https://sports.yahoo.com/articles/3-things-learned-bengals-fun-173000520.html",
+"summary": "Joe Burrow wanted to put on a show, and that’s exactly what he did.",
+"image": "https://s.yimg.com/lo/mysterio/api/5b0daa52059deaf545cee7f8df22543d57ae6bb16b4c98f85e172310012f7b78/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd44a9cc9652a39331ff60176dfead4c9.jpg",
+"published": "2026-11-09T17:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl",
+"cin"
+],
+"img_tried": true
+},
+{
+"id": "9ff33a0272e4",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Who gets your Game Ball from the Chiefs’ win over the Jets?",
+"url": "https://sports.yahoo.com/articles/gets-game-ball-chiefs-win-173000218.html",
+"summary": "Which player was Kansas City’s most important player in the win over New York?",
+"image": "https://s.yimg.com/lo/mysterio/api/ca147298752cacd55a44ac3940e1336a8c91ec25c92f09d9e16f98e76d3e3c31/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F91fb1e769e06fbab46117fc5e9df99a2.jpg",
+"published": "2026-11-09T17:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"kc",
+"nyj"
+],
+"img_tried": true
+},
+{
+"id": "e2414a19495d",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Roma will not release Molina for Argentina duty despite World Cup ban being reduced",
+"url": "https://sports.yahoo.com/articles/roma-not-release-molina-argentina-173000905.html",
+"summary": "Monday’s reports confirm that Roma will not release Nahuel Molina for international duty with Argentina this week, despite his seven-game ban for his antics at the end of the World Cup final being r...",
+"image": "https://s.yimg.com/lo/mysterio/api/18013f7038db0772992cb48f6c0d982176bbcfdf2545c27bad13697162cdeef1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F055d50ef5f1bbccb61af5861c8feb4d2.jpg",
+"published": "2026-11-09T17:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "4e09db67605c",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Jack Campbell injury revives one question: Should still play football? | Mitch Albom",
+"url": "https://sports.yahoo.com/articles/injuries-jack-campbells-remains-mitch-172859134.html",
+"summary": "After Detroit Lions linebacker Jack Campbell was hurt in last Sunday's game I found myself asking the question: Should we still be playing this sport?",
+"image": "https://s.yimg.com/lo/mysterio/api/26e22451a77f47bfa488ca940e2f45ce0508f4f43ff602ed7c45bda942a8865f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F88d46c11bc2e4b80a67ec54a5e15c137.jpg",
+"published": "2026-11-09T17:28:59Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"det"
+],
+"img_tried": true
+},
+{
+"id": "35aa38a21f80",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "A.J. Brown could travel with Patriots to Germany ahead of Week 10",
+"url": "https://sports.yahoo.com/articles/j-brown-could-travel-patriots-172708174.html",
+"summary": "Brown has missed the last two games.",
+"image": "https://s.yimg.com/lo/mysterio/api/d924f5509314f676f35bca358308212e0c9121ef7b5db65080049249a093f966/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd6baf42c6468ea3c4477b8585b638a49.jpg",
+"published": "2026-11-09T17:27:08Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"ne"
+],
+"img_tried": true
+},
+{
+"id": "bac54be8d0d5",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Kylian Mbappe wins La Liga Player of the Month award for October",
+"url": "https://sports.yahoo.com/articles/confirmed-kylian-mbappe-wins-la-172700490.html",
+"summary": "It is official. Real Madrid megastar Kylian Mbappe has been voted the La Liga Player of the Month for October.The France captain enjoyed a spectacular run of form during October, with fans choosing hi...",
+"image": "https://s.yimg.com/lo/mysterio/api/dbb6c4c3ee01f0c8f16ee5f522c16c9858b602931a29d985e012f6a0c1b98a27/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2Fe079465aa006c3a90bc43d1b8e6688c9.jpg",
+"published": "2026-11-09T17:27:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "778dd3143bd5",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "JJ McCarthy injury: Giants QB is on track to face Commanders on 'Thursday Night Football'",
+"url": "https://www.cbssports.com/nfl/news/jj-mccarthy-injury-giants-qb-on-track-commanders-thursday-night-football/",
+"summary": "McCarthy suffered a hip injury during Sunday's win over the Eagles but returned to play",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/4516712c-fb8a-49bd-8b0c-9ee592836fc4/jjweek9.jpg",
+"published": "2026-11-09T17:25:59Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyg",
+"wsh"
+]
+},
+{
+"id": "b7daafea8a0a",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Fantasy Basketball Waiver Wire Week 4: Better Believe in Brayden Burries",
+"url": "https://sports.yahoo.com/articles/fantasy-basketball-waiver-wire-week-172533885.html",
+"summary": "Milwaukee's rookie guard is heating up, and he leads our Week 4 waiver wire pickups.",
+"image": "https://s.yimg.com/lo/mysterio/api/20272fb1801833bae4537f934562ce6661d45ad36547fee3a3a9a139fb8e6ee0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2F2c939200f004545797c1602ab6b6299b.jpg",
+"published": "2026-11-09T17:25:33Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"mil"
+],
+"img_tried": true
+},
+{
+"id": "1207f8d8f666",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Hurricanes practice at 'The Cave' ahead of Global Series, 'felt like home'",
+"url": "https://www.nhl.com/news/topic/global-series/carolina-hurricanes-practice-at-the-cave-ahead-of-global-series",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1794248565/prd/kj4bcuqdkqoim7jensmn.jpg",
+"published": "2026-11-09T17:24:58Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"car"
+]
+},
+{
+"id": "f7d25f31f7a4",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Wilson eyeing survival step as Wales tackle Norway",
+"url": "https://sports.yahoo.com/articles/wilson-eyeing-survival-step-wales-172133929.html",
+"summary": "Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A.",
+"image": "https://s.yimg.com/lo/mysterio/api/7f94e6486c9d4bfc74c54a792b99c7cbbbcdc3780543e71eabc9f185174e8f9c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F205e95add28e978c359f66c3697f3672.jpg",
+"published": "2026-11-09T17:21:33Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "1727be97c6ad",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "10 Bears Takes: An Unlikely Win and Some Trade Deadline Thoughts",
+"url": "https://sports.yahoo.com/articles/10-bears-takes-unlikely-win-172000391.html",
+"summary": "Following an ugly 27-24 victory on Sunday night, the Bears head into their much-needed bye week at 7-2. @AaronLemingNFL has his 10 Takes here!",
+"image": "https://s.yimg.com/lo/mysterio/api/1c8a1aab8efe4056820533f0595dc61d0abddad8b48ed1aa1d5aa4be41a82e82/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fb52c4ac866e737396ec35c7eb4fa9cd8.jpg",
+"published": "2026-11-09T17:20:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"chi"
+],
+"img_tried": true
+},
+{
+"id": "295acfa1e66f",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Hunter Henry quiet in Week 9",
+"url": "https://sports.yahoo.com/articles/hunter-henry-quiet-week-9-171913104.html",
+"summary": "New England Patriots TE Hunter Henry had three catches for 35 yards in Week 9 against the Green Bay Packers.",
+"image": "https://s.yimg.com/lo/mysterio/api/34e049c6f2797f81f9f2c55e717dccc9438b9e08744d0bc47eb1b45531098b71/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F9bf2df6f5188725d96b0ca0e05959dd8.jpg",
+"published": "2026-11-09T17:19:13Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"gb",
+"ne"
+],
+"img_tried": true
+},
+{
+"id": "5d0c5b497f93",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Aberdeen sack Robinson after league slump",
+"url": "https://sports.yahoo.com/articles/aberdeen-remove-robinson-league-slump-164616866.html",
+"summary": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
+"image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+"published": "2026-11-09T17:19:05Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "2ed2a544452b",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "John Harbaugh says it \"looks like\" QB J.J. McCarthy (hip) will be able to play on Thursday",
+"url": "https://sports.yahoo.com/articles/john-harbaugh-says-looks-qb-171437534.html",
+"summary": "The NFL has fully embraced a full slate of Thursday night games, justifying the health-and-safety realities by pointing to in-game injury rates when a team has a full week to rest and when it has a four-day turnaround.",
+"image": "https://s.yimg.com/lo/mysterio/api/e064484b3c4b41abee70056f1c0dac75628608b599d054955b7cd8639cc579c3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F7ee50b512a42c86f9d28b873bcb5ef3a.jpg",
+"published": "2026-11-09T17:14:37Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "e76fa7c95c49",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "DeMario Douglas hits century mark",
+"url": "https://sports.yahoo.com/articles/demario-douglas-hits-century-mark-171410250.html",
+"summary": "New England Patriots WR DeMario Douglas had five catches for 102 yards in Week 9 against the Green Bay Packers.",
+"image": "https://s.yimg.com/lo/mysterio/api/1722b09e0531e79492767989eca267ef7af929016fa7b8a208aa392a38b77ee0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fb443c2583479c26b90d2d9daa28a18f3.jpg",
+"published": "2026-11-09T17:14:10Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"gb",
+"ne"
+],
+"img_tried": true
+},
+{
+"id": "0142aa8e8b00",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Use DraftKings promo code to get $200 bonus + free NBA League Pass for Vikings-Bills on Monday Night Football",
+"url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-vikings-bills-monday-night-football/",
+"summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Bills vs. Vikings on Monday Night Football",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
+"published": "2026-11-09T17:12:58Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"buf",
+"min"
+]
+},
+{
+"id": "7300af559135",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Official | Carlos Vicens appointed Lyon manager",
+"url": "https://sports.yahoo.com/articles/official-carlos-vicens-appointed-lyon-171200293.html",
+"summary": "Carlos Vicens has been appointed as the successor to Paulo Fonseca at Olympique Lyonnais, the Ligue 1 club announced on Monday evening. Fonseca left last week to join boyhood club Sporting CP. Lyon ac...",
+"image": "https://s.yimg.com/lo/mysterio/api/de537f72e57624eee0d634d6e21e8355fbeb84421f54a9489312cb6ecb535b0e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fget_french_football_news_702%2F48d7a4089000abf1388ecab4187adbb8.jpg",
+"published": "2026-11-09T17:12:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "9c1f46835592",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Cisse: ‘Italy is full of strong young players, I want to prove I should be here’",
+"url": "https://sports.yahoo.com/articles/cisse-italy-full-strong-young-171100896.html",
+"summary": "Alphadjo Cisse has spoken about the moment he found out he had been called up to the Italy national team for the first time, says that he wants to prove what he has to offer during his first camp with...",
+"image": "https://s.yimg.com/lo/mysterio/api/6df56f4469533c324bc0048bb3545a1da029e1ee58bfbe414c23309a887be261/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F381704f68c956fb8e4c197156bc1a8bb.jpg",
+"published": "2026-11-09T17:11:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "125f4e8cd612",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Ilia Topuria says he'd put Arman Tsarukyan in 'pure panic' mode",
+"url": "https://sports.yahoo.com/articles/ilia-topuria-says-hed-put-171021528.html",
+"summary": "Ilia Topuria says Arman Tsarukyan can't handle his striking.",
+"image": "https://s.yimg.com/lo/mysterio/api/7aeadbed5560cad0efdf64bb148334f4eeedb11f79d7476d5351e01d8a9acf13/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F8843d0e8cbb0d73d43cbf4b26ea3d131.jpg",
+"published": "2026-11-09T17:10:21Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lightweight"
+],
+"img_tried": true
+},
+{
+"id": "946b2a4c88a8",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Bills-Vikings picks for Monday night, plus NFL Week 9 losers and Jaguars make trade for Pro Bowl safety",
+"url": "https://www.cbssports.com/nfl/news/bills-vikings-picks-monday-night-nfl-week-9-losers-jaguars-trade-jessie-bates/",
+"summary": "Here's everything you need to know about the NFL for Nov. 9",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/32b51d49-3fd9-454e-9803-dd2a7178d099/2026-11-08t174925z-1736451105-up1emb81dic6w-rtrmadp-3-football-nfl-atl-cin.jpg",
+"published": "2026-11-09T17:08:36Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"buf",
+"jax",
+"min"
+]
+},
+{
+"id": "77313c57c905",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Giants expect Cam Skattebo to play on Thursday night",
+"url": "https://sports.yahoo.com/articles/giants-expect-cam-skattebo-play-170812674.html",
+"summary": "The Giants played without running back Cam Skattebo in Sunday's 19-11 win over the Eagles, but they do not expect his absence from the lineup to linger.",
+"image": "https://s.yimg.com/lo/mysterio/api/bfda52049f1bed2ff84320a1a1acfec7b04ec0eedcff4b6238923301fd967231/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F8819bad47a17ecd56a656067a78d743b.jpg",
+"published": "2026-11-09T17:08:12Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyg"
+],
+"img_tried": true
+},
+{
+"id": "cf71aabd3dd9",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Wellens unhappy with Harborough approach",
+"url": "https://sports.yahoo.com/articles/wellens-unhappy-harborough-approach-170711311.html",
+"summary": "Leyton Orient boss Richie Wellens accuses non-League Harborough of \"below the belt\" tackles in their FA Cup meeting.",
+"image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+"published": "2026-11-09T17:07:11Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "c567782c3e9e",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Seahawks vs. Raiders odds: Opening lines for Week 10 matchup",
+"url": "https://sports.yahoo.com/articles/seahawks-vs-raiders-odds-opening-170642786.html",
+"summary": "The final Seahawks game before the bye is another one against a below .500 team, and they are once again favorites.",
+"image": "https://s.yimg.com/lo/mysterio/api/c06c7258ad1499a600551a96940d76180aa2de4053d422f4d73fb6b30575a504/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F7053eec072f1b721c98ebfaf482cea91.jpg",
+"published": "2026-11-09T17:06:42Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lv",
+"sea"
+],
+"img_tried": true
+},
+{
+"id": "9e0e2b537630",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Browns plan to start Deshaun Watson vs. Texans despite Shedeur Sanders' breakout performance",
+"url": "https://www.cbssports.com/nfl/news/browns-starting-qb-deshaun-watson-shedeur-sanders-texans-2026/",
+"summary": "The Browns will reportedly start Deshaun Watson against the Texans despite an encouraging performance from Shedeur Sanders",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/01/8b62b6bd-e598-4cf8-be71-1ccbdf3c1ace/getty-deshaun-watson-browns-pregame.jpg",
+"published": "2026-11-09T17:06:11Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"cle",
+"hou"
+]
+},
+{
+"id": "670a907c6442",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "J.J. McCarthy injury update is good news for Giants",
+"url": "https://sports.yahoo.com/articles/j-j-mccarthy-injury-good-170554372.html",
+"summary": "J.J. McCarthy exited the Giants' Week 9 win with a hip injury and eventually returned. Here's the latest on the QB.",
+"image": "https://s.yimg.com/lo/mysterio/api/57ab045226b0e4cfc9e5b01eeaf4f4c91c0dbbe19a5dcdc4ef133197a7f0e297/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Faa8264fad9adf41de780080098e7db26.jpg",
+"published": "2026-11-09T17:05:54Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyg"
+],
+"img_tried": true
+},
+{
+"id": "89de5f5d8f52",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "🚨 Official: Lyon unveil Paulo Fonseca's successor!",
+"url": "https://sports.yahoo.com/articles/official-lyon-unveil-paulo-fonsecas-170400816.html",
+"summary": "It's now official!Left without a coach following Paulo Fonseca's surprise departure for Sporting Portugal a few days ago, OL have officially named their new manager.On Monday afternoon, Les Gones anno...",
+"image": "https://s.yimg.com/lo/mysterio/api/a40f40cccf65673cc3b10e80cedd0cf76b0d71be0db54fb49771223c137d452f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fe0b731da40de90eec116cd64b24ebe8d.jpg",
+"published": "2026-11-09T17:04:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "07891b7ee9dd",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "When will Tarik Skubal sign his likely record free agent contract?",
+"url": "https://sports.yahoo.com/articles/tarik-skubal-sign-likely-record-170100826.html",
+"summary": "Major League Baseball’s general managers meetings start on Monday and run though Thursday in Las Vegas, a chance at a large chunk of the baseball world to congregate in one area. While these meeting don’t usually lend themselves to spurring transactions. The winter meetings is usually the place where deals happen or…",
+"image": "https://s.yimg.com/lo/mysterio/api/c4f6cc8acdb5054dd588b84b6cf09ea88a0bf74513aee87103932c8d6af8bd9d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F773b67ccb35db04d9f764605af662dc9.jpg",
+"published": "2026-11-09T17:01:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "b1a650b53457",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Arteta reveals what is behind Madueke’s impressive Arsenal form",
+"url": "https://sports.yahoo.com/articles/arteta-reveals-behind-madueke-impressive-170100830.html",
+"summary": "Noni Madueke is starting to make a much bigger impression at Arsenal, and Mikel Arteta believes the winger’s recent form can be traced back to how he responded when opportunities were scarce.Photo b...",
+"image": "https://s.yimg.com/lo/mysterio/api/968fd7c2829b9932b0e4703d13faf701abcfcc79a433fb169a12358ed033c43f/lightyear_networkapi/resizefill_w800_h563%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_cannon_articles_231%2F850ff3f404555b3f0b2a74001205fa90.jpg",
+"published": "2026-11-09T17:01:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"arsenal"
+],
+"img_tried": true
+},
+{
+"id": "b591e8e24701",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Giants-Eagles: 5 plays that led to the Giants’ victory",
+"url": "https://sports.yahoo.com/articles/giants-eagles-5-plays-led-170000553.html",
+"summary": "Five plays — or sequence of plays — that led to the Giants’ 19-11 victory.",
+"image": "https://s.yimg.com/lo/mysterio/api/3e05112f5d63105a7def26ddf4f3facee7bcde48efe46218f0b511811d443ae0/lightyear_networkapi/resizefill_w1200_h628%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F9b36f19b5071475e0416a9e737026f55.png",
+"published": "2026-11-09T17:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyg",
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "5e3576ce6fff",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Fan Notes from the Patriots’ loss to the Packers",
+"url": "https://sports.yahoo.com/articles/fan-notes-patriots-loss-packers-170000339.html",
+"summary": "Notes, thoughts and musings from the Patriots’ 45-27 loss.",
+"image": "https://s.yimg.com/lo/mysterio/api/de5bbca5114ea4560710e7334e9a48d75c70ffdee8ed183241406a034bd2a553/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F356572ce35ba2da7bf6ac7cfe467adf4.jpg",
+"published": "2026-11-09T17:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"gb",
+"ne"
+],
+"img_tried": true
+},
+{
+"id": "212fbe1f7dfc",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Rams midseason schedule prediction for second half of 2026",
+"url": "https://sports.yahoo.com/articles/rams-midseason-schedule-prediction-second-170000959.html",
+"summary": "Can the Rams go at least 6-2 in their final 8 games to secure a playoff spot?",
+"image": "https://s.yimg.com/lo/mysterio/api/f173dd7258abcd7cad9c85e5a6c29d4610ddeb96fb8f6437d0f275f872d77b45/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F02c1fbb322b35a44dd449adfa52f2f12.jpg",
+"published": "2026-11-09T17:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lar"
+],
+"img_tried": true
+},
+{
+"id": "2f41757a6ab5",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Detroit Lions trade deadline 2026: Tracking every rumor",
+"url": "https://sports.yahoo.com/articles/detroit-lions-trade-deadline-2026-170000922.html",
+"summary": "Tracking all the latest Detroit Lions 2026 trade deadline rumors and every move made in the NFL.",
+"image": "https://s.yimg.com/lo/mysterio/api/5a03fa9cee5567ca0f1ea086da3e9f95becafdcf0d80cd5f47e5565ed1a5744e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5a06cb07e7dceadb17ff4e88b890d7ae.jpg",
+"published": "2026-11-09T17:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"det"
+],
+"img_tried": true
+},
+{
+"id": "fba1fdbbab80",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "What does the future hold for the Atlanta Braves’ starting rotation?",
+"url": "https://sports.yahoo.com/articles/does-future-hold-atlanta-braves-170000750.html",
+"summary": "Let’s take a deep dive into what direction the Braves might take when it comes to fortifying their rotation.",
+"image": "https://s.yimg.com/lo/mysterio/api/f3a60713293aeb6f459ad2dcbfedb29145d6b55d3babeb72c334e769216b977f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F260ed477478b6035c573549b5cf122ab.jpg",
+"published": "2026-11-09T17:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl"
+],
+"img_tried": true
+},
+{
+"id": "398431fa2ef5",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Real Madrid duo Mbappe, Bellingham feature in 2026 FIFPro World 11",
+"url": "https://sports.yahoo.com/articles/confirmed-real-madrid-duo-mbappe-170000620.html",
+"summary": "FIFPro, the global union for professional football players, has unveiled the 2026 FIFPro Men’s World 11 and Real Madrid have two representatives in the lineup.The FIFPro World 11 has been in practic...",
+"image": "https://s.yimg.com/lo/mysterio/api/ddb1c67957b76a09ffbb53b4b53d293df96dd8481d5ae3865b273e331e58a42c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2Fb49ac06787f29c840c139fecd47e29eb.jpg",
+"published": "2026-11-09T17:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "46425594f013",
+"league": "nba",
+"source": "CBS Sports",
+"title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for November 9",
+"url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-9/",
+"summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/f38ed529-26de-4252-b1a0-7cd06fe76047/yaxel-warriors.jpg",
+"published": "2026-11-09T16:57:52Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "6ebbca8eef15",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "2027 NFL Draft Order after Week 10",
+"url": "https://sports.yahoo.com/articles/2027-nfl-draft-order-week-165119223.html",
+"summary": "The Titans remain near the top of the 2027 NFL Draft",
+"image": "https://s.yimg.com/lo/mysterio/api/47fb34fa581b78dffde7331582e9b8f8893ef21f350e3a5c335fdc5cc3677b82/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F6c8665f4eca91116d6bdd05a5fe8c2a0.jpg",
+"published": "2026-11-09T16:51:19Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"ten"
+],
+"img_tried": true
+},
+{
+"id": "2b4cf6aa865f",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC Vegas 334 Early Picks, Luck Ratings, Predictions for Saturday, November 14",
+"url": "https://sports.yahoo.com/articles/ufc-vegas-334-early-picks-165054107.html",
+"summary": "Read my early picks for UFC 334 on November 14 from Madison Square Garden",
+"image": "https://s.yimg.com/lo/mysterio/api/3b44fab268faf8f3aa3b448f0f2450b678a789bd996013474981b6d3459d08c4/lightyear_networkapi/resizefill_w800_h450%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faction_network_147%2Febb1dbd6eb80ed4db90daad7b9d8eda2.jpg",
+"published": "2026-11-09T16:50:54Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "929bbe839808",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Final Thoughts: Iraola Gets the Response He Wanted as Liverpool Defeat Palace",
+"url": "https://sports.yahoo.com/articles/final-thoughts-iraola-gets-response-165000972.html",
+"summary": "Crystal Palace 1–3 Liverpool – Premier League Post-Match ReportBy Steven SmithAfter back-to-back defeats against Arsenal and Fenerbahçe, Liverpool travelled to Selhurst Park knowing that a respon...",
+"image": "https://s.yimg.com/lo/mysterio/api/5c642c3ec65374a27dd7072f053ad2be40bc12075d19f28747b8038ed1dd707f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fanfield_index_166%2F22ef5e6b3cc789b8fb44f8ada95244ac.jpg",
+"published": "2026-11-09T16:50:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "d44441a3f189",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Chelsea set to allow £17m star to leave in January",
+"url": "https://sports.yahoo.com/articles/chelsea-set-allow-17m-star-165000823.html",
+"summary": "Chelsea weigh Kendry Paez loan exit as Celtic and Blackburn monitor January plansChelsea’s modern habit of stockpiling youth can feel thrilling in theory and troubling in practice. Kendry Paez has b...",
+"image": "https://s.yimg.com/lo/mysterio/api/f111772b8f0c6941f23dcfb487174f0c73db4ec26b021108bc9f59d420fca25f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2Fcb23df1161115e0ea30beb6cccf2e27e.jpg",
+"published": "2026-11-09T16:50:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"chelsea"
+],
+"img_tried": true
+},
+{
+"id": "34b01d25e62b",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Patriots don't expect Ben Brown to play in Week 10, waiting for Rhamondre Stevenson MRI results",
+"url": "https://sports.yahoo.com/articles/patriots-dont-expect-ben-brown-164900640.html",
+"summary": "The Patriots expect to be without guard Ben Brown when they face the Lions in Germany in Week 10.",
+"image": "https://s.yimg.com/lo/mysterio/api/e4e998416fb77feb35a5d88d5d09f3016b701bcb6e629a4fff9d6e5dc5aee505/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprofootballtalk.nbcsports.com%2F7df8feba49a89337b1241c50f616d70b.jpg",
+"published": "2026-11-09T16:49:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"ne"
+],
+"img_tried": true
+},
+{
+"id": "f517381a8283",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Barcelona trio Cubarsi, Lamine and Rodri named in FIFPro World 11",
+"url": "https://sports.yahoo.com/articles/confirmed-barcelona-trio-cubarsi-lamine-164900511.html",
+"summary": "Earlier today, FIFPro, the global union for professional football players, announced the 2026 FIFPro Men’s World 11.The FIFPro World 11 has been in practice since 2009, with the organisation invitin...",
+"image": "https://s.yimg.com/lo/mysterio/api/43bee9c8198d40e4ffb5004739fea53a415e35b08ad39711dadafd208bb949a5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2F7baf77ec076238621e505a84bdc1f489.jpg",
+"published": "2026-11-09T16:49:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "e815c76ca822",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Monaco’s Aleksandr Golovin sustains calf injury",
+"url": "https://sports.yahoo.com/articles/monaco-aleksandr-golovin-sustains-calf-164600400.html",
+"summary": "AS Monaco playmaker Aleksandr Golovin (30) was forced off during Sunday evening’s 1-1 draw away to Le Mans FC. Nice-Matin have now revealed the nature of his injury. Golovin has been a key player fo...",
+"image": "https://s.yimg.com/lo/mysterio/api/c9e4b98cd0c4b9090a45855717c064884425e8ac45a60944e3b91cfe7d7fff2b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fget_french_football_news_702%2F492f07789edbe8a56220edac284a039c.jpg",
+"published": "2026-11-09T16:46:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "d1d4f5b5c755",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Free agent poll: Jazz Chisholm Jr.",
+"url": "https://sports.yahoo.com/articles/free-agent-poll-jazz-chisholm-164326705.html",
+"summary": "Should the Rangers sign Jazz Chisholm, Jr. to a 2 year, $46 million deal?",
+"image": "https://s.yimg.com/lo/mysterio/api/60cea07e9d6e073d336f0f13ae1ec56c07cd70e7ea8b1469ecf4f4b97251af63/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F4aad3a68f0048ee6e6e738a448992a78.jpg",
+"published": "2026-11-09T16:43:26Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"tex"
+],
+"img_tried": true
+},
+{
+"id": "f82a97ae26e1",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "De Bruyne future at Napoli uncertain as possibility of January exit emerges",
+"url": "https://sports.yahoo.com/articles/bruyne-future-napoli-uncertain-possibility-164000454.html",
+"summary": "Kevin De Bruyne is facing an uncertain future at club level, and local reports suggest that the Belgian superstar could potentially even leave as early as January.Il Mattino: Possibility of a January ...",
+"image": "https://s.yimg.com/lo/mysterio/api/0b5bd14595d6d5badbdff786eb5943fde1f53adf0d1f0436d0164eb308a61374/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2Fbebd49bfc2a5cb6086f008507060fc15.jpg",
+"published": "2026-11-09T16:40:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "38ce2745f1a8",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Fins Up, Fins Down | Winners and losers from Miami Dolphins week nine defeat",
+"url": "https://sports.yahoo.com/articles/fins-fins-down-winners-losers-163925205.html",
+"summary": "The Miami Dolphins played one of the best football teams in the National Football League on Sunday — the Detroit Lions — and while the defense was able to ground their opponents’ typically high-flying offense, it was their own ineptitude while possessing the football that dug the Dolphins’ grave this past weekend.…",
+"image": "https://s.yimg.com/lo/mysterio/api/97a51deb23fd60e043ac5afe2afa5836ceaa6f161a036a73b56a3db1a98ed206/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fe9be85a8bbcca0bdd8b087200d56cfd2.jpg",
+"published": "2026-11-09T16:39:25Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"mia"
+],
+"img_tried": true
+},
+{
+"id": "859319f470c6",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Nick Sirianni says Eagles could make coaching changes as struggling offense enters bye week",
+"url": "https://www.cbssports.com/nfl/news/nick-sirianni-eagles-hot-seat-coaching-changes-2026/",
+"summary": "Philadelphia has lost seven straight games, and Nick Sirianni is evaluating everything",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/7f909d65-c83d-4215-bb2b-4ddb9f05ded7/gettyimages-2303887272-1.jpg",
+"published": "2026-11-09T16:35:02Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phi"
+]
+},
+{
+"id": "c084b764a01d",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "’Hoos in the NBA: Early-season report card",
+"url": "https://sports.yahoo.com/articles/hoos-nba-early-season-report-163335710.html",
+"summary": "Checking in on the former UVA basketball players in the NBA.",
+"image": "https://s.yimg.com/lo/mysterio/api/c0af9ab509849b0cca8a7003a3bec17d73ad3f9edecec70fbe6def8dce88d329/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F83d2fc8a6b98de39bbb4b61beb20adfb.jpg",
+"published": "2026-11-09T16:33:35Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "d566d9b6c433",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Fantasy Basketball High Score Perfect Lineup: Victor Wembanyama's historic game leads the way in Week 3",
+"url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-high-score-perfect-lineup-victor-wembanyamas-wemby-historic-game-leads-the-way-in-week-3-163331038.html",
+"summary": "Wemby's epic game made it into the High Score record book, but he wasn't the only star to deliver in Week 3.",
+"image": "https://s.yimg.com/lo/mysterio/api/0cb2808fb2f827c82e027c7a517b9c309479d5bdc2363c0a4784ec256266e8b7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2afea254-fcef-45cb-99de-aeb3e99a821f",
+"published": "2026-11-09T16:33:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "34be4da3610d",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Manchester City’s weaknesses under Enzo Maresca are being exposed",
+"url": "https://sports.yahoo.com/articles/manchester-city-weaknesses-under-enzo-163013774.html",
+"summary": "After three straight defeats, City’s manager says he will use the international break to reassess. Their problems may go beyond tactics",
+"image": "https://s.yimg.com/lo/mysterio/api/ddf6668ecb31d31aaad9cb845cdbc466915c5a318e12a86c6d5ee6b349107c99/lightyear_networkapi/resizefill_w1000_h800%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F8efd74951ad3e7ceeb486385ee16d181.jpg",
+"published": "2026-11-09T16:30:13Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"man-city"
+],
+"img_tried": true
+},
+{
+"id": "220f7b9df463",
+"league": "nhl",
+"source": "NHL.com",
+"title": "McKenna Watch: McDavid, Oilers rematch await Leafs",
+"url": "https://www.nhl.com/news/gavin-mckenna-watch-connor-mcdavid-edmonton-oilers-await-toronto-maple-leafs-for-rematch",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1794241609/prd/pm1xiy48nuvxhpdhrx5q.jpg",
+"published": "2026-11-09T16:29:07Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"edm",
+"tor"
+]
+},
+{
+"id": "5c278e77a111",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "The Kidderminster Curry - the recipe behind Harriers' FA Cup success",
+"url": "https://sports.yahoo.com/articles/kidderminster-curry-recipe-behind-harriers-162805714.html",
+"summary": "Kidderminster Harriers boss Paul Wotton explains the secret recipe behind Saturday's FA Cup win over Doncaster Rovers",
+"image": "https://s.yimg.com/lo/mysterio/api/460d07c3350dad28bc245471106177efe90b691d24a17caeaf7eef9c7a524eab/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc45042d62b3b61b449e2d7a05920561e.png",
+"published": "2026-11-09T16:28:05Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "99af63083bd8",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "How to watch Washington Wizards vs Detroit Pistons: TV/live stream info for tonight's game",
+"url": "https://sports.yahoo.com/articles/watch-washington-wizards-vs-detroit-162659491.html",
+"summary": "Tip-off is at 7:00 PM ET on NBCSN and Peacock.",
+"image": "https://s.yimg.com/lo/mysterio/api/dcef0e003b54549a2d604d1f4737dc196480fbcc5ed8bc4e21e94fc2cec4862e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2Fa1bc89e3b6b923c321ee053d4a767ba8.jpg",
+"published": "2026-11-09T16:26:59Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"det",
+"wsh"
+],
+"img_tried": true
+},
+{
+"id": "c2519e728bae",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Szoboszlai a doubt for Nations League conclusion",
+"url": "https://sports.yahoo.com/articles/szoboszlai-doubt-nations-league-conclusion-162538034.html",
+"summary": "Liverpool midfielder Dominik Szoboszlai will undergo tests on a knee injury to ascertain his readiness to join up with the Hungarian national side for Nations League fixtures against Georgia and Northern Ireland.",
+"image": "https://s.yimg.com/lo/mysterio/api/b6dc3f5004f5b7fbfa29d7bacb357395ea4619b83e1710a4310bc0acbfdd1dc1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F70b0c186ae50a5226c0ba362c16dd5c5.jpg",
+"published": "2026-11-09T16:25:38Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"liverpool"
+],
+"img_tried": true
+},
+{
+"id": "67122a7d0f2b",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Austin Reaves still had time for jokes about Luka Dončić after big game vs. Pistons",
+"url": "https://sports.yahoo.com/articles/austin-reaves-still-had-time-162400662.html",
+"summary": "Austin Reaves did his best Luka Dončić impression on Sunday to lead the Lakers to a win, then had jokes about him after.",
+"image": "https://s.yimg.com/lo/mysterio/api/2f90cc4b1d63729cbde62a1ca3191a3736079060f947bd4f1d885b496b06c380/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5e503984a8a47c8f01e8a818a28a329c.jpg",
+"published": "2026-11-09T16:24:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"det"
+],
+"img_tried": true
+},
+{
+"id": "0bd5c82c3da4",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "The story behind Mike Conley’s first Celtics start: “I thought they were joking”",
+"url": "https://sports.yahoo.com/articles/story-behind-mike-conley-first-162214062.html",
+"summary": "In an exclusive interview with CelticsBlog, the 39-year-old went behind-the-scenes on how Jayson Tatum and Derrick White picked him to start against the Bucks, and his growing role as an extension of the coaching staff.",
+"image": "https://s.yimg.com/lo/mysterio/api/1158ea7c3d33aa79e615dfb13e1e4324016f2197c112568d0db7a4fc0a3967e8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fbaab2145055cffe3a2f1088a0046d019.jpg",
+"published": "2026-11-09T16:22:14Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos"
+],
+"img_tried": true
+},
+{
+"id": "dc4c09ae065d",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Vikings vs. Bills on Monday Night Football",
+"url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-vikings-vs-bills-monday-night-football/",
+"summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Bills vs. Vikings on Monday Night Football",
+"image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+"published": "2026-11-09T16:21:08Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"buf",
+"min"
+]
+},
+{
+"id": "c202fbd8c967",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "The real reason why Man United are desperate to avoid sacking Michael Carrick",
+"url": "https://sports.yahoo.com/articles/real-reason-why-man-united-162048675.html",
+"summary": "COMMENT: United’s dramatic comeback against Aston Villa raises more questions around the direction of the club, explains Miguel Delaney, with Carrick’s demise exposing a more worrying truth about the club",
+"image": "https://s.yimg.com/lo/mysterio/api/79aeaabb78f72847f784c36ca660cc3330b4bda8e68e6d746c349cfe39a65b83/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2Fccde9285262a006ab7fbbdb25538ccb7.jpg",
+"published": "2026-11-09T16:20:48Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"man-utd"
+],
+"img_tried": true
+},
+{
+"id": "558c9f679248",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Ex-heavyweight champ: 'More experienced' Ciryl Gane beats Josh Hokit at UFC 334",
+"url": "https://sports.yahoo.com/articles/ex-heavyweight-champ-more-experienced-162025154.html",
+"summary": "Ciryl Gane is the safe bet at UFC 334 for a few reasons.",
+"image": null,
+"published": "2026-11-09T16:20:25Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"heavyweight"
+],
+"img_tried": true
+},
+{
+"id": "a680d6647fd3",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Giannis Antetokounmpo says he's 'speechless' over criticism from former coach Doc Rivers: 'That's insane'",
+"url": "https://sports.yahoo.com/nba/article/giannis-antetokounmpo-says-hes-speechless-over-criticism-from-former-coach-doc-rivers-thats-insane-161755080.html",
+"summary": "Giannis Antetokounmpo eventually mentioned \"bitterness and pettiness\" when discussing Doc Rivers' comments.",
+"image": "https://s.yimg.com/lo/mysterio/api/50fb7d2ab827372293188b0bc2c3dad7bfe11a7c0ba68973084f35fd03413599/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fd6c28dc5-de2d-4494-bb7d-8cda0afa0393",
+"published": "2026-11-09T16:17:55Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "a743eb70404b",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Real Madrid legend Raul named Real Oviedo manager",
+"url": "https://sports.yahoo.com/articles/real-madrid-legend-raul-named-161634642.html",
+"summary": "Former Real Madrid striker Raul takes on his first role in senior club management after being appointed as boss of Spanish second division side Real Oviedo.",
+"image": "https://s.yimg.com/lo/mysterio/api/cee0e479c1186188b7331ea440c627e749a60abfdb309feffafe65883b37a904/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F196badd3277086883f4a92f540d30b82.jpg",
+"published": "2026-11-09T16:16:34Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "c8e9b145ccaa",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Week 9 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks for Bills-Vikings, MNF",
+"url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-promos-get-over-3000-bonuses-from-betting-apps-sportsbooks-bills-vikings-mnf/",
+"summary": "Top Week 9 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+"image": "https://sportshub.cbsistatic.com/i/2026/09/17/94044204-e788-413f-9d73-c513efe48862/josh-allen.jpg",
+"published": "2026-11-09T16:11:44Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"buf",
+"min"
+]
+},
+{
+"id": "e2e30df3e32d",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "🚨 Official FIFPro team of the year 2026, Harry Kane snubbed !",
+"url": "https://sports.yahoo.com/articles/official-fifpro-team-2026-harry-161100340.html",
+"summary": "Some of these picks will get people talking...FIFPro, the players' union, unveiled its official 2026 Team of the Year on Monday evening!PSG, Real Madrid, FC Barcelona: there's some serious star power ...",
+"image": "https://s.yimg.com/lo/mysterio/api/25dd158987750898bcf21f35fba0a83d5d571f40935d4e5f3e42d2f919ed7740/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fa2e5135e095960d14dcbceed90217d30.jpg",
+"published": "2026-11-09T16:11:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "41ebd55719d0",
+"league": "nba",
+"source": "CBS Sports",
+"title": "Giannis Antetokounmpo stunned by Doc Rivers' 'bitterness and pettiness' after former coach's criticism",
+"url": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-doc-rivers-bitterness-pettiness/",
+"summary": "Antetokounmpo's former coach criticized his playing style last week, saying he 'doesn't necessarily have super IQ'",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/67231a74-8713-4150-ba2e-bb8d6d44b39a/giannis-doc.jpg",
+"published": "2026-11-09T16:09:15Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "bf9d3872d9e8",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Official: Sassuolo have fired Aquilani after five straight defeats",
+"url": "https://sports.yahoo.com/articles/official-sassuolo-fired-aquilani-five-160900782.html",
+"summary": "Sassuolo have officially announced the dismissal of coach Alberto Aquilani after five consecutive Serie A defeats, with Roberto D’Aversa the favourite to take over ahead of Vincenzo Montella.The dec...",
+"image": "https://s.yimg.com/lo/mysterio/api/e1e658cfce03c40063e097fa9c4ed9f9906ad2930bd1edd485be3eec564a1d52/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F5610f2d5242707452312c5a0326cde32.jpg",
+"published": "2026-11-09T16:09:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "275497ea5ddc",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "🚨 BREAKING: Kylian Mbappé, Lamine Yamal and Lionel Messi named in FIFPRO World XI",
+"url": "https://sports.yahoo.com/articles/breaking-kylian-mbapp-lamine-yamal-160600408.html",
+"summary": "Lionel Messi, Kylian Mbappe, Lamine Yamal and Erling Haaland are among the standout names included in the 2026 FIFPRO Men's World XI, which has been announced.The team features 11 of the world's leadi...",
+"image": "https://s.yimg.com/lo/mysterio/api/036918fb0ef1362e1a5535ed8dd9c4e41dae2bc155cad9116ad5d66b813df443/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Feebfbb9a6fa0d1145f375f99260b8249.jpg",
+"published": "2026-11-09T16:06:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "954279bbd8ca",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Confirmed: Pau Cubarsi wins 2026 Golden Boy Award",
+"url": "https://sports.yahoo.com/articles/confirmed-pau-cubarsi-wins-2026-160500101.html",
+"summary": "It is official. Barcelona teenage sensation Pau Cubarsi has won the 2026 Golden Boy award.Presented by Italian publication Tuttosport, the Golden Boy award is given to the most impressive footballer u...",
+"image": "https://s.yimg.com/lo/mysterio/api/2aaef1a3a508a9580a4adfd5c505f8166af7069dfda7572d7ea153ca6e472c7a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2F404e543f366e594463452db037e1b184.jpg",
+"published": "2026-11-09T16:05:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "2489d6c71aa7",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "2026 Atlanta Braves Player Review: Blake Burkhalter",
+"url": "https://sports.yahoo.com/articles/2026-atlanta-braves-player-review-160420681.html",
+"summary": "A true cup of coffee for Blake Burkhalter, who continued his low ERA, bad peripherals run in the minors in 2026.",
+"image": "https://s.yimg.com/lo/mysterio/api/561d42be6ef2faf3c8696c0fccf68a49948bea91930722f29eed258582f9b36d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fba2ebd2ea4d755764a602911e099fe78.jpg",
+"published": "2026-11-09T16:04:20Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl"
+],
+"img_tried": true
+},
+{
+"id": "64884f13870a",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Monday Bantering: Jays Notes",
+"url": "https://sports.yahoo.com/articles/monday-bantering-jays-notes-160344931.html",
+"summary": "Back from our week away. Huatulco, Mexico, is a nice area. Not over-developed yet (they are working at it, though). The people in the resorts are largely Canadian (it is hard to fly there from the States, but WestJet has direct flights from many cities). Still, a big topic of conversation was the US election. […]",
+"image": "https://s.yimg.com/lo/mysterio/api/20b4d2362f8342062745484dd2b3b8777425ee1e98357342e0d76dd0dd99b80e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd5a6a95d82baabb52d911c6ad77c25e3.jpg",
+"published": "2026-11-09T16:03:44Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "401b15e1ecbb",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Inside Hansi Flick’s struggles in finding the right balance in Barcelona defence this season",
+"url": "https://sports.yahoo.com/articles/inside-hansi-flick-struggles-finding-160200030.html",
+"summary": "Barcelona were able to maintain their healthy lead at the top of the table with a narrow 2-1 win over Atletico Madrid on Sunday.But it was yet again a shoddy defensive performance from a team that has...",
+"image": "https://s.yimg.com/lo/mysterio/api/1a7649f5854bdb86c3b617c4d4edfda25af5821898b73705bca9dc43c967ffa1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2F7239ae18c1f155d3376025811933bdd3.jpg",
+"published": "2026-11-09T16:02:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "ad90b84b1a39",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Arsene Wenger considering whether to enter FIFA president race",
+"url": "https://sports.yahoo.com/articles/arsene-wenger-considering-whether-enter-160100435.html",
+"summary": "Arsene Wenger is considering whether to run for FIFA president, as UEFA attempt to push him to do so.Photo by FRANCK FIFE/AFP via Getty ImagesOver the weekend, we covered reports that UEFA are trying ...",
+"image": "https://s.yimg.com/lo/mysterio/api/cc928ccd311b9ae6bc82470890e47d4a57838bd2e188f952c85186026e460696/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_cannon_articles_231%2Fb5fc41e0083decf67db9440805f390fc.jpg",
+"published": "2026-11-09T16:01:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "0187193ee6a5",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Winnipeg's Recent Surge Appearing Similar to Last Season's Late Turnaround",
+"url": "https://sports.yahoo.com/articles/winnipegs-recent-surge-appearing-similar-160037159.html",
+"summary": "Fresh off a dramatic win over Tampa Bay, the Jets aim to replicate last year’s dominant rebound as star reinforcements return for a grueling playoff push.",
+"image": "https://s.yimg.com/lo/mysterio/api/15a4650b3b15b71b3777e4d7f5e6a2918ca6e817f1d2efadd6e88853e4550d3f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hockey_news_winnipeg_jets_articles_459%2F9a836e2eda907f4c5caf97284f78d18b.jpg",
+"published": "2026-11-09T16:00:37Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"wpg"
+],
+"img_tried": true
+},
+{
+"id": "f801f623ab51",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Islanders Anxiety – Episode 386 – To What End?",
+"url": "https://sports.yahoo.com/articles/islanders-anxiety-episode-386-end-160000052.html",
+"summary": "Mike and Dan get big picture after two Islanders losses to better teams last week and a looming trip to California this week.Mike and Dan get big picture after two Islanders losses to better teams last week and a looming trip to California this week. Stop us if you’ve heard this before but the Islanders […]",
+"image": "https://s.yimg.com/lo/mysterio/api/f3b56b7bb5abaf75f68f643364eeb4c9bad5b3581535ddabc524b5b203150d93/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ff60fd7337450209c52c31249ea7746a0.jpg",
+"published": "2026-11-09T16:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyi"
+],
+"img_tried": true
+},
+{
+"id": "82cfda0dabda",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "2026 Phillies Report Card: Trea Turner",
+"url": "https://sports.yahoo.com/articles/2026-phillies-report-card-trea-160000459.html",
+"summary": "Let’s just move forward.",
+"image": "https://s.yimg.com/lo/mysterio/api/dd896d022fe3de5fe6cbfe0d2607a655ff5a6b1a808ebd465f3318194064dcc2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F568458171a740da63fa0d3905e438edd.jpg",
+"published": "2026-11-09T16:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phi"
+],
+"img_tried": true
+},
+{
+"id": "5ad1c27f5214",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "How to play in-5 Trivia on the SB Nation app",
+"url": "https://sports.yahoo.com/articles/play-5-trivia-sb-nation-160000200.html",
+"summary": "You all have mastered the art of commenting but can you name a former baseball player faster than your fellow commenters? That’s the challenge with in-5, our daily trivia game, and today we’re announcing the debut of the game in the SB Nation app (in-5 is available on the web too, you’ve probably seen it […]",
+"image": "https://s.yimg.com/lo/mysterio/api/cd032ea16be7a14148b414f6b30a8b1ebd717205fe4e40e2d9ccb0f0b5cdc508/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F2b40f3d444c99dfdda3a8e3e1d630200.jpg",
+"published": "2026-11-09T16:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "5dd1386ee27c",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Yankees Birthday of the Day: Greg Bird",
+"url": "https://sports.yahoo.com/articles/yankees-birthday-day-greg-bird-160000724.html",
+"summary": "The hero of the 2017 ALDS turns 34 today.",
+"image": "https://s.yimg.com/lo/mysterio/api/902372e0bf64798ca18b68e1ad61b14a157e329bdb685a4c1869ef6290842874/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fb9e96e7242053f9dc9101740858fdcec.jpg",
+"published": "2026-11-09T16:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyy"
+],
+"img_tried": true
+},
+{
+"id": "f30cb6e2bf63",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "WEEKEND RESULTS: UNDER-14S WIN THE DERBY",
+"url": "https://sports.yahoo.com/articles/weekend-results-under-14s-win-160000403.html",
+"summary": "It was another successful weekend for the AC Milan Youth Sector, with another derby win to celebrate. After the Under-17s beat Inter last week, this time it was the Under-14s who came out on top with ...",
+"image": "https://s.yimg.com/lo/mysterio/api/e511c03d5e937faf2258ff6f318580509168e0fef71945de5cbb91e186029cbd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fac_milan_articles_993%2Fe0e5fcae853982d09fbe23ac2805c95f.jpg",
+"published": "2026-11-09T16:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "0f5fc84f60b0",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Mowbray's 'soldiers and artists' march up the table",
+"url": "https://sports.yahoo.com/articles/mowbrays-soldiers-artists-march-table-155856342.html",
+"summary": "BBC Radio Lancashire's Andy Bayes assesses Blackburn's season so far in the Championship.",
+"image": "https://s.yimg.com/lo/mysterio/api/6f490203fbcfa60fd5560bb679a89192e7c2658986c305dbc9dea8c702403be6/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
+"published": "2026-11-09T15:58:56Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "ff97779d08a8",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "All 160 Serie A players on international duty in November",
+"url": "https://sports.yahoo.com/articles/160-serie-players-international-duty-155800025.html",
+"summary": "A total of 160 Serie A players will join up with their national team sides during the November international break: Here is a reminder of who they all are.The November international break officially k...",
+"image": "https://s.yimg.com/lo/mysterio/api/4425a3e9df169ac68d8048b9304cacff8794974da59917649f7dd2234e238bb9/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F5d033f27bffb4537fb2e61ce51f921cb.jpg",
+"published": "2026-11-09T15:58:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "06162c864fc9",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "New Nuno Tavares injury to force Lazio star out of Portugal squad",
+"url": "https://sports.yahoo.com/articles/nuno-tavares-injury-force-lazio-155700790.html",
+"summary": "Lazio full-back Nuno Tavares has been forced to withdraw from the Portugal squad for the Nations League following an injury sustained in the 1-1 draw with Napoli.The former Arsenal man had been in the...",
+"image": "https://s.yimg.com/lo/mysterio/api/4383ec9e9f67b4f5261f4e9edfb333428dc57003249a0362533e79a638de734c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_italia_articles_132%2F802b7b875a923fe68e60293929c3fcf4.jpg",
+"published": "2026-11-09T15:57:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"arsenal"
+],
+"img_tried": true
+},
+{
+"id": "d566848dcc8f",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Wizards vs. Pistons predictions: Odds, recent stats, trends and best bets for November 9",
+"url": "https://sports.yahoo.com/articles/wizards-vs-pistons-predictions-odds-155350840.html",
+"summary": "Washington Wizards vs. Detroit Pistons Betting Preview for November 9, 2026",
+"image": "https://s.yimg.com/lo/mysterio/api/097840c9f91ab99c9b3140b04b37c5a60dc4808af0e63a2ca2d6dfaa31f70a8e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2F788199fb02fad9be1982eac8462d0b71.jpg",
+"published": "2026-11-09T15:53:50Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"det",
+"wsh"
+],
+"img_tried": true
+},
+{
+"id": "3981e9826efc",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "A Bitter Avalanche Exit Has Turned Into a Career Year in Nashville",
+"url": "https://sports.yahoo.com/articles/bitter-avalanche-exit-turned-career-155325412.html",
+"summary": "After an offseason trade he never wanted, the former Avalanche forward is thriving in Nashville and on pace to record the best offensive season of his NHL career.",
+"image": "https://s.yimg.com/lo/mysterio/api/0eb43c11545602ecd06010cc594d09b2493a8f54dd4a2ad8b163acfb55eb40ee/lightyear_networkapi/resizefill_w1194_h796%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hockey_news_colorado_avalanche_articles_301%2F3a6e88b192e0b5d61ddb8db2b1bb2b16.jpg",
+"published": "2026-11-09T15:53:25Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"col",
+"nsh"
+],
+"img_tried": true
+},
+{
+"id": "209d9aa548cb",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "🚨 Pau Cubarsí crowned Golden Boy 2026",
+"url": "https://sports.yahoo.com/articles/pau-cubars-crowned-golden-boy-155200306.html",
+"summary": "The wonderkid.The 2026 Golden Boy has been crowned!At just 19, Pau Cubarsí won the prestigious individual award on Monday, recognising the best young player playing in a European league. The FC Barce...",
+"image": "https://s.yimg.com/lo/mysterio/api/4f45762831dfed5647e3b25ae64e651110bde5ade6f6bc0b44e6925c1382be3e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F21013ec7fb7e71fdb3dae876f8f8d1d5.jpg",
+"published": "2026-11-09T15:52:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "b4f349a1bc92",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "The Playlist: Fantasy basketball waiver-wire adds and schedule breakdown for Week 4 of 2026-27",
+"url": "https://sports.yahoo.com/fantasy/article/the-playlist-fantasy-basketball-waiver-wire-adds-and-schedule-breakdown-for-week-4-of-2026-27-155149078.html",
+"summary": "Dan Titus goes over The Playlist, his comprehensive guide to Week 4 fantasy basketball.",
+"image": "https://s.yimg.com/lo/mysterio/api/6bcfa1db873964a99ed0cefbdc9b7b8dd2d99ce1fc2033e676ddad2fe8f21641/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F87ab100d-729f-4561-8f36-aab4edcc9277",
+"published": "2026-11-09T15:51:49Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [],
+"img_tried": true
+},
+{
+"id": "c77b430cdf5f",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Pau Cubarsí wins the 2026 Golden Boy award",
+"url": "https://sports.yahoo.com/articles/pau-cubars-wins-2026-golden-155100538.html",
+"summary": "Pau Cubarsí now reigns supreme among world football’s young talents. The 19-year-old FC Barcelona centre-back has been named the winner of the 2026 Golden Boy award, presented annually by Italian n...",
+"image": null,
+"published": "2026-11-09T15:51:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "d2d77a81d862",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "An awful afternoon as Skubala gets shape all wrong",
+"url": "https://sports.yahoo.com/articles/awful-afternoon-skubala-gets-shape-155058200.html",
+"summary": "BBC summariser Gary Owers on Bristol City's \"awful afternoon\" against Norwich and why Michael Skubala's system and shape was all wrong.",
+"image": null,
+"published": "2026-11-09T15:50:58Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "8e817699b166",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Bucks Reacts Survey: Did Milwaukee win the Giannis trade?",
+"url": "https://sports.yahoo.com/articles/bucks-reacts-survey-did-milwaukee-155014025.html",
+"summary": "Just over three weeks into the 2026-27 season, how do you evaluate the trade?",
+"image": null,
+"published": "2026-11-09T15:50:14Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"mil"
+]
+},
+{
+"id": "a16b1cb90404",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Journalist suggests Liverpool would be happy to get their money back on one player",
+"url": "https://sports.yahoo.com/articles/journalist-suggests-liverpool-happy-money-155000412.html",
+"summary": "Lynch suggests Liverpool would be happy to get their money back on Jeremie FrimpongLiverpool could be receptive to recovering their investment in Jeremie Frimpong, according to David Lynch, who believ...",
+"image": null,
+"published": "2026-11-09T15:50:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"liverpool"
+]
+},
+{
+"id": "480491e42509",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Global Series Finland blog: Jesperi Kotkaniemi",
+"url": "https://www.nhl.com/news/topic/global-series/global-series-finland-blog-jesperi-kotkaniemi-november-9-2026",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1794239311/prd/mydjl3uginvxg90quuta.jpg",
+"published": "2026-11-09T15:49:20Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "4dbf9709fd12",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Watch Countdown to UFC 334 full video featuring Gane-Hokit, Harrison-Nunes",
+"url": "https://sports.yahoo.com/articles/watch-countdown-ufc-334-full-154803184.html",
+"summary": "Ultimate Fighting Championship (UFC) is just a couple of days in front of its UFC 334 mixed martial arts (MMA) event on Paramount+, which marks the promotion’s return to Madison Square Garden in New York City on Sat., Nov. 14, 2026. Topping the “Big Apple” fight card is the heavyweight showdown between 265-pound…",
+"image": null,
+"published": "2026-11-09T15:48:03Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"heavyweight",
+"womens-bantamweight"
+]
+},
+{
+"id": "b073e89f54f4",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Elephant Rumblings: AFL Just About Wrapping Up",
+"url": "https://sports.yahoo.com/articles/elephant-rumblings-afl-just-wrapping-154636798.html",
+"summary": "MLB news roundup",
+"image": null,
+"published": "2026-11-09T15:46:36Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "768e6eb720c3",
+"league": "soccer",
+"source": "Yahoo Sports",
+"title": "Arsenal monitor Leverkusen striker Kofane",
+"url": "https://sports.yahoo.com/articles/arsenal-monitor-leverkusen-striker-kofane-154627716.html",
+"summary": "Arsenal have been monitoring Bayer Leverkusen striker Christian Kofane as they look at potential forward options to add to their ranks.",
+"image": null,
+"published": "2026-11-09T15:46:27Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"arsenal"
+]
+},
+{
+"id": "eb13d8de1adf",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Will the Washington Nationals make major offensive additions this offseason?",
+"url": "https://sports.yahoo.com/articles/washington-nationals-major-offensive-additions-154000916.html",
+"summary": "Pitching will be the top priority, but based on Paul Toboni’s comments, I think the Nats might make moves on offense too",
+"image": null,
+"published": "2026-11-09T15:40:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"wsh"
+]
+},
+{
+"id": "fc6e6e9b7e9e",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "The Celtics are replacing Jaylen Brown by committee",
+"url": "https://sports.yahoo.com/articles/celtics-replacing-jaylen-brown-committee-153435893.html",
+"summary": "The Celtics have a new identity, and Jayson Tatum is at the center of it",
+"image": null,
+"published": "2026-11-09T15:34:35Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos"
+]
+},
+{
+"id": "20545ac1ef69",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "AL, NL Rookie of the Year: How to watch as MLB's awards season begins",
+"url": "https://sports.yahoo.com/articles/al-nl-rookie-watch-mlbs-153124058.html",
+"summary": "MLB's awards season gets going in earnest Monday, when the winners of the American League and National League Rookie of the Year awards are revealed.",
+"image": null,
+"published": "2026-11-09T15:31:24Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "18f1075d0883",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Tough decisions and the hypnotic baseball grind",
+"url": "https://sports.yahoo.com/articles/tough-decisions-hypnotic-baseball-grind-153124539.html",
+"summary": "Baseball is a human business",
+"image": null,
+"published": "2026-11-09T15:31:24Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "e8a7f4145b99",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Cavs at Hornets: How to watch, odds, and injury report",
+"url": "https://sports.yahoo.com/articles/cavs-hornets-watch-odds-injury-153000800.html",
+"summary": "The Cavs will look to get right against the injury-riddled Hornets.",
+"image": null,
+"published": "2026-11-09T15:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"cha",
+"cle"
+]
+},
+{
+"id": "c50c6d0141ac",
+"league": "nba",
+"source": "CBS Sports",
+"title": "NBA's biggest winners and losers of the week: Luka's Lakers look amazing, are Hornets regretting LaMelo trade?",
+"url": "https://www.cbssports.com/nba/news/nba-biggest-winners-and-losers-week-luka-doncic-lakers-lamelo-ball-nov-9/",
+"summary": "We're ranking the NBA's three biggest winners and three biggest losers from the last seven days",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/ff5a63d4-5d92-427a-b081-8f12669d826a/luka-doncic-getty-25.png",
+"published": "2026-11-09T15:26:16Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"cha",
+"lal"
+]
+},
+{
+"id": "de906c8e25d5",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Bills vs. Vikings odds, picks, player props: Expert's best bets for Monday Night Football in NFL Week 9",
+"url": "https://www.cbssports.com/betting/news/bills-vs-vikings-odds-picks-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-9/",
+"summary": "CBS Sports NFL expert Will Brinson shares his top picks and props for Monday Night Football in NFL Week 9",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/e9152e0f-0813-4456-a26e-ca65745352ac/dalton-kincaid-2.jpg",
+"published": "2026-11-09T15:24:23Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"buf",
+"min"
+]
+},
+{
+"id": "897f82ffbb66",
+"league": "nhl",
+"source": "NHL.com",
+"title": "Global Series Finland blog: Berkly Catton",
+"url": "https://www.nhl.com/news/topic/global-series/global-series-finland-blog-berkly-catton",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1794238820/prd/gv9xp2fj8fggkp2elj26.jpg",
+"published": "2026-11-09T15:21:48Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "f7376df8bd2f",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Rockets need to reclaim their identity",
+"url": "https://sports.yahoo.com/articles/rockets-reclaim-identity-151331149.html",
+"summary": "The Rockets aren’t doing the things that helped them succeed in 2025-26",
+"image": null,
+"published": "2026-11-09T15:13:31Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"hou"
+]
+},
+{
+"id": "8e17691159b8",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Can the Sixers keep it rolling against challenging opponents?",
+"url": "https://sports.yahoo.com/articles/sixers-keep-rolling-against-challenging-151035397.html",
+"summary": "Philadelphia plays two more games this week against playoff teams from last season.﻿",
+"image": null,
+"published": "2026-11-09T15:10:35Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phi"
+]
+},
+{
+"id": "285b6801db78",
+"league": "nhl",
+"source": "NHL.com",
+"title": "NHL On Tap: McDavid looks to extend season-opening point streak for Oilers",
+"url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-november-9-2026",
+"summary": "",
+"image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size20/f_auto/v1794236058/prd/nqkid79lhpxklbuix1a8.jpg",
+"published": "2026-11-09T15:03:21Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"edm"
+]
+},
+{
+"id": "284314e1669d",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC 334 'Countdown' video, Ciryl Gane vs. Josh Hokit heavyweight title",
+"url": "https://sports.yahoo.com/articles/ufc-334-countdown-video-ciryl-150158017.html",
+"summary": "Check out the UFC 334 \"Countdown\" main event video preview for Ciryl Gane vs. Josh Hokit.",
+"image": null,
+"published": "2026-11-09T15:01:58Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"heavyweight"
+]
+},
+{
+"id": "d620241ee9a2",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC Saudi Arabia odds: Betting lines open for Israel Adesanya, Ian Garry fights",
+"url": "https://sports.yahoo.com/articles/ufc-saudi-arabia-odds-betting-150011954.html",
+"summary": "Ultimate Fighting Championship (UFC) recently announced its main and co-main event for the upcoming UFC Saudi Arabia mixed martial arts (MMA) extravaganza on Sat., Dec. 5, 2026 at ANB Arena in Riyadh. Topping the Paramount+ fight card is the middleweight showdown between former 185-pound champion Israel Adesanya and…",
+"image": null,
+"published": "2026-11-09T15:00:11Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"middleweight"
+]
+},
+{
+"id": "7cca25fae6bb",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Weekly Recap 1: Hawks sweep the week",
+"url": "https://sports.yahoo.com/articles/weekly-recap-1-hawks-sweep-150000569.html",
+"summary": "A weekly recap.",
+"image": null,
+"published": "2026-11-09T15:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl"
+]
+},
+{
+"id": "0d21d9519d98",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "AFL Full Week Update: Tate Southisene, Briggs McKenzie continue to play well",
+"url": "https://sports.yahoo.com/articles/afl-full-week-tate-southisene-150000422.html",
+"summary": "Briggs McKenzie sits second in strikeouts across all pitchers in the AFL.",
+"image": null,
+"published": "2026-11-09T15:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "f5ba6653c834",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Brandon Lowe could fix the Orioles’ second base woes",
+"url": "https://sports.yahoo.com/articles/brandon-lowe-could-fix-orioles-150000596.html",
+"summary": "The longtime Tampa Bay Ray would bring a powerful left-handed bat to the Birds.",
+"image": null,
+"published": "2026-11-09T15:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bal"
+]
+},
+{
+"id": "ba12c2feffbd",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "The 2026 National League Rookie of the Year Award presents an interesting philosophical debate",
+"url": "https://sports.yahoo.com/articles/2026-national-league-rookie-award-150000491.html",
+"summary": "The National League Rookie of the Year award is maybe the most fascinating award this offseason.",
+"image": null,
+"published": "2026-11-09T15:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "c15e7bbed922",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Monday Rockpile: Five things Rockies fans should watch for in the MLB GM meetings",
+"url": "https://sports.yahoo.com/articles/monday-rockpile-five-things-rockies-150000312.html",
+"summary": "Will the Rockies make any news in Vegas?",
+"image": null,
+"published": "2026-11-09T15:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"col"
+]
+},
+{
+"id": "ba507f0d796c",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Mariners News: Samy Natera, Maxuel Rosario, and the Samsung Lions",
+"url": "https://sports.yahoo.com/articles/mariners-news-samy-natera-maxuel-150000020.html",
+"summary": "Mariners players got the manager they wanted. Plus, the Rays agreed to a multi-million dollar deal with a pre-teen.",
+"image": null,
+"published": "2026-11-09T15:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"sea"
+]
+},
+{
+"id": "e2a0e55ec236",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Jessie Bates III in line to join exclusive club after trade from Falcons to Jaguars",
+"url": "https://www.cbssports.com/nfl/news/jessie-bates-iii-join-exclusive-club-after-trade-falcons-jaguars/",
+"summary": "Bates will take his game to new heights in more ways than one in Jacksonville",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/0d88ebf4-5e0e-424f-b597-a4f14a7141a6/jessie-bates-iii-falcons.jpg",
+"published": "2026-11-09T14:53:53Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl",
+"jax"
+]
+},
+{
+"id": "09f06f79e036",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Latest UFC 334 fight card, start time, date and location | Gane vs. Hokit",
+"url": "https://sports.yahoo.com/articles/latest-ufc-334-fight-card-144500147.html",
+"summary": "Tom Aspinall is taking a break to focus on recovering from his debilitating eye injury.",
+"image": null,
+"published": "2026-11-09T14:45:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"heavyweight"
+]
+},
+{
+"id": "77779208982f",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Red Sox News & Links: Craig Breslow needs to beef up the front office",
+"url": "https://sports.yahoo.com/articles/red-sox-news-links-craig-144127234.html",
+"summary": "A lot has been made of the supposedly minuscule circle of advisors Craig Breslow reportedly maintains in the Red Sox front office. Prior to the season-saving 15-game win streak, when it looked all but certain that Breslow would soon be fired, media reports painted a picture of a near-reclusive CBO, one who trusted few…",
+"image": null,
+"published": "2026-11-09T14:41:27Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos"
+]
+},
+{
+"id": "deda2437e98d",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Video: UFC 334 'Countdown' for Kayla Harrison vs. Amanda Nunes",
+"url": "https://sports.yahoo.com/articles/video-ufc-334-countdown-kayla-143035793.html",
+"summary": "Check out the UFC 334 \"Countdown\" co-main event video preview for Kayla Harrison vs. Amanda Nunes.",
+"image": null,
+"published": "2026-11-09T14:30:35Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"womens-bantamweight"
+]
+},
+{
+"id": "3371230d92b4",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Waiting is hardest part with new Padres ownership",
+"url": "https://sports.yahoo.com/articles/waiting-hardest-part-padres-ownership-143000695.html",
+"summary": "News to know about your San Diego Padres and MLB for November 9, 2026.",
+"image": null,
+"published": "2026-11-09T14:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"sd"
+]
+},
+{
+"id": "7ce9037857cf",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Celtics applaud Mitchell Robinson for breakthrough showing: ‘He was amazing’",
+"url": "https://sports.yahoo.com/articles/celtics-applaud-mitchell-robinson-breakthrough-142555693.html",
+"summary": "Robinson was nearly sidelined by an illness before delivering his most impressive performance in a Celtics uniform yet.",
+"image": null,
+"published": "2026-11-09T14:25:55Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos"
+]
+},
+{
+"id": "8632bf186374",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "10 Takeaways from the Celtics Hunting Trip vs Bucks",
+"url": "https://sports.yahoo.com/articles/10-takeaways-celtics-hunting-trip-142534756.html",
+"summary": "Boston came back from some early adversity to win in Milwaukee",
+"image": null,
+"published": "2026-11-09T14:25:34Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos",
+"mil"
+]
+},
+{
+"id": "6e6e910fdbad",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Raptors travelling similar 2019 path ahead of game vs. Grizzlies",
+"url": "https://sports.yahoo.com/articles/raptors-travelling-similar-2019-path-141500534.html",
+"summary": "Canada’s team may not be what online discussions suggest, despite how the NBA season has played out so far.",
+"image": null,
+"published": "2026-11-09T14:15:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"mem",
+"tor"
+]
+},
+{
+"id": "0a0fa76d9d95",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Jaguars acquire All-Pro safety Jessie Bates III from Falcons ahead of NFL trade deadline",
+"url": "https://www.cbssports.com/nfl/news/jessie-bates-trade-jaguars-falcons-nfl-deadline-2026/",
+"summary": "Bates, who is in the final year of his contract, heads to Jacksonville in exchange for two future draft picks",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/19858651-b5fe-48d7-b371-1ca8af707f8f/template-pic.jpg",
+"published": "2026-11-09T14:03:16Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl",
+"jax"
+]
+},
+{
+"id": "d6aba906a248",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC 334: How to watch two title fights, New York lineup, odds, more",
+"url": "https://sports.yahoo.com/articles/ufc-334-watch-two-title-140204531.html",
+"summary": "Here's what you need to know to watch UFC 334 on Paramount+.",
+"image": null,
+"published": "2026-11-09T14:02:04Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "c88da60e7733",
+"league": "nba",
+"source": "CBS Sports",
+"title": "Jayson Tatum won't give air to Jaylen Brown drama ahead of Celtics-Sixers game: 'Another game on the schedule'",
+"url": "https://www.cbssports.com/nba/news/jayson-tatum-jaylen-brown-reunion-celtics-76ers/",
+"summary": "Tatum and Brown spent nine seasons together in Boston before the latter was traded this summer",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/2cb8a06b-11dc-41a2-a843-e05726017932/tatum-brown-getty.png",
+"published": "2026-11-09T14:00:19Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos",
+"phi"
+]
+},
+{
+"id": "cb66690e3d2a",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Arizona Diamondbacks News, 11/9: Waiting zone",
+"url": "https://sports.yahoo.com/articles/arizona-diamondbacks-news-11-9-140000145.html",
+"summary": "Team news [SI] 3 Bold Predictions For Diamondbacks in Free Agency – 1. Diamondbacks only marginally decrease payroll – or not at all. Despite wanting to reduce costs, Kendrick has still often jumped at the chance to add quality players with hopes to keep Arizona as competitive as possible. While the D-backs might be…",
+"image": null,
+"published": "2026-11-09T14:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"ari"
+]
+},
+{
+"id": "3e45fde0f093",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Will this be a weirder-than-usual GM Meeting?",
+"url": "https://sports.yahoo.com/articles/weirder-usual-gm-meeting-140000608.html",
+"summary": "With Veterans Day smack dab in the middle this year…",
+"image": null,
+"published": "2026-11-09T14:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "a1d40a342f0c",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Detroit Tigers News: Japanese player scouting, Max Scherzer, Chris Sale",
+"url": "https://sports.yahoo.com/articles/detroit-tigers-news-japanese-player-140000658.html",
+"summary": "Plus, is Joey Votto turning on players?",
+"image": null,
+"published": "2026-11-09T14:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"det"
+]
+},
+{
+"id": "a205e38a661d",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Tyler Wells pitched so well that the Orioles “had” to trade him",
+"url": "https://sports.yahoo.com/articles/tyler-wells-pitched-well-orioles-140000829.html",
+"summary": "Will the Orioles regret not keeping Wells around for the 2027 bullpen?",
+"image": null,
+"published": "2026-11-09T14:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bal"
+]
+},
+{
+"id": "c9e4b0d5be31",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "What veteran for veteran trade would you make?",
+"url": "https://sports.yahoo.com/articles/veteran-veteran-trade-140000950.html",
+"summary": "The Phillies have some candidates",
+"image": null,
+"published": "2026-11-09T14:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phi"
+]
+},
+{
+"id": "156608e7fecf",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Yankees 2026 Roster Report Cards: Jasson Domínguez",
+"url": "https://sports.yahoo.com/articles/yankees-2026-roster-report-cards-140000879.html",
+"summary": "How did it all go so wrong for the former top prospect?",
+"image": null,
+"published": "2026-11-09T14:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nyy"
+]
+},
+{
+"id": "f8fb02700c29",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "UFC 334 roundtable: Is Josh Hokit about to be the one true heavyweight king?",
+"url": "https://sports.yahoo.com/articles/ufc-334-roundtable-josh-hokit-140000323.html",
+"summary": "Heavyweight might never be the same after UFC 334",
+"image": null,
+"published": "2026-11-09T14:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"heavyweight"
+]
+},
+{
+"id": "4d3e688a5d08",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Andy Reid noncommittal on Harrison Butker's Chiefs future after another missed field goal",
+"url": "https://www.cbssports.com/nfl/news/andy-reid-harrison-butker-chiefs-field-goal-kicker/",
+"summary": "Butker has made a career-low 63.2% of his field-goal attempts this season, while five-time All-Pro Justin Tucker waits on Kansas City's practice squad",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/1a60302f-5b03-47d0-871e-c44a60518714/reid.png",
+"published": "2026-11-09T13:53:46Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"kc"
+]
+},
+{
+"id": "5be1904624a9",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Bears overcome Caleb Williams' interceptions for 'SNF' win; resetting CFP race after Week 10",
+"url": "https://www.cbssports.com/nfl/news/bears-overcome-caleb-williams-interceptions-for-snf-win-resetting-cfp-race-after-week-10/",
+"summary": "Plus, NFL trade deadline is a day away, and we project AP Top 25 after college basketball's opening week",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/bb87bfe4-959d-40fa-b8ea-73410669b54f/gettyimages-2304201593-1.jpg",
+"published": "2026-11-09T13:53:29Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"chi"
+]
+},
+{
+"id": "89fff72d8d04",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Rays Off-season Trade Target: LHP Nick Lodolo",
+"url": "https://sports.yahoo.com/articles/rays-off-season-trade-target-134736500.html",
+"summary": "In resetting the bullpen for 2027, there is one lefty that might represent a reasonable snag for the Tampa Bay Rays. Nick Lodolo’s recent injuries and middling results could create a buying opportunity, particularly if the Reds aren’t convinced he has another level to reach. His projected $5.7 million salary for 2027…",
+"image": null,
+"published": "2026-11-09T13:47:36Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"tb"
+]
+},
+{
+"id": "50b4add8474d",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "In the lab: A long look at center field",
+"url": "https://sports.yahoo.com/articles/lab-long-look-center-field-134400367.html",
+"summary": "How will the Astros tackle their center field problem this winter?",
+"image": null,
+"published": "2026-11-09T13:44:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"hou"
+]
+},
+{
+"id": "ad45a47ce091",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Cover 32: What every team should do at NFL trade deadline, plus game balls and gaffes from Week 9",
+"url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-cover-32-week-9-2026/",
+"summary": "Tyler Sullivan analyzes which contenders should go all-in and who needs to sell before it's too late",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/08/cf6edbab-2553-4521-addf-69c5849653ff/template-pic.jpg",
+"published": "2026-11-09T13:36:43Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "1ec9ed6e1657",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Caleb Williams unfazed by four-interception game in Bears win: 'I don't get gun shy'",
+"url": "https://www.cbssports.com/nfl/news/caleb-williams-four-interceptions-bears-buccaneers-2026/",
+"summary": "Williams threw four interceptions for the first time in his football career but responded by putting Chicago in position for a game-winning field goal",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/8b57acae-1efd-4847-ad1f-5542d35763cf/caleb.png",
+"published": "2026-11-09T13:36:38Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"chi"
+]
+},
+{
+"id": "0d876af36288",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Sources: Phillies eyeing free-agent infielder Ha-Seong Kim for important role",
+"url": "https://sports.yahoo.com/articles/sources-phillies-eyeing-free-agent-123951130.html",
+"summary": "Ha-Seong Kim has been an everyday shortstop. The Phils need insurance at the position in case Trea Turner is moved.",
+"image": null,
+"published": "2026-11-09T13:32:08Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phi"
+]
+},
+{
+"id": "775d923d9f3c",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Mets Morning News: Award Week",
+"url": "https://sports.yahoo.com/articles/mets-morning-news-award-week-133000574.html",
+"summary": "Your Monday morning dose of New York Mets and MLB news, notes, and links.",
+"image": null,
+"published": "2026-11-09T13:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nym"
+]
+},
+{
+"id": "a561f3e76c68",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Podcast: The Orioles need to sign a good outfielder",
+"url": "https://sports.yahoo.com/articles/podcast-orioles-sign-good-outfielder-133000179.html",
+"summary": "Seiya Suzuki is the best available free agent hitter. The Orioles should sign somebody good.",
+"image": null,
+"published": "2026-11-09T13:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bal"
+]
+},
+{
+"id": "5f217edb7e62",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Khamzat Chimaev gets new opponent for RAF Abu Dhabi main event with Colby Covington out: ‘He is scared’",
+"url": "https://sports.yahoo.com/articles/khamzat-chimaev-gets-opponent-raf-133000833.html",
+"summary": "Chris Weidman steps in to wrestle Khamzat Chimaev on Saturday",
+"image": null,
+"published": "2026-11-09T13:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"middleweight"
+]
+},
+{
+"id": "f38908b4947c",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Colby Covington pulls out of Khamzat Chimaev match at RAF Abu Dhabi",
+"url": "https://sports.yahoo.com/articles/colby-covington-pulls-khamzat-chimaev-133000611.html",
+"summary": "Colby Covington is out against Khamzat Chimaev at RAF Abu Dhabi. “Chaos” was set to compete this Saturday November 14th at Real American Freestyle’s big debut in the U.A.E., but the former UFC interim welterweight champion was forced to withdraw due to an undisclosed injury. Stepping in to replace him will be former…",
+"image": null,
+"published": "2026-11-09T13:30:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"middleweight"
+]
+},
+{
+"id": "889db389a85e",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "NFL news, live updates, trade deadline rumors: Falcons trade Jessie Bates III to Jaguars; Puka Nacua awaits word on knee injury, will undergo MRI after Week 9 win",
+"url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-131950109.html",
+"summary": "Follow along with the latest NFL news coming out of Week 9.",
+"image": null,
+"published": "2026-11-09T13:19:50Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl",
+"jax"
+]
+},
+{
+"id": "24980df4d00d",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "NHL power rankings: Blackhawks, Sharks call players-only meetings",
+"url": "https://sports.yahoo.com/articles/nhl-power-rankings-blackhawks-sharks-130618025.html",
+"summary": "The Chicago Blackhawks and San Jose Sharks called players-only meetings after blowout losses. Here are the latest NHL power rankings.",
+"image": null,
+"published": "2026-11-09T13:06:18Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"chi",
+"sj"
+]
+},
+{
+"id": "af37919a1f75",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Dodgers notes: Shoki Oda, Aaron Bates, MLB lockout",
+"url": "https://sports.yahoo.com/articles/dodgers-notes-shoki-oda-aaron-130600130.html",
+"summary": "Japanese right-hander Shoki Oda is one of the most interesting names of the offseason, as the 18-year-old right-hander is meeting with MLB teams, including the Dodgers. The lure of a larger bonus in the U.S. than what they might get in the NPB draft has led to some Japanese teenagers to jump stateside. Yuri Karasawa…",
+"image": null,
+"published": "2026-11-09T13:06:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lad"
+]
+},
+{
+"id": "fe18efcbea68",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Atlanta Braves News: AFL All-Star Game, Chris Sale’s Historic Time with Braves, More",
+"url": "https://sports.yahoo.com/articles/atlanta-braves-news-afl-star-130416650.html",
+"summary": "Busy Week Ahead.",
+"image": null,
+"published": "2026-11-09T13:04:16Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl"
+]
+},
+{
+"id": "1a3e48b2c949",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Falcons reportedly trade safety Jessie Bates III to Jaguars for 2 draft picks, also get Davon Godchaux",
+"url": "https://sports.yahoo.com/nfl/breaking-news/article/falcons-reportedly-trade-safety-jessie-bates-iii-to-jaguars-for-2-draft-picks-also-get-davon-godchaux-182051577.html",
+"summary": "Jessie Bates is reportedly on his way to the Jaguars.",
+"image": null,
+"published": "2026-11-09T13:01:22Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl",
+"jax"
+]
+},
+{
+"id": "991ce8a70cd5",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Bills vs. Vikings odds: First touchdown scorer picks, predictions for NFL Week 9 Monday Night Football",
+"url": "https://www.cbssports.com/prediction/news/bills-vs-vikings-odds-first-touchdown-scorer-picks-predictions-for-nfl-week-9-monday-night-football/",
+"summary": "Here are our top picks for first touchdown prediction markets on Monday Night Football between the Bills and Vikings",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/16/018e923e-e875-4bfa-ad4e-262322ed28ed/josh-allen.jpg",
+"published": "2026-11-09T13:00:47Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"buf",
+"min"
+]
+},
+{
+"id": "73b71cc14872",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Weekly Cupcakes: Logan O’Connor keeps memories of his father close",
+"url": "https://sports.yahoo.com/articles/weekly-cupcakes-logan-o-connor-130000703.html",
+"summary": "Martin Necas makes clear statement on what drove Avalanche past Red Wings. [Heavy] Landon Maloney takes toughness, grit and determination from the ice to battle against cancer, 14-year-old Avalanche fan diagnosed with osteosarcoma. [Colorado Avalanche] Former Avalanche players are making their old team pay this…",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"col",
+"det"
+]
+},
+{
+"id": "548b6f16fda5",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "2026-27 NBA Power Rankings Week 4: 76ers move into top spot, focus on unexpected standouts",
+"url": "https://sports.yahoo.com/articles/2026-27-nba-power-rankings-130000842.html",
+"summary": "The Spurs and Lakers round out the top three as we focus on early unexpected standout players for teams.",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phi"
+]
+},
+{
+"id": "a3b07a9a91d8",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Bucks vs. Celtics Player Grades: Centre rotation goes from bad to worse in rout",
+"url": "https://sports.yahoo.com/articles/bucks-vs-celtics-player-grades-130000469.html",
+"summary": "The bigs are having BIG problems.",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos",
+"mil"
+]
+},
+{
+"id": "65a7a2e1e98c",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "MLB News: Max Scherzer, Chris Sale, lockout news, Cody Bellinger, free agency",
+"url": "https://sports.yahoo.com/articles/mlb-news-max-scherzer-chris-130000584.html",
+"summary": "Plus, whose side is Joey Votto on?",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "5c941f867949",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "RHP Dustin May may fit the Tigers’ needs for starting pitching depth",
+"url": "https://sports.yahoo.com/articles/rhp-dustin-may-may-fit-130000367.html",
+"summary": "With the near certainty of a lockout and a long fight between players and owners this offseason, it’s hard to get real enthusiastic about free agency right now. It’s usually hard for Tigers’ fans in the first place. While there is the idea being floated that top free agent Tarik Skubal may sign before the […]",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"det"
+]
+},
+{
+"id": "f3fe94ec770e",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Scaling the Rocks: Meet Michael McClellan, the Rockies director of baseball analytics",
+"url": "https://sports.yahoo.com/articles/scaling-rocks-meet-michael-mcclellan-130000071.html",
+"summary": "Colorado Rockies news and links for Monday, November 9, 2026",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"col"
+]
+},
+{
+"id": "c48182d278d2",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Junior Caminero named MVP finalist",
+"url": "https://sports.yahoo.com/articles/junior-caminero-named-mvp-finalist-130000223.html",
+"summary": "Will Caminero be the first MVP in franchise history?",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "05db6639a71a",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "The career of your average MLB reliever",
+"url": "https://sports.yahoo.com/articles/career-average-mlb-reliever-130000057.html",
+"summary": "Sometimes I like to look at a player’s journey and their unlikely road to getting to the present day. And while every player has a tough journey to the big leagues, sometimes that journey involves getting drafted in the high rounds, going through the system methodically, and then making your MLB debut with the team […]",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "ed612f65429c",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "How do Giants fans feel about Patrick Bailey’s 2026 season?",
+"url": "https://sports.yahoo.com/articles/giants-fans-feel-patrick-bailey-130000593.html",
+"summary": "It’s time for the community to weigh in on how they feel about Patrick Bailey’s 2026 season.",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"sf"
+]
+},
+{
+"id": "f01a7348fd6e",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "MLB award predictions for every major honor, including MVP and Rookie of the Year",
+"url": "https://sports.yahoo.com/articles/mlb-award-predictions-every-major-130000628.html",
+"summary": "It’s award season for Major League Baseball. Kris Willis breaks down the finalists for all the major awards and predicts winners.",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "62153b57befe",
+"league": "mlb",
+"source": "Yahoo Sports",
+"title": "Kansas City Royals news: The Royals sign reliever Hobie Harris",
+"url": "https://sports.yahoo.com/articles/kansas-city-royals-news-royals-130000227.html",
+"summary": "And more on the Hunter Mense hire.",
+"image": null,
+"published": "2026-11-09T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"kc"
+]
+},
+{
+"id": "945eb45bdce6",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Ciryl Gane Makes Bizarre Assessment of UFC Heavyweight Division in 2026",
+"url": "https://sports.yahoo.com/articles/ciryl-gane-makes-bizarre-assessment-122838586.html",
+"summary": "It’s safe to say the UFC’s attempts to restore order to the heavyweight division have not gone according to plan. The Jon Jones saga, which saw him reign as undisputed champion without ever facing Tom Aspinall to unify the belts, dragged on for more than 800 days. And just when it seemed like a new …",
+"image": null,
+"published": "2026-11-09T12:28:38Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"heavyweight"
+]
+},
+{
+"id": "ea8498f84d9a",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "NFL Week 10 early odds: Trade deadline could shake up lines for Chiefs, Colts and more",
+"url": "https://www.cbssports.com/nfl/news/nfl-week-10-early-odds-trade-deadline-chiefs-cowboys-colts/",
+"summary": "A Jonathan Taylor trade or a Chiefs acquisition could reshape several spreads, adding another layer of uncertainty",
+"image": "https://sportshub.cbsistatic.com/i/2023/01/18/3e3a229f-485e-48b1-8864-4e062496d204/template-pic.jpg",
+"published": "2026-11-09T12:09:03Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"ind",
+"kc"
+]
+},
+{
+"id": "1089bda07543",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Vancouver Canucks Gameday Preview #20: A Visit From Rick Tocchet And The Philadelphia Flyers",
+"url": "https://sports.yahoo.com/articles/vancouver-canucks-gameday-preview-20-120040442.html",
+"summary": "The Vancouver Canucks battle the Philadelphia Flyers on Monday.",
+"image": null,
+"published": "2026-11-09T12:00:40Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phi",
+"van"
+]
+},
+{
+"id": "73b114846834",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Flyers' Astonishing Lack of Mental Fortitude Costs Them vs. Flames... Again",
+"url": "https://sports.yahoo.com/articles/flyers-astonishing-lack-mental-fortitude-120040914.html",
+"summary": "The Flyers can't even do the basics.",
+"image": null,
+"published": "2026-11-09T12:00:40Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"cgy",
+"phi"
+]
+},
+{
+"id": "a5719e63e00d",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Ilia Topuria's Wish for Justin Gaethje UFC Rematch Gets Unceremonious Shutdown",
+"url": "https://sports.yahoo.com/articles/ilia-topurias-wish-justin-gaethje-120007284.html",
+"summary": "The former UFC two-division champ was denied a golden opportunity to rewrite a past wrong.",
+"image": null,
+"published": "2026-11-09T12:00:07Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"lightweight"
+]
+},
+{
+"id": "beff101e9771",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "DitD & Open Post - 11/9/26: Heading to Winnipeg Edition",
+"url": "https://sports.yahoo.com/articles/ditd-open-post-11-9-120000112.html",
+"summary": "New Jersey Devils & Related Hockey Links for 11/9/26",
+"image": null,
+"published": "2026-11-09T12:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"wpg"
+]
+},
+{
+"id": "adf2d6fe6d95",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "10-game checkup: Wizards are better but the numbers contain some warnings",
+"url": "https://sports.yahoo.com/articles/10-game-checkup-wizards-better-120000934.html",
+"summary": "This season’s Washington Wizards are better than the previous editions. They’re 4-6, the vets have been good, a couple young guys look close to being good-to-really-good, and with the exception of the absolute dud against Oklahoma City, they’ve been fun to watch this season. “The vets” in this case refers to Anthony…",
+"image": null,
+"published": "2026-11-09T12:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"wsh"
+]
+},
+{
+"id": "f11c599882f1",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "The Solar Report, Week 3: The Suns’ roller coaster is operating right on schedule",
+"url": "https://sports.yahoo.com/articles/solar-report-week-3-suns-120000519.html",
+"summary": "A weekly temperature check on the Phoenix Suns, where nothing escapes the heat of examination.",
+"image": null,
+"published": "2026-11-09T12:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phx"
+]
+},
+{
+"id": "f596a0dbc7e7",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Open Thread: Tarris Reed, Jr. baptized in San Antonio",
+"url": "https://sports.yahoo.com/articles/open-thread-tarris-reed-jr-120000563.html",
+"summary": "The Spurs big man celebrated at Community Bible Church last month",
+"image": null,
+"published": "2026-11-09T12:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"sa"
+]
+},
+{
+"id": "61e08b06152c",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Vikings vs. Bills prediction, odds, line: Josh Allen faces NFL's top defense on Monday night",
+"url": "https://www.cbssports.com/nfl/news/vikings-vs-bills-prediction-odds-line-josh-allen-monday-night-football/",
+"summary": "Josh Allen and Buffalo's explosive offense face Brian Flores' dominant defense, while Carson Wentz replaces the injured Kyler Murray",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/08/0412f91b-7913-486a-972f-1cdd19d124b3/josh-allen.jpg",
+"published": "2026-11-09T11:55:20Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"buf",
+"min"
+]
+},
+{
+"id": "c706aa97c429",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Luke Hughes Leaning Into His Strengths To Become An Elite Defenseman",
+"url": "https://sports.yahoo.com/articles/luke-hughes-leaning-strengths-become-114706349.html",
+"summary": "The following is an excerpt from this week’s Devils Notebook. For more on Luke Hughes, the Devils, and other fun facts, make sure to check it out at The Hockey News.",
+"image": null,
+"published": "2026-11-09T11:47:06Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"nj"
+]
+},
+{
+"id": "8598b303744e",
+"league": "ufc",
+"source": "Yahoo Sports",
+"title": "Johnny Walker open to stunning seven-day turnaround as back-up option for UFC 334 title fight",
+"url": "https://sports.yahoo.com/articles/johnny-walker-open-stunning-seven-113614456.html",
+"summary": "Walker has gone 2-0 since moving up to heavyweight, stopping Waldo Cortes-Acosta in round three on Saturday",
+"image": null,
+"published": "2026-11-09T11:36:14Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"heavyweight"
+]
+},
+{
+"id": "13e19f50991f",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "How to watch the 2026 Hockey Hall of Fame induction ceremony",
+"url": "https://sports.yahoo.com/articles/watch-2026-hockey-hall-fame-111608070.html",
+"summary": "Spotlights are cast onto center ice as six hockey greats get enshrined for life. The Hockey Hall of Fame officially welcomes a half-dozen new members behind its doors on Monday. Inductees will give speeches and careers will be relived on what should be a rather emotional night. Read on for details about the TV…",
+"image": null,
+"published": "2026-11-09T11:16:08Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "20902e5babd5",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Hockey Hall of Fame ceremony how to watch, info on six inductees",
+"url": "https://sports.yahoo.com/articles/hockey-hall-fame-ceremony-watch-110758362.html",
+"summary": "Patrice Bergeron, Carey Price and Brian Burke highlight the six-member Hockey Hall of Fame Class of 2026. How to watch the ceremony.",
+"image": null,
+"published": "2026-11-09T11:07:58Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "e5cabfaafb09",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "2026 NFL trade deadline: Who's buying, who's selling, plus biggest names, led by Jonathan Taylor",
+"url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-whos-buying-whos-selling/",
+"summary": "Plus, there are a few wild cards in play ahead of Tuesday's deadline",
+"image": "https://sportshub.cbsistatic.com/i/2026/11/09/928da8e9-de41-480c-afe0-4b66e4d956ec/jonathan-taylor-colts-4.jpg",
+"published": "2026-11-09T11:00:56Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "c1220a6912b2",
+"league": "nfl",
+"source": "CBS Sports",
+"title": "Are the Broncos the NFL's luckiest Super Bowl contender? Their 7-2 start is unlike anything we've ever seen",
+"url": "https://www.cbssports.com/nfl/news/are-broncos-nfls-luckiest-super-bowl-contender/",
+"summary": "Denver keeps winning despite historically troubling numbers. Here's how they're pulling it off -- and what history says happens next.",
+"image": "https://sportshub.cbsistatic.com/i/2026/10/14/bcc964c7-c7d9-4d5e-a442-f251c65fb2d0/bo-nix-denver-broncos-imagn-images-1.jpg",
+"published": "2026-11-09T11:00:48Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"den"
+]
+},
+{
+"id": "ad053372cd38",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Pens Points: Ducks soar past Penguins as special-teams woes continue",
+"url": "https://sports.yahoo.com/articles/pens-points-ducks-soar-past-110000623.html",
+"summary": "Here are your Pens Points for this Monday morning… The Pittsburgh Penguins fell 5-2 to the Anaheim Ducks on Sunday, continuing their special-teams struggles as Anaheim scored a couple of times on the power play and never really looked out of control. [Recap] Penguins captain Sidney Crosby moved into sole possession of…",
+"image": null,
+"published": "2026-11-09T11:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"anh",
+"pit"
+]
+},
+{
+"id": "467a902b6982",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Joe Mazzulla spoke with Kristaps Porziņģis after his decision to step away from basketball",
+"url": "https://sports.yahoo.com/articles/joe-mazzulla-spoke-kristaps-porzi-110000354.html",
+"summary": "Before Sunday night’s Celtics-Bucks game, Mazzulla opened up about his recent conversation with Porziņģis.",
+"image": null,
+"published": "2026-11-09T11:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos",
+"mil"
+]
+},
+{
+"id": "fc0f001e9326",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "The Scratching Post",
+"url": "https://sports.yahoo.com/articles/scratching-post-110000384.html",
+"summary": "Here's a fresh weekly open thread, just for you.",
+"image": null,
+"published": "2026-11-09T11:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
+},
+{
+"id": "554e8dd46a65",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "4 thoughts as the Mavericks look to stay hot at home against the Indiana Pacers",
+"url": "https://sports.yahoo.com/articles/4-thoughts-mavericks-look-stay-110000941.html",
+"summary": "Dallas looks to keep Kyrie hot and finish the homestand strong﻿",
+"image": null,
+"published": "2026-11-09T11:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"dal",
+"ind"
+]
+},
+{
+"id": "07b452c1493d",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "One Possession: Derrick White is so back for Celtics",
+"url": "https://sports.yahoo.com/articles/one-possession-derrick-white-back-092308461.html",
+"summary": "Derrick White is impacting the game in a positive way all over the floor for the Celtics.",
+"image": null,
+"published": "2026-11-09T09:23:08Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bos"
+]
+},
+{
+"id": "bd3e862933db",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Senators and Capitals face off in Eastern Conference action",
+"url": "https://sports.yahoo.com/articles/senators-capitals-face-off-eastern-091119405.html",
+"summary": "Washington Capitals (9-6, in the Metropolitan Division) vs. Ottawa Senators (11-6-1, in the Atlantic Division)Ottawa, Ontario; Tuesday, 7 p.",
+"image": null,
+"published": "2026-11-09T09:11:19Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"ott",
+"wsh"
+]
+},
+{
+"id": "0e1451452e35",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Game Preview: San Antonio Spurs vs Phoenix Suns",
+"url": "https://sports.yahoo.com/articles/game-preview-san-antonio-spurs-090000721.html",
+"summary": "The Spurs look to extend another lengthy win streak",
+"image": null,
+"published": "2026-11-09T09:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"phx",
+"sa"
+]
+},
+{
+"id": "1893c2f448d4",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Progress Report No. 1: Six key objectives for Warriors to earn NBA playoffs bid",
+"url": "https://sports.yahoo.com/articles/progress-report-no-1-six-080457435.html",
+"summary": "Monte Poole provides the first check-in on his six season-long objectives for the Golden State Warriors to earn a spot in the NBA playoffs.",
+"image": null,
+"published": "2026-11-09T08:04:57Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"gs"
+]
+},
+{
 "id": "3c141d26070f",
 "league": "soccer",
 "source": "Yahoo Sports",
@@ -53,6 +3414,18 @@
 "collected": "2026-11-09T07:57:02Z",
 "teams": [],
 "img_tried": true
+},
+{
+"id": "948adf883690",
+"league": "nhl",
+"source": "Yahoo Sports",
+"title": "Fantasy Hockey Goalie Report: Jesper Wallstedt shining, Spencer Knight dimming",
+"url": "https://sports.yahoo.com/articles/goalie-report-wallstedt-shining-knight-073400752.html",
+"summary": "Corey Abbott breaks down which NHL goalies are rising or falling, and who's a good waiver wire pickup, starting with Jesper Wallstedt, who has won five out of his last six games.",
+"image": null,
+"published": "2026-11-09T07:34:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": []
 },
 {
 "id": "472642b880d5",
@@ -295,6 +3668,21 @@
 "img_tried": true
 },
 {
+"id": "996b9f77406b",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Dallas native Julius Randle goes uncharacteristically quiet for Nets in home return",
+"url": "https://sports.yahoo.com/articles/dallas-native-julius-randle-goes-060449729.html",
+"summary": "Usually Julius Randle feasts on home cooking. But Sunday the Dallas native’s return to Big D couldn’t have gone much worse.",
+"image": null,
+"published": "2026-11-09T06:04:49Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"bkn",
+"dal"
+]
+},
+{
 "id": "a1294d9c0127",
 "league": "nfl",
 "source": "Yahoo Sports",
@@ -309,6 +3697,21 @@
 "tb"
 ],
 "img_tried": true
+},
+{
+"id": "61dc64f173f1",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Lakers vs. Hawks Preview: Streaking teams collide",
+"url": "https://sports.yahoo.com/articles/lakers-vs-hawks-preview-streaking-054914578.html",
+"summary": "The Lakers look to extend their winning streak to six against the Hawks on Monday.",
+"image": null,
+"published": "2026-11-09T05:49:14Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"atl",
+"lal"
+]
 },
 {
 "id": "e196efa34465",
@@ -354,6 +3757,34 @@
 "teams": [
 "nj",
 "wpg"
+]
+},
+{
+"id": "0c3050a78ffa",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Karl-Anthony Towns’ renewed commitment has Knicks defense off to fast start",
+"url": "https://sports.yahoo.com/articles/karl-anthony-towns-renewed-commitment-053652954.html",
+"summary": "Much like during his strong playoff run, KAT has been active off the ball, committed and clearly in shape after cutting weight in the summer.",
+"image": null,
+"published": "2026-11-09T05:36:52Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"ny"
+]
+},
+{
+"id": "66fe50ce6eeb",
+"league": "nba",
+"source": "Yahoo Sports",
+"title": "Austin Reaves gets last laugh with savage reaction to fan after drilling dagger against Pistons",
+"url": "https://sports.yahoo.com/articles/austin-reaves-gets-last-laugh-052751629.html",
+"summary": "It started off with choice words from a fan sitting courtside during the early parts of the Lakers’ win over the Pistons on Sunday night.",
+"image": null,
+"published": "2026-11-09T05:27:51Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"det"
 ]
 },
 {
@@ -8238,6 +11669,21 @@
 "collected": "2026-11-08T17:02:07Z",
 "teams": [],
 "img_tried": true
+},
+{
+"id": "e72107e96894",
+"league": "nfl",
+"source": "Yahoo Sports",
+"title": "Buffalo Bills vs. Minnesota Vikings: How to watch Monday Night Football with Sling TV",
+"url": "https://sports.yahoo.com/nfl/article/buffalo-bills-vs-minnesota-vikings-how-to-watch-monday-night-football-with-sling-tv-130000891.html",
+"summary": "Tune in to the Buffalo Bills vs. Minnesota Vikings MNF game without cable — here's how.",
+"image": null,
+"published": "2026-11-08T13:00:00Z",
+"collected": "2026-11-09T18:46:22Z",
+"teams": [
+"buf",
+"min"
+]
 },
 {
 "id": "4987c6ffe224",
@@ -144579,20 +148025,6 @@
 "teams": [
 "pit",
 "wsh"
-]
-},
-{
-"id": "035e33fe0895",
-"league": "nhl",
-"source": "CBS Sports",
-"title": "Rangers lose star goaltender Igor Shesterkin for season with lower-body injury; what's next for New York?",
-"url": "https://www.cbssports.com/nhl/news/rangers-igor-shesterkin-injury-out-for-season-whats-next/",
-"summary": "Shesterkin was big reason why the Rangers were off to a hot start",
-"image": "https://sportshub.cbsistatic.com/i/2026/10/10/46295dee-0605-48df-85d3-65e53ee41b71/gettyimages-2298862711-2.jpg",
-"published": "2026-10-10T17:46:40Z",
-"collected": "2026-10-26T13:02:47Z",
-"teams": [
-"nyr"
 ]
 }
 ]

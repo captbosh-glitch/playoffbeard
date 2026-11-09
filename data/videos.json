@@ -1,5 +1,173 @@
 [
 {
+"id": "O1fZ6Zkabgc",
+"league": "nfl",
+"source": "NFL",
+"title": "Tampa Bay Buccaneers vs Chicago Bears Game Highlights | 2026 NFL Season Week 9",
+"published": "2026-11-09T05:04:55Z",
+"teams": [
+"tb",
+"chi"
+],
+"game": "Buccaneers vs. Bears"
+},
+{
+"id": "dY-RkRu3MpA",
+"league": "nba",
+"source": "NBA",
+"title": "HEAT at KINGS | FULL GAME HIGHLIGHTS | November 8, 2026",
+"published": "2026-11-09T04:58:20Z",
+"teams": [
+"mia",
+"sac"
+],
+"game": "Heat at Kings"
+},
+{
+"id": "BsDNa_7PTnc",
+"league": "nba",
+"source": "NBA",
+"title": "PELICANS at CLIPPERS | FULL GAME HIGHLIGHTS | November 8, 2026",
+"published": "2026-11-09T04:53:45Z",
+"teams": [
+"no",
+"lac"
+],
+"game": "Pelicans at Clippers"
+},
+{
+"id": "6DVF7t4o9wY",
+"league": "nhl",
+"source": "NHL",
+"title": "Penguins vs. Ducks | NHL Highlights | Nov 8, 2026",
+"published": "2026-11-09T04:53:02Z",
+"teams": [
+"pit",
+"anh"
+],
+"game": "Penguins vs. Ducks"
+},
+{
+"id": "Axe6ICibvU4",
+"league": "nba",
+"source": "NBA",
+"title": "CELTICS at BUCKS | FULL GAME HIGHLIGHTS | November 8, 2026",
+"published": "2026-11-09T04:23:40Z",
+"teams": [
+"bos",
+"mil"
+],
+"game": "Celtics at Bucks"
+},
+{
+"id": "x4SzsIG5nwo",
+"league": "nba",
+"source": "NBA",
+"title": "NETS at MAVERICKS | FULL GAME HIGHLIGHTS | November 8, 2026",
+"published": "2026-11-09T03:27:19Z",
+"teams": [
+"bkn",
+"dal"
+],
+"game": "Nets at Mavericks"
+},
+{
+"id": "6RcXPVPOgsA",
+"league": "nhl",
+"source": "NHL",
+"title": "Devils vs. Maple Leafs | NHL Highlights | Nov 8, 2026",
+"published": "2026-11-09T03:06:00Z",
+"teams": [
+"nj",
+"tor"
+],
+"game": "Devils vs. Maple Leafs"
+},
+{
+"id": "T_O2SFhAjG8",
+"league": "nhl",
+"source": "NHL",
+"title": "Flyers vs. Flames | NHL Highlights | Nov 8, 2026",
+"published": "2026-11-09T03:05:51Z",
+"teams": [
+"phi",
+"cgy"
+],
+"game": "Flyers vs. Flames"
+},
+{
+"id": "GpgL8nz5AYQ",
+"league": "nba",
+"source": "NBA",
+"title": "JAZZ at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 8, 2026",
+"published": "2026-11-09T03:01:29Z",
+"teams": [
+"utah",
+"min"
+],
+"game": "Jazz at Timberwolves"
+},
+{
+"id": "shKl4TLb28Y",
+"league": "nba",
+"source": "NBA",
+"title": "LAKERS at PISTONS | FULL GAME HIGHLIGHTS | November 8, 2026",
+"published": "2026-11-09T02:14:01Z",
+"teams": [
+"lal",
+"det"
+],
+"game": "Lakers at Pistons"
+},
+{
+"id": "RUhPvlIcERE",
+"league": "nhl",
+"source": "NHL",
+"title": "Lightning vs. Jets | NHL Highlights | Nov 8, 2026",
+"published": "2026-11-09T01:49:42Z",
+"teams": [
+"tb",
+"wpg"
+],
+"game": "Lightning vs. Jets"
+},
+{
+"id": "e9qh3_krcg4",
+"league": "nhl",
+"source": "NHL",
+"title": "Golden Knights vs. Sabres | NHL Highlights | Nov 8, 2026",
+"published": "2026-11-08T23:23:33Z",
+"teams": [
+"vgk",
+"buf"
+],
+"game": "Golden Knights vs. Sabres"
+},
+{
+"id": "5n83r-MESag",
+"league": "nba",
+"source": "NBA",
+"title": "76ERS at BULLS | FULL GAME HIGHLIGHTS | November 8, 2026",
+"published": "2026-11-08T23:14:58Z",
+"teams": [
+"phi",
+"chi"
+],
+"game": "76ers at Bulls"
+},
+{
+"id": "V6RofOU4ZCg",
+"league": "nhl",
+"source": "NHL",
+"title": "Panthers vs. Bruins | NHL Highlights | Nov 8, 2026",
+"published": "2026-11-08T21:20:37Z",
+"teams": [
+"fla",
+"bos"
+],
+"game": "Panthers vs. Bruins"
+},
+{
 "id": "RSMUC3aHIIk",
 "league": "nba",
 "source": "NBA",
