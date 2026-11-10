@@ -1,6 +1,6 @@
 {
  "sport": "soccer",
- "updated": "2026-11-09T07:57:01+00:00",
+ "updated": "2026-11-10T09:47:12+00:00",
  "teams": [
   {
    "code": "BOU",
@@ -481,6 +481,26 @@
    "division": "MLS",
    "conference": "Western Conference",
    "pattern": "(?<!\\w)(st\\.\\ louis\\ city\\ sc|st\\.\\ louis\\ city|st\\ louis\\ city)(?!\\w)"
+  },
+  {
+   "code": "TBD Away",
+   "name": "TBD Away",
+   "nickname": "TBD Away",
+   "slug": "tbd-away",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": null,
+   "pattern": "(?<!\\w)(tbd\\ away)(?!\\w)"
+  },
+  {
+   "code": "TBD Home",
+   "name": "TBD Home",
+   "nickname": "TBD Home",
+   "slug": "tbd-home",
+   "competition": "MLS",
+   "division": "MLS",
+   "conference": null,
+   "pattern": "(?<!\\w)(tbd\\ home)(?!\\w)"
   },
   {
    "code": "TOR",

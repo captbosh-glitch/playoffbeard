@@ -1,5 +1,137 @@
 [
 {
+"id": "3DbjTAoK0m4",
+"league": "nhl",
+"source": "NHL",
+"title": "Islanders vs. Sharks | NHL Highlights | Nov 9, 2026",
+"published": "2026-11-10T06:17:58Z",
+"teams": [
+"nyi",
+"sj"
+],
+"game": "Islanders vs. Sharks"
+},
+{
+"id": "HUaf_y2R-Jw",
+"league": "nba",
+"source": "NBA",
+"title": "PELICANS at WARRIORS | FULL GAME HIGHLIGHTS | November 9, 2026",
+"published": "2026-11-10T05:35:41Z",
+"teams": [
+"no",
+"gs"
+],
+"game": "Pelicans at Warriors"
+},
+{
+"id": "sF3uOcJlHrs",
+"league": "nhl",
+"source": "NHL",
+"title": "Flyers vs. Canucks | NHL Highlights | Nov 9, 2026",
+"published": "2026-11-10T05:25:54Z",
+"teams": [
+"phi",
+"van"
+],
+"game": "Flyers vs. Canucks"
+},
+{
+"id": "fZRq0ZJQa2I",
+"league": "nba",
+"source": "NBA",
+"title": "SPURS at SUNS | FULL GAME HIGHLIGHTS | November 9, 2026",
+"published": "2026-11-10T04:48:00Z",
+"teams": [
+"sa",
+"phx"
+],
+"game": "Spurs at Suns"
+},
+{
+"id": "3rdz4PrUbMs",
+"league": "nba",
+"source": "NBA",
+"title": "NUGGETS at ROCKETS | FULL GAME HIGHLIGHTS | November 9, 2026",
+"published": "2026-11-10T04:10:21Z",
+"teams": [
+"den",
+"hou"
+],
+"game": "Nuggets at Rockets"
+},
+{
+"id": "RAPmPkOUf20",
+"league": "nba",
+"source": "NBA",
+"title": "PACERS at MAVERICKS | FULL GAME HIGHLIGHTS | November 9, 2026",
+"published": "2026-11-10T04:09:27Z",
+"teams": [
+"ind",
+"dal"
+],
+"game": "Pacers at Mavericks"
+},
+{
+"id": "KH9YP7YKtCk",
+"league": "nhl",
+"source": "NHL",
+"title": "Rangers vs. Oilers | NHL Highlights | Nov 9, 2026",
+"published": "2026-11-10T03:58:10Z",
+"teams": [
+"nyr",
+"edm"
+],
+"game": "Rangers vs. Oilers"
+},
+{
+"id": "djG6fUgNcdE",
+"league": "nba",
+"source": "NBA",
+"title": "GRIZZLIES at RAPTORS | FULL GAME HIGHLIGHTS | November 9, 2026",
+"published": "2026-11-10T03:07:04Z",
+"teams": [
+"mem",
+"tor"
+],
+"game": "Grizzlies at Raptors"
+},
+{
+"id": "ZKUHnwGRazM",
+"league": "nba",
+"source": "NBA",
+"title": "WIZARDS at PISTONS | FULL GAME HIGHLIGHTS | November 9, 2026",
+"published": "2026-11-10T02:59:44Z",
+"teams": [
+"wsh",
+"det"
+],
+"game": "Wizards at Pistons"
+},
+{
+"id": "2OZwNHo0o3Y",
+"league": "nba",
+"source": "NBA",
+"title": "CAVALIERS at HORNETS | FULL GAME HIGHLIGHTS | November 9, 2026",
+"published": "2026-11-10T02:38:45Z",
+"teams": [
+"cle",
+"cha"
+],
+"game": "Cavaliers at Hornets"
+},
+{
+"id": "FkybKoRhdPs",
+"league": "nba",
+"source": "NBA",
+"title": "LAKERS at HAWKS | FULL GAME HIGHLIGHTS | November 9, 2026",
+"published": "2026-11-10T02:36:47Z",
+"teams": [
+"lal",
+"atl"
+],
+"game": "Lakers at Hawks"
+},
+{
 "id": "O1fZ6Zkabgc",
 "league": "nfl",
 "source": "NFL",
