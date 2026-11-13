@@ -1,5 +1,173 @@
 [
 {
+"id": "axI_MUaXEtw",
+"league": "nhl",
+"source": "NHL",
+"title": "Islanders vs. Kings | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T06:14:23Z",
+"teams": [
+"nyi",
+"la"
+],
+"game": "Islanders vs. Kings"
+},
+{
+"id": "YRbtI2hdqhE",
+"league": "nhl",
+"source": "NHL",
+"title": "Blues vs. Mammoth | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T05:51:24Z",
+"teams": [
+"stl",
+"uta"
+],
+"game": "Blues vs. Mammoth"
+},
+{
+"id": "UVJok7D2Xhc",
+"league": "nba",
+"source": "NBA",
+"title": "HORNETS at SUNS | FULL GAME HIGHLIGHTS | November 12, 2026",
+"published": "2026-11-13T04:58:07Z",
+"teams": [
+"cha",
+"phx"
+],
+"game": "Hornets at Suns"
+},
+{
+"id": "NGyA_e3JzmM",
+"league": "nhl",
+"source": "NHL",
+"title": "Sabres vs. Blackhawks | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T04:30:29Z",
+"teams": [
+"buf",
+"chi"
+],
+"game": "Sabres vs. Blackhawks"
+},
+{
+"id": "hpkHtO1EL5w",
+"league": "nhl",
+"source": "NHL",
+"title": "Jets vs. Stars | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T03:57:31Z",
+"teams": [
+"wpg",
+"dal"
+],
+"game": "Jets vs. Stars"
+},
+{
+"id": "vk9wsWTp5Ns",
+"league": "nba",
+"source": "NBA",
+"title": "PISTONS at WIZARDS | FULL GAME HIGHLIGHTS | November 12, 2026",
+"published": "2026-11-13T03:44:05Z",
+"teams": [
+"det",
+"wsh"
+],
+"game": "Pistons at Wizards"
+},
+{
+"id": "a917kl3-0Qo",
+"league": "nba",
+"source": "NBA",
+"title": "MAVERICKS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 12, 2026",
+"published": "2026-11-13T03:37:08Z",
+"teams": [
+"dal",
+"min"
+],
+"game": "Mavericks at Timberwolves"
+},
+{
+"id": "pCR6Y-XYXC0",
+"league": "nhl",
+"source": "NHL",
+"title": "Red Wings vs. Panthers | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T03:24:06Z",
+"teams": [
+"det",
+"fla"
+],
+"game": "Red Wings vs. Panthers"
+},
+{
+"id": "EZDbGK1Y95I",
+"league": "nhl",
+"source": "NHL",
+"title": "Avalanche vs. Senators | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T03:15:56Z",
+"teams": [
+"col",
+"ott"
+],
+"game": "Avalanche vs. Senators"
+},
+{
+"id": "iyl-m_dPKnw",
+"league": "nhl",
+"source": "NHL",
+"title": "Wild vs. Maple Leafs | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T03:00:14Z",
+"teams": [
+"min",
+"tor"
+],
+"game": "Wild vs. Maple Leafs"
+},
+{
+"id": "gIbvokvufCQ",
+"league": "nhl",
+"source": "NHL",
+"title": "Capitals vs. Devils | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T02:54:58Z",
+"teams": [
+"wsh",
+"nj"
+],
+"game": "Capitals vs. Devils"
+},
+{
+"id": "4V1nUMQu38E",
+"league": "nhl",
+"source": "NHL",
+"title": "Lightning vs. Blue Jackets | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T02:51:47Z",
+"teams": [
+"tb",
+"cbj"
+],
+"game": "Lightning vs. Blue Jackets"
+},
+{
+"id": "ZgHhZQlAsc4",
+"league": "nhl",
+"source": "NHL",
+"title": "Canadiens vs. Bruins | NHL Highlights | Nov 12, 2026",
+"published": "2026-11-13T02:48:39Z",
+"teams": [
+"mon",
+"bos"
+],
+"game": "Canadiens vs. Bruins"
+},
+{
+"id": "BfKYY2IJ3Oc",
+"league": "nba",
+"source": "NBA",
+"title": "RAPTORS at 76ERS | FULL GAME HIGHLIGHTS | November 12, 2026",
+"published": "2026-11-13T02:45:32Z",
+"teams": [
+"tor",
+"phi"
+],
+"game": "Raptors at 76ers"
+},
+{
 "id": "ffEdLygsEEQ",
 "league": "nhl",
 "source": "NHL",
