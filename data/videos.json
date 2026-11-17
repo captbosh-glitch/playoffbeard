@@ -1,5 +1,53 @@
 [
 {
+"id": "VL2ZynDka3c",
+"league": "nhl",
+"source": "NHL",
+"title": "Canucks vs. Mammoth | NHL Highlights | Nov 16, 2026",
+"published": "2026-11-17T05:33:38Z",
+"teams": [
+"van",
+"uta"
+],
+"game": "Canucks vs. Mammoth"
+},
+{
+"id": "-yB3YX7fJZE",
+"league": "nba",
+"source": "NBA",
+"title": "SUNS at NUGGETS | FULL GAME HIGHLIGHTS | November 16, 2026",
+"published": "2026-11-17T04:52:20Z",
+"teams": [
+"phx",
+"den"
+],
+"game": "Suns at Nuggets"
+},
+{
+"id": "iXTg27Lenug",
+"league": "nfl",
+"source": "NFL",
+"title": "Los Angeles Chargers vs Baltimore Ravens Game Highlights | 2026 NFL Season Week 10",
+"published": "2026-11-17T04:36:53Z",
+"teams": [
+"lac",
+"bal"
+],
+"game": "Chargers vs. Ravens"
+},
+{
+"id": "VeojQdEJjE0",
+"league": "nba",
+"source": "NBA",
+"title": "TRAIL BLAZERS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 16, 2026",
+"published": "2026-11-17T04:05:24Z",
+"teams": [
+"por",
+"min"
+],
+"game": "Trail Blazers at Timberwolves"
+},
+{
 "id": "vcfSNir6G5Y",
 "league": "nhl",
 "source": "NHL",
