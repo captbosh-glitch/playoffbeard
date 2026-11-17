@@ -1,5 +1,16 @@
 [
 {
+"id": "cDP604urgHg",
+"league": "ufc",
+"source": "UFC",
+"title": "Jiri Prochazka vs Khalil Rountree Jr | FULL FIGHT | UFC Qatar",
+"published": "2026-11-17T16:29:28Z",
+"teams": [
+"light-heavyweight"
+],
+"game": "Jiri Prochazka vs Khalil Rountree Jr"
+},
+{
 "id": "VL2ZynDka3c",
 "league": "nhl",
 "source": "NHL",
@@ -1889,29 +1900,9 @@
 "source": "UFC",
 "title": "Amanda Nunes vs Ronda Rousey | FULL FIGHT | Polymarket UFC 334",
 "published": "2026-11-04T15:00:23Z",
-"teams": [],
-"game": "Amanda Nunes vs Ronda Rousey"
-},
-{
-"id": "08n1cUfer0Q",
-"league": "ufc",
-"source": "UFC",
-"title": "Johnny Walker vs Mick Parkin | FULL FIGHT | UFC Vegas 124",
-"published": "2026-11-03T17:30:38Z",
-"teams": [
-"heavyweight"
-],
-"game": "Johnny Walker vs Mick Parkin"
-},
-{
-"id": "uI-16Z5c3Ds",
-"league": "ufc",
-"source": "UFC",
-"title": "Kayla Harrison vs Julianna Peña | FULL FIGHT | Polymarket UFC 334",
-"published": "2026-11-03T15:00:15Z",
 "teams": [
 "womens-bantamweight"
 ],
-"game": "Kayla Harrison vs Julianna Peña"
+"game": "Amanda Nunes vs Ronda Rousey"
 }
 ]
