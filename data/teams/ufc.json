@@ -1,6 +1,6 @@
 {
  "sport": "ufc",
- "updated": "2026-11-17T22:21:06+00:00",
+ "updated": "2026-11-18T21:55:14+00:00",
  "teams": [
   {
    "code": "FLW",
@@ -27,7 +27,7 @@
     "Charles Johnson",
     "Tagir Ulanbekov"
    ],
-   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )flyweight|joshua\\ van|pantoja|alexandre\\ pantoja|manel\\ kape|royval|brandon\\ royval|taira|tatsuro\\ taira|kyoji\\ horiguchi|horiguchi|kavanagh|loneer\\ kavanagh|lone’er\\ kavanagh|almabayev|asu\\ almabayev|moreno|brandon\\ moreno|albazi|amir\\ albazi|temirov|ramazan\\ temirov|tim\\ elliott|elliott|erceg|steve\\ erceg|sumudaerji|charles\\ johnson|johnson|tagir\\ ulanbekov|ulanbekov)(?!\\w)"
+   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )flyweight|joshua\\ van|alexandre\\ pantoja|pantoja|manel\\ kape|royval|brandon\\ royval|tatsuro\\ taira|taira|kyoji\\ horiguchi|horiguchi|kavanagh|loneer\\ kavanagh|lone’er\\ kavanagh|asu\\ almabayev|almabayev|brandon\\ moreno|moreno|amir\\ albazi|albazi|ramazan\\ temirov|temirov|tim\\ elliott|elliott|erceg|steve\\ erceg|sumudaerji|johnson|charles\\ johnson|tagir\\ ulanbekov|ulanbekov)(?!\\w)"
   },
   {
    "code": "BW",
@@ -54,7 +54,7 @@
     "Raoni Barcelos",
     "Bryce Mitchell"
    ],
-   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )bantamweight|petr\\ yan|dvalishvili|merab\\ dvalishvili|sean\\ o'malley|o'malley|yadong|song\\ yadong|umar\\ nurmagomedov|nurmagomedov|mario\\ bautista|bautista|sandhagen|cory\\ sandhagen|payton\\ talbott|talbott|martinez|david\\ martinez|zahabi|aiemann\\ zahabi|rosas\\ jr\\.|raul\\ rosas\\ jr\\.|marlon\\ vera|figueiredo|deiveson\\ figueiredo|mcghee|marcus\\ mcghee|barcelos|raoni\\ barcelos|mitchell|bryce\\ mitchell)(?!\\w)"
+   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )bantamweight|petr\\ yan|dvalishvili|merab\\ dvalishvili|o'malley|sean\\ o'malley|song\\ yadong|yadong|nurmagomedov|umar\\ nurmagomedov|bautista|mario\\ bautista|cory\\ sandhagen|sandhagen|talbott|payton\\ talbott|david\\ martinez|martinez|zahabi|aiemann\\ zahabi|raul\\ rosas\\ jr\\.|rosas\\ jr\\.|marlon\\ vera|figueiredo|deiveson\\ figueiredo|marcus\\ mcghee|mcghee|barcelos|raoni\\ barcelos|mitchell|bryce\\ mitchell)(?!\\w)"
   },
   {
    "code": "FW",
@@ -81,7 +81,7 @@
     "David Onama",
     "Pat Sabatini"
    ],
-   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )featherweight|volkanovski|alexander\\ volkanovski|evloev|movsar\\ evloev|lopes|diego\\ lopes|lerone\\ murphy|murphy|aljamain\\ sterling|sterling|jean\\ silva|arnold\\ allen|yair\\ rodriguez|zalal|youssef\\ zalal|kevin\\ vallejos|vallejos|steve\\ garcia|garcia|aaron\\ pico|pitbull|patricio\\ pitbull|brian\\ ortega|ortega|david\\ onama|onama|sabatini|pat\\ sabatini)(?!\\w)"
+   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )featherweight|volkanovski|alexander\\ volkanovski|evloev|movsar\\ evloev|diego\\ lopes|lopes|murphy|lerone\\ murphy|sterling|aljamain\\ sterling|jean\\ silva|arnold\\ allen|yair\\ rodriguez|zalal|youssef\\ zalal|vallejos|kevin\\ vallejos|garcia|steve\\ garcia|aaron\\ pico|pitbull|patricio\\ pitbull|brian\\ ortega|ortega|david\\ onama|onama|sabatini|pat\\ sabatini)(?!\\w)"
   },
   {
    "code": "LW",
@@ -108,7 +108,7 @@
     "Dan Hooker",
     "Grant Dawson"
    ],
-   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )lightweight|gaethje|justin\\ gaethje|ilia\\ topuria|topuria|arman\\ tsarukyan|tsarukyan|oliveira|charles\\ oliveira|max\\ holloway|holloway|paddy\\ pimblett|pimblett|saint\\ denis|benoît\\ saint\\ denis|benoit\\ saint\\ denis|salkilld|quillan\\ salkilld|ruffy|mauricio\\ ruffy|salahdine\\ parnasse|parnasse|mateusz\\ gamrot|gamrot|fiziev|rafael\\ fiziev|nolan|tom\\ nolan|moicano|renato\\ moicano|dan\\ hooker|hooker|dawson|grant\\ dawson)(?!\\w)"
+   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )lightweight|gaethje|justin\\ gaethje|topuria|ilia\\ topuria|tsarukyan|arman\\ tsarukyan|charles\\ oliveira|oliveira|max\\ holloway|holloway|pimblett|paddy\\ pimblett|benoît\\ saint\\ denis|benoit\\ saint\\ denis|saint\\ denis|quillan\\ salkilld|salkilld|ruffy|mauricio\\ ruffy|salahdine\\ parnasse|parnasse|gamrot|mateusz\\ gamrot|rafael\\ fiziev|fiziev|nolan|tom\\ nolan|renato\\ moicano|moicano|dan\\ hooker|hooker|grant\\ dawson|dawson)(?!\\w)"
   },
   {
    "code": "WW",
@@ -135,7 +135,7 @@
     "Kevin Holland",
     "Daniel Rodriguez"
    ],
-   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )welterweight|islam\\ makhachev|makhachev|ian\\ machado\\ garry|machado\\ garry|prates|carlos\\ prates|michael\\ morales|morales|jack\\ della\\ maddalena|della\\ maddalena|bonfim|gabriel\\ bonfim|brady|sean\\ brady|muhammad|belal\\ muhammad|leon\\ edwards|mike\\ malott|malott|kamaru\\ usman|usman|yaroslav\\ amosov|amosov|uros\\ medic|uroš\\ medić|medic|medić|joaquin\\ buckley|buckley|holland|kevin\\ holland|daniel\\ rodriguez)(?!\\w)"
+   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )welterweight|makhachev|islam\\ makhachev|ian\\ machado\\ garry|machado\\ garry|carlos\\ prates|prates|michael\\ morales|morales|della\\ maddalena|jack\\ della\\ maddalena|gabriel\\ bonfim|bonfim|sean\\ brady|brady|muhammad|belal\\ muhammad|leon\\ edwards|mike\\ malott|malott|usman|kamaru\\ usman|yaroslav\\ amosov|amosov|uros\\ medic|uroš\\ medić|medić|medic|buckley|joaquin\\ buckley|kevin\\ holland|holland|daniel\\ rodriguez)(?!\\w)"
   },
   {
    "code": "MW",
@@ -162,7 +162,7 @@
     "Bo Nickal",
     "Shara Magomedov"
    ],
-   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )middleweight|strickland|sean\\ strickland|khamzat\\ chimaev|chimaev|du\\ plessis|dricus\\ du\\ plessis|nassourdine\\ imavov|imavov|brendan\\ allen|caio\\ borralho|borralho|pyfer|joe\\ pyfer|rodrigues|gregory\\ rodrigues|hernandez|anthony\\ hernandez|adesanya|israel\\ adesanya|leroy\\ duncan|christian\\ leroy\\ duncan|abus\\ magomedov|jared\\ cannonier|cannonier|aliskerov|ikram\\ aliskerov|nickal|bo\\ nickal|shara\\ magomedov)(?!\\w)"
+   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )middleweight|sean\\ strickland|strickland|khamzat\\ chimaev|chimaev|du\\ plessis|dricus\\ du\\ plessis|nassourdine\\ imavov|imavov|brendan\\ allen|caio\\ borralho|borralho|pyfer|joe\\ pyfer|gregory\\ rodrigues|rodrigues|hernandez|anthony\\ hernandez|adesanya|israel\\ adesanya|christian\\ leroy\\ duncan|leroy\\ duncan|abus\\ magomedov|jared\\ cannonier|cannonier|ikram\\ aliskerov|aliskerov|nickal|bo\\ nickal|shara\\ magomedov)(?!\\w)"
   },
   {
    "code": "LHW",
@@ -189,7 +189,7 @@
     "Reinier de Ridder",
     "Nikita Krylov"
    ],
-   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )light\\ heavyweight|carlos\\ ulberg|ulberg|ankalaev|magomed\\ ankalaev|jiri\\ prochazka|prochazka|jiří\\ procházka|procházka|alex\\ pereira|rountree\\ jr\\.|khalil\\ rountree\\ jr\\.|navajo\\ stirling|stirling|paulo\\ costa|costa|dominick\\ reyes|reyes|guskov|bogdan\\ guskov|murzakanov|azamat\\ murzakanov|robert\\ whittaker|whittaker|błachowicz|bachowicz|jan\\ błachowicz|jan\\ bachowicz|rakhman\\ yakhyaev|abdul\\ rakhman\\ yakhyaev|menifield|alonzo\\ menifield|de\\ ridder|reinier\\ de\\ ridder|krylov|nikita\\ krylov)(?!\\w)"
+   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )light\\ heavyweight|carlos\\ ulberg|ulberg|ankalaev|magomed\\ ankalaev|procházka|jiří\\ procházka|jiri\\ prochazka|prochazka|alex\\ pereira|khalil\\ rountree\\ jr\\.|rountree\\ jr\\.|navajo\\ stirling|stirling|paulo\\ costa|costa|dominick\\ reyes|reyes|bogdan\\ guskov|guskov|murzakanov|azamat\\ murzakanov|whittaker|robert\\ whittaker|jan\\ błachowicz|błachowicz|bachowicz|jan\\ bachowicz|rakhman\\ yakhyaev|abdul\\ rakhman\\ yakhyaev|menifield|alonzo\\ menifield|de\\ ridder|reinier\\ de\\ ridder|krylov|nikita\\ krylov)(?!\\w)"
   },
   {
    "code": "HW",
@@ -216,7 +216,7 @@
     "Derrick Lewis",
     "Aleksandar Rakić"
    ],
-   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )(?<!light )(?<!light-)heavyweight|ciryl\\ gane|aspinall|tom\\ aspinall|volkov|alexander\\ volkov|sergei\\ pavlovich|pavlovich|josh\\ hokit|hokit|blaydes|curtis\\ blaydes|johnny\\ walker|kuniev|rizvan\\ kuniev|cortes\\ acosta|waldo\\ cortes\\ acosta|petrino|vitor\\ petrino|serghei\\ spivac|spivac|delija|ante\\ delija|valter\\ walker|tyrell\\ fortune|fortune|derrick\\ lewis|lewis|aleksandar\\ rakic|rakic|aleksandar\\ rakić|rakić)(?!\\w)"
+   "pattern": "(?<!\\w)((?<!women's )(?<!women’s )(?<!womens )(?<!light )(?<!light-)heavyweight|ciryl\\ gane|aspinall|tom\\ aspinall|volkov|alexander\\ volkov|sergei\\ pavlovich|pavlovich|hokit|josh\\ hokit|curtis\\ blaydes|blaydes|johnny\\ walker|kuniev|rizvan\\ kuniev|waldo\\ cortes\\ acosta|cortes\\ acosta|vitor\\ petrino|petrino|spivac|serghei\\ spivac|ante\\ delija|delija|valter\\ walker|tyrell\\ fortune|fortune|derrick\\ lewis|lewis|rakic|aleksandar\\ rakić|aleksandar\\ rakic|rakić)(?!\\w)"
   },
   {
    "code": "W-SW",
@@ -243,7 +243,7 @@
     "Piera Rodriguez",
     "Angela Hill"
    ],
-   "pattern": "(?<!\\w)(women['’]?s strawweight|mackenzie\\ dern|weili|zhang\\ weili|tatiana\\ suarez|suarez|jandiroba|virna\\ jandiroba|gomes|denise\\ gomes|gillian\\ robertson|robertson|fatima\\ kline|kline|xiaonan|yan\\ xiaonan|loopy\\ godinez|godinez|thainara|alexia\\ thainara|tabatha\\ ricci|ricci|lemos|amanda\\ lemos|jessica\\ andrade|jéssica\\ andrade|andrade|amanda\\ ribas|ribas|piera\\ rodriguez|angela\\ hill)(?!\\w)"
+   "pattern": "(?<!\\w)(women['’]?s strawweight|mackenzie\\ dern|zhang\\ weili|weili|suarez|tatiana\\ suarez|jandiroba|virna\\ jandiroba|gomes|denise\\ gomes|robertson|gillian\\ robertson|kline|fatima\\ kline|yan\\ xiaonan|xiaonan|loopy\\ godinez|godinez|thainara|alexia\\ thainara|ricci|tabatha\\ ricci|lemos|amanda\\ lemos|jéssica\\ andrade|andrade|jessica\\ andrade|ribas|amanda\\ ribas|piera\\ rodriguez|angela\\ hill)(?!\\w)"
   },
   {
    "code": "W-FLW",
@@ -270,7 +270,7 @@
     "Regina Tarin",
     "Gabriella Fernandes"
    ],
-   "pattern": "(?<!\\w)(women['’]?s flyweight|natalia\\ silva|valentina\\ shevchenko|shevchenko|grasso|alexa\\ grasso|fiorot|manon\\ fiorot|jasmine\\ jasudavicius|jasudavicius|erin\\ blanchfield|blanchfield|rose\\ namajunas|namajunas|barber|maycee\\ barber|wang\\ cong|cortez|tracy\\ cortez|miranda\\ maverick|maverick|karine\\ silva|o'neill|casey\\ o'neill|eduarda\\ moura|moura|regina\\ tarin|tarin|gabriella\\ fernandes|fernandes)(?!\\w)"
+   "pattern": "(?<!\\w)(women['’]?s flyweight|natalia\\ silva|valentina\\ shevchenko|shevchenko|alexa\\ grasso|grasso|fiorot|manon\\ fiorot|jasmine\\ jasudavicius|jasudavicius|erin\\ blanchfield|blanchfield|namajunas|rose\\ namajunas|barber|maycee\\ barber|wang\\ cong|tracy\\ cortez|cortez|miranda\\ maverick|maverick|karine\\ silva|o'neill|casey\\ o'neill|moura|eduarda\\ moura|regina\\ tarin|tarin|fernandes|gabriella\\ fernandes)(?!\\w)"
   },
   {
    "code": "W-BW",
@@ -297,7 +297,7 @@
     "Alice Pereira",
     "Chelsea Chandler"
    ],
-   "pattern": "(?<!\\w)(women['’]?s bantamweight|kayla\\ harrison|harrison|amanda\\ nunes|nunes|julianna\\ pena|julianna\\ peña|joselyne\\ edwards|ailin\\ perez|perez|luana\\ santos|yana\\ santos|pennington|raquel\\ pennington|bia\\ mesquita|mesquita|jacqueline\\ cavalcanti|cavalcanti|karol\\ rosa|michelle\\ montague|montague|macy\\ chiasson|chiasson|cornolle|nora\\ cornolle|alice\\ pereira|chandler|chelsea\\ chandler)(?!\\w)"
+   "pattern": "(?<!\\w)(women['’]?s bantamweight|harrison|kayla\\ harrison|amanda\\ nunes|nunes|julianna\\ peña|julianna\\ pena|joselyne\\ edwards|ailin\\ perez|perez|luana\\ santos|yana\\ santos|raquel\\ pennington|pennington|bia\\ mesquita|mesquita|cavalcanti|jacqueline\\ cavalcanti|karol\\ rosa|montague|michelle\\ montague|macy\\ chiasson|chiasson|cornolle|nora\\ cornolle|alice\\ pereira|chandler|chelsea\\ chandler)(?!\\w)"
   }
  ]
 }

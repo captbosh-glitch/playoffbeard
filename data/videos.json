@@ -1,5 +1,16 @@
 [
 {
+"id": "dxcCzgqvuxY",
+"league": "ufc",
+"source": "UFC",
+"title": "Navajo Stirling vs Jan Blachowicz | FULL FIGHT | UFC Qatar",
+"published": "2026-11-18T14:00:23Z",
+"teams": [
+"light-heavyweight"
+],
+"game": "Navajo Stirling vs Jan Blachowicz"
+},
+{
 "id": "3Glb4WcCasw",
 "league": "nba",
 "source": "NBA",
@@ -2085,16 +2096,5 @@
 "pit"
 ],
 "game": "Bruins vs. Penguins"
-},
-{
-"id": "T7M33HIQIQg",
-"league": "ufc",
-"source": "UFC",
-"title": "Amanda Nunes vs Ronda Rousey | FULL FIGHT | Polymarket UFC 334",
-"published": "2026-11-04T15:00:23Z",
-"teams": [
-"womens-bantamweight"
-],
-"game": "Amanda Nunes vs Ronda Rousey"
 }
 ]
