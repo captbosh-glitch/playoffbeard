@@ -1,5 +1,136 @@
 [
 {
+"id": "L6bstnDzK7Q",
+"league": "ufc",
+"source": "UFC",
+"title": "Aleksandre Topuria vs Bekzat Almakhan | FULL FIGHT | UFC Qatar",
+"published": "2026-11-19T12:45:04Z",
+"teams": [
+"lightweight"
+],
+"game": "Aleksandre Topuria vs Bekzat Almakhan"
+},
+{
+"id": "pLTotERi41g",
+"league": "nhl",
+"source": "NHL",
+"title": "Avalanche vs. Mammoth | NHL Highlights | Nov 18, 2026",
+"published": "2026-11-19T06:37:02Z",
+"teams": [
+"col",
+"uta"
+],
+"game": "Avalanche vs. Mammoth"
+},
+{
+"id": "VydiM2VuElM",
+"league": "nba",
+"source": "NBA",
+"title": "JAZZ at LAKERS | FULL GAME HIGHLIGHTS | November 18, 2026",
+"published": "2026-11-19T05:44:28Z",
+"teams": [
+"utah",
+"lal"
+],
+"game": "Jazz at Lakers"
+},
+{
+"id": "HX-mNTYf4x8",
+"league": "nba",
+"source": "NBA",
+"title": "CELTICS at NUGGETS | FULL GAME HIGHLIGHTS | November 18, 2026",
+"published": "2026-11-19T05:41:24Z",
+"teams": [
+"bos",
+"den"
+],
+"game": "Celtics at Nuggets"
+},
+{
+"id": "vI7mK5Xx9D8",
+"league": "nba",
+"source": "NBA",
+"title": "SUNS at KINGS | FULL GAME HIGHLIGHTS | November 18, 2026",
+"published": "2026-11-19T05:32:03Z",
+"teams": [
+"phx",
+"sac"
+],
+"game": "Suns at Kings"
+},
+{
+"id": "OLh7nl8JlPw",
+"league": "nba",
+"source": "NBA",
+"title": "PISTONS at PELICANS | FULL GAME HIGHLIGHTS | November 18, 2026",
+"published": "2026-11-19T04:19:48Z",
+"teams": [
+"det",
+"no"
+],
+"game": "Pistons at Pelicans"
+},
+{
+"id": "p9cFxcaPRWQ",
+"league": "nba",
+"source": "NBA",
+"title": "WARRIORS at MAVERICKS | FULL GAME HIGHLIGHTS | November 18, 2026",
+"published": "2026-11-19T04:16:38Z",
+"teams": [
+"gs",
+"dal"
+],
+"game": "Warriors at Mavericks"
+},
+{
+"id": "MYYhHXNgSnM",
+"league": "nba",
+"source": "NBA",
+"title": "HAWKS at THUNDER | FULL GAME HIGHLIGHTS | November 18, 2026",
+"published": "2026-11-19T03:48:51Z",
+"teams": [
+"atl",
+"okc"
+],
+"game": "Hawks at Thunder"
+},
+{
+"id": "f6_aPaSgkHE",
+"league": "nhl",
+"source": "NHL",
+"title": "Bruins vs. Red Wings | NHL Highlights | Nov 18, 2026",
+"published": "2026-11-19T03:42:17Z",
+"teams": [
+"bos",
+"det"
+],
+"game": "Bruins vs. Red Wings"
+},
+{
+"id": "UjM4Za3cAmU",
+"league": "nba",
+"source": "NBA",
+"title": "WIZARDS at RAPTORS | FULL GAME HIGHLIGHTS | November 18, 2026",
+"published": "2026-11-19T03:36:50Z",
+"teams": [
+"wsh",
+"tor"
+],
+"game": "Wizards at Raptors"
+},
+{
+"id": "YvXX3W951bI",
+"league": "nhl",
+"source": "NHL",
+"title": "Canadiens vs. Devils | NHL Highlights | Nov 18, 2026",
+"published": "2026-11-19T03:36:42Z",
+"teams": [
+"mon",
+"nj"
+],
+"game": "Canadiens vs. Devils"
+},
+{
 "id": "43Up7wY4og4",
 "league": "nba",
 "source": "NBA",
