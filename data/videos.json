@@ -1,5 +1,29 @@
 [
 {
+"id": "WtvF5AiSVAw",
+"league": "nhl",
+"source": "NHL",
+"title": "Sabres vs. Capitals | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T03:06:13Z",
+"teams": [
+"buf",
+"wsh"
+],
+"game": "Sabres vs. Capitals"
+},
+{
+"id": "NPoQeDFOw6I",
+"league": "nhl",
+"source": "NHL",
+"title": "Islanders vs. Jets | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T03:01:43Z",
+"teams": [
+"nyi",
+"wpg"
+],
+"game": "Islanders vs. Jets"
+},
+{
 "id": "L6bstnDzK7Q",
 "league": "ufc",
 "source": "UFC",
@@ -2227,65 +2251,5 @@
 "cbj"
 ],
 "game": "Stars vs. Blue Jackets"
-},
-{
-"id": "qYfQpmQMNT4",
-"league": "nhl",
-"source": "NHL",
-"title": "Mammoth vs. Canadiens | NHL Highlights | Nov 5, 2026",
-"published": "2026-11-06T03:11:15Z",
-"teams": [
-"uta",
-"mon"
-],
-"game": "Mammoth vs. Canadiens"
-},
-{
-"id": "BS3pjMth_a8",
-"league": "nhl",
-"source": "NHL",
-"title": "Golden Knights vs. Red Wings | NHL Highlights | Nov 5, 2026",
-"published": "2026-11-06T03:11:04Z",
-"teams": [
-"vgk",
-"det"
-],
-"game": "Golden Knights vs. Red Wings"
-},
-{
-"id": "36fxgJXNw24",
-"league": "nhl",
-"source": "NHL",
-"title": "Blues vs. Devils | NHL Highlights | Nov 5, 2026",
-"published": "2026-11-06T03:08:08Z",
-"teams": [
-"stl",
-"nj"
-],
-"game": "Blues vs. Devils"
-},
-{
-"id": "K_lJBc-rD5M",
-"league": "nhl",
-"source": "NHL",
-"title": "Hurricanes vs. Islanders | NHL Highlights | Nov 5, 2026",
-"published": "2026-11-06T03:06:35Z",
-"teams": [
-"car",
-"nyi"
-],
-"game": "Hurricanes vs. Islanders"
-},
-{
-"id": "xqojeFk0JHk",
-"league": "nhl",
-"source": "NHL",
-"title": "Bruins vs. Penguins | NHL Highlights | Nov 5, 2026",
-"published": "2026-11-06T02:57:57Z",
-"teams": [
-"bos",
-"pit"
-],
-"game": "Bruins vs. Penguins"
 }
 ]
