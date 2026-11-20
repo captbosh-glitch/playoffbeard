@@ -1,5 +1,184 @@
 [
 {
+"id": "DnuHhrcPb6U",
+"league": "nhl",
+"source": "NHL",
+"title": "Stars vs. Knights | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T06:09:13Z",
+"teams": [
+"vgk"
+],
+"game": "Stars vs. Knights"
+},
+{
+"id": "njKlHTneJr0",
+"league": "nhl",
+"source": "NHL",
+"title": "Canucks vs. Kraken | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T05:48:42Z",
+"teams": [
+"van",
+"sea"
+],
+"game": "Canucks vs. Kraken"
+},
+{
+"id": "zkje-nYvIR8",
+"league": "nhl",
+"source": "NHL",
+"title": "Ducks vs. Avalanche | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T04:59:57Z",
+"teams": [
+"anh",
+"col"
+],
+"game": "Ducks vs. Avalanche"
+},
+{
+"id": "E4M4HIAfJl4",
+"league": "nfl",
+"source": "NFL",
+"title": "Indianapolis Colts vs Houston Texans Game Highlights | 2026 NFL Season Week 11",
+"published": "2026-11-20T04:22:26Z",
+"teams": [
+"ind",
+"hou"
+],
+"game": "Colts vs. Texans"
+},
+{
+"id": "0mXMgoNZKvQ",
+"league": "nhl",
+"source": "NHL",
+"title": "Kings vs. Maple Leafs | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T03:59:18Z",
+"teams": [
+"la",
+"tor"
+],
+"game": "Kings vs. Maple Leafs"
+},
+{
+"id": "paWPQA70oSo",
+"league": "nhl",
+"source": "NHL",
+"title": "Blue Jackets vs. Blackhawks | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T03:58:13Z",
+"teams": [
+"cbj",
+"chi"
+],
+"game": "Blue Jackets vs. Blackhawks"
+},
+{
+"id": "wSv_WEGBiBE",
+"league": "nba",
+"source": "NBA",
+"title": "KNICKS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 19, 2026",
+"published": "2026-11-20T03:57:27Z",
+"teams": [
+"ny",
+"min"
+],
+"game": "Knicks at Timberwolves"
+},
+{
+"id": "cE67QJTwYEU",
+"league": "nhl",
+"source": "NHL",
+"title": "Wild vs. Flames | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T03:57:04Z",
+"teams": [
+"min",
+"cgy"
+],
+"game": "Wild vs. Flames"
+},
+{
+"id": "e1h0kBJPKz4",
+"league": "nba",
+"source": "NBA",
+"title": "TRAIL BLAZERS at BUCKS | FULL GAME HIGHLIGHTS | November 19, 2026",
+"published": "2026-11-20T03:55:23Z",
+"teams": [
+"por",
+"mil"
+],
+"game": "Trail Blazers at Bucks"
+},
+{
+"id": "Xi_8YW2tez8",
+"league": "nhl",
+"source": "NHL",
+"title": "Flyers vs. Senators | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T03:50:38Z",
+"teams": [
+"phi",
+"ott"
+],
+"game": "Flyers vs. Senators"
+},
+{
+"id": "kldOvV4O2Zg",
+"league": "nba",
+"source": "NBA",
+"title": "WARRIORS at GRIZZLIES | FULL GAME HIGHLIGHTS | November 19, 2026",
+"published": "2026-11-20T03:50:22Z",
+"teams": [
+"gs",
+"mem"
+],
+"game": "Warriors at Grizzlies"
+},
+{
+"id": "LH2Y8iaa7Nk",
+"league": "nba",
+"source": "NBA",
+"title": "CLIPPERS at SPURS | FULL GAME HIGHLIGHTS | November 19, 2026",
+"published": "2026-11-20T03:48:59Z",
+"teams": [
+"lac",
+"sa"
+],
+"game": "Clippers at Spurs"
+},
+{
+"id": "n44Uod7iDPQ",
+"league": "nhl",
+"source": "NHL",
+"title": "Blues vs. Penguins | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T03:46:11Z",
+"teams": [
+"stl",
+"pit"
+],
+"game": "Blues vs. Penguins"
+},
+{
+"id": "OkA_m8pVcbw",
+"league": "nhl",
+"source": "NHL",
+"title": "Oilers vs. Lightning | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T03:26:13Z",
+"teams": [
+"edm",
+"tb"
+],
+"game": "Oilers vs. Lightning"
+},
+{
+"id": "q8rSHWCR0R0",
+"league": "nhl",
+"source": "NHL",
+"title": "Canadiens vs. Hurricanes | NHL Highlights | Nov 19, 2026",
+"published": "2026-11-20T03:14:42Z",
+"teams": [
+"mon",
+"car"
+],
+"game": "Canadiens vs. Hurricanes"
+},
+{
 "id": "WtvF5AiSVAw",
 "league": "nhl",
 "source": "NHL",
@@ -2191,65 +2370,5 @@
 "buf"
 ],
 "game": "Blue Jackets vs. Sabres"
-},
-{
-"id": "9CbHqmsNxuE",
-"league": "nhl",
-"source": "NHL",
-"title": "Predators vs. Avalanche | NHL Highlights | Nov 5, 2026",
-"published": "2026-11-06T05:33:35Z",
-"teams": [
-"nsh",
-"col"
-],
-"game": "Predators vs. Avalanche"
-},
-{
-"id": "TRUoUtxPZIU",
-"league": "nfl",
-"source": "NFL",
-"title": "Jacksonville Jaguars vs Baltimore Ravens Game Highlights | 2026 NFL Season Week 9",
-"published": "2026-11-06T04:20:12Z",
-"teams": [
-"jax",
-"bal"
-],
-"game": "Jaguars vs. Ravens"
-},
-{
-"id": "Wf3Bf9R66sA",
-"league": "nhl",
-"source": "NHL",
-"title": "Ducks vs. Oilers | NHL Highlights | Nov 5, 2026",
-"published": "2026-11-06T04:00:14Z",
-"teams": [
-"anh",
-"edm"
-],
-"game": "Ducks vs. Oilers"
-},
-{
-"id": "xWAxh8ddaOE",
-"league": "nhl",
-"source": "NHL",
-"title": "Blackhawks vs. Lightning | NHL Highlights | Nov 5, 2026",
-"published": "2026-11-06T03:30:46Z",
-"teams": [
-"chi",
-"tb"
-],
-"game": "Blackhawks vs. Lightning"
-},
-{
-"id": "l5RZLp0GtO0",
-"league": "nhl",
-"source": "NHL",
-"title": "Stars vs. Blue Jackets | NHL Highlights | Nov 5, 2026",
-"published": "2026-11-06T03:19:56Z",
-"teams": [
-"dal",
-"cbj"
-],
-"game": "Stars vs. Blue Jackets"
 }
 ]
