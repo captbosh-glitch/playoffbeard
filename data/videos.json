@@ -1,5 +1,65 @@
 [
 {
+"id": "FMHdRbySu54",
+"league": "nba",
+"source": "NBA",
+"title": "ROCKETS AT NUGGETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+"published": "2026-11-21T05:56:51Z",
+"teams": [
+"hou",
+"den"
+],
+"game": "Rockets at Nuggets"
+},
+{
+"id": "UpC7NWUo0Mg",
+"league": "nba",
+"source": "NBA",
+"title": "KINGS AT LAKERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+"published": "2026-11-21T05:46:38Z",
+"teams": [
+"sac",
+"lal"
+],
+"game": "Kings at Lakers"
+},
+{
+"id": "AR4TUrUkkzo",
+"league": "nba",
+"source": "NBA",
+"title": "SUNS AT JAZZ | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+"published": "2026-11-21T05:35:54Z",
+"teams": [
+"phx",
+"utah"
+],
+"game": "Suns at Jazz"
+},
+{
+"id": "NXnXlEQ-FRo",
+"league": "nba",
+"source": "NBA",
+"title": "PELICANS AT THUNDER | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+"published": "2026-11-21T03:57:02Z",
+"teams": [
+"no",
+"okc"
+],
+"game": "Pelicans at Thunder"
+},
+{
+"id": "NOu53JEXhJs",
+"league": "nba",
+"source": "NBA",
+"title": "WIZARDS AT BULLS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 20, 2026",
+"published": "2026-11-21T03:56:03Z",
+"teams": [
+"wsh",
+"chi"
+],
+"game": "Wizards at Bulls"
+},
+{
 "id": "DnuHhrcPb6U",
 "league": "nhl",
 "source": "NHL",
@@ -2262,113 +2322,5 @@
 "wsh"
 ],
 "game": "Panthers vs. Capitals"
-},
-{
-"id": "Tl63S0C6XhI",
-"league": "nba",
-"source": "NBA",
-"title": "TRAIL BLAZERS AT LAKERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
-"published": "2026-11-07T06:31:39Z",
-"teams": [
-"por",
-"lal"
-],
-"game": "Trail Blazers at Lakers"
-},
-{
-"id": "DBhUevV3tlU",
-"league": "nba",
-"source": "NBA",
-"title": "SPURS AT KINGS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
-"published": "2026-11-07T06:26:31Z",
-"teams": [
-"sa",
-"sac"
-],
-"game": "Spurs at Kings"
-},
-{
-"id": "ArdOCfDXZdI",
-"league": "nba",
-"source": "NBA",
-"title": "TIMBERWOLVES at PELICANS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
-"published": "2026-11-07T04:22:36Z",
-"teams": [
-"min",
-"no"
-],
-"game": "Timberwolves at Pelicans"
-},
-{
-"id": "bNGH4Krt1AM",
-"league": "nhl",
-"source": "NHL",
-"title": "Ducks vs. Flames | NHL Highlights | Nov 6, 2026",
-"published": "2026-11-07T03:58:51Z",
-"teams": [
-"anh",
-"cgy"
-],
-"game": "Ducks vs. Flames"
-},
-{
-"id": "urZbyAoCBNU",
-"league": "nba",
-"source": "NBA",
-"title": "THUNDER at GRIZZLIES | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
-"published": "2026-11-07T03:58:35Z",
-"teams": [
-"okc",
-"mem"
-],
-"game": "Thunder at Grizzlies"
-},
-{
-"id": "A_4SYcSbEbQ",
-"league": "nba",
-"source": "NBA",
-"title": "RAPTORS at BUCKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
-"published": "2026-11-07T03:56:44Z",
-"teams": [
-"tor",
-"mil"
-],
-"game": "Raptors at Bucks"
-},
-{
-"id": "sT4lKicXk-U",
-"league": "nhl",
-"source": "NHL",
-"title": "Sharks vs. Wild | NHL Highlights | Nov 6, 2026",
-"published": "2026-11-07T03:49:28Z",
-"teams": [
-"sj",
-"min"
-],
-"game": "Sharks vs. Wild"
-},
-{
-"id": "mQUHy5tn0Qc",
-"league": "nba",
-"source": "NBA",
-"title": "JAZZ at MAVERICKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 6, 2026",
-"published": "2026-11-07T03:48:04Z",
-"teams": [
-"utah",
-"dal"
-],
-"game": "Jazz at Mavericks"
-},
-{
-"id": "pnmF33hLfdM",
-"league": "nhl",
-"source": "NHL",
-"title": "Blue Jackets vs. Sabres | NHL Highlights | Nov 6, 2026",
-"published": "2026-11-07T03:08:40Z",
-"teams": [
-"cbj",
-"buf"
-],
-"game": "Blue Jackets vs. Sabres"
 }
 ]
