@@ -1,6 +1,6 @@
 {
  "sport": "soccer",
- "updated": "2026-11-20T20:14:03+00:00",
+ "updated": "2026-11-21T17:29:32+00:00",
  "teams": [
   {
    "code": "BOU",
@@ -20,7 +20,7 @@
    "competition": "Premier League",
    "division": "Premier League",
    "conference": null,
-   "pattern": "(?<!\\w)(gunners|arsenal)(?!\\w)"
+   "pattern": "(?<!\\w)(arsenal|gunners)(?!\\w)"
   },
   {
    "code": "AVL",
@@ -230,7 +230,7 @@
    "competition": "MLS",
    "division": "MLS",
    "conference": "Eastern Conference",
-   "pattern": "(?<!\\w)(cf\\ montreal|cf\\ montréal)(?!\\w)"
+   "pattern": "(?<!\\w)(cf\\ montréal|cf\\ montreal)(?!\\w)"
   },
   {
    "code": "CLT",
