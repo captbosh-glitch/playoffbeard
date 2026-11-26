@@ -1,5 +1,17 @@
 [
 {
+"id": "6mDrkExeNSY",
+"league": "nfl",
+"source": "NFL",
+"title": "Chicago Bears vs. Detroit Lions Game Highlights | 2026 NFL Season Week 12",
+"published": "2026-11-26T21:44:26Z",
+"teams": [
+"chi",
+"det"
+],
+"game": "Bears vs. Lions"
+},
+{
 "id": "0fVoFWCp0OU",
 "league": "nhl",
 "source": "NHL",
@@ -2441,17 +2453,5 @@
 "phi"
 ],
 "game": "Raptors at 76ers"
-},
-{
-"id": "ffEdLygsEEQ",
-"league": "nhl",
-"source": "NHL",
-"title": "Hurricanes vs. Kraken | Global Series Finland | NHL Highlights | Nov 12, 2026",
-"published": "2026-11-12T20:24:03Z",
-"teams": [
-"car",
-"sea"
-],
-"game": "Hurricanes vs. Kraken"
 }
 ]
