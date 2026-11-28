@@ -1,5 +1,149 @@
 [
 {
+"id": "4U2gqfFoarI",
+"league": "nhl",
+"source": "NHL",
+"title": "Rangers vs. Blackhawks | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-28T01:30:38Z",
+"teams": [
+"nyr",
+"chi"
+],
+"game": "Rangers vs. Blackhawks"
+},
+{
+"id": "TezMVFhgDhE",
+"league": "nhl",
+"source": "NHL",
+"title": "Kings vs. Ducks | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-28T00:52:27Z",
+"teams": [
+"la",
+"anh"
+],
+"game": "Kings vs. Ducks"
+},
+{
+"id": "PLYXPUHYU_E",
+"league": "nhl",
+"source": "NHL",
+"title": "Avalanche vs. Wild | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-28T00:39:37Z",
+"teams": [
+"col",
+"min"
+],
+"game": "Avalanche vs. Wild"
+},
+{
+"id": "kwuqemkDE8E",
+"league": "nhl",
+"source": "NHL",
+"title": "Golden Knights vs. Sharks | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-28T00:34:21Z",
+"teams": [
+"vgk",
+"sj"
+],
+"game": "Golden Knights vs. Sharks"
+},
+{
+"id": "suloysgtMtA",
+"league": "nhl",
+"source": "NHL",
+"title": "Panthers vs. Capitals | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-27T23:09:41Z",
+"teams": [
+"fla",
+"wsh"
+],
+"game": "Panthers vs. Capitals"
+},
+{
+"id": "eQm8YETehog",
+"league": "nhl",
+"source": "NHL",
+"title": "Senators vs. Lightning | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-27T23:07:53Z",
+"teams": [
+"ott",
+"tb"
+],
+"game": "Senators vs. Lightning"
+},
+{
+"id": "zWb0-p9BdmE",
+"league": "nhl",
+"source": "NHL",
+"title": "Canucks vs. Flyers | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-27T23:03:27Z",
+"teams": [
+"van",
+"phi"
+],
+"game": "Canucks vs. Flyers"
+},
+{
+"id": "mkHP3so_kzg",
+"league": "nhl",
+"source": "NHL",
+"title": "Red Wings vs. Blue Jackets | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-27T23:02:03Z",
+"teams": [
+"det",
+"cbj"
+],
+"game": "Red Wings vs. Blue Jackets"
+},
+{
+"id": "L4fZmGM_tCQ",
+"league": "nhl",
+"source": "NHL",
+"title": "Stars vs. Blues | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-27T21:55:32Z",
+"teams": [
+"dal",
+"stl"
+],
+"game": "Stars vs. Blues"
+},
+{
+"id": "IaTWTHfV-a0",
+"league": "nhl",
+"source": "NHL",
+"title": "Mammoth vs. Predators | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-27T21:14:54Z",
+"teams": [
+"uta",
+"nsh"
+],
+"game": "Mammoth vs. Predators"
+},
+{
+"id": "vlFZaZ6oFGE",
+"league": "nhl",
+"source": "NHL",
+"title": "Maple Leafs vs. Bruins | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-27T21:03:04Z",
+"teams": [
+"tor",
+"bos"
+],
+"game": "Maple Leafs vs. Bruins"
+},
+{
+"id": "W7fHF4Isbbo",
+"league": "nhl",
+"source": "NHL",
+"title": "Flames vs. Devils | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-27T20:50:17Z",
+"teams": [
+"cgy",
+"nj"
+],
+"game": "Flames vs. Devils"
+},
+{
 "id": "WDYynoHb2Bs",
 "league": "nfl",
 "source": "NFL",
