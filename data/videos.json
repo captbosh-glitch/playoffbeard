@@ -1,5 +1,113 @@
 [
 {
+"id": "L_lhywuFSXs",
+"league": "nba",
+"source": "NBA",
+"title": "LAKERS at SPURS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 27, 2026",
+"published": "2026-11-28T05:37:34Z",
+"teams": [
+"lal",
+"sa"
+],
+"game": "Lakers at Spurs"
+},
+{
+"id": "xstiIpuJ4Ks",
+"league": "nba",
+"source": "NBA",
+"title": "WARRIORS at TRAIL BLAZERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 27, 2026",
+"published": "2026-11-28T05:32:23Z",
+"teams": [
+"gs",
+"por"
+],
+"game": "Warriors at Trail Blazers"
+},
+{
+"id": "KVmlKZ_Tfs0",
+"league": "nba",
+"source": "NBA",
+"title": "NUGGETS at JAZZ | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 27, 2026",
+"published": "2026-11-28T05:18:20Z",
+"teams": [
+"den",
+"utah"
+],
+"game": "Nuggets at Jazz"
+},
+{
+"id": "4tm1xEoj8wk",
+"league": "nba",
+"source": "NBA",
+"title": "PELICANS at CLIPPERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 27, 2026",
+"published": "2026-11-28T05:12:42Z",
+"teams": [
+"no",
+"lac"
+],
+"game": "Pelicans at Clippers"
+},
+{
+"id": "8hq4Hkr-mIk",
+"league": "nba",
+"source": "NBA",
+"title": "MAVERICKS at SUNS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 27, 2026",
+"published": "2026-11-28T05:04:17Z",
+"teams": [
+"dal",
+"phx"
+],
+"game": "Mavericks at Suns"
+},
+{
+"id": "Z5Jc0Cri6AI",
+"league": "nba",
+"source": "NBA",
+"title": "GRIZZLIES at TIMBERWOLVES | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 27, 2026",
+"published": "2026-11-28T04:17:29Z",
+"teams": [
+"mem",
+"min"
+],
+"game": "Grizzlies at Timberwolves"
+},
+{
+"id": "7iVZ-9QPgGQ",
+"league": "nhl",
+"source": "NHL",
+"title": "Kraken vs. Oilers | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-28T04:16:33Z",
+"teams": [
+"sea",
+"edm"
+],
+"game": "Kraken vs. Oilers"
+},
+{
+"id": "EReiV55lv5s",
+"league": "nhl",
+"source": "NHL",
+"title": "Penguins vs. Sabres | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-28T04:11:09Z",
+"teams": [
+"pit",
+"buf"
+],
+"game": "Penguins vs. Sabres"
+},
+{
+"id": "TyZPH2iLS2s",
+"league": "nhl",
+"source": "NHL",
+"title": "Jets vs. Islanders | NHL Highlights | Nov 27, 2026",
+"published": "2026-11-28T03:19:36Z",
+"teams": [
+"wpg",
+"nyi"
+],
+"game": "Jets vs. Islanders"
+},
+{
 "id": "4U2gqfFoarI",
 "league": "nhl",
 "source": "NHL",
@@ -2333,125 +2441,5 @@
 "no"
 ],
 "game": "Nuggets at Pelicans"
-},
-{
-"id": "xohvOmDZ_wg",
-"league": "nba",
-"source": "NBA",
-"title": "THUNDER AT CLIPPERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
-"published": "2026-11-14T06:22:12Z",
-"teams": [
-"okc",
-"lac"
-],
-"game": "Thunder at Clippers"
-},
-{
-"id": "O-N_JJf7g4I",
-"league": "nhl",
-"source": "NHL",
-"title": "Predators vs. Golden Knights | NHL Highlights | Nov 13, 2026",
-"published": "2026-11-14T06:12:27Z",
-"teams": [
-"nsh",
-"vgk"
-],
-"game": "Predators vs. Golden Knights"
-},
-{
-"id": "s8XSacjQ1r0",
-"league": "nba",
-"source": "NBA",
-"title": "TRAIL BLAZERS AT KINGS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
-"published": "2026-11-14T06:09:01Z",
-"teams": [
-"por",
-"sac"
-],
-"game": "Trail Blazers at Kings"
-},
-{
-"id": "0cL2tTuLJJk",
-"league": "nba",
-"source": "NBA",
-"title": "WARRIORS AT SPURS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
-"published": "2026-11-14T05:23:15Z",
-"teams": [
-"gs",
-"sa"
-],
-"game": "Warriors at Spurs"
-},
-{
-"id": "h2fEzlxWIRA",
-"league": "nhl",
-"source": "NHL",
-"title": "Rangers vs. Canucks | NHL Highlights | Nov 13, 2026",
-"published": "2026-11-14T04:46:38Z",
-"teams": [
-"nyr",
-"van"
-],
-"game": "Rangers vs. Canucks"
-},
-{
-"id": "BxIKfpJRZIo",
-"league": "nba",
-"source": "NBA",
-"title": "JAZZ AT ROCKETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
-"published": "2026-11-14T04:46:30Z",
-"teams": [
-"utah",
-"hou"
-],
-"game": "Jazz at Rockets"
-},
-{
-"id": "0AKvkuMffG4",
-"league": "nba",
-"source": "NBA",
-"title": "HAWKS AT BULLS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
-"published": "2026-11-14T04:12:09Z",
-"teams": [
-"atl",
-"chi"
-],
-"game": "Hawks at Bulls"
-},
-{
-"id": "pW8Zq151Q_U",
-"league": "nba",
-"source": "NBA",
-"title": "GRIZZLIES AT PELICANS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
-"published": "2026-11-14T04:06:47Z",
-"teams": [
-"mem",
-"no"
-],
-"game": "Grizzlies at Pelicans"
-},
-{
-"id": "UM4WvtmbJGM",
-"league": "nba",
-"source": "NBA",
-"title": "CAVALIERS AT HEAT | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
-"published": "2026-11-14T04:00:52Z",
-"teams": [
-"cle",
-"mia"
-],
-"game": "Cavaliers at Heat"
-},
-{
-"id": "p1ZbMS1_Aww",
-"league": "nba",
-"source": "NBA",
-"title": "KNICKS AT PACERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 13, 2026",
-"published": "2026-11-14T03:25:39Z",
-"teams": [
-"ny",
-"ind"
-],
-"game": "Knicks at Pacers"
 }
 ]
